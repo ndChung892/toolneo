@@ -309,6 +309,12 @@ public partial class MainWindow : Window
         for (int i = 0; i < 8 && dir != null; i++)
         {
             if (File.Exists(Path.Combine(dir, "app", "backend.py"))) return dir;
+            // The shipped build lives at <repo>/VptAvalonia, one level above src/,
+            // so walking up only finds "src/app/backend.py" — not "app/backend.py"
+            // as it did when the exe sat in src/avalonia_ui/VptAvalonia/bin/Release.
+            // Without this probe the backend never starts and every list renders empty.
+            var src = Path.Combine(dir, "src");
+            if (File.Exists(Path.Combine(src, "app", "backend.py"))) return src;
             dir = Path.GetDirectoryName(dir.TrimEnd(Path.DirectorySeparatorChar));
         }
         return AppContext.BaseDirectory;

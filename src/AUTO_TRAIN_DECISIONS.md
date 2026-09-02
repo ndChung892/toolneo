@@ -9683,3 +9683,60 @@ từ panel mới. Giờ `quest_memory` có **5 điểm** biết lấy panel sạ
 
 `py_compile` sạch, mojibake 0, suite **89/89 PASS**. Hai bản vá chưa nghiệm thu
 live.
+
+## 1300. Tai cau truc repo toolneo + sua FindProjectRoot cho vi tri exe moi (2026-09-03)
+
+**Da lam gi**
+
+- Tai cau truc thu muc du an de push len GitHub (`ndChung892/toolneo`). Cay cu
+  co hai tang lot ten dai (`New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\`)
+  lam path vuot 260 ky tu. Bo hai tang do; `dev_supervisor_target_a_v2_20260814`
+  gio la `<repo>\src`. Max path 260+ -> 215.
+- Thanh pham Release duoc dua ra `<repo>\VptAvalonia\` (goc repo) cho de thay.
+- `MainWindow.axaml.cs` — `FindProjectRoot()`: them nhanh do `src/app/backend.py`
+  ben canh nhanh `app/backend.py` co san.
+
+**Da thu gi ma hong, va vi sao** — QUAN TRONG
+
+- **Chuyen exe ra `<repo>\VptAvalonia\` ma khong sua `FindProjectRoot()` => list
+  account rong hoan toan.** Ham nay di nguoc toi da 8 cap tu `AppContext.BaseDirectory`
+  tim thu muc chua `app\backend.py`:
+  - Vi tri cu `src\avalonia_ui\VptAvalonia\bin\Release\net8.0` -> len 4 cap gap
+    `src\` co `app\backend.py`. OK.
+  - Vi tri moi `<repo>\VptAvalonia` -> len la `<repo>`, `toolneo_workspace`,
+    `Desktop`... khong cai nao co `app\backend.py`. Ham roi vao `return
+    AppContext.BaseDirectory`, backend chay voi WorkingDirectory sai, `python -m
+    app.backend` chet ngay ("No module named app"). UI van mo binh thuong nhung
+    MOI danh sach deu rong.
+  - Trieu chung de chan doan nham thanh "mat file config". Configs KHONG mat:
+    `src\configs\accounts.json` con nguyen 7 account.
+- Bai hoc: bat ky lan nao doi vi tri exe deu phai kiem lai `FindProjectRoot()`.
+  Do sau cua exe so voi project root la mot rang buoc ngam, khong duoc khai bao
+  o dau ca.
+
+**Kiem chung**
+
+- `dotnet build -c Release` — 0 error.
+- Chay `<repo>\VptAvalonia\VptAvalonia.exe`: python con PID sinh ra dung
+  (`python -m app.backend`, PPID = app), song qua 12s.
+- Anh chup: "Danh sach tai khoan da luu" hien CB / pepsi / TSk / hshehe / luvy
+  (+ dyhihi, tshihi khi cuon); nhat ky bao "Da ket noi backend."
+
+**Vi tri file tren dia (doi tu 2026-09-03)**
+
+| truoc | sau |
+|---|---|
+| `Desktop\New folder\fbh_v2_ttt_fixed-...\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\` | `Desktop\toolneo_workspace\toolneo\src\` |
+| `...\avalonia_ui\VptAvalonia\bin\Release\net8.0\` | `Desktop\toolneo_workspace\toolneo\VptAvalonia\` |
+
+Duong dan tuyet doi ghi o dau `CLAUDE.md` da lac hau — xem muc nay thay vi tin
+dong do.
+
+Anh screenshot cua cac phien chay cu (5076 file, 3.87 GB) da chuyen sang
+`Desktop\toolneo_workspace\archive\evidence\logs\` (giu nguyen cau truc thu muc,
+copy nguoc lai duoc). Log dang text (.log/.json/.jsonl) van nam trong repo.
+
+**Viec tiep theo**
+
+1. Sua dong duong dan tuyet doi o dau `src\CLAUDE.md` cho khop vi tri moi.
+2. Xoa `Desktop\toolneo` (3 file DLL thua) sau khi tat RisuProxyManager.exe.

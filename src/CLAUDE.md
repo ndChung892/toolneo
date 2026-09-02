@@ -5,8 +5,15 @@
 > là đọc `CLAUDE.md` rồi `AUTO_TRAIN_DECISIONS.md`. Không đọc thì không được đề
 > xuất, không được sửa, không được thao tác lên client.
 >
-> Đường dẫn tuyệt đối:
-> `C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\`
+> Đường dẫn tuyệt đối (đổi 2026-09-03, xem sổ chốt mục 1300 — đường dẫn cũ
+> `Desktop\New folder\fbh_v2_ttt_fixed-...\dev_supervisor_target_a_v2_20260814\`
+> không còn tồn tại):
+> `C:\Users\Administrator\Desktop\toolneo_workspace\toolneo\src\`
+>
+> Thư mục này giờ là `src/` của repo git `ndChung892/toolneo`. Thành phẩm đã
+> build nằm ở `..\VptAvalonia\VptAvalonia.exe` (gốc repo, không phải trong
+> `bin/Release` nữa). Ảnh screenshot các phiên chạy cũ nằm ngoài repo tại
+> `Desktop\toolneo_workspace\archive\evidence\logs\`.
 >
 > Khi bắt đầu task/chat mới cho cuộc chuyển đổi ổn định toàn tool, đọc
 > `START_HERE_NEW_CHAT.md` ngay sau file này. Đây là bản bàn giao tổng hợp mục
