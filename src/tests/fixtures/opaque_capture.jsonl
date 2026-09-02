@@ -1,0 +1,2 @@
+{"account_id":"acc_1","token":{"pid":100,"process_start":200.0,"session_generation":1,"map_generation":1},"direction":"client_to_server","payload_hex":"01020304","captured_at":300.0}
+{"account_id":"acc_1","token":{"pid":100,"process_start":200.0,"session_generation":1,"map_generation":1},"direction":"server_to_client","payload_hex":"aabbcc","captured_at":300.1}

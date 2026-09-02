@@ -1,0 +1,2988 @@
+{
+ "source": "do truc tiep tren client CB",
+ "maps": {
+  "Lê Dương Bắc": {
+   "map_id": 15,
+   "entry": [
+    1360,
+    656
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1050.0,
+     "y": 250.0,
+     "base": 196994496,
+     "runtime_id": 12890
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 1749.0,
+     "y": 1361.0,
+     "base": 196995808,
+     "runtime_id": 573
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1746.0,
+     "y": 602.0,
+     "base": 199882176,
+     "runtime_id": 61
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060100000010,
+     "resource": 2060090100010,
+     "x": 2575.0,
+     "y": 1813.0,
+     "base": 584428912,
+     "runtime_id": 478
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1406.0,
+     "y": 636.0,
+     "base": 608174240,
+     "runtime_id": 576
+    }
+   ]
+  },
+  "Xuất Vân Thôn": {
+   "map_id": 1,
+   "entry": [
+    1000,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1194.0,
+     "y": 532.0,
+     "base": 182664560,
+     "runtime_id": 455
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1406.0,
+     "y": 636.0,
+     "base": 608174240,
+     "runtime_id": 576
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 990.0,
+     "y": 540.0,
+     "base": 652016352,
+     "runtime_id": 561
+    }
+   ]
+  },
+  "Đông Xuất Vân": {
+   "map_id": 2,
+   "entry": [
+    1950,
+    922
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 820.0,
+     "y": 1160.0,
+     "base": 182661936,
+     "runtime_id": 11541
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000026,
+     "resource": 2060090000026,
+     "x": 289.0,
+     "y": 984.0,
+     "base": 182663904,
+     "runtime_id": 433
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1406.0,
+     "y": 636.0,
+     "base": 608174240,
+     "runtime_id": 576
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000016,
+     "resource": 2060090100014,
+     "x": 2307.0,
+     "y": 421.0,
+     "base": 610364784,
+     "runtime_id": 473
+    }
+   ]
+  },
+  "Vân Đài": {
+   "map_id": 3,
+   "entry": [
+    1000,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1318.0,
+     "y": 1132.0,
+     "base": 182664560,
+     "runtime_id": 430
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1600.0,
+     "y": 900.0,
+     "base": 576989920,
+     "runtime_id": 11376
+    }
+   ]
+  },
+  "Thiện Tĩnh Địa": {
+   "map_id": 4,
+   "entry": [
+    1469,
+    826
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100019,
+     "x": 1083.0,
+     "y": 501.0,
+     "base": 182661936,
+     "runtime_id": 708
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1050.0,
+     "y": 450.0,
+     "base": 608174240,
+     "runtime_id": 14705
+    }
+   ]
+  },
+  "Lê Dương Thôn": {
+   "map_id": 5,
+   "entry": [
+    885,
+    753
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000017,
+     "resource": 2060090100017,
+     "x": 127.0,
+     "y": 1355.0,
+     "base": 182661280,
+     "runtime_id": 822
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100019,
+     "x": 1083.0,
+     "y": 501.0,
+     "base": 182661936,
+     "runtime_id": 708
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 214.0,
+     "y": 1012.0,
+     "base": 182664560,
+     "runtime_id": 454
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000025,
+     "resource": 2060090100025,
+     "x": 659.0,
+     "y": 156.0,
+     "base": 199880864,
+     "runtime_id": 636
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 638.0,
+     "y": 1178.0,
+     "base": 199882832,
+     "runtime_id": 622
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 500.0,
+     "y": 1400.0,
+     "base": 576990576,
+     "runtime_id": 17640
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1050.0,
+     "y": 450.0,
+     "base": 608174240,
+     "runtime_id": 14705
+    }
+   ]
+  },
+  "Lê Dương Nam": {
+   "map_id": 6,
+   "entry": [
+    1800,
+    800
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000017,
+     "resource": 2060090100017,
+     "x": 127.0,
+     "y": 1355.0,
+     "base": 182661280,
+     "runtime_id": 822
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 214.0,
+     "y": 1012.0,
+     "base": 182664560,
+     "runtime_id": 454
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000035,
+     "resource": 2060100000035,
+     "x": 1447.0,
+     "y": 1669.0,
+     "base": 196993184,
+     "runtime_id": 1638
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 2154.0,
+     "y": 464.0,
+     "base": 196994496,
+     "runtime_id": 287
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060100000011,
+     "resource": 2060090100011,
+     "x": 205.0,
+     "y": 212.0,
+     "base": 196996464,
+     "runtime_id": 667
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000025,
+     "resource": 2060090100025,
+     "x": 659.0,
+     "y": 156.0,
+     "base": 199880864,
+     "runtime_id": 636
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 638.0,
+     "y": 1178.0,
+     "base": 199882832,
+     "runtime_id": 622
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 500.0,
+     "y": 1400.0,
+     "base": 576990576,
+     "runtime_id": 17640
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 876.0,
+     "y": 577.0,
+     "base": 719812688,
+     "runtime_id": 187
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1500.0,
+     "y": 200.0,
+     "base": 719813344,
+     "runtime_id": 12190
+    }
+   ]
+  },
+  "Quân Cổ Đạo": {
+   "map_id": 7,
+   "entry": [
+    721,
+    486
+   ],
+   "nodes": []
+  },
+  "Tháp Khắc Nguyên": {
+   "map_id": 8,
+   "entry": [
+    850,
+    900
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000024,
+     "resource": 2060090100024,
+     "x": 1152.0,
+     "y": 1177.0,
+     "base": 196993184,
+     "runtime_id": 718
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000025,
+     "resource": 2060090100025,
+     "x": 1442.0,
+     "y": 1109.0,
+     "base": 196994496,
+     "runtime_id": 629
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000027,
+     "resource": 2060090000027,
+     "x": 1136.0,
+     "y": 515.0,
+     "base": 196995152,
+     "runtime_id": 452
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000033,
+     "resource": 2060090000033,
+     "x": 247.0,
+     "y": 1824.0,
+     "base": 199882176,
+     "runtime_id": 602
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000021,
+     "resource": 2060090000021,
+     "x": 430.0,
+     "y": 860.0,
+     "base": 708235424,
+     "runtime_id": 637
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1300.0,
+     "y": 800.0,
+     "base": 708236736,
+     "runtime_id": 13444
+    }
+   ]
+  },
+  "Đông Huyền Thành": {
+   "map_id": 9,
+   "entry": [
+    2023,
+    1338
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000028,
+     "resource": 2060090000028,
+     "x": 2344.0,
+     "y": 1350.0,
+     "base": 199882832,
+     "runtime_id": 3
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1315.0,
+     "y": 1073.0,
+     "base": 215056544,
+     "runtime_id": 47
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 990.0,
+     "y": 1920.0,
+     "base": 215058512,
+     "runtime_id": 1893
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 987.0,
+     "y": 961.0,
+     "base": 353075360,
+     "runtime_id": 2351
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000020,
+     "resource": 2060090000020,
+     "x": 2510.0,
+     "y": 1808.0,
+     "base": 353076672,
+     "runtime_id": 416
+    },
+    {
+     "kind": "go",
+     "level": 0,
+     "name": "Gỗ",
+     "type": 3060100001085,
+     "resource": 2060100100065,
+     "x": 3181.0,
+     "y": 555.0,
+     "base": 468169520,
+     "runtime_id": 3001
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000033,
+     "resource": 2060090000033,
+     "x": 2750.0,
+     "y": 1030.0,
+     "base": 468170832,
+     "runtime_id": 3005
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 2590.0,
+     "y": 1100.0,
+     "base": 468172144,
+     "runtime_id": 3007
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000023,
+     "resource": 2060090000023,
+     "x": 409.0,
+     "y": 1166.0,
+     "base": 507671344,
+     "runtime_id": 404
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 3659.0,
+     "y": 2200.0,
+     "base": 507672000,
+     "runtime_id": 405
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1156.0,
+     "y": 1017.0,
+     "base": 507673312,
+     "runtime_id": 2071
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000011,
+     "resource": 2060090000011,
+     "x": 2218.0,
+     "y": 1538.0,
+     "base": 528971200,
+     "runtime_id": 299
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 1360.0,
+     "y": 1350.0,
+     "base": 528972512,
+     "runtime_id": 1901
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000018,
+     "resource": 2060090000018,
+     "x": 2232.0,
+     "y": 890.0,
+     "base": 602112816,
+     "runtime_id": 377
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000022,
+     "resource": 2060090000022,
+     "x": 3137.0,
+     "y": 2566.0,
+     "base": 602114128,
+     "runtime_id": 376
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1700.0,
+     "y": 178.0,
+     "base": 608174240,
+     "runtime_id": 3016
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1527.0,
+     "y": 1201.0,
+     "base": 608177520,
+     "runtime_id": 1799
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1569.0,
+     "y": 421.0,
+     "base": 959004832,
+     "runtime_id": 211
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1970.0,
+     "y": 1600.0,
+     "base": 959005488,
+     "runtime_id": 3028
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 3150.0,
+     "y": 820.0,
+     "base": 959006144,
+     "runtime_id": 277
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 3690.0,
+     "y": 1351.0,
+     "base": 959008112,
+     "runtime_id": 410
+    }
+   ]
+  },
+  "Tinh Linh Thành": {
+   "map_id": 10,
+   "entry": [
+    2000,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1380.0,
+     "y": 1260.0,
+     "base": 196993184,
+     "runtime_id": 2571
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 2247.0,
+     "y": 1914.0,
+     "base": 196995808,
+     "runtime_id": 424
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 903.0,
+     "y": 837.0,
+     "base": 196996464,
+     "runtime_id": 295
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000032,
+     "resource": 2060090100032,
+     "x": 611.0,
+     "y": 1495.0,
+     "base": 203648368,
+     "runtime_id": 422
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 1020.0,
+     "y": 1500.0,
+     "base": 708236736,
+     "runtime_id": 261
+    }
+   ]
+  },
+  "Linh Vũ Tộc": {
+   "map_id": 11,
+   "entry": [
+    1000,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1380.0,
+     "y": 1260.0,
+     "base": 196993184,
+     "runtime_id": 2571
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000011,
+     "resource": 2060090000011,
+     "x": 1469.0,
+     "y": 543.0,
+     "base": 602112816,
+     "runtime_id": 311
+    }
+   ]
+  },
+  "Bàn Địa Tộc": {
+   "map_id": 12,
+   "entry": [
+    850,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000008,
+     "resource": 2060090000024,
+     "x": 331.0,
+     "y": 451.0,
+     "base": 196994496,
+     "runtime_id": 310
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000008,
+     "resource": 2050070000011,
+     "x": 1630.0,
+     "y": 430.0,
+     "base": 533228912,
+     "runtime_id": 3018
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000011,
+     "resource": 2060090000011,
+     "x": 1469.0,
+     "y": 543.0,
+     "base": 602112816,
+     "runtime_id": 311
+    }
+   ]
+  },
+  "Liêu Vân Tộc": {
+   "map_id": 13,
+   "entry": [
+    1000,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090001133,
+     "resource": 2050070000016,
+     "x": 1800.0,
+     "y": 600.0,
+     "base": 533227600,
+     "runtime_id": 3027
+    }
+   ]
+  },
+  "Hư Không Mạc": {
+   "map_id": 14,
+   "entry": [
+    2057,
+    1309
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 3659.0,
+     "y": 1185.0,
+     "base": 196995152,
+     "runtime_id": 645
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000028,
+     "resource": 2060090100028,
+     "x": 2922.0,
+     "y": 2337.0,
+     "base": 203648368,
+     "runtime_id": 445
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 199.0,
+     "y": 1933.0,
+     "base": 533228912,
+     "runtime_id": 823
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 2200.0,
+     "y": 900.0,
+     "base": 576989920,
+     "runtime_id": 11776
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000030,
+     "resource": 2060090100030,
+     "x": 1030.0,
+     "y": 675.0,
+     "base": 576990576,
+     "runtime_id": 1
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 2607.0,
+     "y": 2344.0,
+     "base": 602114128,
+     "runtime_id": 189
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 387.0,
+     "y": 492.0,
+     "base": 608174240,
+     "runtime_id": 188
+    }
+   ]
+  },
+  "Ngọc Phong Lâm": {
+   "map_id": 16,
+   "entry": [
+    1600,
+    500
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 3659.0,
+     "y": 1185.0,
+     "base": 196995152,
+     "runtime_id": 645
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 1867.0,
+     "y": 1213.0,
+     "base": 199882176,
+     "runtime_id": 100
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000028,
+     "resource": 2060090100028,
+     "x": 2922.0,
+     "y": 2337.0,
+     "base": 203648368,
+     "runtime_id": 445
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 199.0,
+     "y": 1933.0,
+     "base": 533228912,
+     "runtime_id": 823
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 2200.0,
+     "y": 900.0,
+     "base": 576989920,
+     "runtime_id": 11776
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000030,
+     "resource": 2060090100030,
+     "x": 1030.0,
+     "y": 675.0,
+     "base": 576990576,
+     "runtime_id": 1
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 1411.0,
+     "y": 1413.0,
+     "base": 584428912,
+     "runtime_id": 668
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 1467.0,
+     "y": 649.0,
+     "base": 602112160,
+     "runtime_id": 662
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000025,
+     "resource": 2060090100025,
+     "x": 1812.0,
+     "y": 358.0,
+     "base": 602112816,
+     "runtime_id": 537
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 2607.0,
+     "y": 2344.0,
+     "base": 602114128,
+     "runtime_id": 189
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 387.0,
+     "y": 492.0,
+     "base": 608174240,
+     "runtime_id": 188
+    }
+   ]
+  },
+  "Lê Dương Đảo": {
+   "map_id": 17,
+   "entry": [
+    2231,
+    453
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 2794.0,
+     "y": 510.0,
+     "base": 196994496,
+     "runtime_id": 487
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060100000011,
+     "resource": 2060090100013,
+     "x": 2143.0,
+     "y": 1370.0,
+     "base": 533228256,
+     "runtime_id": 488
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000032,
+     "resource": 2060090000032,
+     "x": 487.0,
+     "y": 997.0,
+     "base": 588253920,
+     "runtime_id": 468
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1050.0,
+     "y": 600.0,
+     "base": 588254576,
+     "runtime_id": 14931
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000026,
+     "resource": 2060090000026,
+     "x": 2772.0,
+     "y": 217.0,
+     "base": 608174240,
+     "runtime_id": 494
+    }
+   ]
+  },
+  "Kỳ Thạch Địa": {
+   "map_id": 18,
+   "entry": [
+    1351,
+    1013
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Ngọc",
+     "type": 3060100001113,
+     "resource": 2060100001113,
+     "x": 2090.0,
+     "y": 347.0,
+     "base": 199882832,
+     "runtime_id": 1645
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060090000091,
+     "x": 900.0,
+     "y": 1700.0,
+     "base": 533226944,
+     "runtime_id": 17724
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1399.0,
+     "y": 479.0,
+     "base": 602112160,
+     "runtime_id": 9
+    }
+   ]
+  },
+  "Linh Lan": {
+   "map_id": 19,
+   "entry": [
+    900,
+    300
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000018,
+     "resource": 2060090000018,
+     "x": 1075.0,
+     "y": 1388.0,
+     "base": 196993184,
+     "runtime_id": 217
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1440.0,
+     "y": 1320.0,
+     "base": 576990576,
+     "runtime_id": 10355
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000035,
+     "resource": 2060100000035,
+     "x": 1818.0,
+     "y": 1333.0,
+     "base": 608177520,
+     "runtime_id": 1548
+    }
+   ]
+  },
+  "Thánh Ước Địa": {
+   "map_id": 20,
+   "entry": [
+    600,
+    1200
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 114.0,
+     "y": 705.0,
+     "base": 199880864,
+     "runtime_id": 1129
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060090100088,
+     "x": 1920.0,
+     "y": 502.0,
+     "base": 199882176,
+     "runtime_id": 1127
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1600.0,
+     "y": 1600.0,
+     "base": 533227600,
+     "runtime_id": 15597
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000016,
+     "resource": 2060090000016,
+     "x": 787.0,
+     "y": 179.0,
+     "base": 584428256,
+     "runtime_id": 945
+    }
+   ]
+  },
+  "Chỉ Phong Cốc": {
+   "map_id": 21,
+   "entry": [
+    1500,
+    800
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1399.0,
+     "y": 479.0,
+     "base": 196995808,
+     "runtime_id": 117
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060090000093,
+     "x": 1600.0,
+     "y": 300.0,
+     "base": 196996464,
+     "runtime_id": 14772
+    }
+   ]
+  },
+  "Tuyết Lâm": {
+   "map_id": 22,
+   "entry": [
+    1867,
+    728
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000028,
+     "resource": 2060090000028,
+     "x": 2608.0,
+     "y": 1696.0,
+     "base": 584428912,
+     "runtime_id": 120
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1050.0,
+     "y": 300.0,
+     "base": 608177520,
+     "runtime_id": 11754
+    }
+   ]
+  },
+  "Phục Ma Cốc": {
+   "map_id": 23,
+   "entry": [
+    1440,
+    970
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060090000093,
+     "x": 500.0,
+     "y": 500.0,
+     "base": 196995152,
+     "runtime_id": 16475
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 876.0,
+     "y": 577.0,
+     "base": 203648368,
+     "runtime_id": 116
+    }
+   ]
+  },
+  "Hộ Chi Địa": {
+   "map_id": 24,
+   "entry": [
+    1309,
+    1039
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000049,
+     "resource": 2060090000019,
+     "x": 2160.0,
+     "y": 324.0,
+     "base": 199882832,
+     "runtime_id": 893
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 800.0,
+     "y": 1450.0,
+     "base": 608174240,
+     "runtime_id": 14472
+    }
+   ]
+  },
+  "Lưu Hỏa Tộc": {
+   "map_id": 25,
+   "entry": [
+    1690,
+    1110
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000049,
+     "resource": 2060090000019,
+     "x": 2160.0,
+     "y": 324.0,
+     "base": 199882832,
+     "runtime_id": 893
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 800.0,
+     "y": 1450.0,
+     "base": 608174240,
+     "runtime_id": 14472
+    }
+   ]
+  },
+  "Quang Bình Nguyên": {
+   "map_id": 26,
+   "entry": [
+    1300,
+    1500
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000024,
+     "resource": 2060090100024,
+     "x": 1150.0,
+     "y": 1792.0,
+     "base": 602112816,
+     "runtime_id": 631
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 493.0,
+     "y": 682.0,
+     "base": 608177520,
+     "runtime_id": 470
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1600.0,
+     "y": 1850.0,
+     "base": 841314464,
+     "runtime_id": 11136
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 2247.0,
+     "y": 1696.0,
+     "base": 841315120,
+     "runtime_id": 450
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000030,
+     "resource": 2060090100030,
+     "x": 1034.0,
+     "y": 975.0,
+     "base": 841315776,
+     "runtime_id": 451
+    }
+   ]
+  },
+  "Trầm Thụy Lâm": {
+   "map_id": 27,
+   "entry": [
+    972,
+    524
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1850.0,
+     "y": 1550.0,
+     "base": 196994496,
+     "runtime_id": 11943
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000035,
+     "resource": 2060090100035,
+     "x": 2492.0,
+     "y": 770.0,
+     "base": 196995152,
+     "runtime_id": 614
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 1075.0,
+     "y": 303.0,
+     "base": 203648368,
+     "runtime_id": 609
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100018,
+     "x": 482.0,
+     "y": 1246.0,
+     "base": 576990576,
+     "runtime_id": 449
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000028,
+     "resource": 2060090000028,
+     "x": 2609.0,
+     "y": 1388.0,
+     "base": 584428256,
+     "runtime_id": 593
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000016,
+     "resource": 2060090100016,
+     "x": 1074.0,
+     "y": 1693.0,
+     "base": 584428912,
+     "runtime_id": 717
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 2001.0,
+     "y": 1121.0,
+     "base": 664666928,
+     "runtime_id": 403
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000033,
+     "resource": 2060090100033,
+     "x": 1077.0,
+     "y": 1695.0,
+     "base": 664669552,
+     "runtime_id": 715
+    }
+   ]
+  },
+  "Vân Lộc Sơn": {
+   "map_id": 28,
+   "entry": [
+    900,
+    1282
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060090000088,
+     "x": 2450.0,
+     "y": 750.0,
+     "base": 199882176,
+     "runtime_id": 14409
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 876.0,
+     "y": 577.0,
+     "base": 199882832,
+     "runtime_id": 680
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000021,
+     "resource": 2060090000021,
+     "x": 905.0,
+     "y": 132.0,
+     "base": 554361648,
+     "runtime_id": 670
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 1267390017,
+     "resource": 20,
+     "x": 96.8,
+     "y": 404469096.0,
+     "base": 590430088,
+     "runtime_id": 1158079874
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000025,
+     "resource": 2060090100025,
+     "x": 1522.0,
+     "y": 458.0,
+     "base": 602112816,
+     "runtime_id": 1220
+    }
+   ]
+  },
+  "Mê Quang Tự": {
+   "map_id": 29,
+   "entry": [
+    1126,
+    760
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1900.0,
+     "y": 850.0,
+     "base": 196994496,
+     "runtime_id": 14423
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1502.0,
+     "y": 564.0,
+     "base": 841317088,
+     "runtime_id": 946
+    }
+   ]
+  },
+  "Quyến Cố Thành": {
+   "map_id": 30,
+   "entry": [
+    800,
+    1400
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1558.0,
+     "y": 897.0,
+     "base": 199881520,
+     "runtime_id": 936
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000008,
+     "resource": 2060090000024,
+     "x": 984.0,
+     "y": 1006.0,
+     "base": 554360992,
+     "runtime_id": 940
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1490.0,
+     "y": 636.0,
+     "base": 554361648,
+     "runtime_id": 937
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 735.0,
+     "y": 1382.0,
+     "base": 623626976,
+     "runtime_id": 1522
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1842.0,
+     "y": 789.0,
+     "base": 841316432,
+     "runtime_id": 938
+    }
+   ]
+  },
+  "Tiên Lạp Thành": {
+   "map_id": 31,
+   "entry": [
+    3000,
+    1800
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000008,
+     "resource": 2060090000024,
+     "x": 984.0,
+     "y": 1006.0,
+     "base": 554360992,
+     "runtime_id": 940
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000022,
+     "resource": 2060090000022,
+     "x": 914.0,
+     "y": 508.0,
+     "base": 602112160,
+     "runtime_id": 465
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 735.0,
+     "y": 1382.0,
+     "base": 623626976,
+     "runtime_id": 1522
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000018,
+     "resource": 2060090000018,
+     "x": 4042.0,
+     "y": 647.0,
+     "base": 730543552,
+     "runtime_id": 604
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 1091.0,
+     "y": 916.0,
+     "base": 789541024,
+     "runtime_id": 519
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 3665.0,
+     "y": 1076.0,
+     "base": 789542336,
+     "runtime_id": 498
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 3535.0,
+     "y": 1801.0,
+     "base": 789807920,
+     "runtime_id": 446
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000011,
+     "resource": 2060090000011,
+     "x": 2352.0,
+     "y": 2349.0,
+     "base": 841317088,
+     "runtime_id": 466
+    }
+   ]
+  },
+  "Thiên Khung Tộc": {
+   "map_id": 32,
+   "entry": [
+    500,
+    900
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000022,
+     "resource": 2060090000022,
+     "x": 914.0,
+     "y": 508.0,
+     "base": 602112160,
+     "runtime_id": 465
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000017,
+     "resource": 2060090000017,
+     "x": 1637.0,
+     "y": 333.0,
+     "base": 608174240,
+     "runtime_id": 489
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000018,
+     "resource": 2060090000018,
+     "x": 4042.0,
+     "y": 647.0,
+     "base": 730543552,
+     "runtime_id": 604
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 1091.0,
+     "y": 916.0,
+     "base": 789541024,
+     "runtime_id": 519
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 3665.0,
+     "y": 1076.0,
+     "base": 789542336,
+     "runtime_id": 498
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 3535.0,
+     "y": 1801.0,
+     "base": 789807920,
+     "runtime_id": 446
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060090000011,
+     "resource": 2060090000011,
+     "x": 2352.0,
+     "y": 2349.0,
+     "base": 841317088,
+     "runtime_id": 466
+    }
+   ]
+  },
+  "Lạp Tuyết Địa": {
+   "map_id": 33,
+   "entry": [
+    1300,
+    900
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 2700.0,
+     "y": 1050.0,
+     "base": 196995152,
+     "runtime_id": 17913
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100018,
+     "x": 1940.0,
+     "y": 1429.0,
+     "base": 554360992,
+     "runtime_id": 483
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100018,
+     "x": 461.0,
+     "y": 1445.0,
+     "base": 554362304,
+     "runtime_id": 482
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000021,
+     "resource": 2060090100021,
+     "x": 2657.0,
+     "y": 1630.0,
+     "base": 554363616,
+     "runtime_id": 484
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1163.0,
+     "y": 289.0,
+     "base": 602112160,
+     "runtime_id": 582
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 0,
+     "resource": 591685034,
+     "x": 1607508142.0,
+     "y": 591685034.0,
+     "base": 700202912,
+     "runtime_id": 2040560736
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000033,
+     "resource": 2060090100033,
+     "x": 695.0,
+     "y": 1852.0,
+     "base": 841315776,
+     "runtime_id": 713
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 902.0,
+     "y": 1045.0,
+     "base": 841316432,
+     "runtime_id": 583
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100019,
+     "x": 1495.0,
+     "y": 300.0,
+     "base": 841317088,
+     "runtime_id": 486
+    }
+   ]
+  },
+  "Anh Vũ Cảnh": {
+   "map_id": 34,
+   "entry": [
+    1150,
+    1000
+   ],
+   "nodes": [
+    {
+     "kind": "go",
+     "level": 0,
+     "name": "Gỗ Tốt",
+     "type": 3060090000115,
+     "resource": 2060090000115,
+     "x": 1487.0,
+     "y": 1146.0,
+     "base": 196994496,
+     "runtime_id": 387
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000032,
+     "resource": 2060090100032,
+     "x": 1318.0,
+     "y": 756.0,
+     "base": 196996464,
+     "runtime_id": 512
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000032,
+     "resource": 2060090100032,
+     "x": 2535.0,
+     "y": 383.0,
+     "base": 199880864,
+     "runtime_id": 719
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000020,
+     "resource": 2060090100020,
+     "x": 2868.0,
+     "y": 665.0,
+     "base": 199882176,
+     "runtime_id": 716
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1550.0,
+     "y": 160.0,
+     "base": 584428256,
+     "runtime_id": 16163
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000031,
+     "resource": 2060090000031,
+     "x": 2632.0,
+     "y": 1175.0,
+     "base": 608174240,
+     "runtime_id": 617
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 2362.0,
+     "y": 846.0,
+     "base": 784951376,
+     "runtime_id": 605
+    }
+   ]
+  },
+  "Băng Tuyết Nguyên": {
+   "map_id": 35,
+   "entry": [
+    1974,
+    297
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1529.0,
+     "y": 1238.0,
+     "base": 196995152,
+     "runtime_id": 675
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060100001086,
+     "resource": 2060090100086,
+     "x": 52.0,
+     "y": 1029.0,
+     "base": 554362960,
+     "runtime_id": 827
+    },
+    {
+     "kind": "go",
+     "level": 0,
+     "name": "Gỗ",
+     "type": 3060100001085,
+     "resource": 2060090100085,
+     "x": 1598.0,
+     "y": 1546.0,
+     "base": 554363616,
+     "runtime_id": 665
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1900.0,
+     "y": 1300.0,
+     "base": 602112160,
+     "runtime_id": 14056
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000028,
+     "resource": 2060090000028,
+     "x": 915.0,
+     "y": 745.0,
+     "base": 841315120,
+     "runtime_id": 663
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001111,
+     "resource": 2060100001111,
+     "x": 35.0,
+     "y": 1480.0,
+     "base": 841317088,
+     "runtime_id": 1641
+    }
+   ]
+  },
+  "Thần Di Cảnh": {
+   "map_id": 36,
+   "entry": [
+    1000,
+    160
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 400.0,
+     "y": 1100.0,
+     "base": 196996464,
+     "runtime_id": 15364
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060100001109,
+     "resource": 2060100001109,
+     "x": 2406.0,
+     "y": 839.0,
+     "base": 576990576,
+     "runtime_id": 1553
+    }
+   ]
+  },
+  "Cổ Thành": {
+   "map_id": 37,
+   "entry": [
+    1440,
+    1080
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 400.0,
+     "y": 1100.0,
+     "base": 196996464,
+     "runtime_id": 15364
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Lông Thú",
+     "type": 3060100001109,
+     "resource": 2060100001109,
+     "x": 2406.0,
+     "y": 839.0,
+     "base": 576990576,
+     "runtime_id": 1553
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 450.0,
+     "y": 350.0,
+     "base": 602112160,
+     "runtime_id": 16353
+    }
+   ]
+  },
+  "Bàng Bối Thành": {
+   "map_id": 38,
+   "entry": [
+    1153,
+    1163
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000026,
+     "resource": 2060090000026,
+     "x": 1554.0,
+     "y": 591.0,
+     "base": 199882832,
+     "runtime_id": 503
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 370.0,
+     "y": 1096.0,
+     "base": 554362960,
+     "runtime_id": 481
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000026,
+     "resource": 2060090000026,
+     "x": 690.0,
+     "y": 170.0,
+     "base": 554363616,
+     "runtime_id": 623
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000032,
+     "resource": 2060090000032,
+     "x": 319.0,
+     "y": 1486.0,
+     "base": 608177520,
+     "runtime_id": 501
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 2690.0,
+     "y": 1210.0,
+     "base": 841316432,
+     "runtime_id": 1135
+    },
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1997.0,
+     "y": 360.0,
+     "base": 841317088,
+     "runtime_id": 462
+    }
+   ]
+  },
+  "Huyền Lâm Tộc": {
+   "map_id": 39,
+   "entry": [
+    500,
+    1000
+   ],
+   "nodes": []
+  },
+  "Thiên Lục Châu": {
+   "map_id": 40,
+   "entry": [
+    1500,
+    1200
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000019,
+     "resource": 2060090100018,
+     "x": 2515.0,
+     "y": 1193.0,
+     "base": 199882832,
+     "runtime_id": 477
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000029,
+     "resource": 2060090100029,
+     "x": 451.0,
+     "y": 147.0,
+     "base": 554362960,
+     "runtime_id": 460
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000026,
+     "resource": 2060090000026,
+     "x": 2493.0,
+     "y": 539.0,
+     "base": 576989920,
+     "runtime_id": 458
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1450.0,
+     "y": 1650.0,
+     "base": 576990576,
+     "runtime_id": 17928
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1592.0,
+     "y": 1891.0,
+     "base": 584428912,
+     "runtime_id": 579
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 771.0,
+     "y": 1778.0,
+     "base": 602112160,
+     "runtime_id": 578
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000029,
+     "resource": 2060090000029,
+     "x": 1370.0,
+     "y": 709.0,
+     "base": 841314464,
+     "runtime_id": 436
+    }
+   ]
+  },
+  "Kỵ Bình Nguyên": {
+   "map_id": 41,
+   "entry": [
+    1100,
+    680
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 2378.0,
+     "y": 102.0,
+     "base": 196993184,
+     "runtime_id": 590
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 436.0,
+     "y": 1544.0,
+     "base": 196994496,
+     "runtime_id": 589
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000023,
+     "resource": 2060090100023,
+     "x": 1555.0,
+     "y": 1292.0,
+     "base": 196995152,
+     "runtime_id": 714
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000033,
+     "resource": 2060090000033,
+     "x": 1316.0,
+     "y": 1444.0,
+     "base": 196995808,
+     "runtime_id": 471
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000023,
+     "resource": 2060090100023,
+     "x": 366.0,
+     "y": 1614.0,
+     "base": 196996464,
+     "runtime_id": 615
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1800.0,
+     "y": 350.0,
+     "base": 199880864,
+     "runtime_id": 11218
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000020,
+     "resource": 2060090000020,
+     "x": 2479.0,
+     "y": 1480.0,
+     "base": 199881520,
+     "runtime_id": 437
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 706.0,
+     "y": 1163.0,
+     "base": 199882176,
+     "runtime_id": 599
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 2388.0,
+     "y": 1238.0,
+     "base": 203648368,
+     "runtime_id": 591
+    }
+   ]
+  },
+  "Cổ Đạo": {
+   "map_id": 42,
+   "entry": [
+    1468,
+    827
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 2378.0,
+     "y": 102.0,
+     "base": 196993184,
+     "runtime_id": 590
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 436.0,
+     "y": 1544.0,
+     "base": 196994496,
+     "runtime_id": 589
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000023,
+     "resource": 2060090100023,
+     "x": 1555.0,
+     "y": 1292.0,
+     "base": 196995152,
+     "runtime_id": 714
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000033,
+     "resource": 2060090000033,
+     "x": 1316.0,
+     "y": 1444.0,
+     "base": 196995808,
+     "runtime_id": 471
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100000023,
+     "resource": 2060090100023,
+     "x": 366.0,
+     "y": 1614.0,
+     "base": 196996464,
+     "runtime_id": 615
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1800.0,
+     "y": 350.0,
+     "base": 199880864,
+     "runtime_id": 11218
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000020,
+     "resource": 2060090000020,
+     "x": 2479.0,
+     "y": 1480.0,
+     "base": 199881520,
+     "runtime_id": 437
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000025,
+     "resource": 2060090000025,
+     "x": 706.0,
+     "y": 1163.0,
+     "base": 199882176,
+     "runtime_id": 599
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 2388.0,
+     "y": 1238.0,
+     "base": 203648368,
+     "runtime_id": 591
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 350.0,
+     "y": 950.0,
+     "base": 554362960,
+     "runtime_id": 11660
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000035,
+     "resource": 2060090000035,
+     "x": 1710.0,
+     "y": 163.0,
+     "base": 584428912,
+     "runtime_id": 674
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000033,
+     "resource": 2060090000033,
+     "x": 863.0,
+     "y": 194.0,
+     "base": 841314464,
+     "runtime_id": 4
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000034,
+     "resource": 2060090000034,
+     "x": 164.0,
+     "y": 658.0,
+     "base": 841315776,
+     "runtime_id": 681
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000031,
+     "resource": 2060100000031,
+     "x": 2064.0,
+     "y": 1863.0,
+     "base": 841316432,
+     "runtime_id": 1639
+    }
+   ]
+  },
+  "Đoạn Cốc": {
+   "map_id": 43,
+   "entry": [
+    1405,
+    1071
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1250.0,
+     "y": 400.0,
+     "base": 199881520,
+     "runtime_id": 10792
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060100000032,
+     "resource": 2060100000032,
+     "x": 2868.0,
+     "y": 1745.0,
+     "base": 608174240,
+     "runtime_id": 1654
+    }
+   ]
+  },
+  "Đăng Vân Địa": {
+   "map_id": 44,
+   "entry": [
+    1420,
+    1060
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 2600.0,
+     "y": 1570.0,
+     "base": 196995808,
+     "runtime_id": 1689
+    }
+   ]
+  },
+  "Điêu Linh Thôn": {
+   "map_id": 55,
+   "entry": [
+    800,
+    180
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060090000018,
+     "resource": 2060090000018,
+     "x": 1383.0,
+     "y": 373.0,
+     "base": 584428256,
+     "runtime_id": 1166
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000028,
+     "resource": 2060090000028,
+     "x": 989.0,
+     "y": 824.0,
+     "base": 602114128,
+     "runtime_id": 1284
+    }
+   ]
+  },
+  "Mị Hoặc Lâm": {
+   "map_id": 56,
+   "entry": [
+    770,
+    245
+   ],
+   "nodes": [
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Nấm Tươi",
+     "type": 3060100100010,
+     "resource": 2060090000016,
+     "x": 1376.0,
+     "y": 300.0,
+     "base": 554362960,
+     "runtime_id": 1511
+    },
+    {
+     "kind": "hoaqua",
+     "level": 0,
+     "name": "Hoa Quả",
+     "type": 3060090000016,
+     "resource": 2060090000029,
+     "x": 2014.0,
+     "y": 1454.0,
+     "base": 841317088,
+     "runtime_id": 1512
+    }
+   ]
+  },
+  "Tử Tức Đảo": {
+   "map_id": 61,
+   "entry": [
+    230,
+    300
+   ],
+   "nodes": [
+    {
+     "kind": "da",
+     "level": 0,
+     "name": "Da Thú",
+     "type": 3060090000010,
+     "resource": 2060090000010,
+     "x": 1880.0,
+     "y": 530.0,
+     "base": 576990576,
+     "runtime_id": 1776
+    },
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 800.0,
+     "y": 1700.0,
+     "base": 584428912,
+     "runtime_id": 16266
+    }
+   ]
+  },
+  "Vĩnh Dạ Cảng": {
+   "map_id": 67,
+   "entry": [
+    1460,
+    220
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1650.0,
+     "y": 1450.0,
+     "base": 841316432,
+     "runtime_id": 12414
+    }
+   ]
+  },
+  "Mã Thạch Tuyết": {
+   "map_id": 70,
+   "entry": [
+    1410,
+    2370
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1400.0,
+     "y": 1900.0,
+     "base": 554362960,
+     "runtime_id": 16663
+    }
+   ]
+  },
+  "Thiên Đường Thần Thánh": {
+   "map_id": 71,
+   "entry": [
+    1490,
+    810
+   ],
+   "nodes": []
+  },
+  "Thiên Không Thành": {
+   "map_id": 88,
+   "entry": [
+    2402,
+    1734
+   ],
+   "nodes": []
+  },
+  "Thành Phố Chìm": {
+   "map_id": 525,
+   "entry": [
+    660,
+    572
+   ],
+   "nodes": [
+    {
+     "kind": "khoang",
+     "level": 0,
+     "name": "Khoáng Thạch",
+     "type": 3060100001088,
+     "resource": 2060100001088,
+     "x": 1600.0,
+     "y": 1800.0,
+     "base": 199882832,
+     "runtime_id": 10665
+    }
+   ]
+  }
+ }
+}

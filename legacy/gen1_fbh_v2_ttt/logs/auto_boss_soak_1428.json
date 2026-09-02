@@ -1,0 +1,546 @@
+{
+  "pid": 1808,
+  "hwnd": 524980,
+  "events": [
+    {
+      "at": "2026-08-13T01:08:17.977146",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T01:08:21.485920",
+      "state": "ATTACHING",
+      "target_id": 17327,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T01:08:21.990397",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17327,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=17327 distance=1670 receiver=0x1abc50d0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:08:24.012303",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 17327,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=17327 distance=1036; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:08:26.055698",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 17327,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=17327 distance=439; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:08:32.647407",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17327,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17327 distance=439 receiver=0x1abc50d0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:08:34.702259",
+      "state": "IN_BATTLE",
+      "target_id": 17327,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "entry=1; target=17327"
+    },
+    {
+      "at": "2026-08-13T01:08:54.993020",
+      "state": "BATTLE_CLEARED",
+      "target_id": 17327,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 2,
+      "detail": "clear=1; last_id=17327"
+    },
+    {
+      "at": "2026-08-13T01:08:57.029249",
+      "state": "BATTLE_CLEARED",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "clear=1; last_id=17327"
+    },
+    {
+      "at": "2026-08-13T01:08:57.530833",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "id=14459 distance=539 receiver=0x22128af0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:08:59.586892",
+      "state": "IN_BATTLE",
+      "target_id": 14459,
+      "attacks": 2,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "entry=2; target=14459"
+    },
+    {
+      "at": "2026-08-13T01:09:21.776599",
+      "state": "BATTLE_CLEARED",
+      "target_id": 14459,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 1,
+      "detail": "clear=2; last_id=14459"
+    },
+    {
+      "at": "2026-08-13T01:09:24.301882",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11071,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 2,
+      "detail": "id=11071 distance=1214 receiver=0x1dd63ca0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:09:26.313106",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 11071,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 2,
+      "detail": "id=11071 distance=594; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:09:28.333552",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 11071,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 2,
+      "detail": "id=11071 distance=312; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:09:34.923230",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11071,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 2,
+      "detail": "id=11071 distance=312 receiver=0x1dd63ca0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:09:36.957588",
+      "state": "IN_BATTLE",
+      "target_id": 11071,
+      "attacks": 3,
+      "clears": 2,
+      "candidates": 2,
+      "detail": "entry=3; target=11071"
+    },
+    {
+      "at": "2026-08-13T01:09:57.109407",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11071,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 2,
+      "detail": "clear=3; last_id=11071"
+    },
+    {
+      "at": "2026-08-13T01:09:59.137875",
+      "state": "WAIT_SPAWN",
+      "target_id": 11071,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:10:17.729573",
+      "state": "WAIT_SPAWN",
+      "target_id": 14747,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 2,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:10:18.233962",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 14747,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 2,
+      "detail": "id=14747 distance=103 receiver=0x1dd63af0 stage=2"
+    },
+    {
+      "at": "2026-08-13T01:10:20.285940",
+      "state": "IN_BATTLE",
+      "target_id": 14747,
+      "attacks": 4,
+      "clears": 3,
+      "candidates": 2,
+      "detail": "entry=4; target=14747"
+    },
+    {
+      "at": "2026-08-13T01:10:38.476481",
+      "state": "BATTLE_CLEARED",
+      "target_id": 14747,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "clear=4; last_id=14747"
+    },
+    {
+      "at": "2026-08-13T01:10:40.497433",
+      "state": "WAIT_SPAWN",
+      "target_id": 14747,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:10:43.010499",
+      "state": "WAIT_SPAWN",
+      "target_id": 14747,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:10:51.083274",
+      "state": "WAIT_SPAWN",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:10:51.586417",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10889 distance=870 receiver=0x22128af0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:10:53.623424",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10889 distance=285; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:10:55.666651",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10889 distance=273; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:11:01.741631",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 1,
+      "detail": "id=10889 distance=273 receiver=0x22128af0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:11:04.277867",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 10889,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 1,
+      "detail": "id=10889 distance=110 receiver=0x22128af0 stage=2"
+    },
+    {
+      "at": "2026-08-13T01:11:06.321054",
+      "state": "IN_BATTLE",
+      "target_id": 10889,
+      "attacks": 5,
+      "clears": 4,
+      "candidates": 1,
+      "detail": "entry=5; target=10889"
+    },
+    {
+      "at": "2026-08-13T01:11:20.442172",
+      "state": "BATTLE_CLEARED",
+      "target_id": 10889,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 1,
+      "detail": "clear=5; last_id=10889"
+    },
+    {
+      "at": "2026-08-13T01:11:22.451064",
+      "state": "WAIT_SPAWN",
+      "target_id": 10889,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:11:33.023846",
+      "state": "WAIT_SPAWN",
+      "target_id": 11770,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:11:33.539323",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11770,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "id=11770 distance=516 receiver=0x22128af0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:11:35.596727",
+      "state": "IN_BATTLE",
+      "target_id": 11770,
+      "attacks": 6,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "entry=6; target=11770"
+    },
+    {
+      "at": "2026-08-13T01:11:59.328273",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11770,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 2,
+      "detail": "clear=6; last_id=11770"
+    },
+    {
+      "at": "2026-08-13T01:12:01.357021",
+      "state": "WAIT_SPAWN",
+      "target_id": 11770,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:12:06.905980",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17368,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 2,
+      "detail": "id=17368 distance=416 receiver=0x12a1fca0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:12:08.922571",
+      "state": "IN_BATTLE",
+      "target_id": 17368,
+      "attacks": 7,
+      "clears": 6,
+      "candidates": 2,
+      "detail": "entry=7; target=17368"
+    },
+    {
+      "at": "2026-08-13T01:12:31.577326",
+      "state": "BATTLE_CLEARED",
+      "target_id": 17368,
+      "attacks": 7,
+      "clears": 7,
+      "candidates": 2,
+      "detail": "clear=7; last_id=17368"
+    },
+    {
+      "at": "2026-08-13T01:12:33.099131",
+      "state": "WAIT_SPAWN",
+      "target_id": 17368,
+      "attacks": 7,
+      "clears": 7,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:12:38.639732",
+      "state": "WAIT_SPAWN",
+      "target_id": 17368,
+      "attacks": 7,
+      "clears": 7,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:12:57.260929",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11039,
+      "attacks": 7,
+      "clears": 7,
+      "candidates": 2,
+      "detail": "id=11039 distance=662 receiver=0x12a1f790 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:12:59.272479",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11039,
+      "attacks": 8,
+      "clears": 7,
+      "candidates": 2,
+      "detail": "id=11039 distance=662 receiver=0x12a1f790 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:12:59.787213",
+      "state": "IN_BATTLE",
+      "target_id": 11039,
+      "attacks": 8,
+      "clears": 7,
+      "candidates": 2,
+      "detail": "entry=8; target=11039"
+    },
+    {
+      "at": "2026-08-13T01:13:24.062104",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11039,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 2,
+      "detail": "clear=8; last_id=11039"
+    },
+    {
+      "at": "2026-08-13T01:13:25.595105",
+      "state": "WAIT_SPAWN",
+      "target_id": 11039,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:14:55.202823",
+      "state": "WAIT_SPAWN",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:14:55.705904",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "id=16725 distance=1247 receiver=0x22128280 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:14:57.719765",
+      "state": "WAIT_SPAWN",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:15:09.303709",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "id=16725 distance=316 receiver=0x22128280 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:15:11.342166",
+      "state": "WAIT_SPAWN",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:15:24.928867",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "id=16725 base=0x1b91bd70 distance=99 click=(375,313)"
+    },
+    {
+      "at": "2026-08-13T01:15:26.956000",
+      "state": "WAIT_SPAWN",
+      "target_id": 16725,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:15:45.580603",
+      "state": "WAIT_SPAWN",
+      "target_id": 16885,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:15:46.082984",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 16885,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "id=16885 distance=1409 receiver=0x22128280 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:15:48.106896",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 16885,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 1,
+      "detail": "id=16885 distance=822; game pathfinder"
+    },
+    {
+      "at": "2026-08-13T01:15:50.128057",
+      "state": "WAIT_SPAWN",
+      "target_id": 16885,
+      "attacks": 8,
+      "clears": 8,
+      "candidates": 0,
+      "detail": "0 active display NPCs; waiting new lifecycle"
+    }
+  ]
+}

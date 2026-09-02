@@ -1,0 +1,52 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- PyInstaller / build artifacts ----
+build/
+build_*/
+dist/
+dist_*/
+*.manifest
+*.pkg
+warn-*.txt
+xref-*.html
+
+# ---- .NET / Avalonia ----
+# Giu lai bin/Release (chua VptAvalonia.exe thanh pham), bo phan con lai
+obj/
+bin/Debug/
+*.user
+*.suo
+
+# ---- Runtime / tool tai ve (khong version) ----
+tools/ffdec_home/
+jre/
+jre21/
+jdk21/
+ghidra_*_PUBLIC/
+ghidra-project/
+pyghidra-venv/
+
+# ---- Archive nang, khong day len remote ----
+*.rar
+*.7z
+*.msix
+*.zip
+*.gbf
+
+# ---- Output decompile / dump khong lo (>100MB, vuot gioi han GitHub) ----
+analysis/quest_memory/*.xml
+**/main_swf.xml
+**/entity_objects_live.json
+
+# ---- OS / editor ----
+Thumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.idea/

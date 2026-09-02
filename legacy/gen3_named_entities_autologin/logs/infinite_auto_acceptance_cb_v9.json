@@ -1,0 +1,77 @@
+{
+  "pid": 16720,
+  "address": 0,
+  "target_value": 0,
+  "final_value": 0,
+  "proofs": 0,
+  "restores": 0,
+  "ok": false,
+  "events": [
+    {
+      "t": 1786644454.2372036,
+      "state": "ATTACHING",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "-"
+    },
+    {
+      "t": 1786644461.3170834,
+      "state": "SCANNING",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "First Scan: Value 1..150, 4 Bytes theo đúng PID"
+    },
+    {
+      "t": 1786644462.2218616,
+      "state": "WAIT_AUTO_BATTLE",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "Theo dõi 1221125 candidate; cần một lần giảm duy nhất trong battle"
+    },
+    {
+      "t": 1786644484.8675349,
+      "state": "FILTERING",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "Battle bắt đầu; chờ lượt bị trừ rồi lọc N→N-1"
+    },
+    {
+      "t": 1786644488.0131671,
+      "state": "FILTERING",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "Lọc lần đầu còn 17996 candidate"
+    },
+    {
+      "t": 1786644934.478101,
+      "state": "STOPPED",
+      "pid": 16720,
+      "address": 0,
+      "value": 0,
+      "target_value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "Còn 58 candidate đã có bằng chứng; tiếp tục quan sát để tách địa chỉ"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "cai_nguc",
+    "signature": [
+      3060100001180,
+      2060100001208
+    ],
+    "precheck": {
+      "ok": true,
+      "build": "MULTI_MONSTER_V1_20260813",
+      "checks": [
+        "PASS TSk pid=1868 hwnd=67882",
+        "PASS OpenProcess read-only",
+        "PASS entity vtable=0xdaa0e0",
+        "PASS Player=0xbc890a0 Core=0xaaa10d0 world=(836,986)",
+        "PASS Core.getNpc slot=131",
+        "PASS selected monster heap candidates=8"
+      ]
+    },
+    "battles": [
+      {
+        "runtime_id": 14769,
+        "type": 3060100001180,
+        "resource": 2060100001208
+      },
+      {
+        "runtime_id": 13387,
+        "type": 3060100001180,
+        "resource": 2060100001208
+      },
+      {
+        "runtime_id": 13652,
+        "type": 3060100001180,
+        "resource": 2060100001208
+      },
+      {
+        "runtime_id": 15015,
+        "type": 3060100001180,
+        "resource": 2060100001208
+      },
+      {
+        "runtime_id": 15991,
+        "type": 3060100001180,
+        "resource": 2060100001208
+      }
+    ],
+    "attacks": 5,
+    "clears": 5,
+    "ok": true
+  },
+  {
+    "name": "dau_si",
+    "signature": [
+      3060100001180,
+      2060100001211
+    ],
+    "precheck": {
+      "ok": true,
+      "build": "MULTI_MONSTER_V1_20260813",
+      "checks": [
+        "PASS TSk pid=1868 hwnd=67882",
+        "PASS OpenProcess read-only",
+        "PASS entity vtable=0xdaa0e0",
+        "PASS Player=0xbc890a0 Core=0xaaa10d0 world=(1166,496)",
+        "PASS Core.getNpc slot=131",
+        "PASS selected monster heap candidates=12"
+      ]
+    },
+    "battles": [
+      {
+        "runtime_id": 15384,
+        "type": 3060100001180,
+        "resource": 2060100001211
+      },
+      {
+        "runtime_id": 12050,
+        "type": 3060100001180,
+        "resource": 2060100001211
+      },
+      {
+        "runtime_id": 12713,
+        "type": 3060100001180,
+        "resource": 2060100001211
+      },
+      {
+        "runtime_id": 11739,
+        "type": 3060100001180,
+        "resource": 2060100001211
+      },
+      {
+        "runtime_id": 16344,
+        "type": 3060100001180,
+        "resource": 2060100001211
+      }
+    ],
+    "attacks": 5,
+    "clears": 5,
+    "ok": true
+  }
+]

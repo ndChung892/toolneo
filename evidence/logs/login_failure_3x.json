@@ -1,0 +1,113 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_B_FAILURE_V2",
+  "status": "PASS",
+  "required_trials": 3,
+  "passed_trials": 3,
+  "records": [
+    {
+      "trial": 1,
+      "fault": "WINDOW_CLOSED",
+      "account_id": "acc_2",
+      "pid": 6908,
+      "hwnd": 1836460,
+      "injected_at": 1786703326.63862,
+      "observer": {
+        "ok": false,
+        "state": "WINDOW_CLOSED",
+        "pid": 6908,
+        "hwnd": 1836460,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703325.137568,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703325.1385674,
+            "state": "WINDOW_OBSERVED",
+            "pid": 6908,
+            "hwnd": 1836460
+          },
+          {
+            "timestamp": 1786703326.8117533,
+            "state": "WINDOW_CLOSED"
+          }
+        ]
+      },
+      "owned_pid_closed": true,
+      "cross_flash_actions": 0,
+      "ok": true,
+      "failure_reason": ""
+    },
+    {
+      "trial": 2,
+      "fault": "LOADING_TIMEOUT",
+      "account_id": "acc_1",
+      "pid": 13320,
+      "hwnd": 1901996,
+      "injected_at": 1786703329.024394,
+      "observer": {
+        "ok": false,
+        "state": "LOADING_TIMEOUT",
+        "pid": 13320,
+        "hwnd": 1901996,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703327.5234964,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703327.5234964,
+            "state": "WINDOW_OBSERVED",
+            "pid": 13320,
+            "hwnd": 1901996
+          },
+          {
+            "timestamp": 1786703335.5588915,
+            "state": "LOADING_TIMEOUT"
+          }
+        ]
+      },
+      "owned_pid_closed": true,
+      "cross_flash_actions": 0,
+      "ok": true,
+      "failure_reason": ""
+    },
+    {
+      "trial": 3,
+      "fault": "WINDOW_CLOSED",
+      "account_id": "acc_1",
+      "pid": 2308,
+      "hwnd": 1508498,
+      "injected_at": 1786703337.9522855,
+      "observer": {
+        "ok": false,
+        "state": "WINDOW_CLOSED",
+        "pid": 2308,
+        "hwnd": 1508498,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703336.4505043,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703336.4515176,
+            "state": "WINDOW_OBSERVED",
+            "pid": 2308,
+            "hwnd": 1508498
+          },
+          {
+            "timestamp": 1786703338.252081,
+            "state": "WINDOW_CLOSED"
+          }
+        ]
+      },
+      "owned_pid_closed": true,
+      "cross_flash_actions": 0,
+      "ok": true,
+      "failure_reason": ""
+    }
+  ]
+}

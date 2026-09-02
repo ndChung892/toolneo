@@ -1,0 +1,53 @@
+{
+  "required": 7,
+  "passed": 6,
+  "results": [
+    {
+      "ok": true,
+      "target": "Đông Huyền Thành",
+      "map_id": 9,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_9_1786634880.png"
+    },
+    {
+      "ok": true,
+      "target": "Liêu Vân Tộc",
+      "map_id": 13,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_13_1786634882.png"
+    },
+    {
+      "ok": true,
+      "target": "Lạp Tuyết Địa",
+      "map_id": 33,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_33_1786634884.png"
+    },
+    {
+      "ok": true,
+      "target": "Anh Vũ Cảnh",
+      "map_id": 34,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_34_1786634886.png"
+    },
+    {
+      "ok": true,
+      "target": "Tiên Lạp Thành",
+      "map_id": 31,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_31_1786634888.png"
+    },
+    {
+      "ok": true,
+      "target": "Thiên Khung Tộc",
+      "map_id": 32,
+      "detail": "enrolled after stable rendered map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_32_1786634889.png"
+    },
+    {
+      "ok": false,
+      "target": "Băng Tuyết Nguyên",
+      "detail": "world map did not open"
+    }
+  ]
+}

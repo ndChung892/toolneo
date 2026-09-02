@@ -1,0 +1,6 @@
+-8355712
+16777215
+16777215	-1	Segoe UI, 9pt
+-4144960	-16777216	Segoe UI, 9pt
+-4144960	-16777216	Segoe UI, 9pt, style=Italic
+-8355712	-8355712	-1	-8355840	-1	Segoe UI, 9,75pt, style=Italic

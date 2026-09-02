@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-08-12",
+  "process": {
+    "name": "flash.exe",
+    "architecture": "x86",
+    "note": "PID and object addresses are session-specific"
+  },
+  "avm2_entity": {
+    "vtable": "0x00CCA0E0",
+    "offsets": {
+      "type_code_number": "0xC0",
+      "runtime_id_candidate_number": "0xC8",
+      "pos_y_double": "0x108",
+      "resource_code_number": "0x130",
+      "pos_x_double": "0x150"
+    },
+    "debugger_proof": "movq [ebx+0x150],xmm0 with EBX equal to player object base",
+    "death_removal_signal": "object header/vtable and coordinate fields are eventually zeroed by AVM2 GC"
+  },
+  "observed_session": {
+    "pid": 16972,
+    "player": {
+      "base": "0x217430A0",
+      "last_world_position": [2332.0, 1098.0]
+    },
+    "selected_npc": {
+      "name": "Phat Tai",
+      "base": "0x0FDAAD70",
+      "world_position": [2165.0, 1127.0],
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 10493,
+      "resource_code": 2060100000051
+    },
+    "removed_npc_example": {
+      "base": "0x233F6330",
+      "last_world_position": [2505.0, 1138.0],
+      "runtime_id_candidate_before_removal": 11218,
+      "post_removal": "header and fields zeroed"
+    }
+  },
+  "tools": {
+    "nearby_npc_detector": "flash_memory_detector_v1/flash_memory_detector/detect_nearby_npcs.py",
+    "pointer_scanner": "flash_memory_detector_v1/flash_memory_detector/scan_pointer_value.py",
+    "field_monitor": "flash_memory_detector_v1/flash_memory_detector/monitor_memory_fields.py",
+    "coordinate_layout_scanner": "flash_memory_detector_v1/flash_memory_detector/scan_entity_objects.py",
+    "memory_target_attacker": "flash_memory_detector_v1/flash_memory_detector/attack_npc_by_memory.py"
+  }
+}

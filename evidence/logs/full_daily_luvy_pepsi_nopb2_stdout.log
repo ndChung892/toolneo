@@ -1,0 +1,38 @@
+plans: [('acc_5', ['ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH']), ('acc_2', ['ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH'])]
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_5, acc_2"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}
+{"type": "log", "msg": "Daily xong bước THẦN TU: đã bấm đúng Bắt đầu → Có cho THẦN TU"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Thần Tu; chờ 25 phút."}
+{"type": "log", "msg": "Daily dừng tại THẦN TU: clear"}
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước mở lại sau Thần Tu..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9928 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9928 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=9928 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9928 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=9928 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9928 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9928 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9928 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9928 Player=0x1c80e0a0 Core=0xb5c70d0 world=(2223,414)"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước TU HÀNH: đã bấm đúng Bắt đầu → Có cho TU HÀNH"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Tu Hành; chờ 31 phút."}
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước mở lại sau Tu Hành..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13092 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13092 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13092 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13092 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13092 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13092 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13092 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13092 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13092 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13092 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13092 Player=0x10eb60a0 Core=0x157a60d0 world=(2223,414)"}
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: ĐIÊU KHẮC, LẬT THẺ BÀI, HÀNH LANG, THẦN TU, TU HÀNH"}
+DONE, alive= []

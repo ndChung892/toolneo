@@ -1,0 +1,20 @@
+<Events>
+  <Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+    <System>
+      <EventID>1000</EventID>
+      <TimeCreated SystemTime="2026-08-28T08:57:36.0000000Z" />
+      <EventRecordID>4242</EventRecordID>
+    </System>
+    <EventData>
+      <Data Name="AppName">flash.exe</Data>
+      <Data Name="AppVersion">10.3.183.90</Data>
+      <Data Name="AppTimeStamp">0</Data>
+      <Data Name="ModuleName">flash.exe</Data>
+      <Data Name="ModuleVersion">10.3.183.90</Data>
+      <Data Name="ModuleTimeStamp">0</Data>
+      <Data Name="ExceptionCode">c0000005</Data>
+      <Data Name="FaultingOffset">00380a6f</Data>
+      <Data Name="ProcessId">0x2054</Data>
+    </EventData>
+  </Event>
+</Events>

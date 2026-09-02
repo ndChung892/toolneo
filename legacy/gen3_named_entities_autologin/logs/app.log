@@ -1,0 +1,1200 @@
+[20:29:01] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=17028 hwnd=0 position=1
+[20:29:01] [INFO] [acc_2] AUTO_LOGIN WAIT_WINDOW pid=13308 hwnd=0 position=2
+[20:29:01] [INFO] [acc_3] AUTO_LOGIN WAIT_WINDOW pid=6036 hwnd=0 position=3
+[20:29:02] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17028 hwnd=657986 position=1
+[20:29:03] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=13308 hwnd=526930 position=2
+[20:29:04] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=6036 hwnd=1772188 position=3
+[20:32:02] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=17028 hwnd=657986 position=1
+[20:32:02] [INFO] [acc_2] AUTO_LOGIN TIMEOUT pid=13308 hwnd=526930 position=2
+[20:32:02] [INFO] [acc_3] AUTO_LOGIN TIMEOUT pid=6036 hwnd=1772188 position=3
+[20:41:26] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=2524 hwnd=0 position=1
+[20:41:26] [INFO] [acc_2] AUTO_LOGIN WAIT_WINDOW pid=12156 hwnd=0 position=2
+[20:41:26] [INFO] [acc_3] AUTO_LOGIN WAIT_WINDOW pid=15640 hwnd=0 position=3
+[20:41:28] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:41:28] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:41:30] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:41:51] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:41:52] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:41:53] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:41:56] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:41:57] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:41:57] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:12] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:13] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:13] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:14] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:15] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:15] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:19] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:19] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:20] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:24] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:25] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:25] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:29] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:30] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:30] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:34] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:34] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:35] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:39] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:40] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:40] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:44] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:44] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:45] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:49] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:49] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:50] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:53] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:42:54] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:55] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:42:59] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:42:59] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:00] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:04] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:05] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:05] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:09] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:10] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:10] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:14] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:14] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:15] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:19] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:20] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:20] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:24] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:24] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:25] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:28] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:29] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:30] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:34] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:35] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:35] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:39] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:39] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:44] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:45] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:45] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:49] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:49] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:50] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:53] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=12156 hwnd=526952 position=2
+[20:43:54] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=15640 hwnd=1116798 position=3
+[20:43:55] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=2524 hwnd=854878 position=1
+[20:43:57] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=2524 hwnd=854878 position=1
+[20:43:57] [INFO] [acc_2] AUTO_LOGIN TIMEOUT pid=12156 hwnd=526952 position=2
+[20:43:57] [INFO] [acc_3] AUTO_LOGIN TIMEOUT pid=15640 hwnd=1116798 position=3
+[20:45:11] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=11916 hwnd=0 position=1
+[20:45:11] [INFO] [acc_2] AUTO_LOGIN WAIT_WINDOW pid=6876 hwnd=0 position=2
+[20:45:11] [INFO] [acc_3] AUTO_LOGIN WAIT_WINDOW pid=7140 hwnd=0 position=3
+[20:45:13] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:45:14] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:45:15] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:45:36] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:45:36] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:45:37] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:45:40] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:45:40] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:45:41] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:45:56] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:45:57] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:45:57] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:45:58] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:45:59] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:45:59] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:03] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:04] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:05] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:09] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:09] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:10] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:13] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:14] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:15] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:18] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:19] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:20] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:24] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:24] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:25] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:28] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:29] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:30] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:33] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:34] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:35] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:39] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:39] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:43] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:44] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:45] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:49] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:49] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:50] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:53] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:46:54] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:46:54] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:58] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:46:59] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:00] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:04] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:04] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:05] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:08] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:09] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:10] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:13] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:14] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:15] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:18] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:19] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:19] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:23] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:24] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:25] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:28] [INFO] [acc_3] AUTO_LOGIN WAIT_MAP pid=7140 hwnd=1837926 position=3
+[20:47:29] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=11916 hwnd=527226 position=1
+[20:47:29] [INFO] [acc_2] AUTO_LOGIN WAIT_MAP pid=6876 hwnd=1444728 position=2
+[20:47:33] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=11916 hwnd=527226 position=1
+[20:47:33] [INFO] [acc_2] AUTO_LOGIN TIMEOUT pid=6876 hwnd=1444728 position=2
+[20:47:33] [INFO] [acc_3] AUTO_LOGIN TIMEOUT pid=7140 hwnd=1837926 position=3
+[20:51:13] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=900 hwnd=0 position=1
+[20:51:15] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:51:39] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:51:43] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:51:59] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:01] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:07] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:11] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:17] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:21] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:26] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:32] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:36] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:41] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:47] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:51] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:52:57] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:53:01] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:53:07] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:53:11] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=900 hwnd=265098 position=1
+[20:53:14] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=900 hwnd=265098 position=1
+[20:53:36] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=17368 hwnd=0 position=1
+[20:53:37] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:01] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:05] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:21] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:23] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:29] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:33] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:43] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:48] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:54] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:54:58] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:04] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:08] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:13] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:19] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:23] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=17368 hwnd=1248124 position=1
+[20:55:26] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=17368 hwnd=1248124 position=1
+[20:58:50] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=13472 hwnd=0 position=1
+[20:58:52] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:16] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:20] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:35] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:43] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:48] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:53] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[20:59:58] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:03] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:09] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:13] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:18] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:23] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:28] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:34] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:43] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:48] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=13472 hwnd=658002 position=1
+[21:00:51] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=13472 hwnd=658002 position=1
+[21:03:50] [INFO] [acc_1] AUTO_LOGIN WAIT_WINDOW pid=12120 hwnd=0 position=1
+[21:03:51] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:16] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:19] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:35] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:42] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:48] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:53] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:04:57] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:03] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:08] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:13] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:18] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:23] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:28] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:33] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:38] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:43] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:48] [INFO] [acc_1] AUTO_LOGIN WAIT_MAP pid=12120 hwnd=1379162 position=1
+[21:05:51] [INFO] [acc_1] AUTO_LOGIN TIMEOUT pid=12120 hwnd=1379162 position=1
+[21:23:59] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15844 Flash launched at original size
+[21:24:02] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15844 Bắt đầu
+[21:24:07] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15844 channel=(434, 446) choices=1
+[21:24:09] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15844 character_slot=1
+[21:24:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:40] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:47] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:58] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:24:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:03] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:05] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:58] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:25:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:03] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:05] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:40] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:47] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:58] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:26:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15844 Player not rooted
+[21:27:00] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=15844 timeout before rooted map
+[21:27:00] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=15844 timeout before rooted map
+[21:27:45] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9180 Flash launched at original size
+[21:27:47] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9180 Bắt đầu
+[21:28:13] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9180 channel=(450, 308) choices=1
+[21:28:15] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9180 character_slot=1
+[21:28:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:47] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:28:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:40] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:58] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:29:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9180 Player not rooted
+[21:30:16] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=9180 timeout before rooted map
+[21:30:16] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=9180 timeout before rooted map
+[21:30:52] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=18164 Flash launched at original size
+[21:30:55] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=18164 Bắt đầu
+[21:31:21] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=18164 channel=(450, 308) choices=1
+[21:31:22] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=18164 character_slot=1
+[21:31:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18164 Player not rooted
+[21:31:38] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=18164 timeout before rooted map
+[21:31:38] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=18164 timeout before rooted map
+[21:32:35] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=7944 Flash launched at original size
+[21:32:38] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=7944 Bắt đầu
+[21:33:04] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=7944 channel=(450, 308) choices=1
+[21:33:06] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=7944 character_slot=1
+[21:33:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:47] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:33:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:00] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:03] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:05] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:36] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=7944 Player not rooted
+[21:34:37] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=7944 timeout before rooted map
+[21:34:37] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=7944 timeout before rooted map
+[21:35:26] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12784 Flash launched at original size
+[21:35:30] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12784 Bắt đầu
+[21:35:56] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12784 channel=(450, 308) choices=1
+[21:35:58] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12784 character_slot=1
+[21:35:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:00] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:03] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:09] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:27] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:36:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:00] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:03] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:05] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12784 Player not rooted
+[21:37:07] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=12784 timeout before rooted map
+[21:37:07] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=12784 timeout before rooted map
+[21:39:19] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10020 Flash launched at original size
+[21:39:45] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11780 Flash launched at original size
+[21:39:48] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11780 Bắt đầu
+[21:40:15] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11780 channel=(450, 308) choices=1
+[21:40:17] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11780 character_slot=1
+[21:40:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:40:56] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11780 Player not rooted
+[21:41:26] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=11780 timeout before rooted map
+[21:41:26] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=11780 timeout before rooted map
+[21:42:29] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=8728 Flash launched at original size
+[21:42:32] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=8728 Bắt đầu
+[21:42:58] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=8728 channel=(450, 308) choices=1
+[21:43:01] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=8728 character_slot=1
+[21:43:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:47] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:43:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8728 Player not rooted
+[21:44:30] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=8728 timeout before rooted map
+[21:44:30] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=8728 timeout before rooted map
+[21:44:55] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10344 Flash launched at original size
+[21:44:59] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10344 Bắt đầu
+[21:45:25] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10344 channel=(450, 308) choices=1
+[21:45:27] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10344 character_slot=1
+[21:45:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:45:34] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:45:40] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:45:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:45:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:45:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:13] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:23] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:44] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=10344 Player not rooted
+[21:46:57] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=10344 timeout before rooted map
+[21:46:57] [INFO] [AUTO_START] NOT_ACCEPTED attempt=1 pass=0 pid=10344 timeout before rooted map
+[21:47:38] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16920 Flash launched at original size
+[21:47:41] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16920 Bắt đầu
+[21:48:07] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16920 channel=(450, 308) choices=1
+[21:48:10] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16920 character_slot=1
+[21:48:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16920 Player not rooted; character/login screen
+[21:48:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16920 Player not rooted; map_hud=True rendered=0.991
+[21:48:18] [INFO] [AUTO_START] PASS_CLOSED attempt=1 pass=1 pid=16920 Visual map stable 3/3; map_hud=True rendered=0.996
+[21:48:19] [INFO] [AUTO_START] ACCEPTED_3_OF_3 attempt=1 pass=1 pid=16920 Visual map stable 3/3; map_hud=True rendered=0.996
+[21:48:47] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9940 Flash launched at original size
+[21:48:50] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9940 Bắt đầu
+[21:49:16] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9940 channel=(450, 308) choices=1
+[21:49:18] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9940 character_slot=1
+[21:49:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9940 Player not rooted; character/login screen
+[21:49:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=9940 Player not rooted; map_hud=True rendered=0.063
+[21:49:28] [INFO] [AUTO_START] PASS_CLOSED attempt=1 pass=1 pid=9940 Visual map stable 3/3; map_hud=True rendered=0.998
+[21:49:29] [INFO] [AUTO_START] WAIT_WINDOW attempt=2 pass=1 pid=7408 Flash launched at original size
+[21:49:32] [INFO] [AUTO_START] START_CLICKED attempt=2 pass=1 pid=7408 Bắt đầu
+[21:49:58] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=2 pass=1 pid=7408 channel=(450, 308) choices=1
+[21:50:00] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=2 pass=1 pid=7408 character_slot=1
+[21:50:01] [INFO] [AUTO_START] WAIT_MAP attempt=2 pass=1 pid=7408 Player not rooted; character/login screen
+[21:50:07] [INFO] [AUTO_START] WAIT_MAP attempt=2 pass=1 pid=7408 Player not rooted; map_hud=True rendered=0.977
+[21:50:09] [INFO] [AUTO_START] PASS_CLOSED attempt=2 pass=2 pid=7408 Visual map stable 3/3; map_hud=True rendered=0.993
+[21:50:10] [INFO] [AUTO_START] WAIT_WINDOW attempt=3 pass=2 pid=15152 Flash launched at original size
+[21:50:14] [INFO] [AUTO_START] START_CLICKED attempt=3 pass=2 pid=15152 Bắt đầu
+[21:50:40] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=3 pass=2 pid=15152 channel=(450, 308) choices=1
+[21:50:41] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=3 pass=2 pid=15152 character_slot=1
+[21:50:42] [INFO] [AUTO_START] WAIT_MAP attempt=3 pass=2 pid=15152 Player not rooted; character/login screen
+[21:50:48] [INFO] [AUTO_START] WAIT_MAP attempt=3 pass=2 pid=15152 Player not rooted; map_hud=True rendered=0.019
+[21:50:52] [INFO] [AUTO_START] PASS_CLOSED attempt=3 pass=3 pid=15152 Visual map stable 3/3; map_hud=True rendered=0.985
+[21:50:53] [INFO] [AUTO_START] ACCEPTED_3_OF_3 attempt=3 pass=3 pid=15152 Visual map stable 3/3; map_hud=True rendered=0.985
+[22:16:28] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11744 Flash launched at original size
+[22:16:31] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11744 Bắt đầu
+[22:16:58] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11744 channel=(450, 308) choices=1
+[22:17:00] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11744 character_slot=1
+[22:17:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11744 Player not rooted; character/login screen
+[22:17:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=11744 Player not rooted; map_hud=True rendered=0.063
+[22:17:10] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=11744 Visual map stable 3/3; map_hud=True rendered=0.994
+[22:18:10] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=3584 Flash launched at original size
+[22:18:13] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=3584 Bắt đầu
+[22:18:39] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=3584 channel=(450, 308) choices=1
+[22:18:41] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=3584 character_slot=1
+[22:18:42] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=3584 Player not rooted; character/login screen
+[22:18:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=3584 Player not rooted; map_hud=True rendered=0.063
+[22:18:51] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=3584 Visual map stable 3/3; map_hud=True rendered=0.991
+[22:20:22] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=1888 Flash launched at original size
+[22:20:25] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=1888 Bắt đầu
+[22:20:52] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=1888 channel=(450, 308) choices=1
+[22:20:54] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=1888 character_slot=1
+[22:20:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=1888 Player not rooted; character/login screen
+[22:21:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=1888 Player not rooted; map_hud=True rendered=0.063
+[22:21:04] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=1888 Visual map stable 3/3; map_hud=True rendered=0.995
+[22:22:48] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15024 Flash launched at original size
+[22:22:51] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15024 Bắt đầu
+[22:23:18] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15024 channel=(450, 308) choices=1
+[22:23:20] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15024 character_slot=1
+[22:23:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15024 Player not rooted; character/login screen
+[22:23:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15024 Player not rooted; map_hud=True rendered=0.063
+[22:23:30] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15024 Visual map stable 3/3; map_hud=True rendered=0.998
+[22:25:17] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4840 Flash launched at original size
+[22:25:20] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4840 Bắt đầu
+[22:25:46] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4840 channel=(450, 308) choices=1
+[22:25:48] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4840 character_slot=1
+[22:25:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=4840 Player not rooted; character/login screen
+[22:25:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=4840 Player not rooted; map_hud=True rendered=0.063
+[22:25:58] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4840 Visual map stable 3/3; map_hud=True rendered=0.996
+[22:27:18] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4464 Flash launched at original size
+[22:27:21] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4464 Bắt đầu
+[22:27:47] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4464 channel=(450, 308) choices=1
+[22:27:49] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4464 character_slot=1
+[22:27:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=4464 Player not rooted; character/login screen
+[22:27:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=4464 Player not rooted; map_hud=True rendered=0.063
+[22:27:58] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4464 Visual map stable 3/3; map_hud=True rendered=0.997
+[22:29:28] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=8576 Flash launched at original size
+[22:29:31] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=8576 Bắt đầu
+[22:29:58] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=8576 channel=(450, 308) choices=1
+[22:30:00] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=8576 character_slot=1
+[22:30:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; character/login screen
+[22:30:07] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; map_hud=True rendered=0.040
+[22:30:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; character/login screen
+[22:30:17] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; character/login screen
+[22:30:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; character/login screen
+[22:30:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8576 Player not rooted; character/login screen
+[22:30:31] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=8576 Visual map stable 3/3; map_hud=True rendered=0.988
+[22:31:17] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=18340 Flash launched at original size
+[22:31:20] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=18340 Bắt đầu
+[22:31:47] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=18340 channel=(450, 308) choices=1
+[22:31:49] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=18340 character_slot=1
+[22:31:50] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18340 Player not rooted; character/login screen
+[22:31:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=18340 Player not rooted; map_hud=True rendered=0.063
+[22:31:59] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=18340 Visual map stable 3/3; map_hud=True rendered=0.994
+[22:33:39] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=5232 Flash launched at original size
+[22:33:42] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5232 Bắt đầu
+[22:34:09] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=5232 channel=(450, 308) choices=1
+[22:34:11] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=5232 character_slot=1
+[22:34:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=5232 Player not rooted; character/login screen
+[22:34:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=5232 Player not rooted; map_hud=True rendered=0.063
+[22:34:21] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=5232 Visual map stable 3/3; map_hud=True rendered=0.995
+[22:36:33] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16936 Flash launched at original size
+[22:36:36] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16936 Bắt đầu
+[22:37:02] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16936 channel=(450, 308) choices=1
+[22:37:04] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16936 character_slot=1
+[22:37:04] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; map_hud=True rendered=0.063
+[22:37:15] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:21] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:26] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:32] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:38] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:37:55] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:01] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:12] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:18] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:24] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:29] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:35] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:41] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:46] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:52] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16936 Player not rooted; character/login screen
+[22:38:54] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=16936 timeout before rooted map
+[22:41:46] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13140 Flash launched at original size
+[22:41:50] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=13140 Bắt đầu
+[22:42:16] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13140 channel=(450, 308) choices=1
+[22:42:18] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13140 character_slot=1
+[22:42:19] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=13140 Player not rooted; character/login screen
+[22:42:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=13140 Player not rooted; map_hud=True rendered=0.063
+[22:42:30] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=13140 Player not rooted; map_hud=True rendered=0.994
+[22:42:32] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13140 Visual map stable 3/3; map_hud=True rendered=0.994
+[22:43:09] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12232 Flash launched at original size
+[22:43:12] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12232 Bắt đầu
+[22:43:39] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12232 channel=(450, 308) choices=1
+[22:43:42] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12232 character_slot=1
+[22:43:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; map_hud=True rendered=0.019
+[22:43:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:43:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:43:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:05] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:10] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:16] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:33] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:39] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:45] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:51] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:44:57] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:02] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:20] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:37] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:43] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:48] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:45:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:46:00] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12232 Player not rooted; character/login screen
+[22:46:00] [INFO] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=12232 timeout before rooted map
+[22:47:16] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=8704 Flash launched at original size
+[22:47:20] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=8704 Bắt đầu
+[22:47:46] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=8704 channel=(450, 308) choices=1
+[22:47:48] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=8704 character_slot=1
+[22:47:49] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8704 Player not rooted; character/login screen
+[22:47:54] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=8704 Player not rooted; map_hud=True rendered=0.958
+[22:47:57] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=8704 Visual map stable 3/3; map_hud=True rendered=0.994
+[22:48:52] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15724 Flash launched at original size
+[22:48:56] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15724 Bắt đầu
+[22:49:22] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15724 channel=(450, 308) choices=1
+[22:49:24] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15724 character_slot=1
+[22:49:25] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15724 Player not rooted; character/login screen
+[22:49:31] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=15724 Player not rooted; map_hud=True rendered=0.882
+[22:49:33] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15724 Visual map stable 3/3; map_hud=True rendered=0.994
+[22:50:27] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12472 Flash launched at original size
+[22:50:31] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12472 Bắt đầu
+[22:50:57] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12472 channel=(450, 308) choices=1
+[22:50:59] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12472 character_slot=1
+[22:51:00] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12472 Player not rooted; character/login screen
+[22:51:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12472 Player not rooted; map_hud=True rendered=0.063
+[22:51:09] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12472 Visual map stable 3/3; map_hud=True rendered=0.999
+[22:53:50] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=17968 Flash launched at original size
+[22:53:53] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=17968 Bắt đầu
+[22:54:19] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=17968 channel=(450, 308) choices=1
+[22:54:21] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=17968 character_slot=1
+[22:54:22] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=17968 Player not rooted; character/login screen
+[22:54:28] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=17968 Player not rooted; map_hud=True rendered=0.040
+[22:54:31] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=17968 Visual map stable 3/3; map_hud=True rendered=0.999
+[22:55:35] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16356 Flash launched at original size
+[22:55:39] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16356 Bắt đầu
+[22:56:05] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16356 channel=(450, 308) choices=1
+[22:56:07] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16356 character_slot=1
+[22:56:08] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16356 Player not rooted; character/login screen
+[22:56:14] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=16356 Player not rooted; map_hud=True rendered=0.988
+[22:56:15] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16356 Visual map stable 3/3; map_hud=True rendered=0.996
+[22:58:34] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=17204 Flash launched at original size
+[22:58:37] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=17204 Bắt đầu
+[22:59:03] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=17204 channel=(450, 308) choices=1
+[22:59:05] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=17204 character_slot=1
+[22:59:06] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=17204 Player not rooted; character/login screen
+[22:59:11] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=17204 Player not rooted; map_hud=True rendered=0.040
+[22:59:15] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=17204 Visual map stable 3/3; map_hud=True rendered=0.998
+[23:01:20] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12780 Flash launched at original size
+[23:01:23] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12780 Bắt đầu
+[23:01:50] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12780 channel=(450, 308) choices=1
+[23:01:52] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12780 character_slot=1
+[23:01:53] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12780 Player not rooted; character/login screen
+[23:01:59] [INFO] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=12780 Player not rooted; map_hud=True rendered=0.063
+[23:02:02] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12780 Visual map stable 3/3; map_hud=True rendered=0.995
+[00:09:29] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[00:09:31] [INFO] [AUTO_BOSS] selected Phát Tài id=11235 type=3060100000051 resource=2060100000051 base=0x59d8330 distance=210
+[00:09:32] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0x1f60c0a0 method_info=0xc04bfc8 slot322_method_id=21699
+[00:09:32] [INFO] [AUTO_BOSS] id=11235 distance=210 receiver=0x59bf790 method=21699 stage=2
+[00:09:34] [INFO] [AUTO_BOSS] battle edge false->true id=11235
+[00:09:53] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[00:09:54] [INFO] [AUTO_BOSS] selected Phát Tài id=17258 type=3060100000051 resource=2060100000051 base=0x5a16330 distance=217
+[00:09:55] [INFO] [AUTO_BOSS] id=17258 distance=217 receiver=0x5a17280 method=21699 stage=2
+[00:09:57] [INFO] [AUTO_BOSS] battle edge false->true id=17258
+[00:10:14] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[00:10:15] [INFO] [AUTO_BOSS] selected Phát Tài id=12055 type=3060100000051 resource=2060100000051 base=0x599f330 distance=219
+[00:10:16] [INFO] [AUTO_BOSS] id=12055 distance=219 receiver=0x164710d0 method=21699 stage=2
+[00:10:18] [INFO] [AUTO_BOSS] battle edge false->true id=12055
+[00:10:35] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[00:10:35] [INFO] [AUTO_BOSS] reject nDict mismatch id=11028 base=0x5c63850 returned=0x0
+[00:10:36] [INFO] [AUTO_BOSS] selected Phát Tài id=14119 type=3060100000051 resource=2060100000051 base=0x5a16330 distance=373
+[00:10:37] [INFO] [AUTO_BOSS] id=14119 distance=373 receiver=0x5c91e50 method=21699 stage=1
+[00:10:38] [INFO] [AUTO_BOSS] battle edge false->true id=14119
+[00:10:59] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[00:14:58] [INFO] [INFINITE_AUTO] ATTACHING pid=8624 addr=0x5709ec0 value=0 proof=0 restore=0 -
+[00:15:04] [INFO] [INFINITE_AUTO] WAIT_AUTO_BATTLE pid=8624 addr=0x5709ec0 value=0 proof=0 restore=0 Theo dõi 1 candidate; cần Auto giảm qua 2 trận
+[00:15:04] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[00:15:06] [INFO] [AUTO_BOSS] reject nDict mismatch id=14119 base=0x5a16330 returned=0x0
+[00:15:07] [INFO] [AUTO_BOSS] selected Phát Tài id=17999 type=3060100000051 resource=2060100000051 base=0x202c05c0 distance=385
+[00:15:08] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0x1f60c0a0 method_info=0xc04bfc8 slot322_method_id=21699
+[00:15:08] [INFO] [AUTO_BOSS] id=17999 distance=385 receiver=0x134ed5e0 method=21699 stage=1
+[00:15:10] [INFO] [AUTO_BOSS] battle edge false->true id=17999
+[00:15:27] [INFO] [INFINITE_AUTO] ARMED pid=8624 addr=0x5709ec0 value=150 proof=0 restore=1 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:15:28] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[00:15:28] [INFO] [AUTO_BOSS] reject nDict mismatch id=16663 base=0x1f51d0a0 returned=0x0
+[00:15:29] [INFO] [AUTO_BOSS] selected Phát Tài id=15234 type=3060100000051 resource=2060100000051 base=0x590bd70 distance=790
+[00:15:29] [INFO] [AUTO_BOSS] id=15234 distance=790 receiver=0x5c910d0 method=21699 stage=1
+[00:15:32] [INFO] [AUTO_BOSS] id=15234 distance=210 receiver=0x5c910d0 method=21699 stage=2
+[00:15:34] [INFO] [AUTO_BOSS] battle edge false->true id=15234
+[00:15:51] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[00:15:51] [INFO] [INFINITE_AUTO] ARMED pid=8624 addr=0x5709ec0 value=150 proof=0 restore=2 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:15:52] [INFO] [AUTO_BOSS] selected Phát Tài id=16355 type=3060100000051 resource=2060100000051 base=0x5a165c0 distance=489
+[00:15:53] [INFO] [AUTO_BOSS] id=16355 distance=489 receiver=0x5a17430 method=21699 stage=1
+[00:15:55] [INFO] [AUTO_BOSS] battle edge false->true id=16355
+[00:16:19] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[00:16:19] [INFO] [INFINITE_AUTO] ARMED pid=8624 addr=0x5709ec0 value=150 proof=0 restore=3 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:16:20] [INFO] [INFINITE_AUTO] STOPPED pid=8624 addr=0x5709ec0 value=150 proof=0 restore=3 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:17:07] [INFO] [INFINITE_AUTO] ATTACHING pid=8624 addr=- value=0 proof=0 restore=0 -
+[00:17:14] [INFO] [INFINITE_AUTO] SCANNING pid=8624 addr=- value=0 proof=0 restore=0 First Scan: Exact Value 150, 4 Bytes theo PID
+[00:17:14] [INFO] [INFINITE_AUTO] WAIT_AUTO_BATTLE pid=8624 addr=- value=0 proof=0 restore=0 Theo dõi 2026 candidate; cần Auto giảm qua 2 trận
+[00:17:14] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[00:17:16] [INFO] [AUTO_BOSS] reject nDict mismatch id=16355 base=0x5a165c0 returned=0x0
+[00:17:17] [INFO] [AUTO_BOSS] selected Phát Tài id=12214 type=3060100000051 resource=2060100000051 base=0x5d640a0 distance=656
+[00:17:18] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0x1f60c0a0 method_info=0xc04bfc8 slot322_method_id=21699
+[00:17:18] [INFO] [AUTO_BOSS] id=12214 distance=656 receiver=0x287e1e50 method=21699 stage=1
+[00:17:20] [INFO] [AUTO_BOSS] battle edge false->true id=12214
+[00:17:45] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[00:17:46] [INFO] [AUTO_BOSS] selected Phát Tài id=14492 type=3060100000051 resource=2060100000051 base=0x285bb0a0 distance=204
+[00:17:47] [INFO] [AUTO_BOSS] id=14492 distance=204 receiver=0x5a17ca0 method=21699 stage=2
+[00:17:49] [INFO] [AUTO_BOSS] battle edge false->true id=14492
+[00:17:49] [INFO] [INFINITE_AUTO] PROVEN pid=8624 addr=0x5709ec0 value=0 proof=2 restore=0 Auto ON đã được chứng minh bằng giảm tuần tự
+[00:18:05] [INFO] [INFINITE_AUTO] ARMED pid=8624 addr=0x5709ec0 value=150 proof=2 restore=1 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:18:07] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[00:18:08] [INFO] [AUTO_BOSS] selected Phát Tài id=14374 type=3060100000051 resource=2060100000051 base=0x5d640a0 distance=214
+[00:18:09] [INFO] [AUTO_BOSS] id=14374 distance=214 receiver=0x287e1790 method=21699 stage=2
+[00:18:11] [INFO] [AUTO_BOSS] battle edge false->true id=14374
+[00:18:41] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[00:18:41] [INFO] [INFINITE_AUTO] ARMED pid=8624 addr=0x5709ec0 value=150 proof=2 restore=2 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:18:41] [INFO] [INFINITE_AUTO] STOPPED pid=8624 addr=0x5709ec0 value=150 proof=2 restore=2 Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo
+[00:47:59] [INFO] [INFINITE_AUTO] account=acc_1/CB ATTACHING pid=16720 addr=- value=0 target=0 proof=0 restore=0 -
+[00:50:20] [INFO] [INFINITE_AUTO] account=acc_1/CB ATTACHING pid=16720 addr=- value=0 target=0 proof=0 restore=0 -
+[00:50:27] [INFO] [INFINITE_AUTO] account=acc_1/CB SCANNING pid=16720 addr=- value=0 target=0 proof=0 restore=0 First Scan: Value 1..150, 4 Bytes theo đúng PID
+[00:50:28] [INFO] [INFINITE_AUTO] account=acc_1/CB WAIT_AUTO_BATTLE pid=16720 addr=- value=0 target=0 proof=0 restore=0 Theo dõi 7011832 candidate; cần một lần giảm duy nhất trong battle
+[00:50:53] [INFO] [INFINITE_AUTO] account=acc_1/CB ATTACHING pid=16720 addr=- value=0 target=0 proof=0 restore=0 -
+[00:51:00] [INFO] [INFINITE_AUTO] account=acc_1/CB SCANNING pid=16720 addr=- value=0 target=0 proof=0 restore=0 First Scan: Value 1..150, 4 Bytes theo đúng PID
+[00:51:01] [INFO] [INFINITE_AUTO] account=acc_1/CB WAIT_AUTO_BATTLE pid=16720 addr=- value=0 target=0 proof=0 restore=0 Theo dõi 6832654 candidate; cần một lần giảm duy nhất trong battle
+[00:56:14] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[00:56:21] [INFO] [AUTO_BOSS] selected Phát Tài id=10512 type=3060100000051 resource=2060100000051 base=0xb4dd0a0 distance=165
+[00:56:22] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[00:56:22] [INFO] [AUTO_BOSS] id=10512 distance=165 receiver=0x1ef70ca0 method=20809 stage=2
+[00:56:22] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Battle bắt đầu; chờ lượt bị trừ rồi lọc N→N-1
+[00:56:22] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Battle bắt đầu; chờ lượt bị trừ rồi lọc N→N-1
+[00:56:24] [INFO] [AUTO_BOSS] battle edge false->true id=10512
+[00:56:26] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Lọc lần đầu còn 166489 candidate
+[00:57:01] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[00:57:02] [INFO] [AUTO_BOSS] selected Phát Tài id=13270 type=3060100000051 resource=2060100000051 base=0x2762bd70 distance=192
+[00:57:03] [INFO] [AUTO_BOSS] id=13270 distance=192 receiver=0x34476af0 method=20809 stage=2
+[00:57:05] [INFO] [AUTO_BOSS] battle edge false->true id=13270
+[00:57:44] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[00:57:45] [INFO] [AUTO_BOSS] selected Phát Tài id=15539 type=3060100000051 resource=2060100000051 base=0xbf9c330 distance=202
+[00:57:46] [INFO] [AUTO_BOSS] id=15539 distance=202 receiver=0x248ba430 method=20809 stage=2
+[00:57:48] [INFO] [AUTO_BOSS] battle edge false->true id=15539
+[00:58:22] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[00:58:54] [INFO] [INFINITE_AUTO] account=acc_1/CB STOPPED pid=16720 addr=- value=0 target=0 proof=0 restore=0 Còn 8028 candidate đã có bằng chứng; tiếp tục quan sát để tách địa chỉ
+[00:59:34] [INFO] [INFINITE_AUTO] account=acc_1/CB ATTACHING pid=16720 addr=- value=0 target=0 proof=0 restore=0 -
+[00:59:41] [INFO] [INFINITE_AUTO] account=acc_1/CB SCANNING pid=16720 addr=- value=0 target=0 proof=0 restore=0 First Scan: Value 1..150, 4 Bytes theo đúng PID
+[00:59:42] [INFO] [INFINITE_AUTO] account=acc_1/CB WAIT_AUTO_BATTLE pid=16720 addr=- value=0 target=0 proof=0 restore=0 Theo dõi 6479125 candidate; cần một lần giảm duy nhất trong battle
+[00:59:57] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:00:05] [INFO] [AUTO_BOSS] selected Phát Tài id=12225 type=3060100000051 resource=2060100000051 base=0x349630a0 distance=150
+[01:00:06] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:00:06] [INFO] [AUTO_BOSS] id=12225 distance=150 receiver=0x248ba0d0 method=20809 stage=2
+[01:00:06] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Battle bắt đầu; chờ lượt bị trừ rồi lọc N→N-1
+[01:00:08] [INFO] [AUTO_BOSS] battle edge false->true id=12225
+[01:00:10] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Lọc lần đầu còn 129602 candidate
+[01:00:36] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:00:37] [INFO] [AUTO_BOSS] selected Phát Tài id=10107 type=3060100000051 resource=2060100000051 base=0x2aba60a0 distance=162
+[01:00:38] [INFO] [AUTO_BOSS] id=10107 distance=162 receiver=0x1ef70430 method=20809 stage=2
+[01:00:40] [INFO] [AUTO_BOSS] battle edge false->true id=10107
+[01:01:34] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[01:01:35] [INFO] [AUTO_BOSS] selected Phát Tài id=11006 type=3060100000051 resource=2060100000051 base=0x2e79cae0 distance=193
+[01:01:36] [INFO] [AUTO_BOSS] id=11006 distance=193 receiver=0x248ba430 method=20809 stage=2
+[01:01:38] [INFO] [AUTO_BOSS] battle edge false->true id=11006
+[01:02:29] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[01:02:30] [INFO] [AUTO_BOSS] selected Phát Tài id=12765 type=3060100000051 resource=2060100000051 base=0x2628c5c0 distance=210
+[01:02:31] [INFO] [AUTO_BOSS] id=12765 distance=210 receiver=0x248ba5e0 method=20809 stage=2
+[01:02:33] [INFO] [AUTO_BOSS] battle edge false->true id=12765
+[01:03:02] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[01:07:34] [INFO] [INFINITE_AUTO] account=acc_1/CB ATTACHING pid=16720 addr=- value=0 target=0 proof=0 restore=0 -
+[01:07:35] [INFO] [INFINITE_AUTO] account=acc_1/CB STOPPED pid=16720 addr=- value=0 target=0 proof=0 restore=0 Còn 774 candidate đã có bằng chứng; tiếp tục quan sát để tách địa chỉ
+[01:07:41] [INFO] [INFINITE_AUTO] account=acc_1/CB SCANNING pid=16720 addr=- value=0 target=0 proof=0 restore=0 First Scan: Value 1..150, 4 Bytes theo đúng PID
+[01:07:42] [INFO] [INFINITE_AUTO] account=acc_1/CB WAIT_AUTO_BATTLE pid=16720 addr=- value=0 target=0 proof=0 restore=0 Theo dõi 1221125 candidate; cần một lần giảm duy nhất trong battle
+[01:07:55] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:08:03] [INFO] [AUTO_BOSS] selected Phát Tài id=14230 type=3060100000051 resource=2060100000051 base=0x2e79c850 distance=210
+[01:08:04] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:08:04] [INFO] [AUTO_BOSS] id=14230 distance=210 receiver=0x20f69790 method=20809 stage=2
+[01:08:04] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Battle bắt đầu; chờ lượt bị trừ rồi lọc N→N-1
+[01:08:06] [INFO] [AUTO_BOSS] battle edge false->true id=14230
+[01:08:08] [INFO] [INFINITE_AUTO] account=acc_1/CB FILTERING pid=16720 addr=- value=0 target=0 proof=0 restore=0 Lọc lần đầu còn 17996 candidate
+[01:08:51] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:08:53] [INFO] [AUTO_BOSS] reject nDict mismatch id=17325 base=0x34963d70 returned=0x0
+[01:08:54] [INFO] [AUTO_BOSS] selected Phát Tài id=10639 type=3060100000051 resource=2060100000051 base=0xd644330 distance=268
+[01:08:55] [INFO] [AUTO_BOSS] id=10639 distance=268 receiver=0x1ebf8940 method=20809 stage=1
+[01:08:57] [INFO] [AUTO_BOSS] battle edge false->true id=10639
+[01:09:26] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[01:09:27] [INFO] [AUTO_BOSS] selected Phát Tài id=11617 type=3060100000051 resource=2060100000051 base=0x2628cae0 distance=244
+[01:09:28] [INFO] [AUTO_BOSS] id=11617 distance=244 receiver=0x1ef70430 method=20809 stage=2
+[01:09:30] [INFO] [AUTO_BOSS] battle edge false->true id=11617
+[01:10:13] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[01:10:14] [INFO] [AUTO_BOSS] selected Phát Tài id=15399 type=3060100000051 resource=2060100000051 base=0xd644ae0 distance=246
+[01:10:15] [INFO] [AUTO_BOSS] id=15399 distance=246 receiver=0x34476280 method=20809 stage=1
+[01:10:17] [INFO] [AUTO_BOSS] battle edge false->true id=15399
+[01:10:58] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[01:12:37] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:12:45] [INFO] [AUTO_BOSS] selected Phát Tài id=17325 type=3060100000051 resource=2060100000051 base=0x34963d70 distance=80
+[01:12:46] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:12:46] [INFO] [AUTO_BOSS] id=17325 distance=80 receiver=0x1ebf8280 method=20809 stage=2
+[01:12:48] [INFO] [AUTO_BOSS] battle edge false->true id=17325
+[01:13:24] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:14:36] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:14:43] [INFO] [AUTO_BOSS] reject nDict mismatch id=17325 base=0x34963d70 returned=0x0
+[01:14:44] [INFO] [AUTO_BOSS] selected Phát Tài id=15040 type=3060100000051 resource=2060100000051 base=0x251a5d70 distance=253
+[01:14:45] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:14:45] [INFO] [AUTO_BOSS] id=15040 distance=253 receiver=0x34ba9e50 method=20809 stage=1
+[01:14:47] [INFO] [AUTO_BOSS] battle edge false->true id=15040
+[01:15:31] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:15:34] [INFO] [INFINITE_AUTO] account=acc_1/CB STOPPED pid=16720 addr=- value=0 target=0 proof=0 restore=0 Còn 58 candidate đã có bằng chứng; tiếp tục quan sát để tách địa chỉ
+[01:16:13] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:16:20] [INFO] [AUTO_BOSS] reject nDict mismatch id=15040 base=0x251a5d70 returned=0x0
+[01:16:21] [INFO] [AUTO_BOSS] selected Phát Tài id=16287 type=3060100000051 resource=2060100000051 base=0x2762b850 distance=100
+[01:16:21] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:16:21] [INFO] [AUTO_BOSS] id=16287 distance=100 receiver=0x248baca0 method=20809 stage=2
+[01:16:24] [INFO] [AUTO_BOSS] battle edge false->true id=16287
+[01:17:09] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:20:37] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:20:40] [INFO] [AUTO_BOSS] selected Phát Tài id=16478 type=3060100000051 resource=2060100000051 base=0x2e79cae0 distance=89
+[01:20:41] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:20:41] [INFO] [AUTO_BOSS] id=16478 distance=89 receiver=0x344f0ca0 method=20809 stage=2
+[01:20:43] [INFO] [AUTO_BOSS] battle edge false->true id=16478
+[01:21:17] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:22:05] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:22:13] [INFO] [AUTO_BOSS] reject nDict mismatch id=16478 base=0x2e79cae0 returned=0x0
+[01:22:14] [INFO] [AUTO_BOSS] selected Phát Tài id=16249 type=3060100000051 resource=2060100000051 base=0xd644850 distance=97
+[01:22:14] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:22:15] [INFO] [AUTO_BOSS] id=16249 distance=97 receiver=0x34ba9e50 method=20809 stage=2
+[01:22:17] [INFO] [AUTO_BOSS] battle edge false->true id=16249
+[01:22:59] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:24:11] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:24:13] [INFO] [AUTO_BOSS] reject nDict mismatch id=16249 base=0xd644850 returned=0x0
+[01:24:14] [INFO] [AUTO_BOSS] selected Phát Tài id=11460 type=3060100000051 resource=2060100000051 base=0x1ea90ae0 distance=105
+[01:24:15] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:24:15] [INFO] [AUTO_BOSS] id=11460 distance=105 receiver=0x34ba9af0 method=20809 stage=2
+[01:24:17] [INFO] [AUTO_BOSS] battle edge false->true id=11460
+[01:24:57] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:26:23] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:26:26] [INFO] [AUTO_BOSS] reject nDict mismatch id=11460 base=0x1ea90ae0 returned=0x0
+[01:26:26] [INFO] [AUTO_BOSS] selected Phát Tài id=12541 type=3060100000051 resource=2060100000051 base=0xaed5330 distance=107
+[01:26:27] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:26:27] [INFO] [AUTO_BOSS] id=12541 distance=107 receiver=0x344f0790 method=20809 stage=2
+[01:26:29] [INFO] [AUTO_BOSS] battle edge false->true id=12541
+[01:27:04] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:28:22] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:28:25] [INFO] [AUTO_BOSS] reject nDict mismatch id=12541 base=0xaed5330 returned=0x0
+[01:28:25] [INFO] [AUTO_BOSS] selected Phát Tài id=13666 type=3060100000051 resource=2060100000051 base=0xb4565c0 distance=128
+[01:28:26] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:28:26] [INFO] [AUTO_BOSS] id=13666 distance=128 receiver=0x344f0790 method=20809 stage=2
+[01:28:28] [INFO] [AUTO_BOSS] battle edge false->true id=13666
+[01:29:12] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:30:07] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:30:10] [INFO] [AUTO_BOSS] selected Phát Tài id=13056 type=3060100000051 resource=2060100000051 base=0x1e312ae0 distance=103
+[01:30:11] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:30:11] [INFO] [AUTO_BOSS] id=13056 distance=103 receiver=0x344f0e50 method=20809 stage=2
+[01:30:13] [INFO] [AUTO_BOSS] battle edge false->true id=13056
+[01:30:48] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:33:00] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:33:03] [INFO] [AUTO_BOSS] selected Phát Tài id=14222 type=3060100000051 resource=2060100000051 base=0xd6445c0 distance=102
+[01:33:04] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:33:06] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=14222 base=0xd6445c0
+[01:33:08] [INFO] [AUTO_BOSS] reject nDict mismatch id=13056 base=0x1e312ae0 returned=0x0
+[01:33:09] [INFO] [AUTO_BOSS] selected Phát Tài id=16218 type=3060100000051 resource=2060100000051 base=0xb4565c0 distance=107
+[01:33:10] [INFO] [AUTO_BOSS] id=16218 distance=107 receiver=0x248baca0 method=20809 stage=2
+[01:33:12] [INFO] [AUTO_BOSS] battle edge false->true id=16218
+[01:33:51] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:35:08] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:35:12] [INFO] [AUTO_BOSS] selected Phát Tài id=11962 type=3060100000051 resource=2060100000051 base=0x2628c0a0 distance=92
+[01:35:13] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:35:13] [INFO] [AUTO_BOSS] id=11962 distance=92 receiver=0x248baca0 method=20809 stage=2
+[01:35:15] [INFO] [AUTO_BOSS] battle edge false->true id=11962
+[01:35:54] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:37:32] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:37:34] [INFO] [AUTO_BOSS] reject nDict mismatch id=11962 base=0x2628c0a0 returned=0x0
+[01:37:35] [INFO] [AUTO_BOSS] selected Phát Tài id=14049 type=3060100000051 resource=2060100000051 base=0x2e79cae0 distance=102
+[01:37:36] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xf57cb8 avm=0xa5b4850 method_info=0x13134120 slot322_method_id=20809
+[01:37:36] [INFO] [AUTO_BOSS] id=14049 distance=102 receiver=0x34476af0 method=20809 stage=2
+[01:37:38] [INFO] [AUTO_BOSS] battle edge false->true id=14049
+[01:38:20] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:38:21] [INFO] [AUTO_BOSS] selected Phát Tài id=10883 type=3060100000051 resource=2060100000051 base=0x1e3125c0 distance=102
+[01:38:22] [INFO] [AUTO_BOSS] id=10883 distance=102 receiver=0x1e6aa0d0 method=20809 stage=2
+[01:38:25] [INFO] [AUTO_BOSS] battle edge false->true id=10883
+[01:48:26] [INFO] [INFINITE_AUTO] account=acc_3/TSk FIRST_SCAN pid=8624 addr=- value=150 target=150 candidates=0 restore=0 Đang quét Exact Value 150, 4 Bytes theo đúng PID
+[01:48:27] [INFO] [INFINITE_AUTO] account=acc_3/TSk WAIT_NEXT_SCAN pid=8624 addr=- value=150 target=150 candidates=2090 restore=0 Đã lưu 2090 candidate; đánh 1 lượt rồi bấm Quét 149
+[01:48:27] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:48:35] [INFO] [AUTO_BOSS] selected Phát Tài id=12223 type=3060100000051 resource=2060100000051 base=0x5c630a0 distance=230
+[01:48:35] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0x1f60c0a0 method_info=0xc04bfc8 slot322_method_id=21699
+[01:48:36] [INFO] [AUTO_BOSS] id=12223 distance=230 receiver=0x5a17af0 method=21699 stage=2
+[01:48:38] [INFO] [AUTO_BOSS] battle edge false->true id=12223
+[01:49:02] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[01:49:02] [INFO] [INFINITE_AUTO] account=acc_3/TSk NEXT_SCAN pid=8624 addr=- value=149 target=150 candidates=2090 restore=0 Đang lọc Exact Value 149 trong First Scan
+[01:49:03] [INFO] [INFINITE_AUTO] account=acc_3/TSk INFINITE_ON pid=8624 addr=0x5709ec0 value=149 target=150 candidates=1 restore=0 Đã chứng minh 0x5709ec0: 150→149; Auto vô hạn đã bật
+[01:49:03] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[01:49:05] [INFO] [AUTO_BOSS] selected Phát Tài id=11069 type=3060100000051 resource=2060100000051 base=0x285bb5c0 distance=270
+[01:49:06] [INFO] [AUTO_BOSS] reject nDict mismatch id=12223 base=0x5c630a0 returned=0x0
+[01:49:08] [INFO] [AUTO_BOSS] selected Phát Tài id=11069 type=3060100000051 resource=2060100000051 base=0x285bb5c0 distance=270
+[01:49:09] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0x1f60c0a0 method_info=0xc04bfc8 slot322_method_id=21699
+[01:49:11] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=11069 base=0x285bb5c0
+[01:49:14] [INFO] [AUTO_BOSS] selected Phát Tài id=13306 type=3060100000051 resource=2060100000051 base=0x285bb850 distance=279
+[01:49:17] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13306 base=0x285bb850
+[01:49:20] [INFO] [AUTO_BOSS] selected Phát Tài id=11503 type=3060100000051 resource=2060100000051 base=0x5a165c0 distance=504
+[01:49:22] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=11503 base=0x5a165c0
+[01:49:25] [INFO] [AUTO_BOSS] selected Phát Tài id=12285 type=3060100000051 resource=2060100000051 base=0x5a160a0 distance=626
+[01:49:28] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=12285 base=0x5a160a0
+[01:49:31] [INFO] [AUTO_BOSS] selected Phát Tài id=15697 type=3060100000051 resource=2060100000051 base=0x59d8330 distance=633
+[01:49:34] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=15697 base=0x59d8330
+[01:49:37] [INFO] [AUTO_BOSS] selected Phát Tài id=13805 type=3060100000051 resource=2060100000051 base=0x5a16d70 distance=635
+[01:49:40] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13805 base=0x5a16d70
+[01:49:43] [INFO] [AUTO_BOSS] selected Phát Tài id=11262 type=3060100000051 resource=2060100000051 base=0x5d64d70 distance=736
+[01:49:45] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=11262 base=0x5d64d70
+[01:49:48] [INFO] [AUTO_BOSS] selected Phát Tài id=13293 type=3060100000051 resource=2060100000051 base=0x5d64ae0 distance=744
+[01:49:51] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13293 base=0x5d64ae0
+[01:49:54] [INFO] [AUTO_BOSS] selected Phát Tài id=13659 type=3060100000051 resource=2060100000051 base=0x5d64850 distance=749
+[01:49:57] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13659 base=0x5d64850
+[01:50:00] [INFO] [AUTO_BOSS] selected Phát Tài id=13863 type=3060100000051 resource=2060100000051 base=0x1e33f0a0 distance=751
+[01:50:02] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13863 base=0x1e33f0a0
+[01:50:05] [INFO] [AUTO_BOSS] selected Phát Tài id=16340 type=3060100000051 resource=2060100000051 base=0x5d64330 distance=875
+[01:50:08] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=16340 base=0x5d64330
+[01:50:11] [INFO] [AUTO_BOSS] selected Phát Tài id=11109 type=3060100000051 resource=2060100000051 base=0x5c63850 distance=1054
+[01:50:14] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=11109 base=0x5c63850
+[01:50:16] [INFO] [AUTO_BOSS] selected Phát Tài id=11748 type=3060100000051 resource=2060100000051 base=0x5d645c0 distance=1056
+[01:50:19] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=11748 base=0x5d645c0
+[01:50:22] [INFO] [AUTO_BOSS] selected Phát Tài id=13275 type=3060100000051 resource=2060100000051 base=0x5a16330 distance=1064
+[01:50:25] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=13275 base=0x5a16330
+[01:50:28] [INFO] [AUTO_BOSS] selected Phát Tài id=12112 type=3060100000051 resource=2060100000051 base=0x202c0850 distance=1072
+[01:50:31] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=12112 base=0x202c0850
+[01:50:34] [INFO] [AUTO_BOSS] selected Phát Tài id=15423 type=3060100000051 resource=2060100000051 base=0x59d8d70 distance=1242
+[01:50:37] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=15423 base=0x59d8d70
+[01:50:39] [INFO] [AUTO_BOSS] selected Phát Tài id=16750 type=3060100000051 resource=2060100000051 base=0x5a16850 distance=1248
+[01:50:42] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=16750 base=0x5a16850
+[01:50:45] [INFO] [AUTO_BOSS] selected Phát Tài id=10855 type=3060100000051 resource=2060100000051 base=0x59d8ae0 distance=1252
+[01:50:48] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=10855 base=0x59d8ae0
+[01:50:51] [INFO] [AUTO_BOSS] selected Phát Tài id=15061 type=3060100000051 resource=2060100000051 base=0x1fdb7d70 distance=1255
+[01:50:53] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=15061 base=0x1fdb7d70
+[01:50:57] [INFO] [AUTO_BOSS] selected Phát Tài id=17249 type=3060100000051 resource=2060100000051 base=0x59d80a0 distance=1259
+[01:51:00] [WARN] [AUTO_BOSS] REJECT_CLICKNPC_TIMEOUT id=17249 base=0x59d80a0
+[10:52:55] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=2348 Flash launched at original size
+[10:53:32] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10036 Flash launched at original size
+[10:53:35] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10036 Bắt đầu
+[10:54:02] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10036 channel=(450, 308) choices=1
+[10:54:03] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10036 character_slot=1
+[10:54:08] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10036 Player=0x1024f0a0 Core=0x166c20d0 world=(1000,1000)
+[10:54:08] [INFO] [INFINITE_AUTO] account=acc_2/pepsi FIRST_SCAN pid=10036 addr=- value=150 target=150 candidates=0 restore=0 Đang quét Exact Value 150, 4 Bytes theo đúng PID
+[10:54:08] [INFO] [INFINITE_AUTO] account=acc_2/pepsi WAIT_BATTLE_EDGE pid=10036 addr=- value=150 target=150 candidates=1590 restore=0 Đã lưu 1590 candidate; đánh 1 lượt rồi bấm Quét 149
+[10:54:08] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+[10:54:13] [INFO] [INFINITE_AUTO] account=acc_2/pepsi WAIT_BATTLE_EDGE pid=10036 addr=- value=150 target=150 candidates=1590 restore=0 Waiting for battle false->true->false
+[10:57:55] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10168 Flash launched at original size
+[10:57:59] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10168 Bắt đầu
+[10:58:25] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10168 channel=(450, 308) choices=1
+[10:58:27] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10168 character_slot=1
+[10:58:32] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10168 Player=0x120880a0 Core=0x164670d0 world=(1000,1000)
+[10:58:32] [INFO] [INFINITE_AUTO] account=acc_2/pepsi FIRST_SCAN pid=10168 addr=- value=150 target=150 candidates=0 restore=0 Đang quét Exact Value 150, 4 Bytes theo đúng PID
+[10:58:32] [INFO] [INFINITE_AUTO] account=acc_2/pepsi WAIT_BATTLE_EDGE pid=10168 addr=- value=150 target=150 candidates=1646 restore=0 Đã lưu 1646 candidate; đánh 1 lượt rồi bấm Quét 149

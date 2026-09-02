@@ -1,0 +1,43 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_D_MONSTERS_V2",
+  "status": "RUNNING",
+  "run_id": "target-d-monsters-2eac4e37-adb7-4772-b444-d6fccd5360e1",
+  "started_at": 1786766502.1984956,
+  "account_name": "pepsi",
+  "required_signatures": 3,
+  "required_clears_each": 10,
+  "signatures": [
+    {
+      "name": "Phát Tài",
+      "type": 3060100000051,
+      "resource": 2060100000051,
+      "map": "Lạp Tuyết Địa",
+      "travel_ok": true,
+      "precheck_ok": true,
+      "precheck": [
+        "PASS TSk pid=4036 hwnd=1836922",
+        "PASS OpenProcess read-only",
+        "PASS entity vtable=0x11ca0e0",
+        "PASS Player=0x1d5fc0a0 Core=0xbf030d0 world=(1300,900)",
+        "PASS Core.getNpc slot=131",
+        "PASS selected monster heap candidates=3"
+      ],
+      "attacks": 10,
+      "clears": 10,
+      "final_state": "STOPPED",
+      "final_detail": "entry=10; target=14063",
+      "targets_found": 21,
+      "ok": true,
+      "result": "OK"
+    }
+  ],
+  "failure_reason": "",
+  "login": {
+    "ok": true,
+    "detail": "Player=0x1d5fc0a0 Core=0xbf030d0 world=(1000,1000)",
+    "pid": 4036,
+    "hwnd": 1836922,
+    "account": "pepsi"
+  },
+  "pid": 4036
+}

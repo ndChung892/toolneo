@@ -1,0 +1,16 @@
+{
+  "required": 1,
+  "passed": 0,
+  "results": [
+    {
+      "ok": false,
+      "target": "Đông Huyền Thành",
+      "map_id": 9,
+      "detected": "Bàn Địa Tộc",
+      "score": 0.4044,
+      "margin": 0.0014,
+      "detail": "map fingerprint mismatch",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_9_1786636590.png"
+    }
+  ]
+}

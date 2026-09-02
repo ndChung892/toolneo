@@ -1,0 +1,131 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.BossScanWindow"
+        Title="Dò boss"
+        Width="440" Height="280" CanResize="False"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Sel" Color="#3a5f8a"/>
+    <SolidColorBrush x:Key="Green" Color="#4e9e3a"/>
+    <SolidColorBrush x:Key="Orange" Color="#d2622a"/>
+    <SolidColorBrush x:Key="Red" Color="#9c3232"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+    <SolidColorBrush x:Key="Combo" Color="#3c3f41"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="ComboBox">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="22"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="Padding" Value="6,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="ComboBox /template/ Border#Background">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+    </Style>
+    <Style Selector="TextBox">
+      <Setter Property="Background" Value="{StaticResource Field}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="MinHeight" Value="22"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="Padding" Value="6,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="Button">
+      <Setter Property="CornerRadius" Value="3"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="Padding" Value="9,0"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+      <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.tool"><Setter Property="Background" Value="{StaticResource Gray}"/></Style>
+    <Style Selector="Button.try"><Setter Property="Background" Value="{StaticResource Orange}"/></Style>
+    <Style Selector="Button.go">
+      <Setter Property="Background" Value="{StaticResource Green}"/>
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Height" Value="24"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="Button.stop"><Setter Property="Background" Value="{StaticResource Red}"/></Style>
+    <Style Selector="ListBox">
+      <Setter Property="Background" Value="Transparent"/>
+      <Setter Property="BorderThickness" Value="0"/>
+    </Style>
+    <Style Selector="ListBoxItem">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="Padding" Value="7,3"/>
+      <Setter Property="MinHeight" Value="0"/>
+      <Setter Property="FontSize" Value="12"/>
+    </Style>
+    <Style Selector="ListBoxItem:selected /template/ ContentPresenter">
+      <Setter Property="Background" Value="{StaticResource Sel}"/>
+    </Style>
+  </Window.Styles>
+
+  <!-- The list is a fixed 118px, not a stretching row: a map holds a handful of
+       monster types, so a list sized to the window was mostly empty space and
+       made the window look bigger than the job. It scrolls when there are more. -->
+  <Grid Margin="9" RowDefinitions="Auto,118,Auto,Auto,Auto">
+
+    <!-- Which client to read. Only Flash windows that are actually open appear,
+         because this reads that client's memory - the others could only fail. -->
+    <Grid Grid.Row="0" ColumnDefinitions="Auto,*,Auto" Margin="0,0,0,6">
+      <TextBlock Grid.Column="0" Text="Client" VerticalAlignment="Center" Margin="0,0,6,0" FontSize="11.5"/>
+      <ComboBox  Grid.Column="1" x:Name="CbAccount" HorizontalAlignment="Stretch"
+                 DisplayMemberBinding="{Binding Name}"/>
+      <Button Grid.Column="2" Classes="tool" Content="QUÉT MAP ĐANG ĐỨNG" Margin="6,0,0,0" Click="OnScan"/>
+    </Grid>
+
+    <Border Grid.Row="1" BorderBrush="{StaticResource Border}" BorderThickness="1" CornerRadius="2">
+      <ListBox x:Name="ScanList" SelectionChanged="OnPicked">
+        <ListBox.ItemTemplate>
+          <DataTemplate>
+            <Grid ColumnDefinitions="*,Auto">
+              <TextBlock Grid.Column="0" Text="{Binding Name}" VerticalAlignment="Center"/>
+              <TextBlock Grid.Column="1" Text="{Binding Detail}" VerticalAlignment="Center"
+                         Foreground="{StaticResource Dim}" FontSize="11"/>
+            </Grid>
+          </DataTemplate>
+        </ListBox.ItemTemplate>
+      </ListBox>
+    </Border>
+
+    <!-- Try it before naming it: the point of this window is to be sure the
+         thing on the list is the thing you can actually walk to and fight. -->
+    <Grid Grid.Row="2" ColumnDefinitions="Auto,Auto,*" Margin="0,7,0,0">
+      <Button Grid.Column="0" Classes="try" Content="ĐÁNH THỬ CON NÀY" Click="OnTest"
+              ToolTip.Tip="Đi tới đúng con đang chọn và đánh — hạ một con là tự dừng"/>
+      <Button Grid.Column="1" Classes="stop" Content="DỪNG" Width="62" Margin="6,0,0,0" Click="OnTestStop"/>
+    </Grid>
+
+    <Grid Grid.Row="3" ColumnDefinitions="Auto,*,Auto" Margin="0,7,0,0">
+      <TextBlock Grid.Column="0" Text="Tên" VerticalAlignment="Center" Margin="0,0,6,0" FontSize="11.5"/>
+      <TextBox   Grid.Column="1" x:Name="TName" HorizontalAlignment="Stretch"
+                 Watermark="tên hiển thị của con boss"/>
+      <Button Grid.Column="2" Classes="go" Content="THÊM VÀO DANH SÁCH" Margin="6,0,0,0" Click="OnAdd"/>
+    </Grid>
+
+    <TextBlock Grid.Row="4" x:Name="Hint" TextWrapping="Wrap" MaxLines="2"
+               Text="Chọn client đang mở rồi bấm QUÉT."
+               Foreground="{StaticResource Dim}" FontSize="11" Margin="2,7,0,0"/>
+  </Grid>
+</Window>

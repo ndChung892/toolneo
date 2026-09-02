@@ -1,0 +1,32 @@
+{
+  "required": 4,
+  "passed": 3,
+  "results": [
+    {
+      "ok": true,
+      "target": "Tiên Lạp Thành",
+      "map_id": 31,
+      "detail": "enrolled after title edge; similarity=0.131; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_31_1786636282.png"
+    },
+    {
+      "ok": true,
+      "target": "Thiên Khung Tộc",
+      "map_id": 32,
+      "detail": "enrolled after title edge; similarity=0.997; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_32_1786636286.png"
+    },
+    {
+      "ok": true,
+      "target": "Băng Tuyết Nguyên",
+      "map_id": 35,
+      "detail": "enrolled after title edge; similarity=0.123; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_35_1786636290.png"
+    },
+    {
+      "ok": false,
+      "target": "Tuyết Lâm",
+      "detail": "world map did not open"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "pid": 11464,
+  "player": "0x1de2f0a0",
+  "core": "0xb7dc0d0",
+  "transitions": 5,
+  "candidates": [
+    {
+      "object": "core+88+114",
+      "offset": "0x1f0",
+      "hits": 5,
+      "values": [
+        267500488,
+        311255896,
+        336017848,
+        463549992,
+        494597120,
+        519022072
+      ],
+      "events": [
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 267500488,
+          "new": 519022072
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 519022072,
+          "new": 494597120
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 494597120,
+          "new": 336017848
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 336017848,
+          "new": 463549992
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 463549992,
+          "new": 311255896
+        }
+      ]
+    },
+    {
+      "object": "core+90+54",
+      "offset": "0x64",
+      "hits": 5,
+      "values": [
+        0,
+        579874976,
+        579876944,
+        579877600
+      ],
+      "events": [
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 0,
+          "new": 579877600
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 579877600,
+          "new": 579874976
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 579874976,
+          "new": 0
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 0,
+          "new": 579876944
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 579876944,
+          "new": 0
+        }
+      ]
+    },
+    {
+      "object": "core+90+54",
+      "offset": "0x68",
+      "hits": 5,
+      "values": [
+        2,
+        3,
+        5,
+        6
+      ],
+      "events": [
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 6,
+          "new": 2
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 2,
+          "new": 3
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 3,
+          "new": 6
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 6,
+          "new": 5
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 5,
+          "new": 6
+        }
+      ]
+    },
+    {
+      "object": "player+b0+dc",
+      "offset": "0x120",
+      "hits": 5,
+      "values": [
+        579874976,
+        579875632,
+        579876288,
+        579876944,
+        579877600,
+        579878256
+      ],
+      "events": [
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 579876288,
+          "new": 579878256
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 579878256,
+          "new": 579877600
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 579877600,
+          "new": 579874976
+        },
+        {
+          "from": "AUTO_ON",
+          "to": "AUTO_OFF",
+          "old": 579874976,
+          "new": 579875632
+        },
+        {
+          "from": "AUTO_OFF",
+          "to": "AUTO_ON",
+          "old": 579875632,
+          "new": 579876944
+        }
+      ]
+    }
+  ]
+}

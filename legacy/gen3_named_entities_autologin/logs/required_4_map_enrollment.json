@@ -1,0 +1,11 @@
+{
+  "required": 1,
+  "passed": 0,
+  "results": [
+    {
+      "ok": false,
+      "target": "Đông Huyền Thành",
+      "detail": "world map did not open"
+    }
+  ]
+}

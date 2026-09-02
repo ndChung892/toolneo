@@ -1,0 +1,294 @@
+{
+  "pid": 10132,
+  "hwnd": 394210,
+  "events": [
+    {
+      "at": "2026-08-13T10:25:25.586898",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T10:25:30.640307",
+      "state": "ATTACHING",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T10:25:31.647967",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546 distance=1628 receiver=0x29043790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:25:33.674063",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546 distance=1546 target_atom=0xf79ed71"
+    },
+    {
+      "at": "2026-08-13T10:25:35.715111",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546 distance=1013 target_atom=0xf79ed71"
+    },
+    {
+      "at": "2026-08-13T10:25:37.758286",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546 distance=479 target_atom=0xf79ed71"
+    },
+    {
+      "at": "2026-08-13T10:25:39.781396",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546 distance=255 target_atom=0xf79ed71"
+    },
+    {
+      "at": "2026-08-13T10:25:45.849639",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 15546,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:25:48.893008",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=15546; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:25:49.903397",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=12702 distance=2398 receiver=0x1f0fe790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:25:51.923133",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=12702 distance=2339 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:25:53.944227",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=12702 distance=1825 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:25:55.980069",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=12702 distance=1295 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:25:57.501899",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 21,
+      "detail": "id=12702 distance=819 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:25:59.522129",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=12702 distance=365 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:26:01.537346",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=12702 distance=255 target_atom=0x64d7ae1"
+    },
+    {
+      "at": "2026-08-13T10:26:03.568230",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 12702,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=12702; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:26:06.594080",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=12702; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:26:07.599164",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=15185 distance=2030 receiver=0x1015e430 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:26:09.628231",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=15185 distance=1970 target_atom=0x23ea1d71"
+    },
+    {
+      "at": "2026-08-13T10:26:11.147939",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=15185 distance=1520 target_atom=0x23ea1d71"
+    },
+    {
+      "at": "2026-08-13T10:26:13.165404",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=15185 distance=1068 target_atom=0x23ea1d71"
+    },
+    {
+      "at": "2026-08-13T10:26:15.172314",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 15185,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "id=15185 distance=599 target_atom=0x23ea1d71"
+    },
+    {
+      "at": "2026-08-13T10:26:17.180648",
+      "state": "IN_BATTLE",
+      "target_id": 15185,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 20,
+      "detail": "entry=1; target=15185"
+    },
+    {
+      "at": "2026-08-13T10:26:49.514421",
+      "state": "IN_BATTLE",
+      "target_id": 15185,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 20,
+      "detail": "entry=1; target=15185"
+    },
+    {
+      "at": "2026-08-13T10:26:50.547552",
+      "state": "IN_BATTLE",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "entry=1; target=15185"
+    },
+    {
+      "at": "2026-08-13T10:26:51.555662",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "id=14778 distance=2181 receiver=0x20260790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:26:53.568073",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "id=14778 distance=2123 target_atom=0x222e3331"
+    },
+    {
+      "at": "2026-08-13T10:26:55.595804",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "id=14778 distance=1676 target_atom=0x222e3331"
+    },
+    {
+      "at": "2026-08-13T10:26:57.627996",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "id=14778 distance=1241 target_atom=0x222e3331"
+    },
+    {
+      "at": "2026-08-13T10:26:59.659902",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 14778,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "id=14778 distance=786 target_atom=0x222e3331"
+    },
+    {
+      "at": "2026-08-13T10:27:01.179454",
+      "state": "IN_BATTLE",
+      "target_id": 14778,
+      "attacks": 2,
+      "clears": 1,
+      "candidates": 21,
+      "detail": "entry=2; target=14778"
+    }
+  ]
+}

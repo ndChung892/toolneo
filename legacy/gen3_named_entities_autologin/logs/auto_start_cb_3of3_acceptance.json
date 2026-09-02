@@ -1,0 +1,14 @@
+{
+  "build": "AUTO_START_SINGLE_V1_20260813",
+  "account": "CB",
+  "character_slot": 1,
+  "results": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "detail": "timeout before rooted map",
+      "pid": 15844,
+      "hwnd": 1969054
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "account_id": "acc_1",
+    "name": "CB",
+    "position": 1,
+    "state": "TIMEOUT",
+    "pid": 17028,
+    "hwnd": 657986,
+    "detail": ""
+  },
+  {
+    "account_id": "acc_2",
+    "name": "pepsi",
+    "position": 2,
+    "state": "TIMEOUT",
+    "pid": 13308,
+    "hwnd": 526930,
+    "detail": ""
+  },
+  {
+    "account_id": "acc_3",
+    "name": "TSk",
+    "position": 3,
+    "state": "TIMEOUT",
+    "pid": 6036,
+    "hwnd": 1772188,
+    "detail": ""
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-08-11T21:57:51.130920",
+  "window": {
+    "title": "[process] flash.exe (headless collector)",
+    "pid": 16972,
+    "hwnd": 0
+  },
+  "note": "Read-only memory detector. Chỉ scan process gắn với cửa sổ đã chọn."
+}

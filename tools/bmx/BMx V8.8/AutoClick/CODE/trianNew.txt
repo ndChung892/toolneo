@@ -1,0 +1,26 @@
+trianNew
+1
+While(túi đồ.png)_{PressKey(B)_Delay20ms(20)_ClickPoint(TriAn/N.Vu.png)_Delay20ms(20)_DoubleClickPoint(319;121)_Delay20ms(20)}
+=> mở túi đồ, chọn túi nhiệm vụ, click vào ô đầu tiên (319;121) của túi để dùng sách. (để trống ô đầu tiên của túi nhiệm vụ để sách trị an rơi vào đó khi nhận Q, hoặc sửa tọa độ qua ô túi mà sách trị an rơi vào)
+
+!While(TriAn/TaTim.png)_{ClickPoint(TriAn/pq.png)_ClickPoint(TriAn/pt.png)_Delay20ms(20)}
+=> click vào boss và khiêu chiến, nếu boss bị che / ẩn thì click bằng tay vào boss cho xuất hiện bảng giao tiếp cho tool tự khiêu chiến (không ấn vào trận)
+
+While(túi đồ.png)_{ClickPoint(TriAn/TaTim.png)_Delay20ms(20)}
+=> đợi vào trận
+
+!While(túi đồ.png)_{Delay20ms(20)}
+=> đợi đánh xong
+
+ClickPoint(647;408)
+Delay20ms(20)
+=> Click vào map tránh phù về lỗi
+
+!While(RoiKhoi.png)_{ClickPoint(872;230)_Delay20ms(20)}
+=> click liên tục vào tên NPC ở bảng Q nhanh để mở NPC. Lưu ý phải mở bảng Q nhanh và vị trí bảng Q nhanh để mặc đinh
+
+!While(Xong.png)_{ClickPoint(Xem2.png)_Delay20ms(20)_ClickPoint(XongNV.png)_Delay20ms(20)}
+=> giao tiếp với NPC
+
+ClickPoint(Xong.png)
+=> trả nhiệm vụ

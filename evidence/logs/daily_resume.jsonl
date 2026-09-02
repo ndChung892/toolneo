@@ -1,0 +1,29 @@
+{"at": "2026-08-21T11:30:45", "level": "info", "tag": "DAILY", "msg": "wait 1200s after Than Tu: acc_2"}
+{"at": "2026-08-21T11:50:45", "level": "info", "tag": "AUTO_START", "msg": "WAIT_WINDOW attempt=1 pass=0 pid=16388 Flash launched at original size"}
+{"at": "2026-08-21T11:50:49", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=16388 Bắt đầu"}
+{"at": "2026-08-21T11:50:50", "level": "info", "tag": "AUTO_START", "msg": "FAILED_CLOSED attempt=1 pass=0 pid=16388 Flash window closed before map"}
+{"at": "2026-08-21T11:53:50", "level": "error", "tag": "DAILY", "msg": "login after Than Tu timeout"}
+{"at": "2026-08-21T11:55:28", "level": "info", "tag": "DAILY", "msg": "wait 0s after Than Tu: acc_2"}
+{"at": "2026-08-21T11:55:28", "level": "info", "tag": "AUTO_START", "msg": "WAIT_WINDOW attempt=1 pass=0 pid=10568 Flash launched at original size"}
+{"at": "2026-08-21T11:55:33", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=10568 Bắt đầu"}
+{"at": "2026-08-21T11:55:33", "level": "info", "tag": "AUTO_START", "msg": "FAILED_CLOSED attempt=1 pass=0 pid=10568 Flash window closed before map"}
+{"at": "2026-08-21T11:55:33", "level": "warn", "tag": "DAILY", "msg": "login retry 1/3"}
+{"at": "2026-08-21T11:55:36", "level": "info", "tag": "AUTO_START", "msg": "WAIT_WINDOW attempt=1 pass=0 pid=19768 Flash launched at original size"}
+{"at": "2026-08-21T11:55:42", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=19768 Bắt đầu"}
+{"at": "2026-08-21T11:55:47", "level": "info", "tag": "AUTO_START", "msg": "RETRY_START attempt=1 pass=0 pid=19768 chua thay chon kenh, bam lai Bat dau"}
+{"at": "2026-08-21T11:56:04", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=19768 Bắt đầu"}
+{"at": "2026-08-21T11:56:07", "level": "info", "tag": "AUTO_START", "msg": "CHANNEL_SELECTED attempt=1 pass=0 pid=19768 channel=(449, 308) choices=1"}
+{"at": "2026-08-21T11:56:11", "level": "info", "tag": "AUTO_START", "msg": "ENTER_GAME_CLICKED attempt=1 pass=0 pid=19768 character_slot=1 slot_verified=True"}
+{"at": "2026-08-21T11:56:17", "level": "info", "tag": "AUTO_START", "msg": "MAP_READY_OPEN attempt=1 pass=0 pid=19768 Player=0x1318d0a0 Core=0xd9190d0 world=(2197,470)"}
+{"at": "2026-08-21T11:56:21", "level": "info", "tag": "POPUP", "msg": "đã đóng cache_notice"}
+{"at": "2026-08-21T11:56:22", "level": "info", "tag": "POPUP", "msg": "đã đóng cache_notice"}
+{"at": "2026-08-21T11:56:30", "level": "info", "tag": "DAILY", "msg": "Tu Hanh result={\"ok\": true, \"attempted\": true, \"detail\": \"đã bấm đúng Bắt đầu → Có cho TU HÀNH\", \"evidence\": \"C:\\\\Users\\\\Administrator\\\\Desktop\\\\New folder\\\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\\\fbh_multi_account_infinite_auto\\\\dev_supervisor_target_a_v2_20260814\\\\logs\\\\daily_live_20260821_115630_tu_hanh_started.png\"}"}
+{"at": "2026-08-21T11:56:31", "level": "info", "tag": "DAILY", "msg": "Flash closed; wait 2100s after Tu Hanh"}
+{"at": "2026-08-21T12:31:31", "level": "info", "tag": "AUTO_START", "msg": "WAIT_WINDOW attempt=1 pass=0 pid=16792 Flash launched at original size"}
+{"at": "2026-08-21T12:31:35", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=16792 Bắt đầu"}
+{"at": "2026-08-21T12:31:40", "level": "info", "tag": "AUTO_START", "msg": "RETRY_START attempt=1 pass=0 pid=16792 chua thay chon kenh, bam lai Bat dau"}
+{"at": "2026-08-21T12:32:00", "level": "info", "tag": "AUTO_START", "msg": "START_CLICKED attempt=1 pass=0 pid=16792 Bắt đầu"}
+{"at": "2026-08-21T12:32:03", "level": "info", "tag": "AUTO_START", "msg": "CHANNEL_SELECTED attempt=1 pass=0 pid=16792 channel=(449, 308) choices=1"}
+{"at": "2026-08-21T12:32:07", "level": "info", "tag": "AUTO_START", "msg": "ENTER_GAME_CLICKED attempt=1 pass=0 pid=16792 character_slot=1 slot_verified=True"}
+{"at": "2026-08-21T12:32:12", "level": "info", "tag": "AUTO_START", "msg": "MAP_READY_OPEN attempt=1 pass=0 pid=16792 Player=0x1a8880a0 Core=0x1343a0d0 world=(2198,540)"}
+{"at": "2026-08-21T12:32:12", "level": "info", "tag": "DAILY", "msg": "final login requested after Tu Hanh wait"}

@@ -1,0 +1,53 @@
+﻿client pid=12304 'CB'
+13 map can di (theo bang BMx, cap 1..5):
+   Anh Vũ Cảnh          dược cấp 3
+   Cổ Đạo               dược cấp 5
+   Kỵ Bình Nguyên       dược cấp 2
+   Lê Dương Bắc         cá cấp 1, dược cấp 1
+   Lê Dương Thôn        cá cấp 4, dược cấp 4
+   Lê Dương Đảo         dược cấp 2
+   Ngọc Phong Lâm       dược cấp 5
+   Quang Bình Nguyên    cá cấp 3
+   Thiên Lục Châu       cá cấp 2
+   Tháp Khắc Nguyên     dược cấp 4
+   Trầm Thụy Lâm        dược cấp 3
+   Vân Lộc Sơn          cá cấp 5
+   Đông Xuất Vân        cá cấp 1, dược cấp 1
+
+[1/13] Anh Vũ Cảnh: Dược Thảo Cấp 3 x1   (BMx cho: dược cấp 3)
+      Dược Thảo Cấp 3      (2100,1200)
+[2/13] Cổ Đạo: KHONG CO bai ca/duoc (quet 9 entity)   (BMx cho: dược cấp 5)
+[3/13] Kỵ Bình Nguyên: KHONG CO bai ca/duoc (quet 14 entity)   (BMx cho: dược cấp 2)
+[4/13] Lê Dương Bắc: KHONG CO bai ca/duoc (quet 12 entity)   (BMx cho: cá cấp 1, dược cấp 1)
+[5/13] Lê Dương Thôn: KHONG CO bai ca/duoc (quet 6 entity)   (BMx cho: cá cấp 4, dược cấp 4)
+[6/13] Lê Dương Đảo: Dược Thảo Cấp 2 x1   (BMx cho: dược cấp 2)
+      Dược Thảo Cấp 2      (2100,1200)
+[7/13] Ngọc Phong Lâm: Dược Thảo Cấp 5 x1   (BMx cho: dược cấp 5)
+      Dược Thảo Cấp 5      (2100,1200)
+[8/13] Quang Bình Nguyên: Dược Thảo Cấp 5 x1   (BMx cho: cá cấp 3)
+      Dược Thảo Cấp 5      (2100,1200)
+[9/13] Thiên Lục Châu: KHONG CO bai ca/duoc (quet 8 entity)   (BMx cho: cá cấp 2)
+[10/13] Tháp Khắc Nguyên: Dược Thảo Cấp 4 x1   (BMx cho: dược cấp 4)
+      Dược Thảo Cấp 4      (2100,1200)
+[11/13] Trầm Thụy Lâm: KHONG CO bai ca/duoc (quet 6 entity)   (BMx cho: dược cấp 3)
+[12/13] Vân Lộc Sơn: KHONG CO bai ca/duoc (quet 7 entity)   (BMx cho: cá cấp 5)
+[13/13] Đông Xuất Vân: Dược Thảo Cấp 1 x1   (BMx cho: cá cấp 1, dược cấp 1)
+      Dược Thảo Cấp 1      (2100,1200)
+
+===== BANG BAI CA / DUOC THAO =====
+
+  Dược Thảo Cấp 1  (1 bãi)
+      Đông Xuất Vân        (2100, 1200)
+
+  Dược Thảo Cấp 2  (1 bãi)
+      Lê Dương Đảo         (2100, 1200)
+
+  Dược Thảo Cấp 3  (1 bãi)
+      Anh Vũ Cảnh          (2100, 1200)
+
+  Dược Thảo Cấp 4  (1 bãi)
+      Tháp Khắc Nguyên     (2100, 1200)
+
+  Dược Thảo Cấp 5  (2 bãi)
+      Ngọc Phong Lâm       (2100, 1200)
+      Quang Bình Nguyên    (2100, 1200)

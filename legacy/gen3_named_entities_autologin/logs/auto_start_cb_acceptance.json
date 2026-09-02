@@ -1,0 +1,28 @@
+{
+  "account": "CB",
+  "required": 3,
+  "passed": 3,
+  "results": [
+    {
+      "attempt": 1,
+      "ok": true,
+      "detail": "Visual map stable 3/3; map_hud=True rendered=0.998",
+      "pid": 9940,
+      "hwnd": 4917826
+    },
+    {
+      "attempt": 2,
+      "ok": true,
+      "detail": "Visual map stable 3/3; map_hud=True rendered=0.993",
+      "pid": 7408,
+      "hwnd": 6556232
+    },
+    {
+      "attempt": 3,
+      "ok": true,
+      "detail": "Visual map stable 3/3; map_hud=True rendered=0.985",
+      "pid": 15152,
+      "hwnd": 3279478
+    }
+  ]
+}

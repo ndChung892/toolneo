@@ -1,0 +1,33 @@
+﻿client 'CB' pid=4060
+2 map se quet
+
+[1/2] Lê Dương Bắc: Đàn Cá Cấp 1 x5
+      Đàn Cá Cấp 1       (579,1777)
+      Đàn Cá Cấp 1       (63,1707)
+      Đàn Cá Cấp 1       (1560,1843)
+      Đàn Cá Cấp 1       (1995,1869)
+      Đàn Cá Cấp 1       (214,1042)
+[2/2] Tuyết Lâm: Dược Thảo Cấp 7 x1, Đàn Cá Cấp 6 x3
+      Dược Thảo Cấp 7    (2100,1200)
+      Đàn Cá Cấp 6       (1132,1587)
+      Đàn Cá Cấp 6       (1816,1279)
+      Đàn Cá Cấp 6       (1201,1224)
+
+-> C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\configs\spot_positions.json
+
+===== TAT CA VI TRI BAI =====
+
+  Dược Thảo Cấp 7  (1 bãi)
+      Tuyết Lâm            (2100, 1200)
+
+  Đàn Cá Cấp 1  (5 bãi)
+      Lê Dương Bắc         (63, 1707)
+      Lê Dương Bắc         (214, 1042)
+      Lê Dương Bắc         (579, 1777)
+      Lê Dương Bắc         (1560, 1843)
+      Lê Dương Bắc         (1995, 1869)
+
+  Đàn Cá Cấp 6  (3 bãi)
+      Tuyết Lâm            (1132, 1587)
+      Tuyết Lâm            (1201, 1224)
+      Tuyết Lâm            (1816, 1279)

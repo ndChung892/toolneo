@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-08-12T00:32:44.332582",
+  "pid": 16972,
+  "target": "0xFDAAD70",
+  "count": 3,
+  "matches": [
+    {
+      "address": "0x1E15AD74",
+      "allocation_base": "0x1DFB0000",
+      "protect": 4,
+      "type": 131072
+    },
+    {
+      "address": "0x21EFD604",
+      "allocation_base": "0x21DB0000",
+      "protect": 4,
+      "type": 131072
+    },
+    {
+      "address": "0x23A08870",
+      "allocation_base": "0x239B0000",
+      "protect": 4,
+      "type": 131072
+    }
+  ]
+}

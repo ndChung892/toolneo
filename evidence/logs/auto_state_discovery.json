@@ -1,0 +1,61 @@
+{
+  "schema": "AUTO_STATE_DISCOVERY",
+  "diagnostic_only": true,
+  "run_id": "d9e6bee5-d1a4-4fd1-9bdb-3c3c84aafddb",
+  "account": "pepsi",
+  "auto_button": [
+    856,
+    274
+  ],
+  "snapshots": [
+    {
+      "label": "00_baseline",
+      "button_mean": [
+        122.74,
+        125.16,
+        50.97
+      ],
+      "button_std": 66.97,
+      "panel_mean": [
+        138.37,
+        140.33,
+        103.42
+      ],
+      "in_battle": false
+    },
+    {
+      "label": "01_after_press",
+      "button_mean": [
+        106.21,
+        108.55,
+        44.65
+      ],
+      "button_std": 60.55,
+      "panel_mean": [
+        137.1,
+        139.13,
+        103.25
+      ],
+      "in_battle": false
+    },
+    {
+      "label": "02_after_press",
+      "button_mean": [
+        130.52,
+        131.22,
+        53.95
+      ],
+      "button_std": 72.24,
+      "panel_mean": [
+        139.12,
+        140.92,
+        103.71
+      ],
+      "in_battle": false
+    }
+  ],
+  "pid": 14968,
+  "button_reacts": true,
+  "button_toggles": false,
+  "distinct_button_states": 3
+}

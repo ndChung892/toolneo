@@ -1,0 +1,26 @@
+[
+  {
+    "base": "0x1BA130A0",
+    "x": 613.0,
+    "y": 787.0,
+    "id_candidate": 877.0,
+    "resource": 2050070000013.0,
+    "allocation_base": "0x1B850000"
+  },
+  {
+    "base": "0x217430A0",
+    "x": 2332.0,
+    "y": 1098.0,
+    "id_candidate": 877.0,
+    "resource": 2050070000013.0,
+    "allocation_base": "0x215B0000"
+  },
+  {
+    "base": "0x21743850",
+    "x": 1960.0,
+    "y": 1319.0,
+    "id_candidate": 877.0,
+    "resource": 2050070000013.0,
+    "allocation_base": "0x215B0000"
+  }
+]

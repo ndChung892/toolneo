@@ -1,0 +1,329 @@
+{
+  "session_id": "d4452ba5-85b9-4e8f-a1a3-c7c38c85cdf0",
+  "pid": 8784,
+  "login": {
+    "ok": true,
+    "detail": "Player=0x11daf0a0 Core=0x98930d0 world=(1877,1116)",
+    "pid": 8784,
+    "hwnd": 19137410,
+    "account": "dy"
+  },
+  "status": "PARTIAL",
+  "activation_frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_after_scroll_double_click.png",
+  "scrolled_frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_scroll_map_dragged.png",
+  "arrival_samples": [
+    {
+      "timestamp": 1786709215.1650643,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709215.6802592,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709216.1962655,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709216.717292,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709217.233489,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709217.7484407,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709218.2638035,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709218.781552,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709219.3000536,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709219.8146245,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709220.3299825,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709220.853407,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709221.3679976,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709221.8947377,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709222.4092162,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709222.9238794,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709223.4369743,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709223.9521449,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709224.4688828,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709224.9861479,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709225.501525,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709226.019221,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709226.5351071,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709227.0535493,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709227.5744035,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709228.1016495,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709228.6174495,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709229.1323414,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709229.6460197,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709230.1627967,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709230.6782935,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709231.1932986,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709231.709487,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709232.2255147,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709232.7438908,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709233.2617688,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709233.7795498,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709234.2972004,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0
+    },
+    {
+      "timestamp": 1786709234.8137193,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0
+    }
+  ],
+  "failure_reason": "SCROLL_ITEM_SELECTION_UNCHANGED_MAP"
+}

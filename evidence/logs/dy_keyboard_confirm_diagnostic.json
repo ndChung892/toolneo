@@ -1,0 +1,464 @@
+{
+  "login": {
+    "ok": true,
+    "detail": "Player=0x1d8d10a0 Core=0x1576b0d0 world=(1877,1116)",
+    "pid": 7576,
+    "hwnd": 6030826,
+    "account": "dy"
+  },
+  "ok": false,
+  "samples": [
+    {
+      "timestamp": 1786705988.9673693,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_00.png"
+    },
+    {
+      "timestamp": 1786705989.5333874,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_01.png"
+    },
+    {
+      "timestamp": 1786705990.1037648,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_02.png"
+    },
+    {
+      "timestamp": 1786705990.6661718,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_03.png"
+    },
+    {
+      "timestamp": 1786705991.229445,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_04.png"
+    },
+    {
+      "timestamp": 1786705991.7915425,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_05.png"
+    },
+    {
+      "timestamp": 1786705992.3453405,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_06.png"
+    },
+    {
+      "timestamp": 1786705992.9014702,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_07.png"
+    },
+    {
+      "timestamp": 1786705993.4228785,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705993.9443564,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705994.4993238,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_10.png"
+    },
+    {
+      "timestamp": 1786705995.0306506,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705995.5596454,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705996.084107,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705996.6098514,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705997.1652708,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_15.png"
+    },
+    {
+      "timestamp": 1786705997.6984336,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705998.228111,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.8759940266609192,
+      "margin": 0.41198909282684326,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705998.7482142,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9244809150695801,
+      "margin": 0.4203253984451294,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705999.2735977,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705999.8262208,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_20.png"
+    },
+    {
+      "timestamp": 1786706000.3467824,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706000.8660932,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706001.3855436,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706001.9056013,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706002.459596,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_25.png"
+    },
+    {
+      "timestamp": 1786706002.9901748,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706003.5235417,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706004.0493042,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706004.5813537,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706005.1406505,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_30.png"
+    },
+    {
+      "timestamp": 1786706005.6599784,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706006.1914232,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706006.7164748,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706007.2490027,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706007.8263004,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_35.png"
+    },
+    {
+      "timestamp": 1786706008.3501942,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706008.8717988,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706009.397877,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706009.9203854,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706010.4947658,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_keyboard_confirm_frames\\sample_40.png"
+    },
+    {
+      "timestamp": 1786706011.0210786,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706011.5437715,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9125937819480896,
+      "margin": 0.4409082531929016,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706012.065944,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.912844181060791,
+      "margin": 0.4409061372280121,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786706012.5882623,
+      "world_map_open": false,
+      "visual_map": "Đông Huyền Thành",
+      "score": 0.9138767719268799,
+      "margin": 0.44044989347457886,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    }
+  ],
+  "confirmation_method": "VK_RETURN",
+  "failure_reason": "KEYBOARD_CONFIRM_UNCHANGED_MAP"
+}

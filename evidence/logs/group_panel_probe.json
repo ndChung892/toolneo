@@ -1,0 +1,10 @@
+{
+  "schema": "GROUP_PANEL_PROBE",
+  "diagnostic_only": true,
+  "pid": 15132,
+  "frames": {
+    "00_before": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\group_panel_frames\\00_before.png",
+    "after_nhom": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\group_panel_frames\\after_nhom.png",
+    "after_chieu": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\group_panel_frames\\after_chieu.png"
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "pid": 1808,
+  "hwnd": 524980,
+  "events": [
+    {
+      "at": "2026-08-13T01:01:57.181548",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T01:02:00.703201",
+      "state": "WALK_TO_BOSS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 4,
+      "detail": "id=11102 world=(1585,1278) distance=1320 click=(723,354)"
+    },
+    {
+      "at": "2026-08-13T01:02:02.730696",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 4,
+      "detail": "id=11102 distance=724 destination=(1585,1278)"
+    },
+    {
+      "at": "2026-08-13T01:02:04.765561",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 4,
+      "detail": "id=11102 base=0x224c2d70 distance=109 click=(543,305)"
+    },
+    {
+      "at": "2026-08-13T01:02:06.793920",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 4,
+      "detail": "id=11102 base=0x224c2d70 distance=66 click=(407,283)"
+    },
+    {
+      "at": "2026-08-13T01:02:08.821941",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=11102 base=0x224c2d70 distance=75 click=(436,318)"
+    },
+    {
+      "at": "2026-08-13T01:02:10.861891",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 11102,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=11102 base=0x224c2d70 distance=75 click=(464,318)"
+    },
+    {
+      "at": "2026-08-13T01:02:12.901838",
+      "state": "IN_BATTLE",
+      "target_id": 11102,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "entry=1; target=11102"
+    },
+    {
+      "at": "2026-08-13T01:02:33.596012",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11102,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 3,
+      "detail": "clear=1; last_id=11102"
+    },
+    {
+      "at": "2026-08-13T01:02:35.631171",
+      "state": "WALK_TO_BOSS",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=14459 world=(784,929) distance=847 click=(185,200)"
+    },
+    {
+      "at": "2026-08-13T01:02:37.161002",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=14459 base=0xb3d5d70 distance=265 click=(196,172)"
+    },
+    {
+      "at": "2026-08-13T01:02:39.168424",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=14459 base=0xb3d5d70 distance=41 click=(455,274)"
+    },
+    {
+      "at": "2026-08-13T01:02:41.181438",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=14459 base=0xb3d5d70 distance=41 click=(441,284)"
+    },
+    {
+      "at": "2026-08-13T01:02:43.194711",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 14459,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=14459 base=0xb3d5d70 distance=41 click=(469,284)"
+    },
+    {
+      "at": "2026-08-13T01:02:45.225467",
+      "state": "WALK_TO_BOSS",
+      "target_id": 13125,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=13125 world=(1585,1361) distance=935 click=(691,433)"
+    },
+    {
+      "at": "2026-08-13T01:02:47.259061",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 13125,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 5,
+      "detail": "id=13125 distance=351 destination=(1585,1361)"
+    },
+    {
+      "at": "2026-08-13T01:02:49.298622",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 13125,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=13125 base=0x29101d70 distance=277 click=(173,260)"
+    },
+    {
+      "at": "2026-08-13T01:02:51.354261",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 13125,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "id=13125 base=0x29101d70 distance=170 click=(544,375)"
+    },
+    {
+      "at": "2026-08-13T01:02:53.381614",
+      "state": "IN_BATTLE",
+      "target_id": 13125,
+      "attacks": 2,
+      "clears": 1,
+      "candidates": 4,
+      "detail": "entry=2; target=13125"
+    },
+    {
+      "at": "2026-08-13T01:03:13.094167",
+      "state": "BATTLE_CLEARED",
+      "target_id": 13125,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "clear=2; last_id=13125"
+    },
+    {
+      "at": "2026-08-13T01:03:15.134287",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17327,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 5,
+      "detail": "id=17327 world=(341,1429) distance=1169 click=(175,341)"
+    },
+    {
+      "at": "2026-08-13T01:03:17.177813",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 5,
+      "detail": "id=17327 distance=603 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:03:19.202889",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 world=(1989,740) distance=1814 click=(718,211)"
+    },
+    {
+      "at": "2026-08-13T01:03:21.254866",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 distance=1294 destination=(1989,740)"
+    },
+    {
+      "at": "2026-08-13T01:03:23.265488",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 distance=629 destination=(1989,740)"
+    },
+    {
+      "at": "2026-08-13T01:03:25.296690",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 base=0x13bbbd70 distance=113 click=(554,292)"
+    },
+    {
+      "at": "2026-08-13T01:03:26.813717",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 3,
+      "detail": "id=17229 base=0x13bbbd70 distance=232 click=(662,327)"
+    },
+    {
+      "at": "2026-08-13T01:03:28.825446",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 base=0x13bbbd70 distance=161 click=(581,312)"
+    },
+    {
+      "at": "2026-08-13T01:03:31.356063",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17229,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17229 base=0x13bbbd70 distance=199 click=(655,300)"
+    },
+    {
+      "at": "2026-08-13T01:03:33.397636",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17327,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17327 world=(341,1429) distance=1680 click=(199,415)"
+    },
+    {
+      "at": "2026-08-13T01:03:34.913907",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 4,
+      "detail": "id=17327 distance=1117 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:03:36.920769",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10403,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 3,
+      "detail": "id=10403 world=(793,940) distance=223 click=(486,145)"
+    },
+    {
+      "at": "2026-08-13T01:03:38.940061",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10403,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 3,
+      "detail": "id=10403 base=0x2b55dd70 distance=91 click=(464,339)"
+    },
+    {
+      "at": "2026-08-13T01:03:40.951717",
+      "state": "IN_BATTLE",
+      "target_id": 10403,
+      "attacks": 3,
+      "clears": 2,
+      "candidates": 3,
+      "detail": "entry=3; target=10403"
+    },
+    {
+      "at": "2026-08-13T01:03:59.144224",
+      "state": "BATTLE_CLEARED",
+      "target_id": 10403,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "clear=3; last_id=10403"
+    },
+    {
+      "at": "2026-08-13T01:04:01.189606",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=17327 world=(341,1429) distance=755 click=(284,445)"
+    },
+    {
+      "at": "2026-08-13T01:04:03.217731",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=17327 distance=232 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:04:05.224891",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=17327 base=0x1d61cd70 distance=97 click=(501,332)"
+    },
+    {
+      "at": "2026-08-13T01:04:07.276312",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=17327 base=0x1d61cd70 distance=184 click=(347,385)"
+    },
+    {
+      "at": "2026-08-13T01:04:09.320997",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=131 click=(414,372)"
+    },
+    {
+      "at": "2026-08-13T01:04:10.846992",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=155 click=(391,380)"
+    },
+    {
+      "at": "2026-08-13T01:04:12.862225",
+      "state": "WAIT_SPAWN",
+      "target_id": 17327,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "3 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:04:18.413876",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10561 world=(1254,451) distance=1189 click=(648,145)"
+    },
+    {
+      "at": "2026-08-13T01:04:20.452053",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10561 distance=634 destination=(1254,451)"
+    },
+    {
+      "at": "2026-08-13T01:04:22.495105",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10561 distance=238 destination=(1254,451)"
+    },
+    {
+      "at": "2026-08-13T01:04:24.014841",
+      "state": "CROSSED_TARGET_RELEASE",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10561 distance=632; released on first reverse-distance poll"
+    },
+    {
+      "at": "2026-08-13T01:04:26.029647",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10561 world=(1254,451) distance=655 click=(196,410)"
+    },
+    {
+      "at": "2026-08-13T01:04:28.563934",
+      "state": "WAIT_SPAWN",
+      "target_id": 10561,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "3 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:04:31.078242",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10403,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 3,
+      "detail": "id=10403 world=(793,940) distance=482 click=(294,445)"
+    },
+    {
+      "at": "2026-08-13T01:04:33.100523",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10403,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10403 base=0x2b55dd70 distance=145 click=(595,253)"
+    },
+    {
+      "at": "2026-08-13T01:04:35.138892",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10403,
+      "attacks": 3,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "id=10403 base=0x2b55dd70 distance=90 click=(538,214)"
+    },
+    {
+      "at": "2026-08-13T01:04:37.175997",
+      "state": "IN_BATTLE",
+      "target_id": 10403,
+      "attacks": 4,
+      "clears": 3,
+      "candidates": 4,
+      "detail": "entry=4; target=10403"
+    },
+    {
+      "at": "2026-08-13T01:04:53.841179",
+      "state": "BATTLE_CLEARED",
+      "target_id": 10403,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 4,
+      "detail": "clear=4; last_id=10403"
+    },
+    {
+      "at": "2026-08-13T01:04:55.856498",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 world=(1254,451) distance=748 click=(656,145)"
+    },
+    {
+      "at": "2026-08-13T01:04:57.877891",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 distance=211 destination=(1254,451)"
+    },
+    {
+      "at": "2026-08-13T01:04:59.913439",
+      "state": "CROSSED_TARGET_RELEASE",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 distance=518; released on first reverse-distance poll"
+    },
+    {
+      "at": "2026-08-13T01:05:01.936434",
+      "state": "WALK_TO_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 world=(1254,451) distance=598 click=(185,381)"
+    },
+    {
+      "at": "2026-08-13T01:05:03.970569",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 base=0x253cbd70 distance=55 click=(409,285)"
+    },
+    {
+      "at": "2026-08-13T01:05:05.998391",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 3,
+      "detail": "id=10561 base=0x253cbd70 distance=91 click=(540,245)"
+    },
+    {
+      "at": "2026-08-13T01:05:08.531609",
+      "state": "WAIT_SPAWN",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:05:21.633136",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10561 base=0x253cbd70 distance=56 click=(462,304)"
+    },
+    {
+      "at": "2026-08-13T01:05:23.662068",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10561 base=0x253cbd70 distance=56 click=(462,288)"
+    },
+    {
+      "at": "2026-08-13T01:05:25.704413",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10561 base=0x253cbd70 distance=56 click=(448,298)"
+    },
+    {
+      "at": "2026-08-13T01:05:27.229335",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 4,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10561 base=0x253cbd70 distance=56 click=(476,298)"
+    },
+    {
+      "at": "2026-08-13T01:05:29.236790",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 10561,
+      "attacks": 5,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "id=10561 base=0x253cbd70 distance=56 click=(476,298)"
+    },
+    {
+      "at": "2026-08-13T01:05:29.740331",
+      "state": "IN_BATTLE",
+      "target_id": 10561,
+      "attacks": 5,
+      "clears": 4,
+      "candidates": 2,
+      "detail": "entry=5; target=10561"
+    },
+    {
+      "at": "2026-08-13T01:05:49.443145",
+      "state": "BATTLE_CLEARED",
+      "target_id": 10561,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "clear=5; last_id=10561"
+    },
+    {
+      "at": "2026-08-13T01:05:51.495668",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 world=(341,1429) distance=1371 click=(266,445)"
+    },
+    {
+      "at": "2026-08-13T01:05:53.516675",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 distance=825 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:05:55.553935",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 distance=271 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:05:57.572721",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=108 click=(523,328)"
+    },
+    {
+      "at": "2026-08-13T01:05:59.607926",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=181 click=(348,383)"
+    },
+    {
+      "at": "2026-08-13T01:06:01.628111",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=132 click=(415,373)"
+    },
+    {
+      "at": "2026-08-13T01:06:03.654023",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "id=17327 base=0x1d61cd70 distance=153 click=(393,379)"
+    },
+    {
+      "at": "2026-08-13T01:06:05.692998",
+      "state": "WAIT_SPAWN",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "2 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:06:16.263051",
+      "state": "WAIT_SPAWN",
+      "target_id": 17327,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:06:24.317096",
+      "state": "WALK_TO_BOSS",
+      "target_id": 16813,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 2,
+      "detail": "id=16813 world=(1284,780) distance=1012 click=(691,149)"
+    },
+    {
+      "at": "2026-08-13T01:06:26.357251",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 16813,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=16813 distance=456 destination=(1284,780)"
+    },
+    {
+      "at": "2026-08-13T01:06:28.388604",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 16813,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=16813 base=0x29101d70 distance=178 click=(282,307)"
+    },
+    {
+      "at": "2026-08-13T01:06:30.414668",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 16813,
+      "attacks": 5,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "id=16813 base=0x29101d70 distance=120 click=(361,314)"
+    },
+    {
+      "at": "2026-08-13T01:06:32.453772",
+      "state": "IN_BATTLE",
+      "target_id": 16813,
+      "attacks": 6,
+      "clears": 5,
+      "candidates": 3,
+      "detail": "entry=6; target=16813"
+    },
+    {
+      "at": "2026-08-13T01:06:50.647108",
+      "state": "BATTLE_CLEARED",
+      "target_id": 16813,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "clear=6; last_id=16813"
+    },
+    {
+      "at": "2026-08-13T01:06:52.681512",
+      "state": "WALK_TO_BOSS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 4,
+      "detail": "id=17327 world=(341,1429) distance=1264 click=(221,445)"
+    },
+    {
+      "at": "2026-08-13T01:06:54.203306",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 4,
+      "detail": "id=17327 distance=692 destination=(341,1429)"
+    },
+    {
+      "at": "2026-08-13T01:06:56.216267",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=102 click=(438,350)"
+    },
+    {
+      "at": "2026-08-13T01:06:58.229462",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=160 click=(382,378)"
+    },
+    {
+      "at": "2026-08-13T01:07:00.250030",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=137 click=(395,374)"
+    },
+    {
+      "at": "2026-08-13T01:07:02.784743",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 17327,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=17327 base=0x1d61cd70 distance=137 click=(423,374)"
+    },
+    {
+      "at": "2026-08-13T01:07:04.834945",
+      "state": "WALK_TO_BOSS",
+      "target_id": 16893,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=16893 world=(1735,443) distance=1566 click=(685,145)"
+    },
+    {
+      "at": "2026-08-13T01:07:06.846661",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 16893,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 2,
+      "detail": "id=16893 distance=952 destination=(1735,443)"
+    },
+    {
+      "at": "2026-08-13T01:07:08.886874",
+      "state": "WALKING_CONTINUOUS",
+      "target_id": 16893,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=16893 distance=332 destination=(1735,443)"
+    },
+    {
+      "at": "2026-08-13T01:07:10.909033",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 16893,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=16893 base=0x25586d70 distance=194 click=(305,378)"
+    },
+    {
+      "at": "2026-08-13T01:07:12.973798",
+      "state": "CLICK_LIVE_BOSS",
+      "target_id": 16893,
+      "attacks": 6,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "id=16893 base=0x25586d70 distance=167 click=(580,338)"
+    },
+    {
+      "at": "2026-08-13T01:07:15.014446",
+      "state": "IN_BATTLE",
+      "target_id": 16893,
+      "attacks": 7,
+      "clears": 6,
+      "candidates": 3,
+      "detail": "entry=7; target=16893"
+    }
+  ]
+}

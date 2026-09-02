@@ -1,0 +1,36 @@
+trị an
+1
+PressKey(B)
+
+delay20ms(20)
+mở túi
+
+If(TriAn/N.Vu.png)_{ClickPoint(TriAn/N.Vu.png)_Delay20ms(20)}
+chọn túi nhiệm vụ
+
+!While(TriAn/SachTriAn.png)_{PressKey(B)_Delay20ms(20)_ClickPoint(TriAn/N.Vu.png)_Delay20ms(20)}
+
+While(TriAn/SachTriAn.png)_{DoubleClickPoint(TriAn/SachTriAn.png)_Delay20ms(50)}
+dùng sách
+
+!While(TriAn/TaTim.png)_{ClickPoint(TriAn/pq.png)_ClickPoint(TriAn/pt.png)_Delay20ms(20)}
+
+While(túi đồ.png)_{ClickPoint(TriAn/TaTim.png)_Delay20ms(20)}
+đợi vào trận
+
+!While(túi đồ.png)_{Delay20ms(20)}
+đợi đánh xong
+
+//TeleAloneMap(Đông Huyền Thành;284;77)
+phù về
+
+ClickPoint(647;408)
+Delay20ms(20)
+
+!While(RoiKhoi.png)_{ClickPoint(872;230)_Delay20ms(20)}
+trong khi chưa thấy nút rời khỏi thì click để mở npc
+
+!While(Xong.png)_{ClickPoint(Xem.png)_Delay20ms(20)_ClickPoint(XongNV.png)_Delay20ms(20)}
+
+ClickPoint(Xong.png)
+trả nhiệm vụ

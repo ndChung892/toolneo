@@ -1,0 +1,145 @@
+{
+ "note": "Bai ca: moi loai ca mot toa do (owner cung cap). Bai duoc thao lay tu spot_positions.json, khong can san pham vi ra ngau nhien.",
+ "spots": [
+  {
+   "map": "Đông Xuất Vân",
+   "found": true,
+   "name": "Đàn Cá Cấp 1",
+   "kind": "ca",
+   "level": 1,
+   "x": 1899,
+   "y": 273,
+   "products": [
+    "Cá Bống"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Đông Xuất Vân",
+   "found": true,
+   "name": "Đàn Cá Cấp 1",
+   "kind": "ca",
+   "level": 1,
+   "x": 1371,
+   "y": 834,
+   "products": [
+    "Cá Chạch"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Thiên Lục Châu",
+   "found": true,
+   "name": "Đàn Cá Cấp 2",
+   "kind": "ca",
+   "level": 2,
+   "x": 1888,
+   "y": 891,
+   "products": [
+    "Cá Trê"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Thiên Lục Châu",
+   "found": true,
+   "name": "Đàn Cá Cấp 2",
+   "kind": "ca",
+   "level": 2,
+   "x": 1444,
+   "y": 456,
+   "products": [
+    "Lươn"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Quang Bình Nguyên",
+   "found": true,
+   "name": "Đàn Cá Cấp 3",
+   "kind": "ca",
+   "level": 3,
+   "x": 1788,
+   "y": 1055,
+   "products": [
+    "Cá Bơn"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Quang Bình Nguyên",
+   "found": true,
+   "name": "Đàn Cá Cấp 3",
+   "kind": "ca",
+   "level": 3,
+   "x": 855,
+   "y": 497,
+   "products": [
+    "Cá Đổng Quéo"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Lê Dương Thôn",
+   "found": true,
+   "name": "Đàn Cá Cấp 4",
+   "kind": "ca",
+   "level": 4,
+   "x": 1264,
+   "y": 424,
+   "products": [
+    "Cá Trích"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Lê Dương Thôn",
+   "found": true,
+   "name": "Đàn Cá Cấp 4",
+   "kind": "ca",
+   "level": 4,
+   "x": 1781,
+   "y": 1068,
+   "products": [
+    "Cá Hồi"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Vân Lộc Sơn",
+   "found": true,
+   "name": "Đàn Cá Cấp 5",
+   "kind": "ca",
+   "level": 5,
+   "x": 1294,
+   "y": 1627,
+   "products": [
+    "Cá Lóc"
+   ],
+   "random": false,
+   "source": "owner"
+  },
+  {
+   "map": "Vân Lộc Sơn",
+   "found": true,
+   "name": "Đàn Cá Cấp 5",
+   "kind": "ca",
+   "level": 5,
+   "x": 1477,
+   "y": 1233,
+   "products": [
+    "Cá Vược"
+   ],
+   "random": false,
+   "source": "owner"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "pid": 10132,
+  "hwnd": 394210,
+  "events": [
+    {
+      "at": "2026-08-13T10:20:19.441985",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T10:20:23.471365",
+      "state": "IN_BATTLE",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "entry=0; target=0"
+    },
+    {
+      "at": "2026-08-13T10:20:42.136463",
+      "state": "WAIT_MAP",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "Waiting for TSk player/map"
+    }
+  ]
+}

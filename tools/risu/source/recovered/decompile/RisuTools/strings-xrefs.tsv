@@ -1,0 +1,2679 @@
+string_address	function_address	function_name	string
+00f2fbe7			"XamlIlTrampolines,
+00f3307d			+2InlineArrayAsReadOnlySpan
+00f330b8			"InlineArrayAsSpan
+00f3642a			RAvalonia.Styling.IStyleHost.StylesRemoved@LogicalChildrenCollectionChanged@
+00f419aa			Memmove
+00f419e9			4AllocateUninitializedArray
+00f51fc0			Avalonia.Dialogs:Avalonia.Dialogs.Internal.ManagedFileChooserViewModel+CanOk!CommandCanExecuteTrampoline
+00f58269			6LoginResultSerializeHandler@
+00f5829c			8LoginRequestSerializeHandler@
+00f582c9			:BossDailyItemSerializeHandler@
+00f5832a			JMonsterHeartItemModelSerializeHandler@
+00f58360			4QuestModelSerializeHandler@
+00f5838b			JQuestRequirementModelSerializeHandler@
+00f5844b			6LoginConfigSerializeHandler@
+00f58477			BListBossDailyItemSerializeHandler@
+00f584ea			RListMonsterHeartItemModelSerializeHandler@
+00f58524			<ListQuestModelSerializeHandler@
+00f58553			RListQuestRequirementModelSerializeHandler@
+00f66d6b			StylesRemovedV<SynchronizeCompositionChildVisuals>b__11_0@
+00f6b342			K$RenderTargetBitmap
+00f73325			D<AllocateCallback>g__Callback|38_0
+00f74386			System.ComponentModel.ComponentConverter, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+00f74b0d			F<StripBidiControlCharacters>b__27_0
+00f75a71			ChildrenChanged<OnShowGridLinesPropertyChanged
+00f76011			PopupKeyUp,ControlContextCanceled.ControlContextRequested
+00f76320			IsValidMaxLines
+00f76336			"IsValidLineHeight
+00f7634f			$IsValidLineSpacing
+00f783cb			6RecycleElementOnItemRemoved$UpdateElementIndex@
+00f7bd64			DDataGridCellCollection_CellRemoved8DetailsContent_MarginChanged@
+00f7cef2			"BitmapFramebuffer@
+00f7dfff			MoveResize@
+00f89461			4<Create_LoginResult>b__7_0@
+00f89484			4<Create_LoginResult>b__7_2@
+00f894a7			6<LoginResultPropInit>b__8_06<LoginResultPropInit>b__8_16<LoginResultPropInit>b__8_26<LoginResultPropInit>b__8_3@
+00f89523			6<LoginResultPropInit>b__8_4@
+00f8954f			6<LoginResultPropInit>b__8_56<LoginResultPropInit>b__8_66<LoginResultPropInit>b__8_76<LoginResultPropInit>b__8_86<LoginResultPropInit>b__8_98<LoginResultPropInit>b__8_108<LoginResultPropInit>b__8_118<LoginResultPropInit>b__8_128<LoginResultPropInit>b__8_138<LoginResultPropInit>b__8_148<LoginResultPropInit>b__8_158<LoginResultPropInit>b__8_168<LoginResultPropInit>b__8_178<LoginResultPropInit>b__8_18@
+00f896ec			8<LoginResultPropInit>b__8_19@
+00f89719			8<LoginResultPropInit>b__8_208<LoginResultPropInit>b__8_218<LoginResultPropInit>b__8_228<LoginResultPropInit>b__8_238<Create_LoginRequest>b__13_0@
+00f897b2			8<Create_LoginRequest>b__13_2:<LoginRequestPropInit>b__14_0:<LoginRequestPropInit>b__14_1:<LoginRequestPropInit>b__14_2:<LoginRequestPropInit>b__14_3:<LoginRequestPropInit>b__14_4:<LoginRequestPropInit>b__14_5:<LoginRequestPropInit>b__14_6:<LoginRequestPropInit>b__14_7:<LoginRequestPropInit>b__14_8:<LoginRequestPropInit>b__14_9<<LoginRequestPropInit>b__14_10<<LoginRequestPropInit>b__14_11:<Create_BossDailyItem>b__19_0@
+00f8995f			:<Create_BossDailyItem>b__19_2<<BossDailyItemPropInit>b__20_0@
+00f899a8			<<BossDailyItemPropInit>b__20_1@
+00f899d7			<<BossDailyItemPropInit>b__20_2<<BossDailyItemPropInit>b__20_3<<BossDailyItemPropInit>b__20_4<<BossDailyItemPropInit>b__20_5<<BossDailyItemPropInit>b__20_6<<BossDailyItemPropInit>b__20_7<<BossDailyItemPropInit>b__20_8D<Create_InventoryItemModel>b__25_0@
+00f89b62			F<InventoryItemModelPropInit>b__26_2F<InventoryItemModelPropInit>b__26_3F<InventoryItemModelPropInit>b__26_4F<InventoryItemModelPropInit>b__26_5F<InventoryItemModelPropInit>b__26_6F<InventoryItemModelPropInit>b__26_7F<InventoryItemModelPropInit>b__26_8F<InventoryItemModelPropInit>b__26_9H<InventoryItemModelPropInit>b__26_10H<InventoryItemModelPropInit>b__26_11H<InventoryItemModelPropInit>b__26_12H<InventoryItemModelPropInit>b__26_13H<InventoryItemModelPropInit>b__26_14H<InventoryItemModelPropInit>b__26_15H<InventoryItemModelPropInit>b__26_16H<InventoryItemModelPropInit>b__26_17J<Create_MonsterHeartItemModel>b__31_0@
+00f89dd8			J<Create_MonsterHeartItemModel>b__31_2L<MonsterHeartItemModelPropInit>b__32_0L<MonsterHeartItemModelPropInit>b__32_1L<MonsterHeartItemModelPropInit>b__32_2L<MonsterHeartItemModelPropInit>b__32_3L<MonsterHeartItemModelPropInit>b__32_4L<MonsterHeartItemModelPropInit>b__32_5L<MonsterHeartItemModelPropInit>b__32_6L<MonsterHeartItemModelPropInit>b__32_7L<MonsterHeartItemModelPropInit>b__32_8L<MonsterHeartItemModelPropInit>b__32_9N<MonsterHeartItemModelPropInit>b__32_10N<MonsterHeartItemModelPropInit>b__32_11N<MonsterHeartItemModelPropInit>b__32_12N<MonsterHeartItemModelPropInit>b__32_13N<MonsterHeartItemModelPropInit>b__32_144<Create_QuestModel>b__41_0@
+00f8a06f			4<Create_QuestModel>b__41_26<QuestModelPropInit>b__42_06<QuestModelPropInit>b__42_16<QuestModelPropInit>b__42_26<QuestModelPropInit>b__42_36<QuestModelPropInit>b__42_46<QuestModelPropInit>b__42_56<QuestModelPropInit>b__42_66<QuestModelPropInit>b__42_76<QuestModelPropInit>b__42_86<QuestModelPropInit>b__42_98<QuestModelPropInit>b__42_108<QuestModelPropInit>b__42_118<QuestModelPropInit>b__42_128<QuestModelPropInit>b__42_138<QuestModelPropInit>b__42_148<QuestModelPropInit>b__42_158<QuestModelPropInit>b__42_168<QuestModelPropInit>b__42_178<QuestModelPropInit>b__42_188<QuestModelPropInit>b__42_198<QuestModelPropInit>b__42_208<QuestModelPropInit>b__42_218<QuestModelPropInit>b__42_228<QuestModelPropInit>b__42_238<QuestModelPropInit>b__42_248<QuestModelPropInit>b__42_258<QuestModelPropInit>b__42_268<QuestModelPropInit>b__42_278<QuestModelPropInit>b__42_288<QuestModelPropInit>b__42_298<QuestModelPropInit>b__42_308<QuestModelPropInit>b__42_318<QuestModelPropInit>b__42_328<QuestModelPropInit>b__42_338<QuestModelPropInit>b__42_348<QuestModelPropInit>b__42_358<QuestModelPropInit>b__42_368<QuestModelPropInit>b__42_378<QuestModelPropInit>b__42_388<QuestModelPropInit>b__42_398<QuestModelPropInit>b__42_408<QuestModelPropInit>b__42_418<QuestModelPropInit>b__42_42@
+00f8a574			/8<QuestModelPropInit>b__42_43@
+00f8a5a2			8<QuestModelPropInit>b__42_448<QuestModelPropInit>b__42_458<QuestModelPropInit>b__42_46J<Create_QuestRequirementModel>b__47_0@
+00f8a627			J<Create_QuestRequirementModel>b__47_2L<QuestRequirementModelPropInit>b__48_0L<QuestRequirementModelPropInit>b__48_1L<QuestRequirementModelPropInit>b__48_2L<QuestRequirementModelPropInit>b__48_3L<QuestRequirementModelPropInit>b__48_4L<QuestRequirementModelPropInit>b__48_5L<QuestRequirementModelPropInit>b__48_6L<QuestRequirementModelPropInit>b__48_7L<QuestRequirementModelPropInit>b__48_8L<QuestRequirementModelPropInit>b__48_9N<QuestRequirementModelPropInit>b__48_10N<QuestRequirementModelPropInit>b__48_11N<QuestRequirementModelPropInit>b__48_12N<QuestRequirementModelPropInit>b__48_13N<QuestRequirementModelPropInit>b__48_146<Create_UINodeModel>b__53_0@
+00f8c08c			<<LinkDataDtoPropInit>b__70_173<<LinkDataDtoPropInit>b__70_174<<LinkDataDtoPropInit>b__70_175<<LinkDataDtoPropInit>b__70_176<<LinkDataDtoPropInit>b__70_177<<LinkDataDtoPropInit>b__70_178<<LinkDataDtoPropInit>b__70_179<<LinkDataDtoPropInit>b__70_180<<LinkDataDtoPropInit>b__70_181<<LinkDataDtoPropInit>b__70_182<<LinkDataDtoPropInit>b__70_183<<LinkDataDtoPropInit>b__70_184<<LinkDataDtoPropInit>b__70_185<<LinkDataDtoPropInit>b__70_186<<LinkDataDtoPropInit>b__70_187<<LinkDataDtoPropInit>b__70_1886<Create_LoginConfig>b__75_0@
+00f8c2a0			6<Create_LoginConfig>b__75_28<LoginConfigPropInit>b__76_08<LoginConfigPropInit>b__76_18<LoginConfigPropInit>b__76_28<LoginConfigPropInit>b__76_38<LoginConfigPropInit>b__76_48<LoginConfigPropInit>b__76_58<LoginConfigPropInit>b__76_68<LoginConfigPropInit>b__76_78<LoginConfigPropInit>b__76_88<LoginConfigPropInit>b__76_9:<LoginConfigPropInit>b__76_10:<LoginConfigPropInit>b__76_11:<LoginConfigPropInit>b__76_12:<LoginConfigPropInit>b__76_13:<LoginConfigPropInit>b__76_14B<Create_ListBossDailyItem>b__81_0@
+00f8c4cd			R<Create_ListMonsterHeartItemModel>b__91_0@
+00f8c4ff			<<Create_ListQuestModel>b__96_0@
+00f8c526			T<Create_ListQuestRequirementModel>b__101_0@
+00f8c5da			2<Create_LoginRequest>b__1@
+00f8e253			set_Bosses@
+00f8e331			set_DoiNNKey get_BatPetTarget set_BatPetTarget.get_BatPetSelectedMapId.set_BatPetSelectedMapId6get_BatPetSelectedMonsterId6set_BatPetSelectedMonsterId8get_BatPetSelectedMonsterIds8set_BatPetSelectedMonsterIds0get_BatPetPriorityLevel10set_BatPetPriorityLevel1"get_TuyChonBatPet"set_TuyChonBatPet*get_BatPetTargetColor@
+00f8e475			*set_BatPetTargetColor@
+00f90c92			F<OnGetMonsterHeartBagCommand>d__3592<OnOpenBankCommand>d__356.<OnThanTuCommand>d__383><OnToggleTrackingCommand>d__4060<OpenGameInternal>d__3490OnSelectedAccountChanged@
+00f91660			:<InitializeCommands>b__336_66H<UpdateBossFilterAndSummary>b__337_0@
+00fa0b2e			MoveNext&<get_Formats>b__3_1@
+00fa1420			System.Runtime.Extensions, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"UnsafeOnCompleted@
+00fa1a39			AllocateThunk
+00fa424b			System.Windows.Input.CommandValueSerializer, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, Custom=null
+00fa5342			lineSpacing <SetGrid>b__50_0@
+00fa703b			4LayoutListener_Invalidated*Caret_ContextCanceled,Caret_ContextRequested@
+00fa768d			JScrollSnapPointsInfoSnapPointsChanged,BringIntoViewRequested@
+00fa7e89			,ExpanderAutomationPeer&ImageAutomationPeer&ThumbAutomationPeer&OnShutdownRequested@
+00fa8fe9			fontManager"<ShapeText>b__2_0@
+00fb6bcb			!:<InitializeCommands>b__336_146<UpdateBossSummary>b__338_06<UpdateBossSummary>b__338_16<UpdateBossSummary>b__338_2@
+00fb6c4a			B<OnArrangeScreensCommand>b__342_0,<OnFPSCommand>b__346_02<LoginAllCommand>b__347_04<OnAutoAllCommand>b__351_04<OnAutoAllCommand>b__351_1J<OnGetMonsterHeartBagCommand>b__359_0@
+00fbafe9			get_RequestUri@
+00fbb000			set_RequestUri@
+00fbc0d0			(ConstructSystemProxy
+00fbc0fc			B<EstablishSocks4TunnelAsync>d__15B<EstablishSocks5TunnelAsync>d__14@<EstablishSocksTunnelAsync>d__13,<ReadToFillAsync>d__19DRegistryChangeNotificationCallback
+00fbeca8			"<get_Claims>d__91>CurrentImpersonatedTokenChanged
+00fc2b9a			c TTask@<AssignCancellationToken>b__32_0@<AssignCancellationToken>b__32_1(<ThrowAsync>b__124_0(<FinishSlow>b__131_0@
+00fc3ed6			inline0<GetHelpTextCore>b__16_0$<get_Value>b__11_0@
+00fc6045			<Avalonia.Win32.Automation.Interop.IInvokeProvider.Invoke>b__22_0@
+00fc6093			<Avalonia.Win32.Automation.Interop.IExpandCollapseProvider.GetExpandCollapseState>b__41_0@
+00fc60f9			<Avalonia.Win32.Automation.Interop.IExpandCollapseProvider.Expand>b__42_0@
+00fc619b			<Avalonia.Win32.Automation.Interop.IRangeValueProvider.GetValue>b__44_0@
+00fc61ef			<Avalonia.Win32.Automation.Interop.IRangeValueProvider.GetIsReadOnly>b__45_0@
+00fc62dc			<Avalonia.Win32.Automation.Interop.IScrollProvider.GetHorizontallyScrollable>b__51_0@
+00fc633d			<Avalonia.Win32.Automation.Interop.IScrollProvider.GetHorizontalScrollPercent>b__52_0@
+00fc64e6			<Avalonia.Win32.Automation.Interop.ISelectionProvider.CanSelectMultiple>b__60_0@
+00fc6594			<Avalonia.Win32.Automation.Interop.ISelectionItemProvider.GetIsSelected>b__62_0@
+00fc65f0			<Avalonia.Win32.Automation.Interop.ISelectionItemProvider.GetSelectionContainer>b__63_0@
+00fc6654			<Avalonia.Win32.Automation.Interop.ISelectionProvider.GetSelection>b__64_0@
+00fc66ab			<Avalonia.Win32.Automation.Interop.ISelectionProvider.GetSelection>b__64_1@
+00fc6702			<Avalonia.Win32.Automation.Interop.ISelectionItemProvider.AddToSelection>b__65_0@
+00fc67fe			<Avalonia.Win32.Automation.Interop.IToggleProvider.GetToggleState>b__68_0@
+00fc6854			<Avalonia.Win32.Automation.Interop.IToggleProvider.Toggle>b__69_0@
+00fc68a2			<Avalonia.Win32.Automation.Interop.IValueProvider.GetIsReadOnly>b__70_0@
+00fc68f6			<Avalonia.Win32.Automation.Interop.IValueProvider.GetValue>b__71_0@
+00fc6987			|<Avalonia.Win32.Automation.Interop.IScrollProvider.Scroll>b__0@
+00fc69d3			<Avalonia.Win32.Automation.Interop.IScrollProvider.SetScrollPercent>b__0~<Avalonia.Win32.Automation.Interop.IValueProvider.SetValue>b__0@
+00fc7fcb			4<ExecuteInternalAsync>d__4><UpdatePartyAutoCountAsync>d__58<ExecuteInternalAsync>b__4_0@
+00fc802f			8<ExecuteInternalAsync>b__4_4B<UpdatePartyAutoCountAsync>b__5_0B<UpdatePartyAutoCountAsync>b__5_1@
+00fcc71c			get_Request@
+00fcc756			*get_RequestTaskStatus@
+00fcc7c2			Y(get_LoggingRequestId@
+00fcc873			2<get_DefaultProxy>b__15_0@
+00fccc88			$<CopyToAsync>d__79(<ReadDataAsync>d__77><ReadResponseHeadersAsync>d__74(<SendDataAsync>d__816<SendRequestBodyAsync>d__45<<WaitFor100ContinueAsync>d__46&<FlushAsync>b__78_0@
+00fccfb0			SharedMeter4<SendAsyncWithMetrics>d__6.GetAuthenticationLength
+00fcd59b			Characteristic2 Named$<GetString>b__16_0
+00fce773			$StripAndMapEffects@
+00fcfc0c			R<get_Map>g__NullableGetValueOrDefault|1_6
+00fd04d6			4CreateInpcPropertyAccessor
+00fd2138			:<GetBestItemGiidAsync>b__34_2,<MapTransAsync>b__44_08<BuyItemFromNpcAsync>b__45_1@
+00fd21a1			8<BuyItemFromNpcAsync>b__45_2@
+00fd21ca			D<HandleCatchPetBattleAsync>b__47_2@
+00fd21f9			D<HandleCatchPetBattleAsync>b__47_5D<HandleCatchPetBattleAsync>b__47_6D<HandleCatchPetBattleAsync>b__47_7D<HandleCatchPetBattleAsync>b__47_8D<HandleCatchPetBattleAsync>b__47_9F<HandleCatchPetBattleAsync>b__47_102<AutoFusePetAsync>b__51_02<AutoFusePetAsync>b__51_3@
+00fd230c			2<AutoFusePetAsync>b__51_42<AutoFusePetAsync>b__51_2&<GetPetName>b__52_0@
+00fd2393			4<GetBestItemGiidAsync>b__02<BuyItemFromNpcAsync>b__0><HandleCatchPetBattleAsync>b__3@
+00fd23f4			><HandleCatchPetBattleAsync>b__0><HandleCatchPetBattleAsync>b__1@<HandleCatchPetBattleAsync>b__11@<HandleCatchPetBattleAsync>b__12><HandleCatchPetBattleAsync>b__4,<CreatePartyAsync>b__0,<CreatePartyAsync>b__1@
+00fd24d0			,<AutoFusePetAsync>b__1 <GetPetName>b__1@
+00fd3aec			Eh0<AnyMemberHasQuest>d__144<CatchPetMemberAsync>d__12,<ChallengeNpcWait>d__9H<GetBestItemGiidForMemberAsync>d__11.<HandleSystemAlert>d__7,<HasQuestForGroup>d__5B<InteractNpcAndQuestForGroup>d__6B<IsAllMembersQuestCompleted>d__156<MoveToNpcAndInteract>d__13D<DetermineCurrentStepAsync>b__16_8@
+00fd48a1			<<ClearSystemAlertsForAll>d__25><DetermineCurrentStepAsync>d__4<<EnsureGroupAndNhatRuong>d__204<ExecuteInternalAsync>d__36<HandleFloor1_DanhQuai>d__52<HandleFloor1_GhepDa>d__6B<HandleFloor1_KichHoatCoQuan>d__7$<HandleFloor2>d__8$<HandleFloor3>d__9F<HandleFloor4_DocVaMuaVatPham>d__10T<HandleFloor4_NhatRuongVaChuyenTang5>d__12<<HandleFloor4_TraVatPham>d__11&<HandleFloor5>d__13><HandleFloor6_DocVaBatPet>d__146<HandleFloor6_GiaoPet>d__15<<HandleFloor6_LinhThuong>d__16T<HandleFloor6_NhatRuongVaChuyenTang7>d__17D<HandleFloor7_KhieuChienBoss>d__18B<HandleFloor7_NhanRuongCuoi>d__190<HandleSystemAlert>d__24 <NhatRuong>d__218<WaitBattleFinishAsync>d__23D<DetermineCurrentStepAsync>b__4_11@
+00fd6136			h<<get_ProxyAuthenticate>b__22_0@
+00fd65ca			i6<StripAndMapEffects>b__62_0@
+00fd68e2			<get_Map>b__1_7$ReflectionAnalysis^IL2067:ParameterDoesntMeetParameterRequirements
+00fd6d44			q8<ExecuteInternalAsync>b__2_28<ExecuteInternalAsync>b__2_4B<DetermineCurrentStepAsync>b__3_0B<DetermineCurrentStepAsync>b__3_2B<DetermineCurrentStepAsync>b__3_3B<DetermineCurrentStepAsync>b__3_4B<DetermineCurrentStepAsync>b__3_5B<DetermineCurrentStepAsync>b__3_6B<DetermineCurrentStepAsync>b__3_18<AcceptQuestAtNpc1742>b__4_0@
+00fd6e96			0<HandleLamNV_5448>b__5_00<CompleteQuestAll>b__6_0@<CloseSystemAlertForGroup>b__7_0@
+00fd7765			B<InteractNpcAndQuestForGroup>b__2B<InteractNpcAndQuestForGroup>b__1,<ChallengeNpcWait>b__0*<GoThroughPortal>b__1*<GoThroughPortal>b__2:<ExecuteInternalAsync>b__2_11:<ExecuteInternalAsync>b__2_10:<ExecuteInternalAsync>b__2_12:<ExecuteInternalAsync>b__2_13@
+00fd7870			:<ExecuteInternalAsync>b__2_15:<ExecuteInternalAsync>b__2_16:<ExecuteInternalAsync>b__2_17:<ExecuteInternalAsync>b__2_18:<ExecuteInternalAsync>b__2_19:<ExecuteInternalAsync>b__2_20:<ExecuteInternalAsync>b__2_21:<ExecuteInternalAsync>b__2_23:<ExecuteInternalAsync>b__2_24:<ExecuteInternalAsync>b__2_26:<ExecuteInternalAsync>b__2_27:<ExecuteInternalAsync>b__2_31:<ExecuteInternalAsync>b__2_33:<ExecuteInternalAsync>b__2_34:<ExecuteInternalAsync>b__2_36F<InteractNpcAndQuestForGroup>b__6_30<ChallengeNpcWait>b__9_0L<GetBestItemGiidForMemberAsync>b__11_1L<GetBestItemGiidForMemberAsync>b__11_28<CatchPetMemberAsync>b__12_48<CatchPetMemberAsync>b__12_58<CatchPetMemberAsync>b__12_68<CatchPetMemberAsync>b__12_78<CatchPetMemberAsync>b__12_88<CatchPetMemberAsync>b__12_9D<DetermineCurrentStepAsync>b__16_7F<DetermineCurrentStepAsync>b__16_13F<DetermineCurrentStepAsync>b__16_14D<DetermineCurrentStepAsync>b__16_9@
+00fd918f			8<ExecuteInternalAsync>b__7_08<ExecuteInternalAsync>b__7_9:<ExecuteInternalAsync>b__7_10:<ExecuteInternalAsync>b__7_11:<ExecuteInternalAsync>b__7_12:<ExecuteInternalAsync>b__7_13:<ExecuteInternalAsync>b__7_16:<ExecuteInternalAsync>b__7_17B<IsHerbQuestCompletedAsync>b__8_06<ExecuteInternalAsync>b__15><IsHerbQuestCompletedAsync>b__14<EngageBossNpcAsync>b__4_0<<ReturnQuestNpc277Async>b__7_0<<AcceptQuestNpc277Async>b__8_0,<FindBossNpcOnMap>b__0,<FindBossNpcOnMap>b__1,<FindBossNpcOnMap>b__20<EngageBossNpcAsync>b__1:<ExecuteInternalAsync>b__14_1:<ExecuteInternalAsync>b__14_0:<ExecuteInternalAsync>b__14_6:<ExecuteInternalAsync>b__14_8<<ExecuteInternalAsync>b__14_10<<ExecuteInternalAsync>b__14_11<<ExecuteInternalAsync>b__14_12<<ExecuteInternalAsync>b__14_14@
+00fd9f10			System.ComponentModel.INotifyPropertyChanged.remove_PropertyChanged*set_InheritanceParent@
+00fda747			add_Initialized$remove_Initialized(add_ResourcesChanged@
+00fdb659			(get_CurrentTokenSpan@
+00fdb6cc			SkipToNextToken@
+00fdbbaf			ExecuteJobsCore"RequestProcessing Abort@
+00fdbdac			AbortTask(CreateCancelledToken
+00fdbec7			6RemoveItemFromPriorityChain6InsertItemInSequentialChain@
+00fdbf0f			:RemoveItemFromSequentialChain@
+00fdc019			MovePrevious@
+00fdc6bf			RemoveAll@
+00fdca5e			0set_LastLayoutPassTiming&add_PropertyChanged,remove_PropertyChanged@
+00fdcea4			DRequestCompositionBatchCommitAsync@
+00fdcf23			0RequestCompositionUpdate.CreateCompositionTarget@
+00fdd562			DrawLineCore@
+00fde307			CanRemove,UnsubscribeIfNecessary UpdateValueEntry@
+00fde493			&OnValueEntryRemoved@
+00fde4b8			RemoveFrames@
+00fde5fd			(RemoveEffectiveValue*InheritedValueChanged@
+00fde79d			2remove_ColorValuesChanged@
+00fdf62d			RemoveCore@
+00fdf7c2			4ClearFocusOnElementRemoved@
+00fdf970			remove_KeyDown$add_PointerPressed@
+00fdf99d			*remove_PointerPressed&add_PointerReleased@
+00fdfb69			OnPointerMoved OnPointerPressed@
+00fdfbb2			0OnGesturePointerReleased.OnGesturePointerPressed*OnGesturePointerMoved(OnPointerCaptureLost@
+00fdffa3			MouseMove@
+00fe043b			PenMove
+00fe06be			6PopulateImWithInitialValues*TryFindAndApplyClient2add_TextViewVisualChanged8remove_TextViewVisualChanged4add_CursorRectangleChanged:remove_CursorRectangleChanged$add_ResetRequested*remove_ResetRequested4RaiseTextViewVisualChanged6RaiseCursorRectangleChanged6RaiseSurroundingTextChanged*RaiseSelectionChangedBRaiseInputPaneActivationRequested"FromStyledElement
+00fe0d3c			$HandlePointerMoved@
+00fe1c10			RemoveRange@
+00fe253e			add_Invalidated$remove_Invalidated@
+00fe2874			"TryMatchCharacter@
+00fe28f4			`<TryGetGlyphTypeface>g__GetMappedFontFamily|18_0@
+00fe2aad			6GetDistanceFromCharacterHit@
+00fe2ad5			6GetCharacterHitFromDistance@
+00fe2b01			0GetNextCaretCharacterHit@
+00fe2b44			FindGlyphIndex.FindNearestCharacterHit@
+00fe3afe			get_Baseline@
+00fe3b37			(TryMeasureCharacters@
+00fe3b5c			:TryMeasureCharactersBackwards@
+00fe3bb9			,GetShapeableCharacters@
+00fe3cb2			FormatLine@
+00fe3cdc			&FormatLineFromCache
+00fe3d4c			ShapeTextRuns
+00fe3da3			 CanShapeTogether
+00fe3dc5			ShapeTogether
+00fe3e40			TryGetLineBreak
+00fe3e7d			&CreateEmptyTextLine
+00fe4036			<GetLineIndexFromCharacterIndex@
+00fe408b			CreateTextLines@
+00fe4100			"GetBaselineOffset
+00fe413a			$GetRunCharacterHit
+00fe41e7			.GetPreviousCharacterHit@
+00fe4296			FinalizeLine,GetRunAtCharacterIndex@
+00fe42cd			"CreateLineMetrics@
+00fe430b			b<GetDistanceFromCharacterHit>g__GetDirection|60_0t<GetDistanceFromCharacterHit>g__GetPreceedingDistance|60_2@
+00fe4655			*ResetWhitespaceLevelsFAssignLevelsToCodePointsRemovedByX9@
+00fe46f4			GetLineBreak
+00fe4939			VAvalonia.Media.IImageBrushSource.get_Bitmap@
+00fe4c77			,TryFindStretchFallback*TryFindWeightFallback\<TryMatchCharacter>g__TryMatchInAnyFamily|13_0@
+00fe5724			set_KeySpline@
+00fe6963			OnRemoved"GetAcceleratorKey
+00fe69de			SetAutomationId
+00fe69fe			GetAutomationId,GetControlTypeOverride
+00fe6b8a			hAvalonia.Automation.Provider.IValueProvider.SetValue8GetAutomationControlTypeCore@
+00fe70e8			Avalonia.Automation.Provider.ISelectionItemProvider.RemoveFromSelection@
+00fe71e5			xAvalonia.Automation.Provider.IToggleProvider.get_ToggleState@
+00fe722a			fAvalonia.Automation.Provider.IToggleProvider.Toggle@
+00fe7c5a			6remove_SelectedDatesChanged,add_DisplayDateChanged@
+00fe7f94			<CreateContainerForItemOverride@
+00fe80d2			MoveSelection@
+00fe8a0a			SetValid.EnsureGridLinesRenderer@
+00fe8c84			MoveSplitter(KeyboardMoveSplitter@
+00fe8cd5			"add_SourceChanged8System.Collections.IList.Add<System.Collections.IList.Clear>System.Collections.IList.InsertBSystem.Collections.IList.RemoveAt$get_WritableSource@
+00fe8e2f			>PrepareContainerForItemOverride@
+00fe8ec1			AddLogicalChild(PrepareItemContainer*ItemContainerPrepared2ItemContainerIndexChanged$ClearItemContainer@AddControlItemsToLogicalChildrenJRemoveControlItemsFromLogicalChildren0GetEffectiveItemTemplate@
+00fe8fb7			.TryGetInitializedSourcePSystem.Collections.IList.get_IsFixedSizeNSystem.Collections.IList.get_IsReadOnlyBSystem.Collections.IList.get_ItemBSystem.Collections.IList.set_Item0add_PreCollectionChanged6remove_PreCollectionChanged2add_PostCollectionChanged8remove_PostCollectionChanged@
+00fe9126			tAvalonia.Controls.Utils.ICollectionChangedListener.Changed|Avalonia.Controls.Utils.ICollectionChangedListener.PostChanged>System.Collections.IList.RemoveJSystem.Collections.ICollection.CopyTo@
+00fea053			get_Inlines@
+00fea0c4			(InvalidateTextLayout OnInlinesChanged@
+00fea247			MoveHorizontal@
+00fea26e			MoveVertical@
+00fea294			MoveEndPClearSelectionAndMoveCaretToTextPosition@
+00fea523			remove_Closed@
+00feae55			><OnItemsChanged>g__Remove|120_1@
+00feb11e			Dremove_AllowedWindowActionsChanged4UpdateDrawnDecorationParts,ComputeDecorationParts@
+00feb22b			RemoveChild$SetExpectedScaling@
+00feb317			add_Deactivated$remove_Deactivated&add_PositionChanged@
+00feb359			,remove_PositionChanged$get_DesktopScaling"EnsureInitialized@
+00feb3bc			H<ArrangeOverride>g__ArrangeLine|27_0@
+00feb53a			ItemsRemoved@
+00feb769			LineEnd
+00febac3			`<OnSelectedItemsCollectionChanged>g__Remove|19_0@
+00febe3e			:<OnItemsChanged>g__Remove|5_1
+00fec084			R<ArrangeWithAnchoring>g__TrackAnchor|75_0p<OnScrollGestureInertiaStartingEnded>g__GetDistance|79_0H<SnapOffset>g__GetAlignmentDiff|93_0,add_CaretBoundsChanged2remove_CaretBoundsChanged0CreateTextLayoutInternal@
+00fec1d9			:InvalidateTextLayoutKeepCache.MoveCaretToTextPosition MoveCaretToPoint@
+00fec23f			ResetCaretTimer&GetNextCharacterHit@
+00fec29e			0EnsureTextSelectionLayer2RemoveTextSelectionCanvas OnPreeditChanged@
+00fec466			&OnInlineHostChanged@
+00fec4a5			8add_EffectiveGeometryChanged>remove_EffectiveGeometryChanged(AttachCaptionButtons(DetachCaptionButtons2UpdateMaximizeButtonState2UpdateMinimizeButtonState6UpdateFullScreenButtonStateBUpdateAllowedActionsPseudoClasses.UpdateEffectiveGeometry>UpdateEnabledPartsPseudoClasses$HandleLogicalChild@
+00fecab7			*RemoveAccessKeyMarker
+00fed178			&SelectItemWithValue"FindItemWithValue6UpdateSelectedValueFromItemFAutoScrollToSelectedItemIfNecessary2ContainerSelectionChanged*MarkContainerSelected@
+00fed45d			ToTextBox,MoveHandlesToSelection@
+00fed4d1			V<MoveHandlesToSelection>g__GetPosition|37_0@
+00fed874			MoveAndResize@
+00fed980			RemoveMember@
+00fed9c5			DrawGridLine
+00fedd68			System.Collections.Specialized.INotifyCollectionChanged.remove_CollectionChanged$add_CurrentChanged*remove_CurrentChanged&add_CurrentChanging@
+00fede26			get_CanRemove&set_CurrentEditItemRGetOperationNotAllowedDuringAddOrEditText4GetOperationNotAllowedText@
+00fee1c5			ProcessAddEvent0ProcessCollectionChanged$ProcessRemoveEvent2ProcessInsertToCollection(RaiseCurrencyChanges@
+00fee415			LeafIndexOf RemoveEmptyGroup
+00fee43e			ChangeCountsNSystem.Collections.IEnumerator.MoveNext6add_GroupDescriptionChanged@
+00fee537			.RemoveFromGroupDirectly@
+00fee55f			$RemoveFromSubgroup@
+00fee58a			&RemoveFromSubgroups@
+00fee5b2			RRemoveItemFromSubgroupsByExhaustiveSearch@
+00fee6c4			set_Cancel0set_CanUserResizeColumns,set_CanUserSortColumns.set_GridLinesVisibility@
+00fef387			AutoSizeColumn@
+00fef5f2			@OnRemovedColumn_PostNotification@
+00fef61f			>OnRemovedColumn_PreNotification OnRemovingColumn@
+00fef6b1			.ComputeDisplayedColumnsDComputeFirstVisibleScrollingColumnPCorrectColumnDisplayIndexesAfterDeletionRCorrectColumnDisplayIndexesAfterInsertion2CorrectColumnFrozenStatesBCorrectColumnIndexesAfterDeletionDCorrectColumnIndexesAfterInsertion4DecreaseNonStarColumnWidth
+00fefd00			*OnAddedElement_Phase20OnInsertedElement_Phase1$OnInsertingElement OnRemovedElement"OnRemovingElement0LoadRowVisualsForDisplay,RemoveDisplayedElement@
+00fefdc4			RemoveElementAt@
+00fefea9			:UpdateDisplayedRowsFromBottom,UpdateTablesForRemovalRCollectionViewGroup_CollectionChanged_AddXCollectionViewGroup_CollectionChanged_Remove2ClearRowGroupHeadersTableJCorrectLastSubItemSlotsAfterInsertion@
+00ff0229			LRemoveReferenceFromCollectionViewGroup@
+00ff0466			add_CellRemoved@
+00ff0cca			$OnLostMouseCapture0OnMouseMove_BeginReorder.GetDragIndicatorContent@
+00ff0d1e			&OnMouseMove_Reorder@
+00ff0d46			$OnMouseMove_Resize@
+00ff1420			EnsureGridLines<EnsureHeaderStyleAndVisibility@
+00ff1c05			System.Collections.Generic.IEnumerator`1<System.Object>.MoveNext8Populate:/Themes/Fluent.xaml
+00ff1f55			ShapeText@
+00ff277d			DrawBitmap@
+00ff27a0			DrawLine&SkBlurRadiusToSigma
+00ff2dd8			8IsSupportedBitmapPixelFormat@
+00ff2e01			0CreateRenderTargetBitmap@
+00ff853b			GetCurrentDpi.AllocateFramebufferData
+00ff8a83			&get_MaxAutoSizeHint@
+00ff8c8e			*add_ShutdownRequested@
+00ffa2f0			4CreateLinearEasingFunction"CreatePropertySetBCreateQuaternionKeyFrameAnimation:CreateScalarKeyFrameAnimation"CreateScopedBatch@
+00ffa94a			:RemoveRenderingDeviceReplaced
+00ffaa7b			6get_BitmapInterpolationMode@
+00ffaa9f			4SetBitmapInterpolationMode@
+00ffab49			4get_VerticalAlignmentRatio2SetVerticalAlignmentRatio4GetBitmapInterpolationMode
+00ffb173			get_EffectId.GetNamedPropertyMapping@
+00ffb691			SetComment,get_GlobalPlaybackRate*SetGlobalPlaybackRate6CreateBounceScalarAnimation8CreateBounceVector2Animation8CreateBounceVector3Animation(CreateContainerShape*CreateEllipseGeometry$CreateLineGeometry$CreatePathGeometry4CreatePathGeometryWithPath@
+00ffbf4a			(GetMouseMovePointsEx
+00ffc2b9			MapVirtualKey
+00ffca9d			,CreateCompatibleBitmap
+00ffcac9			CreateBitmap
+00ffd05f			CreateHBitmap
+00ffd163			MoveImeWindow@
+00ffda1f			 Unmap
+00ffe2ca			"get_CreationFlags.get_DeviceRemovedReason&GetImmediateContext@
+00ffe4d8			,GetDeviceRemovedReason
+00ffea6e			 RemoveAllVisuals
+00ffedd2			global::Avalonia.Win32.Automation.Interop.IRawElementProviderSimple.GetProviderOptions@
+00ffeedd			global::Avalonia.Win32.Automation.Interop.IRawElementProviderSimple.GetHostRawElementProvider@
+00fff28e			Avalonia.Win32.Automation.Interop.IRawElementProviderFragment.GetEmbeddedFragmentRoots@
+00fffded			.UiaRaiseAutomationEvent
+00fffe15			LUiaRaiseAutomationPropertyChangedEvent
+00ffff0a			R<UiaRaiseAutomationEvent>g____PInvoke|4_0p<UiaRaiseAutomationPropertyChangedEvent>g____PInvoke|5_0
+0100009e			,GuessSegmentProperties4DestroyProxyImplementationDDestroyProxyImplementationForMultiJFontGetFontExtentsProxyImplementation
+01000131			LFontGetGlyphAdvanceProxyImplementation
+01000170			NFontGetGlyphAdvancesProxyImplementation
+010001c0			VFontGetGlyphContourPointProxyImplementation
+01000210			LFontGetGlyphExtentsProxyImplementation
+01000253			NFontGetGlyphFromNameProxyImplementation
+0100029b			LFontGetGlyphKerningProxyImplementation
+010002de			FFontGetGlyphNameProxyImplementation
+01000322			JFontGetGlyphOriginProxyImplementation
+01000368			LFontGetNominalGlyphProxyImplementation
+010003ab			NFontGetNominalGlyphsProxyImplementation
+010003fb			PFontGetVariationGlyphProxyImplementation
+01000444			BReferenceTableProxyImplementation
+0100047a			PUnicodeCombiningClassProxyImplementation
+010004b7			BUnicodeComposeProxyImplementation
+010004f5			FUnicodeDecomposeProxyImplementation
+01000535			RUnicodeGeneralCategoryProxyImplementationFUnicodeMirroringProxyImplementation
+01000597			@UnicodeScriptProxyImplementation@
+010009d4			CreateProxyFor
+01000e1e			get_LoginResult@
+01000e35			$Create_LoginResult@
+01000e54			&LoginResultPropInit
+01000e74			 get_LoginRequest@
+01000e8d			&Create_LoginRequest@
+01000ead			(LoginRequestPropInit(Create_BossDailyItem@
+01000ee3			*BossDailyItemPropInit2Create_InventoryItemModel@
+01000f1f			4InventoryItemModelPropInit8Create_MonsterHeartItemModel@
+01000f82			get_PetColor@
+01000f97			Create_PetColor@
+01000fb3			get_QuestModel@
+01000fc9			"Create_QuestModel@
+01000fe7			$QuestModelPropInit8Create_QuestRequirementModel@
+01001023			:QuestRequirementModelPropInit$Create_UINodeModel@
+01001116			get_LoginConfig@
+0100112d			$Create_LoginConfig@
+0100114c			&LoginConfigPropInit0Create_ListBossDailyItem@
+010011d2			:get_ListMonsterHeartItemModel@
+010011f8			@Create_ListMonsterHeartItemModel@
+01001225			$get_ListQuestModel@
+01001240			*Create_ListQuestModel@
+01001262			@Create_ListQuestRequirementModel@
+010019a5			OnDauPetCommand$OnAddActionCommand*OnUpdateActionCommand*OnRunAutoClickCommand.OnToggleTrackingCommand*InitializeAutoManager@
+01001b13			GetFirstNumber*ParseQuestDescription
+01001b43			"ParseMathQuestionH<GetLastSystemChat>g__AddMatches|4_0
+01001d99			get_MapName get_X get_Y@
+01001eb8			get_IsBattle
+01001ed1			get_FinishNpc@
+01001ee7			get_StartNpc
+01001f1f			LoginAsync@
+01001f3a			Logout*ResolvePendingRequest@
+01001fe8			MapTrans@
+0100203a			InviteGroup$SelectDialogOption@
+010020b9			GetNpcsAsync@
+01002101			GetQuestsAsync@
+0100215d			SetAutoCount(GetActivePointsAsync@
+0100222b			.GetMonsterHeartBagAsync@
+01002253			&ResolveMonsterHeart&GetBattleStateAsync@
+01002287			 GetPetCountAsync@
+010022a5			GetPetsAsync@
+010022bd			&GetPetJoinInfoAsync@
+010022f1			UseBattleItem@
+01002312			$GetLoginStateAsync@
+01002331			,IsGameFullyLoadedAsync GetLineInfoAsync@
+01002366			SelectLine&ClickDynamicUIAsync@
+01002399			ClickDynamicUI(ClickDynamicUIByText,GetTextContainingAsync&AutoTaskActionAsync@
+010024e5			(GetPetSoulStateAsync@
+01002515			PetSoulPick PetSoulDecompose(GetPetArenaInfoAsync@
+01002552			"PetArenaAutoSetup$PetArenaClickFight"BuySystemShopItem@
+010025a2			BuyNpcShopItem@
+01002988			,ReconnectAndLoginAsync(GetBestItemGiidAsync@
+010029d0			MoveToAsync@
+010029f8			MapTransAsync@
+01002a1d			&BuyItemFromNpcAsync@
+01002a52			TrainMapAsync@
+01002a7f			2HandleCatchPetBattleAsync@
+01002ab1			 CreatePartyAsync@
+01002ad7			ChangeLineAsync AcceptInvitation@
+01002b1f			 AutoFusePetAsync@
+01002b41			GetPetName@
+01002ba7			2UpdatePartyAutoCountAsyncBUpdatePartyAutoCountParallelAsync@
+01002c15			(AcceptQuestAtNpc1742 HandleLamNV_5448 CompleteQuestAll@
+01002ce9			&HandleFloor1_LamNV10HandleFloor1_ChuyenTang28HandleFloor2_LamNV3_DanhBoss<HandleFloor2_LamNV3_ThuThapHoa&InteractNpcAndQuest@
+01002d7e			$ChallengeByNpcName@
+01002da2			EnsureParty HasQuestForGroup@
+01002dce			6InteractNpcAndQuestForGroup@
+01002dfe			 ChallengeNpcWait@
+01002e24			GoThroughPortal@
+01002e47			"HandleSystemAlert(MoveToNpcAndInteract@
+01002e82			"AnyMemberHasQuest4IsAllMembersQuestCompleted@
+01002ed6			0CheckAvailableQuestAtNpc IsInDungeonAsync4IsAllMembersInDungeonAsync@
+01002f6d			&CatchPetMemberAsync@
+01002fa9			&HandleFloor1_NhanNV2HandleFloor1_ThuThapPhaLe$HandleFloor1_TraNV8HandleFloor2_DanhXunLuanBinh$HandleFloor2_TraNV0HandleFloor2_ChuyenTang3@HandleFloor3_DanhLietDiemKuangMo$HandleFloor3_TraNV0HandleFloor3_ChuyenTang40HandleFloor4_DanhPhuThuy&AcceptQuestFromFunc@
+010030bd			*CompleteQuestFromFunc@
+010030fb			(ClickNpcByNameLeader@
+010031e2			HandleFloor50HandleFloor6_DocVaBatPet(HandleFloor6_GiaoPet.HandleFloor6_LinhThuongFHandleFloor6_NhatRuongVaChuyenTang76HandleFloor7_KhieuChienBoss4HandleFloor7_NhanRuongCuoi.EnsureGroupAndNhatRuong@
+010032cd			*WaitBattleFinishAsync.ClearSystemAlertsForAll GetIndicesToKeep@
+0100337a			&GoToAcademyMapAsync(EngageTargetNpcAsync@
+010033af			&OpenQuestPanelAsync@
+010033d3			$GoToNpcAndComplete@
+010033fb			IsGuildMapAsync"GoToGuildMapAsync@
+0100342c			2IsHerbQuestCompletedAsync@
+0100345a			 FindBossNpcOnMap@
+0100347f			$EngageBossNpcAsync@
+01006d53			<GRGlGetProcProxyImplementation
+01006d82			<GRVkGetProcProxyImplementation
+01006db9			DSKBitmapReleaseProxyImplementation
+01006dec			@SKDataReleaseProxyImplementation<SKGlyphPathProxyImplementation
+01006e40			NSKImageRasterReleaseProxyImplementationfSKImageRasterReleaseProxyImplementationForCoTaskMemPSKImageTextureReleaseProxyImplementationpSKManagedDrawableApproximateBytesUsedProxyImplementation
+01006f0e			VSKManagedDrawableDestroyProxyImplementation
+01006f4a			PSKManagedDrawableDrawProxyImplementation
+01006f87			ZSKManagedDrawableGetBoundsProxyImplementation
+01006fc9			nSKManagedDrawableMakePictureSnapshotProxyImplementationRSKManagedStreamDestroyProxyImplementationVSKManagedStreamDuplicateProxyImplementationLSKManagedStreamForkProxyImplementationVSKManagedStreamGetLengthProxyImplementationZSKManagedStreamGetPositionProxyImplementationVSKManagedStreamHasLengthProxyImplementation
+01007114			ZSKManagedStreamHasPositionProxyImplementationRSKManagedStreamIsAtEndProxyImplementationLSKManagedStreamMoveProxyImplementation
+010071a7			LSKManagedStreamPeekProxyImplementation
+010071e6			LSKManagedStreamReadProxyImplementationPSKManagedStreamRewindProxyImplementationLSKManagedStreamSeekProxyImplementation
+01007271			vSKManagedTraceMemoryDumpDumpNumericValueProxyImplementation
+010072cd			tSKManagedTraceMemoryDumpDumpStringValueProxyImplementation
+01007324			^SKManagedWStreamBytesWrittenProxyImplementationTSKManagedWStreamDestroyProxyImplementationPSKManagedWStreamFlushProxyImplementationPSKManagedWStreamWriteProxyImplementation
+010073e9			RSKSurfaceRasterReleaseProxyImplementation@
+0100799e			MatchCharacter@
+01007d7e			sk_bitmap_erase$sk_bitmap_get_info
+01007db0			(sk_bitmap_get_pixels
+01007dd5			.sk_bitmap_get_row_bytes*sk_bitmap_make_shader
+01007e66			sk_bitmap_swap&sk_blender_new_mode
+01007f48			&sk_canvas_draw_line
+0100836d			(sk_refcnt_safe_unref0sk_version_get_increment0sk_version_get_milestone&sk_image_get_height$sk_image_get_width4sk_image_make_raster_image(sk_image_make_shader0sk_image_new_from_bitmap&sk_image_new_raster
+0100878f			sk_path_line_to
+010089b1			sk_pixmap_new2sk_pixmap_new_with_params
+01008b3e			:sk_shader_new_linear_gradient
+0100908c			Nsk_fontmgr_match_family_style_character
+01009372			V<sk_bitmap_install_pixels>g____PInvoke|83_0
+010093be			P<sk_bitmap_peek_pixels>g____PInvoke|90_0
+010093f7			Z<sk_bitmap_try_alloc_pixels>g____PInvoke|96_0
+010094d7			n<sk_canvas_clip_rrect_with_operation>g____PInvoke|107_0Z<sk_font_set_baseline_snap>g____PInvoke|297_0P<sk_font_set_embolden>g____PInvoke|300_0d<sk_font_set_force_auto_hinting>g____PInvoke|301_0\<sk_font_set_linear_metrics>g____PInvoke|303_0P<sk_font_set_subpixel>g____PInvoke|307_0P<sk_image_peek_pixels>g____PInvoke|370_0P<sk_image_read_pixels>g____PInvoke|371_0
+01009998			v<sk_fontmgr_match_family_style_character>g____PInvoke|809_0
+01009be3			FromBitmap
+0100a02f			(CreateLinearGradient
+0100a2fe			0AllocateRawPositionedRun@
+0100a8c2			DSystem.Collections.IDictionary.AddNSystem.Collections.IDictionary.ContainsXSystem.Collections.IDictionary.GetEnumeratorNSystem.Collections.IDictionary.get_ItemNSystem.Collections.IDictionary.set_ItemJSystem.Collections.IDictionary.RemoveHInitializeSkipInterfaceAttributeList
+0100ac43			PipelineFilter
+0100ac69			$PipelineInitialize
+0100ac91			PipelineMerge
+0100aea8			CreateMap
+0100b132			RemovePreamble
+0100c0e7			L<GetWindowTextLengthW>g____PInvoke|3_0@<GetWindowTextW>g____PInvoke|4_0 OpenProcessToken
+0100c17d			*AdjustTokenPrivileges
+0100c49b			 BuildCommandLine
+0100cef5			6DeallocateInputBufferHandle@
+0100eb49			6ReferenceEqualityNotDefined@OperandTypesDoNotMatchParameters\OverloadOperatorTypeDoesNotMatchConversionTypeTConversionIsNotSupportedForArithmeticTypes&ArgumentMustBeArray*ArgumentMustBeBoolean8ArgumentMustBeArrayIndexTypePArgumentMustBeSingleDimensionalArrayType,ArgumentTypesMustMatchdCannotAutoInitializeValueTypeMemberThroughProperty,IncorrectTypeForTypeAs2CoalesceUsedOnNonNullType@ExpressionTypeDoesNotMatchReturn
+01010ed8			$WinHttpCloseHandleJWinHttpGetIEProxyConfigForCurrentUser
+01010f1d			*WinHttpGetProxyForUrl
+01010f87			L<WinHttpCloseHandle>g____PInvoke|187_0r<WinHttpGetIEProxyConfigForCurrentUser>g____PInvoke|208_0
+01010ff4			R<WinHttpGetProxyForUrl>g____PInvoke|209_0
+0101129e			BIsValidForClientAuthenticationEKU
+0101143a			8ThrowIfCancellationRequested@
+0101161b			 get_DefaultProxy2get_DefaultRequestHeaders@
+010116ac			,CheckRequestBeforeSend@
+01011780			,CheckDisposedOrStarted&CheckRequestMessage
+010117b7			*PrepareRequestMessage<PrepareCancellationTokenSource@
+0101180e			(CreateRequestMessage@
+01011b95			CopyToCore,ReturnAllPooledBuffers.ShouldSendWithTelemetry LogRequestFailed
+01011d51			8get_IsExtendedConnectRequest@
+01011da0			&get_TrailingHeaders$set_RequestMessage.get_IsSuccessStatusCode@
+01011df3			(get_HttpRequestError@
+01012125			DAddConnectionLinkToRequestActivity@
+010121dc			,SendWithProxyAuthAsync0SendWithNtProxyAuthAsync@
+0101229d			.GetSslOptionsForRequest@
+010122f7			2EstablishProxyTunnelAsync@
+01012321			(EstablishSocksTunnel@
+0101242c			2ProcessHttp11RequestQueue@
+010128ef			@IsSessionAuthenticationChallenge
+0101291c			VTryGetValidAuthenticationChallengeForScheme
+01012968			:TryGetAuthenticationChallenge
+010129a2			2IsAuthenticationChallenge
+010129cc			JGetResponseAuthenticationHeaderValues
+01012a02			FSetRequestAuthenticationHeaderValue
+01012a3a			"SetBasicAuthToken
+01012a60			*TrySetDigestAuthToken
+01012a8e			"SendWithAuthAsync
+01012acc			6GetDigestTokenForCredential
+01012b53			 get_UsePortInSpn6ProxySupportsConnectionAuth&SendWithNtAuthAsync
+01012d7e			 MapSendException@
+01012da3			4CreateRequestContentStream@
+01012dd6			.SendRequestContentAsync@
+01012e06			XSendRequestContentWithExpect100ContinueAsync@
+01012e54			ParseStatusLine@
+01012e6f			&ParseStatusLineCore
+01012fe7			WriteToStream$WriteToStreamAsync,TryReadNextChunkedLine@
+010131e3			<CheckUsabilityOnScavenge>g__TransitionToCompletedAndTryOwnCompletion|39_1><WriteHeaders>g__WriteHost|50_0`<WriteString>g__ThrowForInvalidCharEncoding|55_0f<ParseHeadersCore>g__ThrowForInvalidHeaderLine|65_0
+01013372			l<FillForHeadersAsync>g__ReadUntilEndOfHeaderAsync|83_0Z<FillForHeadersAsync>g__TryFindEndOfLine|83_1
+010136b1			$RequestCreditAsync@
+010137b1			System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.OnCompleted$GetProxyRenewTicks@
+01013cd2			4GetRequestAbortedException&ThrowRequestAborted$ThrowProtocolError
+01013e7d			get_SyncObject(SendRequestBodyAsync.WaitFor100ContinueAsync@
+01014428			&SendAsyncMultiProxy@
+0101445c			 SetCleaningTimer RemoveStalePools@
+0101453a			ReadNextHelper.TryParseProxyConfigPart
+010145d0			.RequestRequiresForceGet
+0101460f			6ValidateAndNormalizeRequest
+01014637			Z<SendAsync>g__CreateHandlerAndSendAsync|115_02EstablishSocksTunnelAsync
+010146a3			4EstablishSocks5TunnelAsync
+010146da			4EstablishSocks4TunnelAsync
+01014803			GetProxy@
+0101484f			GetMultiProxy@
+010148a9			GetProxyForUrl@
+01014cfc			nEncodeLiteralHeaderFieldWithoutIndexingToAllocatedArray|EncodeLiteralHeaderFieldWithoutIndexingNewNameToAllocatedArray
+01014df3			@GetEnrichmentCallbacksForRequest
+01014e8f			RequestStart@
+01014ea8			RequestStop@
+01014f7c			 RequestLeftQueue@
+01015157			.TrySetOptionalTokenList
+010153b4			CheckValidToken"CheckValidComment@GetNextNonEmptyOrWhitespaceIndex
+01015635			"RemoveParsedValue@
+0101588f			4CheckContainsNewLineOrNull6GetStoreValuesAsStringArray
+01015bf9			get_Location*get_ProxyAuthenticate@
+01016034			2TryReadQuotedAltAuthority
+0101606a			$TryReadQuotedValue2TryReadTokenOrQuotedInt32
+010160d7			(TrySkipTokenOrQuoted
+010166aa			get_TaskBUnregisterAndGetCancellationToken@
+01016ead			MapToIPv42ThrowAddressNullException
+01016f9d			TokenFromName@
+01017386			"CompleteAuthToken
+010173a8			"ApplyControlToken(SspiFreeAuthIdentity
+010173db			>SspiEncodeStringsAsAuthIdentity
+0101777a			H<CompleteAuthToken>g____PInvoke|36_0
+010177af			H<ApplyControlToken>g____PInvoke|37_0N<SspiFreeAuthIdentity>g____PInvoke|38_0d<SspiEncodeStringsAsAuthIdentity>g____PInvoke|39_0
+01017900			@GetRequestCertificateAuthorities
+01017af9			8GetAuthenticationPackageName
+01018166			(AuthenticateAsClient2AuthenticateAsClientAsync@
+0101826a			NProcessAuthenticationWithTelemetryAsync@
+010182be			&SendAuthResetSignal@
+01018466			GenerateToken@
+010184d7			<CreateFatalHandshakeAlertToken@
+0101856a			<ThrowIfExceptionalOrNotAuthenticatedOrShutdown>g__ThrowAlreadyShutdown|134_0|<FindCertificateWithPrivateKey>g__FindCertWithPrivateKey|209_0
+01018cb5			ApplyAlertToken
+01019394			CloseAsIsDGetOrAllocateThreadPoolBoundHandle@
+01019a56			LGetOrAllocateThreadPoolBoundHandleSlow@
+0101a546			Preallocate
+0101aa25			MemmoveInternal
+0101b350			"AddMemoryPressure(RemoveMemoryPressure0GetGCMemoryInfoUnchecked
+0101d3fd			<ToBase64CharsLargeNoLineBreaks
+0101e8fe			GetRegularToken@
+0101e921			"GetSeparatorToken@
+0101e9d1			TrimTail6RemoveTrailingInQuoteSpaces4RemoveLeadingInQuoteSpaces@
+0101f4f6			*get_CancellationToken@
+0101f6b1			(IndexOfNullCharacter
+0102110b			GetNamePosition$FindPosForResource.CompareStringEqualsName4AllocateStringForNameIndex@
+0102201c			get_ShortTimes0DeriveShortTimesFromLong.StripSecondsFromPattern>GetIndexOfNextTokenAfterSeconds
+01022da5			.GetJapaneseCalendarDTFI*GetTaiwanCalendarDTFI(CreateTokenHashTable@
+01022e45			Tokenize@
+01023687			get_IcuFlags2CheckInvalidIdnCharacters
+01023cc5			InitDateMapping
+01023ebc			P<FindModulus>g__TryRemoveDuplicates|13_1
+01024025			AddSuffixLinks@GenerateStartingAsciiCharsBitmap$AddChildrenToQueue@
+01024109			HGetSingleStringMultiCharacterOffsets
+010243db			L<Create>g__RemoveUnreachableValues|3_2
+01024789			TryEnter"TryEnter_Outlined@
+010248b1			RemoveWaiter@
+01024ae1			"MapFromOSPriority
+01024b00			MapToOSPriority
+01024ca0			6get_IsCancellationRequested@
+01024d51			BTransitionToCancellationRequested.ExecuteCallbackHandlers.CreateLinkedTokenSource
+01025287			"RemoveAsyncWaiter@
+0102538d			2RefreshCurrentProcessorId2ProcessorNumberSpeedCheck*UninlinedThreadStatic8CreateThreadLocalCountObject&AssignWorkItemQueue@
+010259b6			Allocate
+010259db			AllocateNew
+01025b28			RAllocateNativeOverlappedWindowsThreadPool@
+01025d6a			.AssignCancellationToken@
+01026111			$ExecuteEntryUnsafeVExecuteEntryCancellationRequestedOrCanceled,ExecuteWithThreadLocal@
+01026258			InternalCancelBRecordInternalCancellationRequest@
+0102641f			&AddTaskContinuation$RemoveContinuation
+0102655a			SetException6InlineIfPossibleOrElseQueue
+01026731			TryRunInline@
+010267ba			QueueTask(TryExecuteTaskInline
+01026a0a			AppendLine@
+0102799e			2HasOverriddenBeginEndRead4HasOverriddenBeginEndWriteJEnsureAsyncActiveSemaphoreInitialized@
+010286fe			FlushRead4ClearReadBufferBeforeWriteZ<EnsureBufferAllocated>g__AllocateBuffer|69_0"WrapIfDerivedType
+01028e86			.FindImplSlotInSimpleMap
+0102931e			RhUnboxTypeTest
+01029a7a			8AllocateTypeAssociatedMemory
+0102ae6c			*ComputePublicKeyToken IsValidPublicKey
+0102b12e			TryGetNextToken@
+0102b877			0EscapeTypeNameIdentifier.NeedsEscapingInTypeName
+0102c4f5			4get_CaseSensitiveTypeTable@
+0102db4a			IntToString0ComputeArrayTypeHashCode"TryAllocateObject@
+0102dbe1			FGetUninlinedThreadStaticBaseForTypeNGetUninlinedThreadStaticBaseForTypeSlowDAllocateThreadStaticStorageForType
+0102dd33			get_DispatchMap@
+0102e459			4InitializeCommandLineArgsW
+0102e7bc			 ThrowBodyRemoved0ThrowInstanceBodyRemoved8ThrowInvalidProgramException
+0102eec7			EqualSid&GetTokenInformation
+0102ef14			OpenThreadToken
+0102fdba			GetNextToken@
+0102fe96			ProcessToken@
+0102ffe2			 OpenCurrentToken
+0102fffc			GetTokenUser
+0103002f			6CreateMandatoryLabelAceSacl,GetTokenMandatoryLabel"GetIntegrityLevel0CreateSecurityDescriptor
+01030964			"DisconnectTracker6GetOrAddProxyForComInstance@
+010309a6			.FindProxyForComInstance@
+010309db			Remove_Locked"CompareKeyToValue@
+01030a5b			get_Map
+0103178a			@GetLdFtnReverseLookups_InvokeMap@
+01031873			FComputeLdftnReverseLookup_InvokeMap
+010318a3			dTryGetMethodForOriginalLdFtnResult_InvokeMap_Inner@
+01031e4d			*PopulateRvaToTokenMap@
+010330df			6TryGetTypeTemplate_Internal
+010332c2			FGetBaseTypeThatIsCorrectForMDArrays FinishInterfaces@
+0103333f			hCopyDictionaryFromTypeToAppropriateSlotInDerivedType@
+01033b32			VTryGetFieldAccessMetadataFromFieldAccessMap
+01033be8			DGetMethodNameAndSignatureFromToken
+01033fa8			NTryGetMethodInvokeMetadataFromInvokeMap
+0103496f			.MapGenericParserOptions
+01034be5			get_Authority get_HostNameType@
+01034ee3			(CheckAuthorityHelper@
+01034f1c			@CheckAuthorityHelperHandleDnsIri
+0103533c			IsGenDelim IsLWS,IsBidiControlCharacter4StripBidiControlCharacters
+01035e75			*RemoveInheritanceBits
+010360d2			SetQualifiedAce&RemoveQualifiedAces@
+0103611d			6RemoveQualifiedAcesSpecific@
+01036176			RemoveAccess@
+0103619e			(RemoveAccessSpecific:CreateAllowEveryoneFullAccess
+010372ef			get_KeyUsageOid:get_AuthorityKeyIdentifierOid6get_SubjectKeyIdentifierOid*get_SubjectAltNameOidBget_AuthorityInformationAccessOid@
+01037cbf			MapCspKeyFlags&MapCspProviderFlags"VerifyValidHandle
+0103827a			MapNameType
+01038395			$MapRevocationFlags
+01038460			"MapX509StoreFlags
+01038b99			 MapNameToStrFlag
+0103920f			(DuplicateAccessToken
+010392d5			GetCurrentToken
+010392fc			,GetCurrentProcessToken
+01039324			GetLogonAuthId
+010393bd			AddTokenClaims@
+01039433			get_BasicLatin(ForbidHtmlCharacters2ForbidUndefinedCharacters@
+01039615			4GetAllowedCodePointsBitmap@
+0103989a			PThrowArgumentOutOfRangeException_NewLine`ThrowArgumentOutOfRangeException_IndentCharacterVThrowArgumentOutOfRangeException_IndentSize
+0103a90d			ThrowInvalidOperationException_ExtensionDataConflictsWithUnmappedMemberHandling
+0103aa8e			ZThrowJsonException_MetadataValuesInvalidTokenXThrowJsonException_MetadataValueWasNotStringZThrowJsonException_MetadataUnexpectedProperty
+0103ab27			NThrowJsonException_UnmappedJsonPropertyfThrowJsonException_MetadataStandaloneValuesProperty
+0103b42c			CountNewLines
+0103b704			ConsumeSign4ConsumeNextTokenOrRollback ConsumeNextToken@
+0103b747			NConsumeNextTokenFromLastNonCommentToken@
+0103b82f			ConsumeComment0ConsumeSingleLineComment.ConsumeMultiLineComment GetUnescapedSpan@
+0103b8be			GetNextSpan4ReadFirstTokenMultiSegment4SkipWhiteSpaceMultiSegment0ConsumeValueMultiSegment4ConsumeLiteralMultiSegment0CheckLiteralMultiSegment@
+0103c5c4			get_NewLineHget_CanUseFastPathSerializationLogic(GetTypeInfoNoCaching GetWriterOptions@
+0103e0ab			System.Collections.Generic.ICollection<System.Text.RegularExpressions.Match>.Remove@
+0103e50f			MayOverlap8ParticipatesInCaseConversionTSetContainsAsciiOrdinalIgnoreCaseCharacter
+0103ed0a			x<ReduceAlternation>g__RemoveRedundantEmptiesAndNothings|42_2d<ReduceAlternation>g__ExtractCommonPrefixText|42_3X<ReduceAlternation>g__ProcessOneOrMulti|42_4
+0103ee32			P<ReduceLookaround>g__RemoveCaptures|52_0
+0103f053			IsCaptureSlot MapCaptureNumber
+0103f9a4			<ConvertToSymbolicRegexNode>g__EnsureWordLetterPredicateInitialized|4_1L<CreateBDDFromSetString>g__Compute|5_0x<CreateBDDFromSetString>g__MapCategoryCodeSetToCondition|5_1
+0103febb			.RemoveAnimationAndRaise@
+0104062b			MoveNextRare.CreatePerCorePartitions@
+010407a3			TryRemove"TryRemoveInternal@
+01040b3d			RemoveFirst$InternalRemoveNode@
+01041628			$get_MoveNextAction@
+01041908			RemoveValues AddValuesPrivate@
+0104193e			FindRangeIndex(InsertIndexesPrivate(RemoveRangeIfInvalid@
+010421e8			NotifyRemove:set_HistogramBucketBoundaries@
+01042274			vSystem.Collections.Generic.IReadOnlyCollection<T>.get_CountfSystem.Collections.Generic.ICollection<T>.get_CountdSystem.Collections.Generic.ICollection<T>.Contains`System.Collections.Generic.ICollection<T>.CopyToXSystem.Collections.Generic.IList<T>.get_ItemXSystem.Collections.Generic.IList<T>.set_ItemVSystem.Collections.Generic.IList<T>.IndexOfTSystem.Collections.Generic.IList<T>.InsertXSystem.Collections.Generic.IList<T>.RemoveAt@
+010424a7			ComputeMap@
+010424d5			^System.Collections.Generic.ICollection<T>.Clear`System.Collections.Generic.ICollection<T>.Remove GetAdjustedCount
+01042a2a			nSystem.Collections.Generic.ICollection<TElement>.RemovedSystem.Collections.Generic.IList<TElement>.IndexOf@
+01042ae3			fSystem.Collections.Generic.IList<TElement>.RemoveAtfSystem.Collections.Generic.IList<TElement>.get_Item@
+01043111			zSystem.Collections.Generic.ICollection<TValue>.get_IsReadOnlydSystem.Collections.Generic.ICollection<TValue>.AddjSystem.Collections.Generic.ICollection<TValue>.RemovehSystem.Collections.Generic.ICollection<TValue>.ClearnSystem.Collections.Generic.ICollection<TValue>.Contains@
+01044223			0<ForEachItem>g__Remove|1@
+01044539			DeselectRange OnIndexesChanged>OnSourceCollectionChangeStarted$OnSelectionRemoved@
+010445bc			OnItemsRemoved(SetInitSelectedItems.IsValidCollectionChange@
+01044c96			Vget_CancelledByOriginatingRequestCompletion@
+01044d5d			JPruneCompletedRequestsFromHeadOfQueue TryDequeueWaiter@
+01044e1b			MoveItem@
+010457a1			GetAndRemove@
+0104587e			System.Collections.Generic.ICollection<System.Collections.Generic.KeyValuePair<TKey,TValue>>.Remove@
+01045ace			RemoveIndex@
+01048b9f			*InlineArrayElementRef
+010492f3			(CreateProxyOrNullFor GetNativePointer
+010ad570			Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)InterBold3.019;RSMS;Inter-BoldInter BoldVersion 3.019;git-0a5106e0bInter-BoldInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLOpen digitsDisambiguationr curves into round neighborsDisambiguation without slashed zeroAlternate oneOpen fourOpen sixOpen nineLower-case L with tailr with curved tailAlternate German double sUpper-case i with serifFlat-top threeCaptital G with spurSingle-storey aWeightSlantRegular
+010f9d94			Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)Inter LightRegular3.019;RSMS;Inter-LightVersion 3.019;git-0a5106e0bInter-LightInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLInterLightOpen digitsDisambiguationr curves into round neighborsDisambiguation without slashed zeroAlternate oneOpen fourOpen sixOpen nineLower-case L with tailr with curved tailAlternate German double sUpper-case i with serifFlat-top threeCaptital G with spurSingle-storey aWeightSlant
+01145f82			,Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)Inter MediumRegular3.019;RSMS;Inter-MediumVersion 3.019;git-0a5106e0bInter-MediumInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLInterMediumOpen digitsDisambiguationr curves into round neighborsDisambiguation without slashed zeroAlternate oneOpen fourOpen sixOpen nineLower-case L with tailr with curved tailAlternate German double sUpper-case i with serifFlat-top threeCaptital G with spurSingle-storey aWeightSlant
+011dead2			8Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)Inter SemiBoldRegular3.019;RSMS;Inter-SemiBoldVersion 3.019;git-0a5106e0bInter-SemiBoldInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLInterSemiBoldOpen digitsDisambiguationr curves into round neighborsDisambiguation without slashed zeroAlternate oneOpen fourOpen sixOpen nineLower-case L with tailr with curved tailAlternate German double sUpper-case i with serifFlat-top threeCaptital G with spurSingle-storey aWeightSlant
+0122b5b0			Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)Inter ThinRegular3.019;RSMS;Inter-ThinVersion 3.019;git-0a5106e0bInter-ThinInter UI and Inter is a trademark of rsms.rsmsRasmus Anderssonhttps://rsms.me/This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFLhttp://scripts.sil.org/OFLInterThinOpen digitsDisambiguationr curves into round neighborsDisambiguation without slashed zeroAlternate oneOpen fourOpen sixOpen nineLower-case L with tailr with curved tailAlternate German double sUpper-case i with serifFlat-top threeCaptital G with spurSingle-storey aWeightSlant
+0134c869			Usage: Launcher.exe <flash_exe> <url> <dll_path> [socks_port] 
+0134c8a9			RISU_SOCKS_PORT
+0134d307			memmove
+0134db21			<?xml version='1.0' encoding='UTF-8' standalone='yes'?>  <assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">      <security>        <requestedPrivileges>          <requestedExecutionLevel level='asInvoker' uiAccess='false' />        </requestedPrivileges>      </security>    </trustInfo>  </assembly>  
+013527f9			Avalonia.Controls.DataGrid, Version=12.0.0.0, Culture=neutral, PublicKeyToken=c8d484a7012f9a8b$!AvaloniaResources
+01571a90			ApplyControlToken
+01571b2c			CompleteAuthToken
+01571b3e			CreateBitmap
+01571b57			CreateCompatibleBitmap
+01572085			GetMouseMovePointsEx
+015723d2			MapVirtualKeyW
+01572819			SspiEncodeStringsAsAuthIdentity
+01572839			SspiFreeAuthIdentity
+015728a0			UIAutomationCore.dll
+015728d8			UiaRaiseAutomationEvent
+015728f0			UiaRaiseAutomationPropertyChangedEvent
+01572975			WinHttpGetIEProxyConfigForCurrentUser
+0157299b			WinHttpGetProxyForUrl
+01572a6f			dwmapi.dll
+0157301d			objc_autoreleasePoolPop
+01573035			objc_autoreleasePoolPush
+01573084			sk_bitmap_destructor
+01573099			sk_bitmap_erase
+015730a9			sk_bitmap_get_info
+015730bc			sk_bitmap_get_pixels
+015730d1			sk_bitmap_get_row_bytes
+015730e9			sk_bitmap_install_pixels
+01573102			sk_bitmap_make_shader
+01573118			sk_bitmap_new
+01573126			sk_bitmap_notify_pixels_changed
+01573146			sk_bitmap_peek_pixels
+0157315c			sk_bitmap_set_immutable
+01573174			sk_bitmap_swap
+01573183			sk_bitmap_try_alloc_pixels
+01573284			sk_canvas_draw_line
+0157332e			sk_canvas_new_from_bitmap
+0157342a			sk_colorfilter_new_linear_to_srgb_gamma
+01573452			sk_colorfilter_new_srgb_to_linear_gamma
+01573491			sk_colorspace_new_srgb_linear
+01573666			sk_font_set_baseline_snap
+015736a8			sk_font_set_force_auto_hinting
+015736db			sk_font_set_linear_metrics
+0157375e			sk_fontmgr_match_family_style_character
+01573861			sk_image_new_from_bitmap
+01573b80			sk_path_line_to
+01573b90			sk_path_move_to
+01573cb0			sk_pixmap_destructor
+01573cc5			sk_pixmap_get_info
+01573cd8			sk_pixmap_new
+01573ce6			sk_pixmap_new_with_params
+01573e77			sk_shader_new_linear_gradient
+015746a5			System.Threading.Thread.EnableAutoreleasePool
+018ce360	004a5440	FUN_004a5440	QuarticEaseInOutElasticEQuadraticEaseOutQuinticEBounceEaCircularrEaseOuticEaseInarEaseInCubicEaseEaseOutBackEaseSineEaseLinearEaarEasingSpringEangEasingceEaseInSplineEaneEasing
+018ce360	004a5440	FUN_004a5440	QuarticEaseInOutElasticEQuadraticEaseOutQuinticEBounceEaCircularrEaseOuticEaseInarEaseInCubicEaseEaseOutBackEaseSineEaseLinearEaarEasingSpringEangEasingceEaseInSplineEaneEasing
+018ce360	004a5440	FUN_004a5440	QuarticEaseInOutElasticEQuadraticEaseOutQuinticEBounceEaCircularrEaseOuticEaseInarEaseInCubicEaseEaseOutBackEaseSineEaseLinearEaarEasingSpringEangEasingceEaseInSplineEaneEasing
+018d3230	007563a0	FUN_007563a0	] [Flash] [Flash
+018d3230	0072c7b0	FUN_0072c7b0	] [Flash] [Flash
+018d3d20	007973c0	FUN_007973c0	LINE_SELE_SELECTCHAR_SELR_SELECT
+018d3d20	007973c0	FUN_007973c0	LINE_SELE_SELECTCHAR_SELR_SELECT
+018d9680	008c4560	FUN_008c4560	https://socks4:/    
+018d9680	008c4560	FUN_008c4560	https://socks4:/    
+018d9680	008c4560	FUN_008c4560	https://socks4:/    
+018d96b0	008c4560	FUN_008c4560	ocks4://socks5:/ocks5://     
+018d96b0	008c4560	FUN_008c4560	ocks4://socks5:/ocks5://     
+018d96f0	008c4560	FUN_008c4560	socks4a:   
+018d96f0	008c4560	FUN_008c4560	socks4a:   
+01976c84	00eb7c70	FUN_00eb7c70	{ Scanning Thread's %p inline thread statics root %p.  
+01977038	00ebb250	FUN_00ebb250	alloc_allocated
+01977038	00ebb250	FUN_00ebb250	alloc_allocated
+01977140	00ebb250	FUN_00ebb250	allocated
+01977180	00ebb250	FUN_00ebb250	background_allocated
+01977180	00ebb250	FUN_00ebb250	background_allocated
+01977180	00ebb250	FUN_00ebb250	background_allocated
+01977180	00ebb250	FUN_00ebb250	background_allocated
+01977180	00ebb250	FUN_00ebb250	background_allocated
+01978258	00ecf450	FUN_00ecf450	{ =========== BEGINGC %d, (requested generation = %lu, collect_classes = %lu) ========== 
+01979c74	00eeaf40	FUN_00eeaf40	uloc_getCharacterOrientation%s
+01979c74	00ee8980	FUN_00ee8980	uloc_getCharacterOrientation%s
+0197a850			`virtual displacement map'
+01b2f142			RisuTools.exe
+01b2f888			AdjustTokenPrivileges
+01b2f8f4			GetSidSubAuthority
+01b2f90a			GetSidSubAuthorityCount
+01b2f924			GetTokenInformation
+01b2f9ba			OpenProcessToken
+01b2f9ce			OpenThreadToken
+01b30566			LCMapStringEx
+01b30d40			CoGetContextToken
+01b3a584			ng auto
+01b3a6c4	00a35740	FUN_00a35740	 LineNumber: 
+01b3a6c4	00a33d90	FUN_00a33d90	 LineNumber: 
+01b3a6c4	00a35740	FUN_00a35740	 LineNumber: 
+01b3a80c	008e6e60	FUN_008e6e60	 MaxToken:
+01b3b1fc	009ba940	FUN_009ba940	 in file:line:column 
+01b3ba86			u PET...
+01b3bbd4	0078f9a0	FUN_0078f9a0	 trong Constants.MapCoordinates.
+01b3bcca			ng auto.
+01b3bf1c	00a33d90	FUN_00a33d90	 | BytePositionInLine: 
+01b3bf1c	00a359f0	FUN_00a359f0	 | BytePositionInLine: 
+01b3bf1c	00a35eb0	FUN_00a35eb0	 | BytePositionInLine: 
+01b3bf58	00a359f0	FUN_00a359f0	 | LineNumber: 
+01b3bf58	00a35eb0	FUN_00a35eb0	 | LineNumber: 
+01b3c2f4			t Pet [
+01b3d88c	00ac94a0	FUN_00ac94a0	' because the target map is too small.
+01b3d88c	00ac94a0	FUN_00ac94a0	' because the target map is too small.
+01b3d88c	00ac97d0	FUN_00ac97d0	' because the target map is too small.
+01b3d88c	00ac97d0	FUN_00ac97d0	' because the target map is too small.
+01b3d88c	00ac9c70	FUN_00ac9c70	' because the target map is too small.
+01b3d88c	00ac9c70	FUN_00ac9c70	' because the target map is too small.
+01b3d88c	00aca260	FUN_00aca260	' because the target map is too small.
+01b3d88c	00aca260	FUN_00aca260	' because the target map is too small.
+01b3e680	00972230	FUN_00972230	'overlapped' was not allocated by this ThreadPoolBoundHandle instance.
+01b3e71c	009720c0	FUN_009720c0	'preAllocated' is already in use.
+01b3ec48	00a33fd0	FUN_00a33fd0	'{0}' is an invalid escapable character within a JSON string. The string should be correctly escaped.
+01b3ee9c	00a33fd0	FUN_00a33fd0	'{0}' is an invalid token type for the end of the JSON payload. Expected either 'EndArray' or 'EndObject'.
+01b3f3c8	00a33fd0	FUN_00a33fd0	'{0}' is invalid within a number, immediately after a sign character ('+' or '-'). Expected a digit ('0'-'9').
+01b40dec			ng qua SOCKS Proxy.
+01b412b0	0047d380	FUN_0047d380	, BaselinePixelAlignment = 
+01b41320	0047b590	FUN_0047b590	, BitmapBlendingMode = 
+01b4135c	0047b590	FUN_0047b590	, BitmapInterpolationMode = 
+01b419f0	004937a0	FUN_004937a0	, LineBreakClass = 
+01b41b9c	009a8cd0	FUN_009a8cd0	, PublicKeyToken=
+01b41c70	008990c0	FUN_008990c0	, RequestUri: '
+01b42bf0	00762100	FUN_00762100	-NoProfile -Command "Get-CimInstance Win32_Process -Filter 'name=''flash.exe''' | Select-Object ProcessId, CommandLine | ConvertTo-Csv -NoTypeInformation"
+01b42bf0	00762100	FUN_00762100	-NoProfile -Command "Get-CimInstance Win32_Process -Filter 'name=''flash.exe''' | Select-Object ProcessId, CommandLine | ConvertTo-Csv -NoTypeInformation"
+01b42edc	007ec500	FUN_007ec500	ng auto.
+01b42fa6			i Boss...
+01b432d0	0089c820	FUN_0089c820	/ tunnelled via Proxy 
+01b43588	007de8c0	FUN_007de8c0	/6 Pet...
+01b43658	00779f30	FUN_00779f30	/api/auth/login
+01b47af8			 boss sau 
+01b47f80	008c6120	FUN_008c6120	:authority
+01b47f80	008c6120	FUN_008c6120	:authority
+01b48100	004fcc90	FUN_004fcc90	:compactinline
+01b48100	0065d460	FUN_0065d460	:compactinline
+01b48100	0065d460	FUN_0065d460	:compactinline
+01b48100	0065d460	FUN_0065d460	:compactinline
+01b48100	0065d460	FUN_0065d460	:compactinline
+01b4861c	004fcc90	FUN_004fcc90	:inline
+01b4861c	0065d460	FUN_0065d460	:inline
+01b4861c	0065d460	FUN_0065d460	:inline
+01b4861c	0065d460	FUN_0065d460	:inline
+01b4861c	0065d460	FUN_0065d460	:inline
+01b48f70	007833e0	FUN_007833e0	<?xml version="1.0"?> <!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd"> <cross-domain-policy>    <site-control permitted-cross-domain-policies="all"/>    <allow-access-from domain="*" to-ports="*" />    <allow-http-request-headers-from domain="*" headers="*" /> </cross-domain-policy>
+01b4940c	00782b40	FUN_00782b40	<policy-file-request/>
+01b49f1c	005b3f60	FUN_005b3f60	A bitmap is needed for locking
+01b49f68	0093c6e0	FUN_0093c6e0	A case-insensitive lookup for resource file "{0}" in assembly "{1}" found multiple entries. Remove the duplicates or specify the exact case.
+01b4ab30	00a5fac0	FUN_00a5fac0	A subtraction must be the last element in a character class.
+01b4ab30	00a5fac0	FUN_00a5fac0	A subtraction must be the last element in a character class.
+01b4ab30	00a5fac0	FUN_00a5fac0	A subtraction must be the last element in a character class.
+01b4ab30	00a5fac0	FUN_00a5fac0	A subtraction must be the last element in a character class.
+01b4af70	00912c30	FUN_00912c30	A valid high surrogate character is between 0xd800 and 0xdbff, inclusive.
+01b4af70	00912c30	FUN_00912c30	A valid high surrogate character is between 0xd800 and 0xdbff, inclusive.
+01b4b010	00912c30	FUN_00912c30	A valid low surrogate character is between 0xdc00 and 0xdfff, inclusive.
+01b4b010	00912c30	FUN_00912c30	A valid low surrogate character is between 0xdc00 and 0xdfff, inclusive.
+01b4b394	00a2e5e0	FUN_00a2e5e0	AD AUTHORITY
+01b4b394	00a2e5e0	FUN_00a2e5e0	AD AUTHORITY
+01b4b46c	008c4d70	FUN_008c4d70	ALL_PROXY
+01b4b51c	0072c7b0	FUN_0072c7b0	AUTO ALL
+01b4c4f8	0096ce30	FUN_0096ce30	Adding the specified count to the semaphore would cause it to exceed its maximum count.
+01b4c4f8	0096ce30	FUN_0096ce30	Adding the specified count to the semaphore would cause it to exceed its maximum count.
+01b4c5b4	0092e8e0	FUN_0092e8e0	Additional non-parsable characters are at the end of the string.
+01b4c5b4	0092eba0	FUN_0092eba0	Additional non-parsable characters are at the end of the string.
+01b4c5b4	009ca7e0	FUN_009ca7e0	Additional non-parsable characters are at the end of the string.
+01b4caf4	004fbbc0	FUN_004fbbc0	AllowAutoHide
+01b4caf4	00544690	FUN_00544690	AllowAutoHide
+01b4d6fc	0098d890	FUN_0098d890	An attempt was made to move the position before the beginning of the stream.
+01b4d6fc	00991460	FUN_00991460	An attempt was made to move the position before the beginning of the stream.
+01b4d6fc	00991460	FUN_00991460	An attempt was made to move the position before the beginning of the stream.
+01b4d6fc	00991460	FUN_00991460	An attempt was made to move the position before the beginning of the stream.
+01b4dc64			An error occurred while establishing a connection to the proxy tunnel.
+01b4dc64			An error occurred while establishing a connection to the proxy tunnel.
+01b4dd00	008a6e90	FUN_008a6e90	An error occurred while sending the request.
+01b4dd00	008a6e90	FUN_008a6e90	An error occurred while sending the request.
+01b4dd00	008c18f0	FUN_008c18f0	An error occurred while sending the request.
+01b4dd00	008a0374	FUN_008a0374	An error occurred while sending the request.
+01b4dd00	008a6e90	FUN_008a6e90	An error occurred while sending the request.
+01b4dd00	008a6e90	FUN_008a6e90	An error occurred while sending the request.
+01b4dd00	008c18f0	FUN_008c18f0	An error occurred while sending the request.
+01b4dd00			An error occurred while sending the request.
+01b4dd00			An error occurred while sending the request.
+01b4dfd4	009feb70	FUN_009feb70	An invalid Unicode character by IDN standards was specified in the host.
+01b4dfd4			An invalid Unicode character by IDN standards was specified in the host.
+01b4e074	008c18f0	FUN_008c18f0	An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.
+01b4e074	00895f40	FUN_00895f40	An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.
+01b4e074	00895f40	FUN_00895f40	An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.
+01b4e074	008c18f0	FUN_008c18f0	An invalid request URI was provided. Either the request URI must be an absolute URI or BaseAddress must be set.
+01b4eb4c	009942b0	FUN_009942b0	Append access can be requested only in write-only mode.
+01b50b0c	0070c6d0	FUN_0070c6d0	Attempt to create RootAutomationNode from peer which does not implement IRootProvider.
+01b50b0c	0070c6d0	FUN_0070c6d0	Attempt to create RootAutomationNode from peer which does not implement IRootProvider.
+01b51010	0093add0	FUN_0093add0	Attempted to perform an unauthorized operation.
+01b51010	0093add0	FUN_0093add0	Attempted to perform an unauthorized operation.
+01b51010	00a2ed60	FUN_00a2ed60	Attempted to perform an unauthorized operation.
+01b51010	009a0480	FUN_009a0480	Attempted to perform an unauthorized operation.
+01b51010	00714540	FUN_00714540	Attempted to perform an unauthorized operation.
+01b51010	00714640	FUN_00714640	Attempted to perform an unauthorized operation.
+01b51010	00714540	FUN_00714540	Attempted to perform an unauthorized operation.
+01b51010	00714540	FUN_00714540	Attempted to perform an unauthorized operation.
+01b51010	00714640	FUN_00714640	Attempted to perform an unauthorized operation.
+01b51010	00714640	FUN_00714640	Attempted to perform an unauthorized operation.
+01b51010	008463a0	FUN_008463a0	Attempted to perform an unauthorized operation.
+01b51010	0085d9c0	FUN_0085d9c0	Attempted to perform an unauthorized operation.
+01b51010	0093adf0	FUN_0093adf0	Attempted to perform an unauthorized operation.
+01b51010	00992960	FUN_00992960	Attempted to perform an unauthorized operation.
+01b51010	009a0480	FUN_009a0480	Attempted to perform an unauthorized operation.
+01b51010	00a2ed60	FUN_00a2ed60	Attempted to perform an unauthorized operation.
+01b512a0	00a2aa90	FUN_00a2aa90	AuthRoot
+01b512a0	00a2aa90	FUN_00a2aa90	AuthRoot
+01b512c0	008af710	FUN_008af710	Authentication failed because the connection could not be reused.
+01b512c0	008af710	FUN_008af710	Authentication failed because the connection could not be reused.
+01b512c0	008af710	FUN_008af710	Authentication failed because the connection could not be reused.
+01b512c0	008af710	FUN_008af710	Authentication failed because the connection could not be reused.
+01b51350	008ef606	FUN_008ef606	Authentication failed because the platform does not support ephemeral keys.
+01b513f4	00b5f120	FUN_00b5f120	Authentication failed because the remote party sent a TLS alert: '{0}'.
+01b513f4	00b61760	FUN_00b61760	Authentication failed because the remote party sent a TLS alert: '{0}'.
+01b51490	00b61760	FUN_00b61760	Authentication failed, see inner exception.
+01b51490	00b5f120	FUN_00b5f120	Authentication failed, see inner exception.
+01b51490	008ef606	FUN_008ef606	Authentication failed, see inner exception.
+01b51490	00b5f120	FUN_00b5f120	Authentication failed, see inner exception.
+01b51490	00b5f120	FUN_00b5f120	Authentication failed, see inner exception.
+01b51490	00b61760	FUN_00b61760	Authentication failed, see inner exception.
+01b51490	00b61760	FUN_00b61760	Authentication failed, see inner exception.
+01b51490			Authentication failed, see inner exception.
+01b514f4	008a52e0	FUN_008a52e0	Authentication validation failed with error - {0}.
+01b51568	008ca4a0	FUN_008ca4a0	Authorization
+01b515a8	007fe560	FUN_007fe560	Auto Tasks
+01b51654	007f5640	FUN_007f5640	Auto cho 
+01b5169c	0081fac0	FUN_0081fac0	AutoAllCommand
+01b5169c	0081fac0	FUN_0081fac0	AutoAllCommand
+01b516c8	0044f5e0	FUN_0044f5e0	AutoCapitalization
+01b516fc	00786e60	FUN_00786e60	AutoClick
+01b516fc	0072c7b0	FUN_0072c7b0	AutoClick
+01b516fc	0072c7b0	FUN_0072c7b0	AutoClick
+01b5171c	008258c0	FUN_008258c0	AutoClickActions
+01b5171c	008258c0	FUN_008258c0	AutoClickActions
+01b5174c	008260a0	FUN_008260a0	AutoClickInputDelay
+01b5174c	008260a0	FUN_008260a0	AutoClickInputDelay
+01b51780	00826140	FUN_00826140	AutoClickInputKey
+01b51780	00826140	FUN_00826140	AutoClickInputKey
+01b517b0	00825e20	FUN_00825e20	AutoClickInputX
+01b517b0	00825e20	FUN_00825e20	AutoClickInputX
+01b517dc	00825ec0	FUN_00825ec0	AutoClickInputY
+01b517dc	00825ec0	FUN_00825ec0	AutoClickInputY
+01b51808	00825780	FUN_00825780	AutoClickLoop
+01b51808	0071caa0	FUN_0071caa0	AutoClickLoop
+01b51808	0072abd0	FUN_0072abd0	AutoClickLoop
+01b51808	00825780	FUN_00825780	AutoClickLoop
+01b51830	008256e0	FUN_008256e0	AutoClickMode
+01b51830	0071caa0	FUN_0071caa0	AutoClickMode
+01b51830	0072ab40	FUN_0072ab40	AutoClickMode
+01b51830	008256e0	FUN_008256e0	AutoClickMode
+01b51858	0071caa0	FUN_0071caa0	AutoClickScript
+01b51858	0072ac50	FUN_0072ac50	AutoClickScript
+01b51884	00825960	FUN_00825960	AutoClickSelectedAction
+01b51884	00825960	FUN_00825960	AutoClickSelectedAction
+01b518c0	00825d80	FUN_00825d80	AutoClickTypeSelectedIndex
+01b518c0	00825d80	FUN_00825d80	AutoClickTypeSelectedIndex
+01b51904	00822540	FUN_00822540	AutoCommand
+01b51904	00822540	FUN_00822540	AutoCommand
+01b51928	004bced0	FUN_004bced0	AutoCompleteBox
+01b51954	005ed400	FUN_005ed400	AutoCompleteBoxSuggestionsListBackground
+01b51954	005ba640	FUN_005ba640	AutoCompleteBoxSuggestionsListBackground
+01b51954	005ba640	FUN_005ba640	AutoCompleteBoxSuggestionsListBackground
+01b51954	005ed400	FUN_005ed400	AutoCompleteBoxSuggestionsListBackground
+01b519b4	005ed400	FUN_005ed400	AutoCompleteBoxSuggestionsListBorderBrush
+01b519b4	005ba640	FUN_005ba640	AutoCompleteBoxSuggestionsListBorderBrush
+01b519b4	005ba640	FUN_005ba640	AutoCompleteBoxSuggestionsListBorderBrush
+01b519b4	005ed400	FUN_005ed400	AutoCompleteBoxSuggestionsListBorderBrush
+01b51a14	005ed400	FUN_005ed400	AutoCompleteListBorderThemeThickness
+01b51a14	005ba640	FUN_005ba640	AutoCompleteListBorderThemeThickness
+01b51a14	005ed400	FUN_005ed400	AutoCompleteListBorderThemeThickness
+01b51a6c	005ed400	FUN_005ed400	AutoCompleteListMargin
+01b51a6c	005ba640	FUN_005ba640	AutoCompleteListMargin
+01b51a6c	005ed400	FUN_005ed400	AutoCompleteListMargin
+01b51aa8	005ecce0	FUN_005ecce0	AutoCompleteListMaxHeight
+01b51aa8	005ba640	FUN_005ba640	AutoCompleteListMaxHeight
+01b51aa8	005ecce0	FUN_005ecce0	AutoCompleteListMaxHeight
+01b51ae8	005ed400	FUN_005ed400	AutoCompleteListPadding
+01b51ae8	005ba640	FUN_005ba640	AutoCompleteListPadding
+01b51ae8	005ed400	FUN_005ed400	AutoCompleteListPadding
+01b51b24	00563800	FUN_00563800	AutoGenerateColumns
+01b51b58	0050ae50	FUN_0050ae50	AutoSafeAreaPadding
+01b51b8c	00546040	FUN_00546040	AutoScrollToSelectedItem
+01b51bcc	004f4320	FUN_004f4320	AutomaticallyApplySafeAreaPadding
+01b51c1c	004bc8b0	FUN_004bc8b0	AutomationId
+01b52564	0050ae50	FUN_0050ae50	BackRequested
+01b526ac	008925d0	FUN_008925d0	Bad Request
+01b5282c	0052fa00	FUN_0052fa00	BaselineAlignment
+01b5282c	0052fa90	FUN_0052fa90	BaselineAlignment
+01b5285c	00500930	FUN_00500930	BaselineOffset
+01b52918	00824200	FUN_00824200	BatPetCommand
+01b52918	00824200	FUN_00824200	BatPetCommand
+01b52940	008248b0	FUN_008248b0	BatPetPriorityLevel1
+01b52940	0071caa0	FUN_0071caa0	BatPetPriorityLevel1
+01b52940	0072b0e0	FUN_0072b0e0	BatPetPriorityLevel1
+01b52940	008248b0	FUN_008248b0	BatPetPriorityLevel1
+01b52978	0071caa0	FUN_0071caa0	BatPetSelectedMapId
+01b52978	0072af50	FUN_0072af50	BatPetSelectedMapId
+01b529ac	0071caa0	FUN_0071caa0	BatPetSelectedMonsterId
+01b529ac	0072afd0	FUN_0072afd0	BatPetSelectedMonsterId
+01b529e8	0071caa0	FUN_0071caa0	BatPetSelectedMonsterIds
+01b529e8	0072b050	FUN_0072b050	BatPetSelectedMonsterIds
+01b52a28	0071caa0	FUN_0071caa0	BatPetTarget
+01b52a28	0072aed0	FUN_0072aed0	BatPetTarget
+01b52a50	00824b20	FUN_00824b20	BatPetTargetColor
+01b52a50	0071caa0	FUN_0071caa0	BatPetTargetColor
+01b52a50	0072b1e0	FUN_0072b1e0	BatPetTargetColor
+01b52a50	00824b20	FUN_00824b20	BatPetTargetColor
+01b52d84	0098a7a0	FUN_0098a7a0	BinaryReader encountered an invalid string length of {0} characters.
+01b53200	004423c0	FUN_004423c0	Bitmap
+01b53200	004423c0	FUN_004423c0	Bitmap
+01b534bc	007f81a0	FUN_007f81a0	Boss 
+01b53548	007f81a0	FUN_007f81a0	BossDailyPanel
+01b53548	007f81a0	FUN_007f81a0	BossDailyPanel
+01b53574	00823990	FUN_00823990	BossSummaryText
+01b53574	00823990	FUN_00823990	BossSummaryText
+01b535a0	00824020	FUN_00824020	BossTocCommand
+01b535a0	00824020	FUN_00824020	BossTocCommand
+01b535cc	0071caa0	FUN_0071caa0	Bosses
+01b535cc	0072aac0	FUN_0072aac0	Bosses
+01b53b10	007963a0	FUN_007963a0	Bug Online
+01b53b34	00823ee0	FUN_00823ee0	BugOnlineCommand
+01b53b34	00823ee0	FUN_00823ee0	BugOnlineCommand
+01b5437e			ng auto.
+01b54cfe			n: Bug Online
+01b54dda			p pet ID 
+01b552ac	006b51c0	FUN_006b51c0	CF_BITMAP
+01b552ac	006b51c0	FUN_006b51c0	CF_BITMAP
+01b55382			Y AUTOCLICK
+01b557d8	008a6670	FUN_008a6670	CONNECT request must contain Host header.
+01b557d8	008a6670	FUN_008a6670	CONNECT request must contain Host header.
+01b568c0	009c2bc0	FUN_009c2bc0	Calling built-in Equals() or GetHashCode() on type marked as InlineArray is invalid.
+01b5745c	00a346e0	FUN_00a346e0	Cannot allocate a buffer of size {0}.
+01b575e4	0086a9e0	FUN_0086a9e0	Cannot auto initialize members of value type through property '{0}', use assignment instead
+01b58630	0091dca0	FUN_0091dca0	Cannot find a matching quote character for the character '{0}'.
+01b58630	0091de20	FUN_0091de20	Cannot find a matching quote character for the character '{0}'.
+01b58630	009253f0	FUN_009253f0	Cannot find a matching quote character for the character '{0}'.
+01b58630	00dc3a00	FUN_00dc3a00	Cannot find a matching quote character for the character '{0}'.
+01b588d8	00a33cc0	FUN_00a33cc0	Cannot get the value of a token type '{0}' as a {1}.
+01b58950	00a5fac0	FUN_00a5fac0	Cannot include class \{0} in character range.
+01b58950	00a5fac0	FUN_00a5fac0	Cannot include class \{0} in character range.
+01b58950	00a5fac0	FUN_00a5fac0	Cannot include class \{0} in character range.
+01b58950	00a5fac0	FUN_00a5fac0	Cannot include class \{0} in character range.
+01b58ec0	009ea550	FUN_009ea550	Cannot load assembly '{0}'. The assembly exists but its version {1} is lower than the requested version {2}.
+01b58fa8	0099fbf0	FUN_0099fbf0	Cannot marshal: Encountered unmappable character.
+01b58fa8	009a1500	FUN_009a1500	Cannot marshal: Encountered unmappable character.
+01b59218	00417c40	FUN_00417c40	Cannot perform requested operation because the Dispatcher shut down
+01b59348	00852040	FUN_00852040	Cannot process request because the process ({0}) has exited.
+01b59348	00852040	FUN_00852040	Cannot process request because the process ({0}) has exited.
+01b59348	00852ec0	FUN_00852ec0	Cannot process request because the process ({0}) has exited.
+01b593d0	00852040	FUN_00852040	Cannot process request because the process has exited.
+01b59814	008350f0	FUN_008350f0	Cannot remove the specified item because it was not found in the specified Collection.
+01b5a4f8	00a34720	FUN_00a34720	Cannot write a JSON property within an array or as the first JSON token. Current token type is '{0}'.
+01b5a5d0	00a34720	FUN_00a34720	Cannot write a JSON value after a single JSON value or outside of an existing closed object/array. Current token type is '{0}'.
+01b5a6dc	00a34720	FUN_00a34720	Cannot write a JSON value within an object without a property name. Current token type is '{0}'.
+01b5a860	00a34720	FUN_00a34720	Cannot write the start of an object or array without a property name. Current token type is '{0}'.
+01b5a934	00a34720	FUN_00a34720	Cannot write the start of an object/array after a single JSON value or outside of an existing closed object/array. Current token type is '{0}'.
+01b5aab8	009fd360	FUN_009fd360	Canonical types cannot be allocated
+01b5b244	0047ed10	FUN_0047ed10	CharacterEllipsis
+01b5b244	0047ed10	FUN_0047ed10	CharacterEllipsis
+01b5e118	0072c7b0	FUN_0072c7b0	ClickMap
+01b5e404	0049f690	FUN_0049f690	CmapSubtableEntry
+01b606b8	0089f850	FUN_0089f850	ConnectCallback completing asynchronously for a synchronous request.
+01b606b8	0089f850	FUN_0089f850	ConnectCallback completing asynchronously for a synchronous request.
+01b60860	008fc460	FUN_008fc460	Constructor only supports either a Reset, Add, or Remove action.
+01b60860	008fc570	FUN_008fc570	Constructor only supports either a Reset, Add, or Remove action.
+01b61088	00444fc0	FUN_00444fc0	ContextRequested
+01b61898	00498120	FUN_00498120	CopyPixels is not supported for this bitmap type
+01b61898	00498350	FUN_00498350	CopyPixels is not supported for this bitmap type
+01b61908	00498350	FUN_00498350	CopyPixels is not supported for transcoded bitmaps
+01b626b4	009ca7e0	FUN_009ca7e0	Could not find a brace, or the length between the previous token and the brace was zero (i.e., '0x,'etc.).
+01b62798	009ca7e0	FUN_009ca7e0	Could not find a comma, or the length between the previous token and the comma was zero (i.e., '0x,'etc.).
+01b64508	006e1160	FUN_006e1160	CreateLineGeometry failed
+01b64548	006ce480	FUN_006ce480	CreateLinearEasingFunction failed
+01b646ac	008220e0	FUN_008220e0	CreatePartyCommand
+01b646ac	008220e0	FUN_008220e0	CreatePartyCommand
+01b65c78	00824400	FUN_00824400	CurrentBatPetAvailableMonsters
+01b65c78	00824400	FUN_00824400	CurrentBatPetAvailableMonsters
+01b65cc4	00824360	FUN_00824360	CurrentBatPetMapId
+01b65cc4	00824360	FUN_00824360	CurrentBatPetMapId
+01b65cf8	00824590	FUN_00824590	CurrentBatPetMonsterSelectedIndex
+01b65cf8	00824590	FUN_00824590	CurrentBatPetMonsterSelectedIndex
+01b65d48	00823ad0	FUN_00823ad0	CurrentBosses
+01b65d48	00823ad0	FUN_00823ad0	CurrentBosses
+01b67740	00895240	FUN_00895240	DOTNET_SYSTEM_NET_HTTP_SOCKETSHTTPHANDLER_PENDINGCONNECTIONTIMEOUTONREQUESTCOMPLETION
+01b684e8	005977e0	FUN_005977e0	DataGridFillerColumnGridLinesBrush
+01b684e8	00593b80	FUN_00593b80	DataGridFillerColumnGridLinesBrush
+01b684e8	005977e0	FUN_005977e0	DataGridFillerColumnGridLinesBrush
+01b6853c	005a0ea0	FUN_005a0ea0	DataGridGridLinesBrush
+01b6853c	005a0340	FUN_005a0340	DataGridGridLinesBrush
+01b6853c	005a0340	FUN_005a0340	DataGridGridLinesBrush
+01b6853c	0059b0b0	FUN_0059b0b0	DataGridGridLinesBrush
+01b6853c	0059aac0	FUN_0059aac0	DataGridGridLinesBrush
+01b6853c	0059aac0	FUN_0059aac0	DataGridGridLinesBrush
+01b6853c	005988a0	FUN_005988a0	DataGridGridLinesBrush
+01b6853c	00593b80	FUN_00593b80	DataGridGridLinesBrush
+01b6853c	00593b80	FUN_00593b80	DataGridGridLinesBrush
+01b6853c	005988a0	FUN_005988a0	DataGridGridLinesBrush
+01b6853c	0059aac0	FUN_0059aac0	DataGridGridLinesBrush
+01b6853c	0059aac0	FUN_0059aac0	DataGridGridLinesBrush
+01b6853c	0059b0b0	FUN_0059b0b0	DataGridGridLinesBrush
+01b6853c	005a0340	FUN_005a0340	DataGridGridLinesBrush
+01b6853c	005a0340	FUN_005a0340	DataGridGridLinesBrush
+01b6853c	005a0ea0	FUN_005a0ea0	DataGridGridLinesBrush
+01b69cc4	008216e0	FUN_008216e0	DauPet
+01b69cc4	0071caa0	FUN_0071caa0	DauPet
+01b69cc4	0072a430	FUN_0072a430	DauPet
+01b69cc4	008216e0	FUN_008216e0	DauPet
+01b69ce0	00821c80	FUN_00821c80	DauPetCommand
+01b69ce0	00821c80	FUN_00821c80	DauPetCommand
+01b69d08	00821820	FUN_00821820	DauPetStatus
+01b69d08	00821820	FUN_00821820	DauPetStatus
+01b6a878	00910120	FUN_00910120	Description: The application requested process termination through System.Environment.FailFast.
+01b6c43c	008c91d0	FUN_008c91d0	Duration of HTTP client requests.
+01b6c43c	008c91d0	FUN_008c91d0	Duration of HTTP client requests.
+01b6cdaa			i NPC 1616...
+01b6ce2a			i NPC 2513...
+01b6e58c	008c7b90	FUN_008c7b90	End of headers reached with incomplete token.
+01b6e58c	008c7b90	FUN_008c7b90	End of headers reached with incomplete token.
+01b6f228	009db100	FUN_009db100	Enumeration has not started. Call MoveNext.
+01b6f228	00932220	FUN_00932220	Enumeration has not started. Call MoveNext.
+01b6f228	00932980	FUN_00932980	Enumeration has not started. Call MoveNext.
+01b6f228	009cdb00	FUN_009cdb00	Enumeration has not started. Call MoveNext.
+01b6f228	009cdbd0	FUN_009cdbd0	Enumeration has not started. Call MoveNext.
+01b6f228	009cdd10	FUN_009cdd10	Enumeration has not started. Call MoveNext.
+01b6f228	009dafd0	FUN_009dafd0	Enumeration has not started. Call MoveNext.
+01b6f228	009db100	FUN_009db100	Enumeration has not started. Call MoveNext.
+01b6f228	00a29270	FUN_00a29270	Enumeration has not started. Call MoveNext.
+01b6f228	00a29b50	FUN_00a29b50	Enumeration has not started. Call MoveNext.
+01b6f228			Enumeration has not started. Call MoveNext.
+01b6f28c	00901a50	FUN_00901a50	Environment variable name cannot contain equal character.
+01b6f3c4	00824950	FUN_00824950	EpPetCommand
+01b6f3c4	00824950	FUN_00824950	EpPetCommand
+01b71fbc	007563a0	FUN_007563a0	FLASH_CONNECTED
+01b721a0	00834a00	FUN_00834a00	Failed to allocate memory for critical section
+01b7220c	008c22f0	FUN_008c22f0	Failed to authenticate with the SOCKS server.
+01b7220c	008c2aa0	FUN_008c2aa0	Failed to authenticate with the SOCKS server.
+01b72514	008a2360	FUN_008a2360	Failed to establish web socket connection over HTTP/2 because extended CONNECT is not supported. Try to downgrade the request version to HTTP/1.1.
+01b72514	008a2360	FUN_008a2360	Failed to establish web socket connection over HTTP/2 because extended CONNECT is not supported. Try to downgrade the request version to HTTP/1.1.
+01b72e0c	00719b30	FUN_00719b30	FinishNpc
+01b72e0c	00719b30	FUN_00719b30	FinishNpc
+01b734c0	005e4ad0	FUN_005e4ad0	FluentScrollBarLineButton
+01b734c0	00656060	FUN_00656060	FluentScrollBarLineButton
+01b734c0	00656060	FUN_00656060	FluentScrollBarLineButton
+01b734c0	006579f0	FUN_006579f0	FluentScrollBarLineButton
+01b734c0	006579f0	FUN_006579f0	FluentScrollBarLineButton
+01b74118	0085e5d0	FUN_0085e5d0	For named pipes, transmission mode can be TransmissionMode.Byte or PipeTransmissionMode.Message. For anonymous pipes, transmission mode can be TransmissionMode.Byte.
+01b74118	0085dd10	FUN_0085dd10	For named pipes, transmission mode can be TransmissionMode.Byte or PipeTransmissionMode.Message. For anonymous pipes, transmission mode can be TransmissionMode.Byte.
+01b74118	0085dd10	FUN_0085dd10	For named pipes, transmission mode can be TransmissionMode.Byte or PipeTransmissionMode.Message. For anonymous pipes, transmission mode can be TransmissionMode.Byte.
+01b74118	0085e5d0	FUN_0085e5d0	For named pipes, transmission mode can be TransmissionMode.Byte or PipeTransmissionMode.Message. For anonymous pipes, transmission mode can be TransmissionMode.Byte.
+01b745d8	00912c90	FUN_00912c90	Found a high surrogate char without a following low surrogate at index: {0}. The input may not be in this encoding, or may not contain valid Unicode (UTF-16) characters.
+01b74738	00912c90	FUN_00912c90	Found a low surrogate char without a preceding high surrogate at index: {0}. The input may not be in this encoding, or may not contain valid Unicode (UTF-16) characters.
+01b74aa0	00a33fd0	FUN_00a33fd0	Found invalid line or paragraph separator character while reading a comment.
+01b7582c	006d4890	FUN_006d4890	GetBitmapInterpolationMode failed
+01b76ad8	00825460	FUN_00825460	GetMonsterHeartBagCommand
+01b76ad8	00825460	FUN_00825460	GetMonsterHeartBagCommand
+01b76b70	006da2f0	FUN_006da2f0	GetNamedPropertyMapping failed
+01b77764	006ddf20	FUN_006ddf20	GetStrokeLineJoin failed
+01b78284	00563800	FUN_00563800	GridLinesVisibility
+01b78550	009ca7e0	FUN_009ca7e0	Guid string should only contain hexadecimal characters.
+01b78ca8	008c16d0	FUN_008c16d0	HTTP request version upgrade is not enabled for synchronous '{0}'. Do not use '{1}' version policy for synchronous HTTP methods.
+01b78e6c	007833e0	FUN_007833e0	HTTP/1.1 200 OK  Content-Type: application/x-shockwave-flash  
+01b79128	008c4d70	FUN_008c4d70	HTTPS_PROXY
+01b7917c	008c4d70	FUN_008c4d70	HTTP_PROXY
+01b79fda			n log Flash
+01b7a0e8	00563800	FUN_00563800	HorizontalGridLinesBrush
+01b7a7d0			n AutoClick.
+01b7aa5a			t pet...
+01b7b6ee			ng auto.
+01b7ba74			ICompositor5::RequestCommitAsync failed: {HR}, {ERR}
+01b7ba74			ICompositor5::RequestCommitAsync failed: {HR}, {ERR}
+01b7bb7c	00954310	FUN_00954310	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954820	FUN_00954820	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954820	FUN_00954820	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954820	FUN_00954820	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954820	FUN_00954820	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954ac0	FUN_00954ac0	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954ac0	FUN_00954ac0	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00954ac0	FUN_00954ac0	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00955280	FUN_00955280	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00955280	FUN_00955280	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00955280	FUN_00955280	IDN labels must be between 1 and 63 characters long.
+01b7bb7c	00955280	FUN_00955280	IDN labels must be between 1 and 63 characters long.
+01b7bbf4	00954820	FUN_00954820	IDN names must be between 1 and {0} characters long.
+01b7bbf4	00954ac0	FUN_00954ac0	IDN names must be between 1 and {0} characters long.
+01b7bbf4	00955280	FUN_00955280	IDN names must be between 1 and {0} characters long.
+01b7bbf4	00955280	FUN_00955280	IDN names must be between 1 and {0} characters long.
+01b7c8cc	00a61b20	FUN_00a61b20	Incomplete \p{X} character escape.
+01b7c8cc	00a61b20	FUN_00a61b20	Incomplete \p{X} character escape.
+01b7c8cc	00a61b20	FUN_00a61b20	Incomplete \p{X} character escape.
+01b7c8cc	00a61b20	FUN_00a61b20	Incomplete \p{X} character escape.
+01b7d830	009c01b0	FUN_009c01b0	InlineArrayAttribute cannot be applied to a type with explicit layout. Type: '{0}'.  Assembly: '{1}'.
+01b7d908	009c01b0	FUN_009c01b0	InlineArrayAttribute cannot be applied to a type with explicit size. Type: '{0}'.  Assembly: '{1}'.
+01b7d9dc	009c01b0	FUN_009c01b0	InlineArrayAttribute requires that the length argument is greater than 0. Type: '{0}'.  Assembly: '{1}'.
+01b7dabc	009c01b0	FUN_009c01b0	InlineArrayAttribute requires that the target type has a single instance field. Type: '{0}'.  Assembly: '{1}'.
+01b7dba8	00688380	FUN_00688380	InlineDataValidationContentControl
+01b7dba8	00688380	FUN_00688380	InlineDataValidationContentControl
+01b7dba8	00688380	FUN_00688380	InlineDataValidationContentControl
+01b7dbfc	00500930	FUN_00500930	Inlines
+01b7dbfc	00501d50	FUN_00501d50	Inlines
+01b7eb20	004a3250	FUN_004a3250	Invalid KeySpline X1 value. Must be >= 0.0 and <= 1.0.
+01b7eb9c	004a32b0	FUN_004a32b0	Invalid KeySpline X2 value. Must be >= 0.0 and <= 1.0.
+01b7ec18	004a30e0	FUN_004a30e0	Invalid KeySpline string: "
+01b7eea8	00a00260	FUN_00a00260	Invalid URI: The Authority/Host cannot end with a backslash character ('\\').
+01b7eea8	00a00260	FUN_00a00260	Invalid URI: The Authority/Host cannot end with a backslash character ('\\').
+01b7ef50	00a00260	FUN_00a00260	Invalid URI: The Authority/Host could not be parsed.
+01b7ef50	00a00260	FUN_00a00260	Invalid URI: The Authority/Host could not be parsed.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f70c	00a60270	FUN_00a60270	Invalid group name: Group names must begin with a word character.
+01b7f980	009e5760	FUN_009e5760	Invalid module requested in enumeration: 
+01b7f980	009e63e0	FUN_009e63e0	Invalid module requested in enumeration: 
+01b7f980	009e6720	FUN_009e6720	Invalid module requested in enumeration: 
+01b7f980	009e8260	FUN_009e8260	Invalid module requested in enumeration: 
+01b7f980	009ea160	FUN_009ea160	Invalid module requested in enumeration: 
+01b7f980	009f23c0	FUN_009f23c0	Invalid module requested in enumeration: 
+01b7f980	009f2680	FUN_009f2680	Invalid module requested in enumeration: 
+01b7f980	009f53c0	FUN_009f53c0	Invalid module requested in enumeration: 
+01b7f980	009f59c0	FUN_009f59c0	Invalid module requested in enumeration: 
+01b7f980	009f5d60	FUN_009f5d60	Invalid module requested in enumeration: 
+01b7f980	009f6580	FUN_009f6580	Invalid module requested in enumeration: 
+01b7f980	009f7280	FUN_009f7280	Invalid module requested in enumeration: 
+01b7f980	009f8440	FUN_009f8440	Invalid module requested in enumeration: 
+01b7f980	009f8880	FUN_009f8880	Invalid module requested in enumeration: 
+01b7f980	009f9160	FUN_009f9160	Invalid module requested in enumeration: 
+01b7f980	009f9640	FUN_009f9640	Invalid module requested in enumeration: 
+01b7f980	009f9960	FUN_009f9960	Invalid module requested in enumeration: 
+01b7f980	009f9ba0	FUN_009f9ba0	Invalid module requested in enumeration: 
+01b7f980	009fa1a0	FUN_009fa1a0	Invalid module requested in enumeration: 
+01b7f980	009fa7e0	FUN_009fa7e0	Invalid module requested in enumeration: 
+01b7fec0	00a2e620	FUN_00a2e620	Invalid token for impersonation - it cannot be duplicated.
+01b7fec0	00a2ef70	FUN_00a2ef70	Invalid token for impersonation - it cannot be duplicated.
+01b81670	00a54980	FUN_00a54980	IsIdeographicDescriptionCharacters
+01b81670	00a54980	FUN_00a54980	IsIdeographicDescriptionCharacters
+01b81f18	00a54980	FUN_00a54980	IsOpticalCharacterRecognition
+01b81f18	00a54980	FUN_00a54980	IsOpticalCharacterRecognition
+01b82008	008250a0	FUN_008250a0	IsPetDefense
+01b82008	0071caa0	FUN_0071caa0	IsPetDefense
+01b82008	0072b480	FUN_0072b480	IsPetDefense
+01b82008	008250a0	FUN_008250a0	IsPetDefense
+01b822c8	00454c40	FUN_00454c40	IsScrollInertiaEnabled
+01b822c8	004fbbc0	FUN_004fbbc0	IsScrollInertiaEnabled
+01b82d54	004c4a00	FUN_004c4a00	ItemFilter property can not be null when FilterMode has value AutoCompleteFilterMode.Custom
+01b8307c	00586b30	FUN_00586b30	Items cannot be added, removed or reset while rows are loading or unloading.
+01b8307c	00586b30	FUN_00586b30	Items cannot be added, removed or reset while rows are loading or unloading.
+01b84160	004a3020	FUN_004a3020	KeySpline must have X coordinates >= 0.0 and <= 1.0.
+01b84eb2			ng auto.
+01b85f56			ng auto
+01b861ce			ng auto.
+01b8649e			i Boss...
+01b866b0			ng auto.
+01b86f88	007973c0	FUN_007973c0	LINE_SELECT
+01b86f88	007973c0	FUN_007973c0	LINE_SELECT
+01b86fc4	00a17df0	FUN_00a17df0	LOCAL AUTHORITY
+01b86fc4	00a17df0	FUN_00a17df0	LOCAL AUTHORITY
+01b86fc4	00a17be0	FUN_00a17be0	LOCAL AUTHORITY
+01b86fc4	00a17df0	FUN_00a17df0	LOCAL AUTHORITY
+01b86ff0	007973c0	FUN_007973c0	LOGIN
+01b86ff0	007973c0	FUN_007973c0	LOGIN
+01b87020	00955160	FUN_00955160	Label contains character '{0}' not allowed with UseStd3AsciiRules
+01b877b8	009fd130	FUN_009fd130	Ldtoken is not permitted for a canonical field
+01b87824	009fd1c0	FUN_009fd1c0	Ldtoken is not permitted for a canonical method
+01b879a0	00954ac0	FUN_00954ac0	Left to right characters may not be mixed with right to left characters in IDN labels.
+01b879a0	00954ac0	FUN_00954ac0	Left to right characters may not be mixed with right to left characters in IDN labels.
+01b879a0	00954ac0	FUN_00954ac0	Left to right characters may not be mixed with right to left characters in IDN labels.
+01b879a0	00955280	FUN_00955280	Left to right characters may not be mixed with right to left characters in IDN labels.
+01b879a0	00955280	FUN_00955280	Left to right characters may not be mixed with right to left characters in IDN labels.
+01b8808c	0072bad0	FUN_0072bad0	Line 1
+01b880a8	00656060	FUN_00656060	Line down
+01b880a8	00656060	FUN_00656060	Line down
+01b880c8	00656060	FUN_00656060	Line up
+01b880c8	00656060	FUN_00656060	Line up
+01b880e4	0042c240	FUN_0042c240	LineCap
+01b880e4	0047a6f0	FUN_0047a6f0	LineCap
+01b88100	005f5190	FUN_005f5190	LineDown
+01b88100	005f5190	FUN_005f5190	LineDown
+01b88120	0052cd10	FUN_0052cd10	LineHeight
+01b88120	00500930	FUN_00500930	LineHeight
+01b88120	00501d50	FUN_00501d50	LineHeight
+01b88144	0042c240	FUN_0042c240	LineJoin
+01b88144	0047a6f0	FUN_0047a6f0	LineJoin
+01b88164	0081f2e0	FUN_0081f2e0	LineNumber
+01b88164	0071caa0	FUN_0071caa0	LineNumber
+01b88164	007299b0	FUN_007299b0	LineNumber
+01b88164	0081f2e0	FUN_0081f2e0	LineNumber
+01b88188	0081f380	FUN_0081f380	LineNumberOptions
+01b88188	0081f380	FUN_0081f380	LineNumberOptions
+01b881b8	00500930	FUN_00500930	LineSpacing
+01b881b8	0051b9a0	FUN_0051b9a0	LineSpacing
+01b881dc	005f5190	FUN_005f5190	LineUp
+01b881dc	005f5190	FUN_005f5190	LineUp
+01b881f8	004a5440	FUN_004a5440	LinearEasing
+01b88220	00476750	FUN_00476750	Linen
+01b88874	00893b60	FUN_00893b60	LoggingRequestId
+01b88874	00893eb0	FUN_00893eb0	LoggingRequestId
+01b8893c	0081f8e0	FUN_0081f8e0	Login
+01b8893c	0081f8e0	FUN_0081f8e0	Login
+01b88954	007973c0	FUN_007973c0	LoginCanvas
+01b88954	007973c0	FUN_007973c0	LoginCanvas
+01b88954	007973c0	FUN_007973c0	LoginCanvas
+01b88954	007973c0	FUN_007973c0	LoginCanvas
+01b88978	008265a0	FUN_008265a0	LoginCommand
+01b88978	008265a0	FUN_008265a0	LoginCommand
+01b889a0	0081fa20	FUN_0081fa20	LoginGameAllCommand
+01b889a0	0081fa20	FUN_0081fa20	LoginGameAllCommand
+01b889d4	0081f840	FUN_0081f840	LoginGameCommand
+01b889d4	0081f840	FUN_0081f840	LoginGameCommand
+01b88a04	00826820	FUN_00826820	LoginTime
+01b88a04	00826820	FUN_00826820	LoginTime
+01b88c06			i Boss:
+01b891dc			c UI Boss: 
+01b8928e			ng auto.
+01b898e8			 train cho map 
+01b8d468	00a61b20	FUN_00a61b20	Malformed \p{X} character escape.
+01b8d468	00a61b20	FUN_00a61b20	Malformed \p{X} character escape.
+01b8d5a8	006f5a40	FUN_006f5a40	Map failed
+01b8d5cc	008242c0	FUN_008242c0	MapNamesList
+01b8d5cc	008242c0	FUN_008242c0	MapNamesList
+01b8d5f4	00842410	FUN_00842410	Mapudungun (Chile)
+01b8d8cc	00500930	FUN_00500930	MaxLines
+01b8d8cc	00501d50	FUN_00501d50	MaxLines
+01b8d8cc	00502780	FUN_00502780	MaxLines
+01b8da40	0043c8a0	FUN_0043c8a0	Measure requested {DesiredSize}
+01b8dc80	007654f0	FUN_007654f0	Mehdi Urboss
+01b8dc80	007654f0	FUN_007654f0	Mehdi Urboss
+01b8dc80	007654f0	FUN_007654f0	Mehdi Urboss
+01b8f3f0	0084a2b0	FUN_0084a2b0	Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.BeginRequest@Activity1Start:-httpContext.Request.Method;httpContext.Request.Host;httpContext.Request.Path;httpContext.Request.QueryString Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.EndRequest@Activity1Stop:-httpContext.TraceIdentifier;httpContext.Response.StatusCode
+01b8f3f0	0084a2b0	FUN_0084a2b0	Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.BeginRequest@Activity1Start:-httpContext.Request.Method;httpContext.Request.Host;httpContext.Request.Path;httpContext.Request.QueryString Microsoft.AspNetCore/Microsoft.AspNetCore.Hosting.EndRequest@Activity1Stop:-httpContext.TraceIdentifier;httpContext.Response.StatusCode
+01b8f968	00502780	FUN_00502780	MinLines
+01b8f9c4	007e51e0	FUN_007e51e0	MiniMapCanvas
+01b8f9c4	00793220	FUN_00793220	MiniMapCanvas
+01b8f9c4	00796aa0	FUN_00796aa0	MiniMapCanvas
+01b8f9c4	00796400	FUN_00796400	MiniMapCanvas
+01b8f9c4	0078b540	FUN_0078b540	MiniMapCanvas
+01b8f9c4	0078b540	FUN_0078b540	MiniMapCanvas
+01b8f9c4	00793220	FUN_00793220	MiniMapCanvas
+01b8f9c4	00796400	FUN_00796400	MiniMapCanvas
+01b8f9c4	00796aa0	FUN_00796aa0	MiniMapCanvas
+01b8f9c4	007e51e0	FUN_007e51e0	MiniMapCanvas
+01b8fb5c	008925d0	FUN_008925d0	Misdirected Request
+01b8fb90	00a618b0	FUN_00a618b0	Missing control character.
+01b8fb90	00a618b0	FUN_00a618b0	Missing control character.
+01b8fcc4	008d1e60	FUN_008d1e60	Misused header name, '{0}'. Make sure request headers are used with HttpRequestMessage, response headers with HttpResponseMessage, and content headers with HttpContent objects.
+01b8fcc4	008d20b0	FUN_008d20b0	Misused header name, '{0}'. Make sure request headers are used with HttpRequestMessage, response headers with HttpResponseMessage, and content headers with HttpContent objects.
+01b900e8	00824670	FUN_00824670	Monster
+01b900e8	00824670	FUN_00824670	Monster
+01b90104	008253c0	FUN_008253c0	MonsterHeartCount
+01b90104	008253c0	FUN_008253c0	MonsterHeartCount
+01b90134	00825320	FUN_00825320	MonsterHeartId
+01b90134	00825320	FUN_00825320	MonsterHeartId
+01b902d8	00825c40	FUN_00825c40	MoveDownActionCommand
+01b902d8	00825c40	FUN_00825c40	MoveDownActionCommand
+01b90310	00825ba0	FUN_00825ba0	MoveUpActionCommand
+01b90310	00825ba0	FUN_00825ba0	MoveUpActionCommand
+01b90344	008925d0	FUN_008925d0	Moved Permanently
+01b90540	0044f5e0	FUN_0044f5e0	Multiline
+01b91022			NG AUTO
+01b91104	008c4d70	FUN_008c4d70	NO_PROXY
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007ba280	FUN_007ba280	NPCScript
+01b91280	007ba280	FUN_007ba280	NPCScript
+01b91280	007b9100	FUN_007b9100	NPCScript
+01b91280	007b9100	FUN_007b9100	NPCScript
+01b91280	007b96e0	FUN_007b96e0	NPCScript
+01b91280	007b96e0	FUN_007b96e0	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007ffee0	FUN_007ffee0	NPCScript
+01b91280	007ffee0	FUN_007ffee0	NPCScript
+01b91280	007fe5c0	FUN_007fe5c0	NPCScript
+01b91280	007fe5c0	FUN_007fe5c0	NPCScript
+01b91280	007bdc60	FUN_007bdc60	NPCScript
+01b91280	007bdc60	FUN_007bdc60	NPCScript
+01b91280	007bc300	FUN_007bc300	NPCScript
+01b91280	007bc300	FUN_007bc300	NPCScript
+01b91280	007a9980	FUN_007a9980	NPCScript
+01b91280	007a9980	FUN_007a9980	NPCScript
+01b91280	007e96a0	FUN_007e96a0	NPCScript
+01b91280	007e96a0	FUN_007e96a0	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ad980	FUN_007ad980	NPCScript
+01b91280	007ad980	FUN_007ad980	NPCScript
+01b91280	007accd0	FUN_007accd0	NPCScript
+01b91280	007accd0	FUN_007accd0	NPCScript
+01b91280	007ac060	FUN_007ac060	NPCScript
+01b91280	007ac060	FUN_007ac060	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007e1200	FUN_007e1200	NPCScript
+01b91280	007e1200	FUN_007e1200	NPCScript
+01b91280	007a5220	FUN_007a5220	NPCScript
+01b91280	007a5220	FUN_007a5220	NPCScript
+01b91280	007db9a0	FUN_007db9a0	NPCScript
+01b91280	007db9a0	FUN_007db9a0	NPCScript
+01b91280	007da870	FUN_007da870	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	00819560	FUN_00819560	NPCScript
+01b91280	00819560	FUN_00819560	NPCScript
+01b91280	007d8980	FUN_007d8980	NPCScript
+01b91280	007d8980	FUN_007d8980	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	0079e340	FUN_0079e340	NPCScript
+01b91280	0079e340	FUN_0079e340	NPCScript
+01b91280	007dc200	FUN_007dc200	NPCScript
+01b91280	007dc200	FUN_007dc200	NPCScript
+01b91280	007d0300	FUN_007d0300	NPCScript
+01b91280	007d0300	FUN_007d0300	NPCScript
+01b91280	007d5820	FUN_007d5820	NPCScript
+01b91280	007d5820	FUN_007d5820	NPCScript
+01b91280	008148e0	FUN_008148e0	NPCScript
+01b91280	008148e0	FUN_008148e0	NPCScript
+01b91280	007d40f0	FUN_007d40f0	NPCScript
+01b91280	007d40f0	FUN_007d40f0	NPCScript
+01b91280	00814280	FUN_00814280	NPCScript
+01b91280	00814280	FUN_00814280	NPCScript
+01b91280	0080b8c0	FUN_0080b8c0	NPCScript
+01b91280	0080b8c0	FUN_0080b8c0	NPCScript
+01b91280	007cada0	FUN_007cada0	NPCScript
+01b91280	007cada0	FUN_007cada0	NPCScript
+01b91280	007c9500	FUN_007c9500	NPCScript
+01b91280	007c9500	FUN_007c9500	NPCScript
+01b91280	007c83d0	FUN_007c83d0	NPCScript
+01b91280	007c83d0	FUN_007c83d0	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	007cec40	FUN_007cec40	NPCScript
+01b91280	007cec40	FUN_007cec40	NPCScript
+01b91280	007ce470	FUN_007ce470	NPCScript
+01b91280	007ce470	FUN_007ce470	NPCScript
+01b91280	0080d740	FUN_0080d740	NPCScript
+01b91280	0080d740	FUN_0080d740	NPCScript
+01b91280	007c7e90	FUN_007c7e90	NPCScript
+01b91280	007c7e90	FUN_007c7e90	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	0079e340	FUN_0079e340	NPCScript
+01b91280	0079e340	FUN_0079e340	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a2b40	FUN_007a2b40	NPCScript
+01b91280	007a5220	FUN_007a5220	NPCScript
+01b91280	007a5220	FUN_007a5220	NPCScript
+01b91280	007a9980	FUN_007a9980	NPCScript
+01b91280	007a9980	FUN_007a9980	NPCScript
+01b91280	007ac060	FUN_007ac060	NPCScript
+01b91280	007ac060	FUN_007ac060	NPCScript
+01b91280	007accd0	FUN_007accd0	NPCScript
+01b91280	007accd0	FUN_007accd0	NPCScript
+01b91280	007ad980	FUN_007ad980	NPCScript
+01b91280	007ad980	FUN_007ad980	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007b8120	FUN_007b8120	NPCScript
+01b91280	007b9100	FUN_007b9100	NPCScript
+01b91280	007b9100	FUN_007b9100	NPCScript
+01b91280	007b96e0	FUN_007b96e0	NPCScript
+01b91280	007b96e0	FUN_007b96e0	NPCScript
+01b91280	007ba280	FUN_007ba280	NPCScript
+01b91280	007ba280	FUN_007ba280	NPCScript
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007bbdc0	FUN_007bbdc0	NPCScript
+01b91280	007bc300	FUN_007bc300	NPCScript
+01b91280	007bc300	FUN_007bc300	NPCScript
+01b91280	007bdc60	FUN_007bdc60	NPCScript
+01b91280	007bdc60	FUN_007bdc60	NPCScript
+01b91280	007c7e90	FUN_007c7e90	NPCScript
+01b91280	007c7e90	FUN_007c7e90	NPCScript
+01b91280	007c83d0	FUN_007c83d0	NPCScript
+01b91280	007c83d0	FUN_007c83d0	NPCScript
+01b91280	007c9500	FUN_007c9500	NPCScript
+01b91280	007c9500	FUN_007c9500	NPCScript
+01b91280	007cada0	FUN_007cada0	NPCScript
+01b91280	007cada0	FUN_007cada0	NPCScript
+01b91280	007ce470	FUN_007ce470	NPCScript
+01b91280	007ce470	FUN_007ce470	NPCScript
+01b91280	007cec40	FUN_007cec40	NPCScript
+01b91280	007cec40	FUN_007cec40	NPCScript
+01b91280	007d0300	FUN_007d0300	NPCScript
+01b91280	007d0300	FUN_007d0300	NPCScript
+01b91280	007d40f0	FUN_007d40f0	NPCScript
+01b91280	007d40f0	FUN_007d40f0	NPCScript
+01b91280	007d5820	FUN_007d5820	NPCScript
+01b91280	007d5820	FUN_007d5820	NPCScript
+01b91280	007d8980	FUN_007d8980	NPCScript
+01b91280	007d8980	FUN_007d8980	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007d9830	FUN_007d9830	NPCScript
+01b91280	007da870	FUN_007da870	NPCScript
+01b91280	007db9a0	FUN_007db9a0	NPCScript
+01b91280	007db9a0	FUN_007db9a0	NPCScript
+01b91280	007dc200	FUN_007dc200	NPCScript
+01b91280	007dc200	FUN_007dc200	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	007de8c0	FUN_007de8c0	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007df3e0	FUN_007df3e0	NPCScript
+01b91280	007e1200	FUN_007e1200	NPCScript
+01b91280	007e1200	FUN_007e1200	NPCScript
+01b91280	007e96a0	FUN_007e96a0	NPCScript
+01b91280	007e96a0	FUN_007e96a0	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007ee960	FUN_007ee960	NPCScript
+01b91280	007fe5c0	FUN_007fe5c0	NPCScript
+01b91280	007fe5c0	FUN_007fe5c0	NPCScript
+01b91280	007ff570	FUN_007ff570	NPCScript
+01b91280	007ff5b0	FUN_007ff5b0	NPCScript
+01b91280	007ffee0	FUN_007ffee0	NPCScript
+01b91280	007ffee0	FUN_007ffee0	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	00804640	FUN_00804640	NPCScript
+01b91280	0080b3e0	FUN_0080b3e0	NPCScript
+01b91280	0080b410	FUN_0080b410	NPCScript
+01b91280	0080b8c0	FUN_0080b8c0	NPCScript
+01b91280	0080b8c0	FUN_0080b8c0	NPCScript
+01b91280	0080d740	FUN_0080d740	NPCScript
+01b91280	0080d740	FUN_0080d740	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	0080fc80	FUN_0080fc80	NPCScript
+01b91280	00814280	FUN_00814280	NPCScript
+01b91280	00814280	FUN_00814280	NPCScript
+01b91280	008148e0	FUN_008148e0	NPCScript
+01b91280	008148e0	FUN_008148e0	NPCScript
+01b91280	00819560	FUN_00819560	NPCScript
+01b91280	00819560	FUN_00819560	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91280	0081a580	FUN_0081a580	NPCScript
+01b91660	00822360	FUN_00822360	NVPetCommand
+01b91660	00822360	FUN_00822360	NVPetCommand
+01b91688	00820600	FUN_00820600	NVPetXong
+01b91688	00820600	FUN_00820600	NVPetXong
+01b91e58	008925d0	FUN_008925d0	Network Authentication Required
+01b91eec	00a33a90	FUN_00a33a90	New line can be only "\n" or "\r\n".
+01b91eec	00a33a90	FUN_00a33a90	New line can be only "\n" or "\r\n".
+01b91f44	008d2230	FUN_008d2230	New-line or NUL characters are not allowed in header values.
+01b92040	00502780	FUN_00502780	NewLine
+01b92530			nh Boss 686...
+01b92578			nh Boss 687...
+01b925c0			nh Boss 688...
+01b9265c			nh Boss 689...
+01b92f1c			c 1 pet: [
+01b9330c	0049f8a0	FUN_0049f8a0	No cmap table found.
+01b93af8	0049f8a0	FUN_0049f8a0	No suitable cmap subtable found.
+01b93ca4	008925d0	FUN_008925d0	Non-Authoritative Information
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b948cc	0081a580	FUN_0081a580	NpcFuncOther
+01b94988	0098e810	FUN_0098e810	Null character in path.
+01b94988	00995270	FUN_00995270	Null character in path.
+01b94988	00995270	FUN_00995270	Null character in path.
+01b94f00	008c91d0	FUN_008c91d0	Number of outbound HTTP requests that are currently active on the client.
+01b94f00	008c91d0	FUN_008c91d0	Number of outbound HTTP requests that are currently active on the client.
+01b96fdc	00932d70	FUN_00932d70	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00835520	FUN_00835520	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00836470	FUN_00836470	Only single dimensional arrays are supported for the requested action.
+01b96fdc	008fc280	FUN_008fc280	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00996740	FUN_00996740	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00996b60	FUN_00996b60	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00997820	FUN_00997820	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00998320	FUN_00998320	Only single dimensional arrays are supported for the requested action.
+01b96fdc	009daa40	FUN_009daa40	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00a1e0c0	FUN_00a1e0c0	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00a292e0	FUN_00a292e0	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00a29c20	FUN_00a29c20	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00a753d0	FUN_00a753d0	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00b335a0	FUN_00b335a0	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00bce2a0	FUN_00bce2a0	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00bcef20	FUN_00bcef20	Only single dimensional arrays are supported for the requested action.
+01b96fdc	00bcf1d0	FUN_00bcf1d0	Only single dimensional arrays are supported for the requested action.
+01b9722c	008bf560	FUN_008bf560	Only the 'http', 'https', 'socks4', 'socks4a' and 'socks5' schemes are allowed for proxies.
+01b97630	00415420	FUN_00415420	Opening bracket and closing bracket cannot be the same character '
+01b97630	00415420	FUN_00415420	Opening bracket and closing bracket cannot be the same character '
+01b97cbc	006ed4e0	FUN_006ed4e0	Original icon was created from a bitmap and cannot be copied.
+01b9829c	00588c80	FUN_00588c80	PART_BottomGridLine
+01b9829c	0059d1a0	FUN_0059d1a0	PART_BottomGridLine
+01b9829c	0059d1a0	FUN_0059d1a0	PART_BottomGridLine
+01b9829c	0059d1a0	FUN_0059d1a0	PART_BottomGridLine
+01b9829c	0059e8f0	FUN_0059e8f0	PART_BottomGridLine
+01b9829c	0059e8f0	FUN_0059e8f0	PART_BottomGridLine
+01b9829c	0059e8f0	FUN_0059e8f0	PART_BottomGridLine
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b990ac	00689440	FUN_00689440	PART_InlineErrorTemplatePanel
+01b99284	00545410	FUN_00545410	PART_LineDownButton
+01b99284	00656060	FUN_00656060	PART_LineDownButton
+01b99284	00656060	FUN_00656060	PART_LineDownButton
+01b99284	00656060	FUN_00656060	PART_LineDownButton
+01b99284	006579f0	FUN_006579f0	PART_LineDownButton
+01b99284	006579f0	FUN_006579f0	PART_LineDownButton
+01b99284	006579f0	FUN_006579f0	PART_LineDownButton
+01b992b8	00545410	FUN_00545410	PART_LineUpButton
+01b992b8	00656060	FUN_00656060	PART_LineUpButton
+01b992b8	00656060	FUN_00656060	PART_LineUpButton
+01b992b8	00656060	FUN_00656060	PART_LineUpButton
+01b992b8	006579f0	FUN_006579f0	PART_LineUpButton
+01b992b8	006579f0	FUN_006579f0	PART_LineUpButton
+01b992b8	006579f0	FUN_006579f0	PART_LineUpButton
+01b99dd4	0057cd90	FUN_0057cd90	PART_RightGridLine
+01b99dd4	005977e0	FUN_005977e0	PART_RightGridLine
+01b99dd4	005977e0	FUN_005977e0	PART_RightGridLine
+01b99dd4	005977e0	FUN_005977e0	PART_RightGridLine
+01b9b78c	0072c7b0	FUN_0072c7b0	Pet Def
+01b9b7a8	007e51e0	FUN_007e51e0	PetArenaPanel
+01b9b7a8	007e51e0	FUN_007e51e0	PetArenaPanel
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007dc200	FUN_007dc200	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	0078ca40	FUN_0078ca40	PetCmdCanvas
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007bab80	FUN_007bab80	PetCmdCanvas
+01b9b7d0	007dc200	FUN_007dc200	PetCmdCanvas
+01b9b7f8	00824a80	FUN_00824a80	PetColorOptions
+01b9b7f8	00824a80	FUN_00824a80	PetColorOptions
+01b9b824	007e51e0	FUN_007e51e0	PetFightConf
+01b9b824	007e51e0	FUN_007e51e0	PetFightConf
+01b9b824	007e51e0	FUN_007e51e0	PetFightConf
+01b9b824	007e51e0	FUN_007e51e0	PetFightConf
+01b9b84c	00789280	FUN_00789280	PetFuncPanel
+01b9b84c	00789280	FUN_00789280	PetFuncPanel
+01b9b84c	00789280	FUN_00789280	PetFuncPanel
+01b9b84c	00789280	FUN_00789280	PetFuncPanel
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9b874	007e6820	FUN_007e6820	PetPVESystem
+01b9bcc4			n Boss NPC: 
+01b9da3c	0089e950	FUN_0089e950	PlaintextStreamFilter completing asynchronously for a synchronous request.
+01b9da3c	0089e950	FUN_0089e950	PlaintextStreamFilter completing asynchronously for a synchronous request.
+01b9df88	00444fc0	FUN_00444fc0	PointerMoved
+01b9e514	00994460	FUN_00994460	Preallocation size can be requested only for new files.
+01b9e590	00994460	FUN_00994460	Preallocation size can be requested only in write mode.
+01b9e6dc	0047d270	FUN_0047d270	PrefixCharacterEllipsis
+01b9eaf0	008507c0	FUN_008507c0	Process has exited, so the requested information is not available.
+01b9eb84	008504b0	FUN_008504b0	Process is already associated with a real process, so the requested operation cannot be performed.
+01b9ec58	008507c0	FUN_008507c0	Process must exit before requested information can be determined.
+01b9ece8	00853d20	FUN_00853d20	Process performance counter is disabled, so the requested operation cannot be performed.
+01b9ede0	00850450	FUN_00850450	Process was not started by this object, so requested information cannot be determined.
+01b9ede0	008507c0	FUN_008507c0	Process was not started by this object, so requested information cannot be determined.
+01b9f28c	00a36430	FUN_00a36430	Properties that start with '$' are not allowed in types that support metadata. Either replace the character or disable reference preservation and polymorphic deserialization.
+01b9fd54	008925d0	FUN_008925d0	Proxy Authentication Required
+01b9fd9c	008ca4a0	FUN_008ca4a0	Proxy-Authenticate
+01b9fdd0	008ca4a0	FUN_008ca4a0	Proxy-Authorization
+01b9fe04	008ca4a0	FUN_008ca4a0	Proxy-Connection
+01b9fe34	007833e0	FUN_007833e0	Proxy-Connection:
+01b9fe64	008ca4a0	FUN_008ca4a0	Proxy-Support
+01b9ff18	009a7d60	FUN_009a7d60	PublicKeyToken
+01ba04b0	007accd0	FUN_007accd0	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007b96e0	FUN_007b96e0	QuestPanel
+01ba04b0	007b96e0	FUN_007b96e0	QuestPanel
+01ba04b0	007b89c0	FUN_007b89c0	QuestPanel
+01ba04b0	007b89c0	FUN_007b89c0	QuestPanel
+01ba04b0	007b89c0	FUN_007b89c0	QuestPanel
+01ba04b0	007bc300	FUN_007bc300	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ad980	FUN_007ad980	QuestPanel
+01ba04b0	007accd0	FUN_007accd0	QuestPanel
+01ba04b0	007accd0	FUN_007accd0	QuestPanel
+01ba04b0	007ac590	FUN_007ac590	QuestPanel
+01ba04b0	007ac590	FUN_007ac590	QuestPanel
+01ba04b0	007ac590	FUN_007ac590	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	0081a580	FUN_0081a580	QuestPanel
+01ba04b0	0081a580	FUN_0081a580	QuestPanel
+01ba04b0	00819560	FUN_00819560	QuestPanel
+01ba04b0	00819560	FUN_00819560	QuestPanel
+01ba04b0	0079d7a0	FUN_0079d7a0	QuestPanel
+01ba04b0	0079d7a0	FUN_0079d7a0	QuestPanel
+01ba04b0	0079c460	FUN_0079c460	QuestPanel
+01ba04b0	0079c460	FUN_0079c460	QuestPanel
+01ba04b0	007d0300	FUN_007d0300	QuestPanel
+01ba04b0	007d0300	FUN_007d0300	QuestPanel
+01ba04b0	007c9e10	FUN_007c9e10	QuestPanel
+01ba04b0	007c9e10	FUN_007c9e10	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	007c83d0	FUN_007c83d0	QuestPanel
+01ba04b0	007c83d0	FUN_007c83d0	QuestPanel
+01ba04b0	007ce470	FUN_007ce470	QuestPanel
+01ba04b0	007ce470	FUN_007ce470	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	0080d740	FUN_0080d740	QuestPanel
+01ba04b0	0080d740	FUN_0080d740	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	0079c460	FUN_0079c460	QuestPanel
+01ba04b0	0079c460	FUN_0079c460	QuestPanel
+01ba04b0	0079d7a0	FUN_0079d7a0	QuestPanel
+01ba04b0	0079d7a0	FUN_0079d7a0	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a0840	FUN_007a0840	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a7580	FUN_007a7580	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007a9980	FUN_007a9980	QuestPanel
+01ba04b0	007ac590	FUN_007ac590	QuestPanel
+01ba04b0	007ac590	FUN_007ac590	QuestPanel
+01ba04b0	007accd0	FUN_007accd0	QuestPanel
+01ba04b0	007accd0	FUN_007accd0	QuestPanel
+01ba04b0	007ad980	FUN_007ad980	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b3e60	FUN_007b3e60	QuestPanel
+01ba04b0	007b89c0	FUN_007b89c0	QuestPanel
+01ba04b0	007b89c0	FUN_007b89c0	QuestPanel
+01ba04b0	007b96e0	FUN_007b96e0	QuestPanel
+01ba04b0	007b96e0	FUN_007b96e0	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007ba280	FUN_007ba280	QuestPanel
+01ba04b0	007bc300	FUN_007bc300	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c40e0	FUN_007c40e0	QuestPanel
+01ba04b0	007c83d0	FUN_007c83d0	QuestPanel
+01ba04b0	007c83d0	FUN_007c83d0	QuestPanel
+01ba04b0	007c9e10	FUN_007c9e10	QuestPanel
+01ba04b0	007c9e10	FUN_007c9e10	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007cd3e0	FUN_007cd3e0	QuestPanel
+01ba04b0	007ce470	FUN_007ce470	QuestPanel
+01ba04b0	007ce470	FUN_007ce470	QuestPanel
+01ba04b0	007d0300	FUN_007d0300	QuestPanel
+01ba04b0	007d0300	FUN_007d0300	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007e7240	FUN_007e7240	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007ee960	FUN_007ee960	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f1720	FUN_007f1720	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f3c20	FUN_007f3c20	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007f5640	FUN_007f5640	QuestPanel
+01ba04b0	007ff570	FUN_007ff570	QuestPanel
+01ba04b0	00800800	FUN_00800800	QuestPanel
+01ba04b0	00800800	FUN_00800800	QuestPanel
+01ba04b0	00800800	FUN_00800800	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00803d80	FUN_00803d80	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00804640	FUN_00804640	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	00806440	FUN_00806440	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	008097e0	FUN_008097e0	QuestPanel
+01ba04b0	0080d740	FUN_0080d740	QuestPanel
+01ba04b0	0080d740	FUN_0080d740	QuestPanel
+01ba04b0	0080fc80	FUN_0080fc80	QuestPanel
+01ba04b0	0080fc80	FUN_0080fc80	QuestPanel
+01ba04b0	00819560	FUN_00819560	QuestPanel
+01ba04b0	00819560	FUN_00819560	QuestPanel
+01ba04b0	0081a580	FUN_0081a580	QuestPanel
+01ba04b0	0081a580	FUN_0081a580	QuestPanel
+01ba08c4	00a6bdf0	FUN_00a6bdf0	REGEX_NONBACKTRACKING_MAX_AUTOMATA_SIZE
+01ba0920	007804a0	FUN_007804a0	RISU_SOCKS_PORT
+01ba0920	007804a0	FUN_007804a0	RISU_SOCKS_PORT
+01ba0920	007804a0	FUN_007804a0	RISU_SOCKS_PORT
+01ba0920	007804a0	FUN_007804a0	RISU_SOCKS_PORT
+01ba1a4c	008a8e60	FUN_008a8e60	Received an invalid header line: '{0}'.
+01ba1b60	008a72a0	FUN_008a72a0	Received an invalid status line: '{0}'.
+01ba1b60	008a72a0	FUN_008a72a0	Received an invalid status line: '{0}'.
+01ba1b60	008a72a0	FUN_008a72a0	Received an invalid status line: '{0}'.
+01ba1e68	0097c390	FUN_0097c390	Recursive fallback not allowed for character \\u{0:X4}.
+01ba1e68	00982160	FUN_00982160	Recursive fallback not allowed for character \\u{0:X4}.
+01ba1e68	00982880	FUN_00982880	Recursive fallback not allowed for character \\u{0:X4}.
+01ba27e0	00714440	FUN_00714440	Registry key names should not be greater than 255 characters.
+01ba27e0	00714440	FUN_00714440	Registry key names should not be greater than 255 characters.
+01ba2a4c	006d9280	FUN_006d9280	Remove failed
+01ba2a74	0055ede0	FUN_0055ede0	Remove/RemoveAt is not supported.
+01ba2ac4	006d9310	FUN_006d9310	RemoveAll failed
+01ba2af4	007028b0	FUN_007028b0	RemoveAllVisuals failed
+01ba2b30	0055ede0	FUN_0055ede0	RemoveAt
+01ba2b50	006dfc30	FUN_006dfc30	RemoveAt failed
+01ba2b7c	006dfd30	FUN_006dfd30	RemoveAtEnd failed
+01ba2bb0	006dbf70	FUN_006dbf70	RemoveCompleted failed
+01ba2bec	006d3a60	FUN_006d3a60	RemoveRenderingDeviceReplaced failed
+01ba2c44	00702820	FUN_00702820	RemoveVisual failed
+01ba3110	00893440	FUN_00893440	Request
+01ba3110	008935c0	FUN_008935c0	Request
+01ba3110	00893900	FUN_00893900	Request
+01ba3110	00893b60	FUN_00893b60	Request
+01ba312c	008925d0	FUN_008925d0	Request Entity Too Large
+01ba316c	008925d0	FUN_008925d0	Request Header Fields Too Large
+01ba31b8	008925d0	FUN_008925d0	Request Timeout
+01ba31e4	008a8e30	FUN_008a8e30	Request headers must contain only ASCII characters.
+01ba31e4	008c8290	FUN_008c8290	Request headers must contain only ASCII characters.
+01ba31e4	008a8e30	FUN_008a8e30	Request headers must contain only ASCII characters.
+01ba31e4	008c8290	FUN_008c8290	Request headers must contain only ASCII characters.
+01ba3258	008c18f0	FUN_008c18f0	Request version value must be one of 1.0, 1.1, 2.0, or 3.0.
+01ba3258	008c18f0	FUN_008c18f0	Request version value must be one of 1.0, 1.1, 2.0, or 3.0.
+01ba32dc	008925d0	FUN_008925d0	Request-Uri Too Long
+01ba3314	004d6360	FUN_004d6360	RequestBringIntoView
+01ba334c	006e1680	FUN_006e1680	RequestCommitAsync failed
+01ba338c	008935c0	FUN_008935c0	RequestTaskStatus
+01ba338c	00893eb0	FUN_00893eb0	RequestTaskStatus
+01ba33bc	008925d0	FUN_008925d0	Requested Range Not Satisfiable
+01ba3408	00713920	FUN_00713920	Requested registry access is not allowed.
+01ba3408	009bb3a0	FUN_009bb3a0	Requested registry access is not allowed.
+01ba3468	00db6840	FUN_00db6840	Requested value '{0}' was not found.
+01ba3468	00df41c0	FUN_00df41c0	Requested value '{0}' was not found.
+01ba3468	00df74e0	FUN_00df74e0	Requested value '{0}' was not found.
+01ba3468	00df93e0	FUN_00df93e0	Requested value '{0}' was not found.
+01ba34c0	0041ed90	FUN_0041ed90	RequestedThemeVariant
+01ba34f8	008a2d25	FUN_008a2d25	Requesting HTTP version {0} with version policy {1} while server offers only version fallback.
+01ba35c4	0089c070	FUN_0089c070	Requesting HTTP version {0} with version policy {1} while unable to establish HTTP/{2} connection.
+01ba3a7c	00825500	FUN_00825500	ResolveMonsterHeartCommand
+01ba3a7c	00825500	FUN_00825500	ResolveMonsterHeartCommand
+01ba44c0	007804a0	FUN_007804a0	RisuGame.dll
+01ba44c0	007804a0	FUN_007804a0	RisuGame.dll
+01ba44e8	007812e0	FUN_007812e0	RisuGameLoaderPipe
+01ba44e8	007812e0	FUN_007812e0	RisuGameLoaderPipe
+01ba451c	0077fec0	FUN_0077fec0	RisuTools.Assets.GameLoader.swf
+01ba451c	007833e0	FUN_007833e0	RisuTools.Assets.GameLoader.swf
+01ba4568	00779f30	FUN_00779f30	Risu_Beta_999
+01ba4568	00779f30	FUN_00779f30	Risu_Beta_999
+01ba49ec	00825820	FUN_00825820	RunAutoClickCommand
+01ba49ec	00825820	FUN_00825820	RunAutoClickCommand
+01ba55a8	008c2aa0	FUN_008c2aa0	SOCKS server did not return a suitable authentication method.
+01ba5630	008c22f0	FUN_008c22f0	SOCKS server failed to connect to the destination. Received error code 0x{0}.
+01ba5630	008c2aa0	FUN_008c2aa0	SOCKS server failed to connect to the destination. Received error code 0x{0}.
+01ba56d8	008c2aa0	FUN_008c2aa0	SOCKS server requested username & password authentication.
+01ba575c	008c2aa0	FUN_008c2aa0	SOCKS server returned an unknown address type.
+01ba57c8	008c22f0	FUN_008c22f0	SOCKS4 does not support IPv6 addresses.
+01ba70bc	008238f0	FUN_008238f0	SelectedBossStatusFilter
+01ba70bc	008238f0	FUN_008238f0	SelectedBossStatusFilter
+01ba70fc	00823850	FUN_00823850	SelectedBossTypeFilter
+01ba70fc	00823850	FUN_00823850	SelectedBossTypeFilter
+01ba7354	006aafc0	FUN_006aafc0	SelectedLine
+01ba7354	006aafc0	FUN_006aafc0	SelectedLine
+01ba7354	006aafc0	FUN_006aafc0	SelectedLine
+01ba737c	00824f60	FUN_00824f60	SelectedMapId
+01ba737c	0071caa0	FUN_0071caa0	SelectedMapId
+01ba737c	0072b360	FUN_0072b360	SelectedMapId
+01ba737c	00824f60	FUN_00824f60	SelectedMapId
+01ba76bc	008ad1d0	FUN_008ad1d0	Sent {0} request content bytes, but Content-Length promised {1}.
+01ba76bc	008b9340	FUN_008b9340	Sent {0} request content bytes, but Content-Length promised {1}.
+01ba7d1c	008a3680	FUN_008a3680	Session-Based-Authentication
+01ba7fb4	006d4910	FUN_006d4910	SetBitmapInterpolationMode failed
+01ba7fb4	00702510	FUN_00702510	SetBitmapInterpolationMode failed
+01ba8f64	006ddf90	FUN_006ddf90	SetStrokeLineJoin failed
+01ba96c4	0081e9d0	FUN_0081e9d0	ShowFlashLogs
+01ba96c4	0081e9d0	FUN_0081e9d0	ShowFlashLogs
+01ba96ec	004dfb90	FUN_004dfb90	ShowGridLines
+01ba9fec	005ba640	FUN_005ba640	SliderInlineTickBarFill
+01ba9fec	005ba640	FUN_005ba640	SliderInlineTickBarFill
+01bab7d0	004a5440	FUN_004a5440	SplineEasing
+01bac978	00719b30	FUN_00719b30	StartNpc
+01bac978	00719b30	FUN_00719b30	StartNpc
+01bacddc	0081fb60	FUN_0081fb60	StopAutoCommand
+01bacddc	0081fb60	FUN_0081fb60	StopAutoCommand
+01bad76c	00913ae0	FUN_00913ae0	String must be exactly one character long.
+01badfb8	0047cea0	FUN_0047cea0	StrokeLineCap
+01badfb8	005215c0	FUN_005215c0	StrokeLineCap
+01bae430	00a33ac0	FUN_00a33ac0	Supported indentation characters are space and horizontal tab.
+01bae430	00a33ac0	FUN_00a33ac0	Supported indentation characters are space and horizontal tab.
+01baec7c			System.ComponentModel.Design.IDesigner, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+01baec7c			System.ComponentModel.Design.IDesigner, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+01baf568	00893170	FUN_00893170	System.Net.Http.HttpRequestOut
+01baf568	00893170	FUN_00893170	System.Net.Http.HttpRequestOut
+01baf568	00893170	FUN_00893170	System.Net.Http.HttpRequestOut
+01baf5b4	008942e0	FUN_008942e0	System.Net.Http.HttpRequestOut.Start
+01baf5b4	008942e0	FUN_008942e0	System.Net.Http.HttpRequestOut.Start
+01baf60c	008947e2	FUN_008947e2	System.Net.Http.HttpRequestOut.Stop
+01baf60c	008947e2	FUN_008947e2	System.Net.Http.HttpRequestOut.Stop
+01baf660	008942e0	FUN_008942e0	System.Net.Http.Request
+01baf660	008942e0	FUN_008942e0	System.Net.Http.Request
+01bafa40	00895240	FUN_00895240	System.Net.SocketsHttpHandler.PendingConnectionTimeoutOnRequestCompletion
+01bb3778			ng auto.
+01bb382c	007f80f0	FUN_007f80f0	 Tay Boss
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4384	005e4ad0	FUN_005e4ad0	TabItemPipeThickness
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4384	00668ad0	FUN_00668ad0	TabItemPipeThickness
+01bb4494	0066cdc0	FUN_0066cdc0	TabStripItemPipeThickness
+01bb4494	005e4ad0	FUN_005e4ad0	TabStripItemPipeThickness
+01bb4494	0066cdc0	FUN_0066cdc0	TabStripItemPipeThickness
+01bb4bf8	0061ba70	FUN_0061ba70	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	0061bd90	FUN_0061bd90	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	006189f0	FUN_006189f0	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	006189f0	FUN_006189f0	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	005e4ad0	FUN_005e4ad0	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	006189f0	FUN_006189f0	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	006189f0	FUN_006189f0	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	0061ba70	FUN_0061ba70	TabbedPageTabItemHeaderPipeThickness
+01bb4bf8	0061bd90	FUN_0061bd90	TabbedPageTabItemHeaderPipeThickness
+01bb667c	00446b60	FUN_00446b60	TextInputMethodClientRequeryRequested
+01bb66d4	00444fc0	FUN_00444fc0	TextInputMethodClientRequested
+01bb6884	0048fab0	FUN_0048fab0	TextSourceCharacterIndex = 
+01bb6a4c	00a36310	FUN_00a36310	The '$id', '$ref' or '$type' metadata properties must be JSON strings. Current token type is '{0}'.
+01bb6b20	00a362e0	FUN_00a362e0	The '$values' metadata property must be a JSON array. Current token type is '{0}'.
+01bb7110	00932d70	FUN_00932d70	The CancellationTokenSource has been disposed.
+01bb77cc	008b4c70	FUN_008b4c70	The HTTP request headers length exceeded the server limit of {0} bytes.
+01bb7a04	008b5620	FUN_008b5620	The HTTP/2 server didn't respond to a ping request within the configured KeepAlivePingDelay.
+01bb814c	00a363a0	FUN_00a363a0	The JSON property '{0}' could not be mapped to any .NET member contained in type '{1}'.
+01bb9790	00976370	FUN_00976370	The TryExecuteTaskInline call to the underlying scheduler succeeded, but the task body was not invoked.
+01bba098	008c9ff0	FUN_008c9ff0	The amount of time requests spent on a queue waiting for an available connection.
+01bba098	008c9ff0	FUN_008c9ff0	The amount of time requests spent on a queue waiting for an available connection.
+01bba330	00ae4ca0	FUN_00ae4ca0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00b5a300	FUN_00b5a300	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00b64ce0	FUN_00b64ce0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00b66820	FUN_00b66820	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00bab700	FUN_00bab700	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00bc1ac0	FUN_00bc1ac0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00bd0040	FUN_00bd0040	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00be2940	FUN_00be2940	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00c06240	FUN_00c06240	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00c3b740	FUN_00c3b740	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00c95160	FUN_00c95160	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00c96740	FUN_00c96740	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00c9f7e0	FUN_00c9f7e0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00cf5180	FUN_00cf5180	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00cfa220	FUN_00cfa220	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00cfb9e0	FUN_00cfb9e0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00cfeee0	FUN_00cfeee0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bba330	00d0e7e0	FUN_00d0e7e0	The array is multidimensional, or the type parameter for the set cannot be cast automatically to the type of the destination array.
+01bbaa04	009c2b80	FUN_009c2b80	The body of this instance method was removed by the AOT compiler. This can happen if the owning type was not seen as allocated by the AOT compiler.
+01bbab38			The body of this method was removed by the AOT compiler because it's not callable.
+01bbafe8			The character set provided in ContentType is invalid.
+01bbb060			The character set provided in ContentType is invalid. Cannot read content as string using an invalid character set.
+01bbb290	00932d70	FUN_00932d70	The collection's comparer does not support the requested operation.
+01bbb290	00834bf0	FUN_00834bf0	The collection's comparer does not support the requested operation.
+01bbb608	00529770	FUN_00529770	The control's bounds could not be translated to the requested control.
+01bbc52c	00855e50	FUN_00855e50	The encoded length is not valid under the requested encoding rules, the value may be valid under the BER encoding.
+01bbd0fc	00901a50	FUN_00901a50	The first char in the string is the null character.
+01bbd9ec	00a33fd0	FUN_00a33fd0	The input does not contain any JSON tokens. Expected the input to start with a valid JSON token, when isFinalBlock is true.
+01bbdaf0	00a33fd0	FUN_00a33fd0	The input does not contain any complete JSON tokens. Expected the input to have at least one valid, complete, JSON token.
+01bbdbf0	00914e80	FUN_00914e80	The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+01bbdbf0	00914f20	FUN_00914f20	The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.
+01bbf5c8	00a2cfa0	FUN_00a2cfa0	The number of sub-authorities must not exceed {0}.
+01bbf5c8	00a2d1e0	FUN_00a2d1e0	The number of sub-authorities must not exceed {0}.
+01bbf5c8	00a2e420	FUN_00a2e420	The number of sub-authorities must not exceed {0}.
+01bc01ac	00844df0	FUN_00844df0	The output char buffer is too small to contain the decoded characters, encoding '{0}' fallback '{1}'.
+01bc01ac	0084f1e0	FUN_0084f1e0	The output char buffer is too small to contain the decoded characters, encoding '{0}' fallback '{1}'.
+01bc0284	0097ddc0	FUN_0097ddc0	The output char buffer is too small to contain the decoded characters, encoding codepage '{0}' and fallback '{1}'.
+01bc0f54	008a0790	FUN_008a0790	The proxy tunnel request to proxy '{0}' failed with status code '{1}'."
+01bc1100	00899480	FUN_00899480	The reason phrase must not contain new-line or NUL characters.
+01bc141c	00b5fac0	FUN_00b5fac0	The remote party requested renegotiation when AllowRenegotiation was set to false.
+01bc141c	00b621c0	FUN_00b621c0	The remote party requested renegotiation when AllowRenegotiation was set to false.
+01bc14d0	00895f00	FUN_00895f00	The request message was already sent. Cannot send the same request message multiple times.
+01bc1594	008b58b0	FUN_008b58b0	The request was aborted.
+01bc1594	008b4fc0	FUN_008b4fc0	The request was aborted.
+01bc1594	008b58b0	FUN_008b58b0	The request was aborted.
+01bc1594	008b6d20	FUN_008b6d20	The request was aborted.
+01bc1594	008b924c	FUN_008b924c	The request was aborted.
+01bc15d4	00895aa0	FUN_00895aa0	The request was canceled due to the configured HttpClient.Timeout of {0} seconds elapsing.
+01bc1698	00a234f0	FUN_00a234f0	The requested key container was not found.
+01bc1698	00a235c0	FUN_00a235c0	The requested key container was not found.
+01bc16fc	00a33d20	FUN_00a33d20	The requested operation requires an element of type '{0}', but the target element has type '{1}'.
+01bc17cc	008e7600	FUN_008e7600	The requested security package is not supported.
+01bc2128	00a2cfa0	FUN_00a2cfa0	The size of the identifier authority must not exceed 6 bytes.
+01bc2128	00a2cfa0	FUN_00a2cfa0	The size of the identifier authority must not exceed 6 bytes.
+01bc21b0	008d9e90	FUN_008d9e90	The size of {0} is too long. It cannot be longer than {1} characters.
+01bc22ac	00a1d950	FUN_00a1d950	The specified Characteristic2 curve parameters are not valid. Polynomial, A, B, G.X, G.Y, and Order are required. A, B, G.X, G.Y must be the same length, and the same length as Q.X, Q.Y and D if those are specified. Cofactor is required. Seed and Hash are optional. Other parameters are not allowed.
+01bc32c4	00a6bbc0	FUN_00a6bbc0	The specified pattern with RegexOptions.NonBacktracking could result in an automata as large as '{0}' nodes, which is larger than the configured limit of '{1}'.
+01bc4654	008c16d0	FUN_008c16d0	The synchronous method is not supported by '{0}' for HTTP/2 or higher. Either use an asynchronous method or downgrade the request version to HTTP/1.1 or lower.
+01bc5058	00a35dc0	FUN_00a35dc0	The type '{0}' is marked 'JsonUnmappedMemberHandling.Disallow' which conflicts with extension data property '{1}'.
+01bc799c	00895ec0	FUN_00895ec0	This instance has already started one or more requests. Properties can only be modified before sending the first request.
+01bc799c	008c1490	FUN_008c1490	This instance has already started one or more requests. Properties can only be modified before sending the first request.
+01bc8004	008e7cf0	FUN_008e7cf0	This operation is only allowed using a successfully authenticated context.
+01bc8004	008ea310	FUN_008ea310	This operation is only allowed using a successfully authenticated context.
+01bca42e			i Map 23...
+01bca47e			i Map 33...
+01bca4ce			i Map 42...
+01bca51e			i Map 67...
+01bcc06c	00716dd0	FUN_00716dd0	Token
+01bcc06c	00716dd0	FUN_00716dd0	Token
+01bcc06c	007277f0	FUN_007277f0	Token
+01bcc084	00a2e620	FUN_00a2e620	Token cannot be zero.
+01bcc0d8	008925d0	FUN_008925d0	Too Many Requests
+01bcc2f8	0097a660	FUN_0097a660	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	0097f740	FUN_0097f740	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	009d51f0	FUN_009d51f0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	0084f340	FUN_0084f340	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00982160	FUN_00982160	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00986e60	FUN_00986e60	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00985c90	FUN_00985c90	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00985540	FUN_00985540	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00984dc0	FUN_00984dc0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00844f50	FUN_00844f50	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	009842e0	FUN_009842e0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00844f50	FUN_00844f50	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	0084f340	FUN_0084f340	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	0097a660	FUN_0097a660	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	0097f740	FUN_0097f740	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00982160	FUN_00982160	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	009842e0	FUN_009842e0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00984dc0	FUN_00984dc0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00985540	FUN_00985540	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00985c90	FUN_00985c90	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	00986e60	FUN_00986e60	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc2f8	009d51f0	FUN_009d51f0	Too many characters. The resulting number of bytes is larger than what can be returned as an int.
+01bcc8bc	0072c7b0	FUN_0072c7b0	Train Map
+01bcc8fc	0079b820	FUN_0079b820	Train map
+01bcc980	00824ec0	FUN_00824ec0	TrainMapCommand
+01bcc980	00824ec0	FUN_00824ec0	TrainMapCommand
+01bcdf1e			i Boss...
+01bce038			i map train 
+01bce218	00824e20	FUN_00824e20	TuyChonBatPet
+01bce218	0071caa0	FUN_0071caa0	TuyChonBatPet
+01bce218	0072b160	FUN_0072b160	TuyChonBatPet
+01bce218	00824e20	FUN_00824e20	TuyChonBatPet
+01bce520	0099f3e0	FUN_0099f3e0	Type '{0}' returned by IDynamicInterfaceCastable does not implement the requested interface '{1}'.
+01bcf57c			ng auto
+01bcf5ce			p pet...
+01bcfdcc			n Boss...
+01bd0398	005b8850	FUN_005b8850	Unable to allocate pixels for the bitmap.
+01bd0398	0082a560	FUN_0082a560	Unable to allocate pixels for the bitmap.
+01bd0b68	00829fc0	FUN_00829fc0	Unable to create a new SKBitmap instance.
+01bd0dd0	00832090	FUN_00832090	Unable to create a new SKPixmap instance.
+01bd0dd0	00832100	FUN_00832100	Unable to create a new SKPixmap instance.
+01bd1014	005b3c60	FUN_005b3c60	Unable to create bitmap from provided data
+01bd1ab0	005b3b00	FUN_005b3b00	Unable to load bitmap from provided data
+01bd2034	0097bc00	FUN_0097bc00	Unable to translate Unicode character \\u{0:X4} at index {1} to specified code page.
+01bd2034	0097bc70	FUN_0097bc70	Unable to translate Unicode character \\u{0:X4} at index {1} to specified code page.
+01bd2198	008b7cd0	FUN_008b7cd0	Unable to write content to request stream; content would exceed Content-Length.
+01bd2198	008ad0c0	FUN_008ad0c0	Unable to write content to request stream; content would exceed Content-Length.
+01bd2198	008ad130	FUN_008ad130	Unable to write content to request stream; content would exceed Content-Length.
+01bd2198	008ad0c0	FUN_008ad0c0	Unable to write content to request stream; content would exceed Content-Length.
+01bd2198	008ad130	FUN_008ad130	Unable to write content to request stream; content would exceed Content-Length.
+01bd2198	008b7cd0	FUN_008b7cd0	Unable to write content to request stream; content would exceed Content-Length.
+01bd2310	008925d0	FUN_008925d0	Unauthorized
+01bd24c4	008c2160	FUN_008c2160	Unexpected SOCKS protocol version. Required {0}, got {1}.
+01bd2e9c	006e9100	FUN_006e9100	Unknown requested PlatformApi {0}
+01bd30f0	006f5ab0	FUN_006f5ab0	Unmap failed
+01bd3280	00a618b0	FUN_00a618b0	Unrecognized control character.
+01bd3280	00a618b0	FUN_00a618b0	Unrecognized control character.
+01bd3834	008ca4a0	FUN_008ca4a0	Upgrade-Insecure-Requests
+01bd3b18	008925d0	FUN_008925d0	Use Proxy
+01bd4440	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore
+01bd4440	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore
+01bd4480	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_capabilities
+01bd4480	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_capabilities
+01bd44dc	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_fd
+01bd44dc	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_fd
+01bd4524	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_win32
+01bd4524	006b04c0	FUN_006b04c0	VK_KHR_external_semaphore_win32
+01bd4c94	00913850	FUN_00913850	Value was either too large or too small for a character.
+01bd53bc	00824d80	FUN_00824d80	VatPhamBatPetOptions
+01bd53bc	00824d80	FUN_00824d80	VatPhamBatPetOptions
+01bd557c	00563800	FUN_00563800	VerticalGridLinesBrush
+01bd6520	008ca4a0	FUN_008ca4a0	WWW-Authenticate
+01bd7aa4	008ca4a0	FUN_008ca4a0	X-Request-ID
+01bd88de			y Auto All.
+01bd8f00			a Pet [
+01bd9164			n RisuGame.dll (Path: 
+01bd96b4			 Flash...
+01bd98b2			m tra NPC 
+01bd9c62			nh Flash Player!
+01bda528			 Tay Boss.
+01bdb012			ng NpcFuncClick...
+01bdbd92			 -> Tang1_BatPet3813
+01bdbee4			 Pet -> Tang1_DanhQuai3813
+01bdc28a			 (1) cho NPC 1617...
+01bdc4ca			 (2) cho NPC 1617...
+01bdc83e			 (3) cho NPC 1618...
+01bdca7e			 (4) cho NPC 1618...
+01bdd1e2			t Pet...
+01bde140	00757190	FUN_00757190	] [Flash PID 
+01bde51c			y AutoDailyActivities...
+01bde6f0	007973c0	FUN_007973c0	_LoginCanvas_BasicGlowButton1
+01bde6f0	007973c0	FUN_007973c0	_LoginCanvas_BasicGlowButton1
+01bde738	007973c0	FUN_007973c0	_LoginCanvas_BasicGlowButton2
+01bde738	007973c0	FUN_007973c0	_LoginCanvas_BasicGlowButton2
+01bde780	00796400	FUN_00796400	_MiniMapCanvas_Button2
+01bde780	00796400	FUN_00796400	_MiniMapCanvas_Button2
+01bde7d8	007e6820	FUN_007e6820	_PetPVESystem_BasicDelayButton2
+01bde7d8	007e6820	FUN_007e6820	_PetPVESystem_BasicDelayButton2
+01bde98c	006b0ce0	FUN_006b0ce0	_addr_AllocateCommandBuffers
+01bde9d4	006b0ce0	FUN_006b0ce0	_addr_AllocateMemory
+01bded90	006b0ce0	FUN_006b0ce0	_addr_CmdPipelineBarrier
+01bdf0a4	006b0ce0	FUN_006b0ce0	_addr_CreateSemaphore
+01bdf48c	006b0ce0	FUN_006b0ce0	_addr_DestroySemaphore
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b44	008a3e30	FUN_008a3e30	auth-int
+01be1b64	00b5f120	FUN_00b5f120	authenticate
+01be1b64	00b61760	FUN_00b61760	authenticate
+01be1b8c	008c6120	FUN_008c6120	authorization
+01be1b8c	008c6120	FUN_008c6120	authorization
+01be1bcc	00725bc0	FUN_00725bc0	autoClickLoop
+01be1bf4	00725bc0	FUN_00725bc0	autoClickMode
+01be1c1c	00725bc0	FUN_00725bc0	autoClickScript
+01be1c48	0077bcb0	FUN_0077bcb0	autoTaskAction
+01be1c48	0077bcb0	FUN_0077bcb0	autoTaskAction
+01be21e4	007167a0	FUN_007167a0	avares://RisuTools/App.axaml
+01be21e4	00714ab0	FUN_00714ab0	avares://RisuTools/App.axaml
+01be21e4	00714ab0	FUN_00714ab0	avares://RisuTools/App.axaml
+01be21e4	007167a0	FUN_007167a0	avares://RisuTools/App.axaml
+01be222c	0072c7b0	FUN_0072c7b0	avares://RisuTools/Assets/ico.ico
+01be222c	0072c7b0	FUN_0072c7b0	avares://RisuTools/Assets/ico.ico
+01be227c	0072c7b0	FUN_0072c7b0	avares://RisuTools/MainWindow.axaml
+01be227c	00757800	FUN_00757800	avares://RisuTools/MainWindow.axaml
+01be227c	0072c7b0	FUN_0072c7b0	avares://RisuTools/MainWindow.axaml
+01be227c	00757800	FUN_00757800	avares://RisuTools/MainWindow.axaml
+01be262c	0048c260	FUN_0048c260	baselineAlignment
+01be265c	00725bc0	FUN_00725bc0	batPetPriorityLevel1
+01be2694	00725bc0	FUN_00725bc0	batPetSelectedMapId
+01be26c8	00725bc0	FUN_00725bc0	batPetSelectedMonsterId
+01be2704	00725bc0	FUN_00725bc0	batPetSelectedMonsterIds
+01be2744	00725bc0	FUN_00725bc0	batPetTarget
+01be276c	00725bc0	FUN_00725bc0	batPetTargetColor
+01be28d0	0082aa50	FUN_0082aa50	bitmap
+01be28d0	00830b00	FUN_00830b00	bitmap
+01be29fc	007f81a0	FUN_007f81a0	bossDailyBattle
+01be29fc	007f81a0	FUN_007f81a0	bossDailyBattle
+01be2a28	007f81a0	FUN_007f81a0	bossDailyPage
+01be2a28	007f81a0	FUN_007f81a0	bossDailyPage
+01be2a50	00725bc0	FUN_00725bc0	bosses
+01be2dec	007bab80	FUN_007bab80	btnAuto
+01be2dec	007bab80	FUN_007bab80	btnAuto
+01be2dec	007dc200	FUN_007dc200	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	0078ca40	FUN_0078ca40	btnAuto
+01be2dec	007bab80	FUN_007bab80	btnAuto
+01be2dec	007bab80	FUN_007bab80	btnAuto
+01be2dec	007dc200	FUN_007dc200	btnAuto
+01be2e88	0078b540	FUN_0078b540	btnLine
+01be2e88	0078b540	FUN_0078b540	btnLine
+01be2ee0	007e51e0	FUN_007e51e0	btn_petArena
+01be2ee0	007e51e0	FUN_007e51e0	btn_petArena
+01be2fc0	0077bb90	FUN_0077bb90	buyNpcShopItem
+01be2fc0	0077bb90	FUN_0077bb90	buyNpcShopItem
+01be3074	00902660	FUN_00902660	bytesAllocated
+01be3074	00902660	FUN_00902660	bytesAllocated
+01be3074	009028f0	FUN_009028f0	bytesAllocated
+01be3074	009028f0	FUN_009028f0	bytesAllocated
+01be32d4	0079a4e0	FUN_0079a4e0	cancelQuest
+01be32d4	0079a4e0	FUN_0079a4e0	cancelQuest
+01be32d4	0079a4e0	FUN_0079a4e0	cancelQuest
+01be32f8	009329b0	FUN_009329b0	cancellationToken
+01be3624	0072c3c0	FUN_0072c3c0	cbFlashLog
+01be3624	0072c7b0	FUN_0072c7b0	cbFlashLog
+01be3624	0072c7b0	FUN_0072c7b0	cbFlashLog
+01be3624	0072c7b0	FUN_0072c7b0	cbFlashLog
+01be3aa0	0077a760	FUN_0077a760	clickNpc
+01be3aa0	007b9100	FUN_007b9100	clickNpc
+01be3aa0	007b96e0	FUN_007b96e0	clickNpc
+01be3aa0	007b8120	FUN_007b8120	clickNpc
+01be3aa0	007ffee0	FUN_007ffee0	clickNpc
+01be3aa0	007fe5c0	FUN_007fe5c0	clickNpc
+01be3aa0	007bdc60	FUN_007bdc60	clickNpc
+01be3aa0	007bc300	FUN_007bc300	clickNpc
+01be3aa0	007f3c20	FUN_007f3c20	clickNpc
+01be3aa0	007f3c20	FUN_007f3c20	clickNpc
+01be3aa0	007b3e60	FUN_007b3e60	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f5640	FUN_007f5640	clickNpc
+01be3aa0	007ab400	FUN_007ab400	clickNpc
+01be3aa0	007aa560	FUN_007aa560	clickNpc
+01be3aa0	007e96a0	FUN_007e96a0	clickNpc
+01be3aa0	007e88c0	FUN_007e88c0	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007ad980	FUN_007ad980	clickNpc
+01be3aa0	007ad500	FUN_007ad500	clickNpc
+01be3aa0	007ac060	FUN_007ac060	clickNpc
+01be3aa0	007e3fa0	FUN_007e3fa0	clickNpc
+01be3aa0	007a2b40	FUN_007a2b40	clickNpc
+01be3aa0	007a2b40	FUN_007a2b40	clickNpc
+01be3aa0	007a1960	FUN_007a1960	clickNpc
+01be3aa0	007e1200	FUN_007e1200	clickNpc
+01be3aa0	007a1500	FUN_007a1500	clickNpc
+01be3aa0	007a0840	FUN_007a0840	clickNpc
+01be3aa0	007e7240	FUN_007e7240	clickNpc
+01be3aa0	007a7580	FUN_007a7580	clickNpc
+01be3aa0	007a5220	FUN_007a5220	clickNpc
+01be3aa0	007a4340	FUN_007a4340	clickNpc
+01be3aa0	007db9a0	FUN_007db9a0	clickNpc
+01be3aa0	0079a4e0	FUN_0079a4e0	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	00819560	FUN_00819560	clickNpc
+01be3aa0	00798900	FUN_00798900	clickNpc
+01be3aa0	007d8980	FUN_007d8980	clickNpc
+01be3aa0	007de8c0	FUN_007de8c0	clickNpc
+01be3aa0	007de8c0	FUN_007de8c0	clickNpc
+01be3aa0	0079e340	FUN_0079e340	clickNpc
+01be3aa0	0079ca00	FUN_0079ca00	clickNpc
+01be3aa0	0079ca00	FUN_0079ca00	clickNpc
+01be3aa0	007dc200	FUN_007dc200	clickNpc
+01be3aa0	007d2600	FUN_007d2600	clickNpc
+01be3aa0	007d1f40	FUN_007d1f40	clickNpc
+01be3aa0	007d7f80	FUN_007d7f80	clickNpc
+01be3aa0	007d7600	FUN_007d7600	clickNpc
+01be3aa0	00796f20	FUN_00796f20	clickNpc
+01be3aa0	007d5820	FUN_007d5820	clickNpc
+01be3aa0	008148e0	FUN_008148e0	clickNpc
+01be3aa0	00814280	FUN_00814280	clickNpc
+01be3aa0	00794320	FUN_00794320	clickNpc
+01be3aa0	0080b8c0	FUN_0080b8c0	clickNpc
+01be3aa0	007cada0	FUN_007cada0	clickNpc
+01be3aa0	008097e0	FUN_008097e0	clickNpc
+01be3aa0	008097e0	FUN_008097e0	clickNpc
+01be3aa0	007c8ac0	FUN_007c8ac0	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	007cec40	FUN_007cec40	clickNpc
+01be3aa0	007cd3e0	FUN_007cd3e0	clickNpc
+01be3aa0	0080d740	FUN_0080d740	clickNpc
+01be3aa0	00800800	FUN_00800800	clickNpc
+01be3aa0	007c7280	FUN_007c7280	clickNpc
+01be3aa0	00806440	FUN_00806440	clickNpc
+01be3aa0	00806440	FUN_00806440	clickNpc
+01be3aa0	007c40e0	FUN_007c40e0	clickNpc
+01be3aa0	00804640	FUN_00804640	clickNpc
+01be3aa0	0077a760	FUN_0077a760	clickNpc
+01be3aa0	00794320	FUN_00794320	clickNpc
+01be3aa0	00796f20	FUN_00796f20	clickNpc
+01be3aa0	00798900	FUN_00798900	clickNpc
+01be3aa0	0079a4e0	FUN_0079a4e0	clickNpc
+01be3aa0	0079ca00	FUN_0079ca00	clickNpc
+01be3aa0	0079ca00	FUN_0079ca00	clickNpc
+01be3aa0	0079e340	FUN_0079e340	clickNpc
+01be3aa0	007a0840	FUN_007a0840	clickNpc
+01be3aa0	007a1500	FUN_007a1500	clickNpc
+01be3aa0	007a1960	FUN_007a1960	clickNpc
+01be3aa0	007a2b40	FUN_007a2b40	clickNpc
+01be3aa0	007a2b40	FUN_007a2b40	clickNpc
+01be3aa0	007a4340	FUN_007a4340	clickNpc
+01be3aa0	007a5220	FUN_007a5220	clickNpc
+01be3aa0	007a7580	FUN_007a7580	clickNpc
+01be3aa0	007aa560	FUN_007aa560	clickNpc
+01be3aa0	007ab400	FUN_007ab400	clickNpc
+01be3aa0	007ac060	FUN_007ac060	clickNpc
+01be3aa0	007ad500	FUN_007ad500	clickNpc
+01be3aa0	007ad980	FUN_007ad980	clickNpc
+01be3aa0	007b3e60	FUN_007b3e60	clickNpc
+01be3aa0	007b8120	FUN_007b8120	clickNpc
+01be3aa0	007b9100	FUN_007b9100	clickNpc
+01be3aa0	007b96e0	FUN_007b96e0	clickNpc
+01be3aa0	007bc300	FUN_007bc300	clickNpc
+01be3aa0	007bdc60	FUN_007bdc60	clickNpc
+01be3aa0	007c40e0	FUN_007c40e0	clickNpc
+01be3aa0	007c7280	FUN_007c7280	clickNpc
+01be3aa0	007c8ac0	FUN_007c8ac0	clickNpc
+01be3aa0	007cada0	FUN_007cada0	clickNpc
+01be3aa0	007cd3e0	FUN_007cd3e0	clickNpc
+01be3aa0	007cec40	FUN_007cec40	clickNpc
+01be3aa0	007d1f40	FUN_007d1f40	clickNpc
+01be3aa0	007d2600	FUN_007d2600	clickNpc
+01be3aa0	007d5820	FUN_007d5820	clickNpc
+01be3aa0	007d7600	FUN_007d7600	clickNpc
+01be3aa0	007d7f80	FUN_007d7f80	clickNpc
+01be3aa0	007d8980	FUN_007d8980	clickNpc
+01be3aa0	007db9a0	FUN_007db9a0	clickNpc
+01be3aa0	007dc200	FUN_007dc200	clickNpc
+01be3aa0	007de8c0	FUN_007de8c0	clickNpc
+01be3aa0	007de8c0	FUN_007de8c0	clickNpc
+01be3aa0	007e1200	FUN_007e1200	clickNpc
+01be3aa0	007e3fa0	FUN_007e3fa0	clickNpc
+01be3aa0	007e7240	FUN_007e7240	clickNpc
+01be3aa0	007e88c0	FUN_007e88c0	clickNpc
+01be3aa0	007e96a0	FUN_007e96a0	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007ee960	FUN_007ee960	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f1720	FUN_007f1720	clickNpc
+01be3aa0	007f3c20	FUN_007f3c20	clickNpc
+01be3aa0	007f3c20	FUN_007f3c20	clickNpc
+01be3aa0	007f5640	FUN_007f5640	clickNpc
+01be3aa0	007fe5c0	FUN_007fe5c0	clickNpc
+01be3aa0	007ffee0	FUN_007ffee0	clickNpc
+01be3aa0	00800800	FUN_00800800	clickNpc
+01be3aa0	00804640	FUN_00804640	clickNpc
+01be3aa0	00806440	FUN_00806440	clickNpc
+01be3aa0	00806440	FUN_00806440	clickNpc
+01be3aa0	008097e0	FUN_008097e0	clickNpc
+01be3aa0	008097e0	FUN_008097e0	clickNpc
+01be3aa0	0080b8c0	FUN_0080b8c0	clickNpc
+01be3aa0	0080d740	FUN_0080d740	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	0080fc80	FUN_0080fc80	clickNpc
+01be3aa0	00814280	FUN_00814280	clickNpc
+01be3aa0	008148e0	FUN_008148e0	clickNpc
+01be3aa0	00819560	FUN_00819560	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3aa0	0081a580	FUN_0081a580	clickNpc
+01be3ac0	0077a7d0	FUN_0077a7d0	clickPortal
+01be3ac0	0077a7d0	FUN_0077a7d0	clickPortal
+01be4c28	00725bc0	FUN_00725bc0	dauPet
+01be4c28	00725bc0	FUN_00725bc0	dauPet
+01be4c28	00725bc0	FUN_00725bc0	dauPet
+01be57d0	008da320	FUN_008da320	dns.question.name
+01be57d0	008da320	FUN_008da320	dns.question.name
+01be57d0	008da320	FUN_008da320	dns.question.name
+01be57d0	008da320	FUN_008da320	dns.question.name
+01be57d0	008da780	FUN_008da780	dns.question.name
+01be6fe4	007b3e60	FUN_007b3e60	finishQuest
+01be6fe4	007a0840	FUN_007a0840	finishQuest
+01be6fe4	007a7580	FUN_007a7580	finishQuest
+01be6fe4	007d7600	FUN_007d7600	finishQuest
+01be6fe4	007cd3e0	FUN_007cd3e0	finishQuest
+01be6fe4	007c40e0	FUN_007c40e0	finishQuest
+01be6fe4	007a0840	FUN_007a0840	finishQuest
+01be6fe4	007a7580	FUN_007a7580	finishQuest
+01be6fe4	007b3e60	FUN_007b3e60	finishQuest
+01be6fe4	007c40e0	FUN_007c40e0	finishQuest
+01be6fe4	007cd3e0	FUN_007cd3e0	finishQuest
+01be6fe4	007d7600	FUN_007d7600	finishQuest
+01be70a4	00764ec0	FUN_00764ec0	flash.exe
+01be70a4	00764ec0	FUN_00764ec0	flash.exe
+01be70a4	00764ec0	FUN_00764ec0	flash.exe
+01be70a4	00764ec0	FUN_00764ec0	flash.exe
+01be761c	0077eca0	FUN_0077eca0	getAutoBattleState
+01be761c	0077eca0	FUN_0077eca0	getAutoBattleState
+01be7650	0077c680	FUN_0077c680	getBattleMonsters
+01be7650	0077c680	FUN_0077c680	getBattleMonsters
+01be7748	0077d300	FUN_0077d300	getLineInfo
+01be7748	0077d300	FUN_0077d300	getLineInfo
+01be776c	0077d4c0	FUN_0077d4c0	getLoginState
+01be776c	0077d4c0	FUN_0077d4c0	getLoginState
+01be7794	0077f300	FUN_0077f300	getMapLoading
+01be7794	0077f300	FUN_0077f300	getMapLoading
+01be77bc	0077d610	FUN_0077d610	getMonsterHeartBag
+01be77bc	0077d610	FUN_0077d610	getMonsterHeartBag
+01be780c	0077da10	FUN_0077da10	getPetArenaInfo
+01be780c	0077da10	FUN_0077da10	getPetArenaInfo
+01be7838	0077db90	FUN_0077db90	getPetCount
+01be7838	0077db90	FUN_0077db90	getPetCount
+01be785c	0077e060	FUN_0077e060	getPets
+01be785c	0077e060	FUN_0077e060	getPets
+01be78a4	0077e340	FUN_0077e340	getPortals
+01be78a4	0077e340	FUN_0077e340	getPortals
+01be78c8	0077e520	FUN_0077e520	getQuests
+01be78c8	0077e520	FUN_0077e520	getQuests
+01be8d48	008c91d0	FUN_008c91d0	http.client.active_requests
+01be8e20	008c91d0	FUN_008c91d0	http.client.request.duration
+01be8e68	008c9ff0	FUN_008c9ff0	http.client.request.time_in_queue
+01be8ef0	00894a60	FUN_00894a60	http.request.method
+01be8ef0	00894a60	FUN_00894a60	http.request.method
+01be8f24	008942e0	FUN_008942e0	http.request.method_original
+01be9008	007804a0	FUN_007804a0	http://127.0.0.1:28482/api/allocate
+01be905c	00780e50	FUN_00780e50	http://127.0.0.1:28482/api/free?port=
+01be905c	00780e50	FUN_00780e50	http://127.0.0.1:28482/api/free?port=
+01be9648	00a2f120	FUN_00a2f120	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2f120	FUN_00a2f120	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2f120	FUN_00a2f120	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2f120	FUN_00a2f120	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2f840	FUN_00a2f840	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2f840	FUN_00a2f840	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2fac0	FUN_00a2fac0	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9648	00a2fac0	FUN_00a2fac0	http://schemas.microsoft.com/ws/2008/06/identity/claims/windowssubauthority
+01be9b78	0075aed0	FUN_0075aed0	https://vpt-api.risu.io.vn
+01be9cb4	00a2cfa0	FUN_00a2cfa0	identifierAuthority
+01bea20c	008ca4a0	FUN_008ca4a0	inline
+01bea20c	008ca4a0	FUN_008ca4a0	inline
+01bea508	0077aad0	FUN_0077aad0	inviteGroup
+01bea508	0077aad0	FUN_0077aad0	inviteGroup
+01bea6bc	00725bc0	FUN_00725bc0	isPetDefense
+01bea6e4	00815980	FUN_00815980	isQuestBag
+01bea6e4	00815980	FUN_00815980	isQuestBag
+01bea6e4	00815980	FUN_00815980	isQuestBag
+01bea6e4	00815980	FUN_00815980	isQuestBag
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea988	00789280	FUN_00789280	joinMainPet
+01bea9ac	00789280	FUN_00789280	joinPet
+01bea9c8	00789280	FUN_00789280	joinPet1
+01bea9c8	00789280	FUN_00789280	joinPet1
+01bea9c8	00789280	FUN_00789280	joinPet1
+01bea9c8	00789280	FUN_00789280	joinPet1
+01bea9e8	00789280	FUN_00789280	joinPet2
+01bea9e8	00789280	FUN_00789280	joinPet2
+01bea9e8	00789280	FUN_00789280	joinPet2
+01bea9e8	00789280	FUN_00789280	joinPet2
+01beaa08	00789280	FUN_00789280	joinPet3
+01beaa08	00789280	FUN_00789280	joinPet3
+01beaa08	00789280	FUN_00789280	joinPet3
+01beaa08	00789280	FUN_00789280	joinPet3
+01beaa28	00789280	FUN_00789280	joinPet4
+01beaa28	00789280	FUN_00789280	joinPet4
+01beaa28	00789280	FUN_00789280	joinPet4
+01beaa28	00789280	FUN_00789280	joinPet4
+01beaa48	00793220	FUN_00793220	joinPetAction
+01beaa48	00796aa0	FUN_00796aa0	joinPetAction
+01beaa48	00789280	FUN_00789280	joinPetAction
+01beaa48	00789280	FUN_00789280	joinPetAction
+01beaa48	00789280	FUN_00789280	joinPetAction
+01beaa48	00789280	FUN_00789280	joinPetAction
+01beaa48	00793220	FUN_00793220	joinPetAction
+01beaa48	00796aa0	FUN_00796aa0	joinPetAction
+01beae74	00a30ad0	FUN_00a30ad0	lastCharacter
+01beb124	00725bc0	FUN_00725bc0	lineNumber
+01beb124	00725bc0	FUN_00725bc0	lineNumber
+01beb124	00725bc0	FUN_00725bc0	lineNumber
+01bec2fc	0077a890	FUN_0077a890	mapTrans
+01bec2fc	00815980	FUN_00815980	mapTrans
+01bec2fc	0077a890	FUN_0077a890	mapTrans
+01bec2fc	00815980	FUN_00815980	mapTrans
+01bed664	0077a840	FUN_0077a840	npcFuncClick
+01bed664	0077a840	FUN_0077a840	npcFuncClick
+01bed7e8	00725bc0	FUN_00725bc0	nvPet
+01bed7e8	00725bc0	FUN_00725bc0	nvPet
+01bed7e8	00725bc0	FUN_00725bc0	nvPet
+01bee570	0077bab0	FUN_0077bab0	petArenaAutoSetup
+01bee5a0	0077bae0	FUN_0077bae0	petArenaClickFight
+01bee5a0	0077bae0	FUN_0077bae0	petArenaClickFight
+01bee5d4	0077ddb0	FUN_0077ddb0	petJoinInfo
+01bee5d4	0077ddb0	FUN_0077ddb0	petJoinInfo
+01bee5f8	0077b9d0	FUN_0077b9d0	petSoul
+01bee5f8	0077b980	FUN_0077b980	petSoul
+01bee5f8	0077ba20	FUN_0077ba20	petSoul
+01bee5f8	0077df00	FUN_0077df00	petSoul
+01bee5f8	0077b980	FUN_0077b980	petSoul
+01bee5f8	0077b9d0	FUN_0077b9d0	petSoul
+01bee5f8	0077ba20	FUN_0077ba20	petSoul
+01bee5f8	0077df00	FUN_0077df00	petSoul
+01bee910	009720c0	FUN_009720c0	preAllocated
+01bee910	009720c0	FUN_009720c0	preAllocated
+01bee910	009720c0	FUN_009720c0	preAllocated
+01beebb4	008c6120	FUN_008c6120	proxy-authenticate
+01beebb4	008c6120	FUN_008c6120	proxy-authenticate
+01beebe8	008c6120	FUN_008c6120	proxy-authorization
+01beebe8	008c6120	FUN_008c6120	proxy-authorization
+01beec1c	008ca4a0	FUN_008ca4a0	proxy-revalidate
+01beec1c	008ca4a0	FUN_008ca4a0	proxy-revalidate
+01beec1c	008ccc90	FUN_008ccc90	proxy-revalidate
+01beec1c	008cd460	FUN_008cd460	proxy-revalidate
+01beec4c	00894b80	FUN_00894b80	proxy_tunnel_error
+01bef198	004640d0	FUN_004640d0	removed
+01bef198	00464120	FUN_00464120	removed
+01bef198	004641f0	FUN_004641f0	removed
+01bef248	008959c0	FUN_008959c0	request
+01bef248	008966f0	FUN_008966f0	request
+01bef248	00896720	FUN_00896720	request
+01bef248	00898460	FUN_00898460	request
+01bef248	008c16d0	FUN_008c16d0	request
+01bef248	008c17d0	FUN_008c17d0	request
+01bef30c	0077b1a0	FUN_0077b1a0	resolveMonsterHeart
+01bef30c	0077b1a0	FUN_0077b1a0	resolveMonsterHeart
+01bef4a0	007833e0	FUN_007833e0	risu_lang.txt
+01befc38	0077b300	FUN_0077b300	selectBattleTarget
+01befc38	0077b300	FUN_0077b300	selectBattleTarget
+01befca0	0077b470	FUN_0077b470	selectLine
+01befca0	0077b470	FUN_0077b470	selectLine
+01befce4	00725bc0	FUN_00725bc0	selectedMapId
+01befe08	0077ae70	FUN_0077ae70	setAutoCount
+01befe08	0077ae70	FUN_0077ae70	setAutoCount
+01befe30	0077bc30	FUN_0077bc30	setAutoDefense
+01befe30	0077bc30	FUN_0077bc30	setAutoDefense
+01bf072c	008e94e0	FUN_008e94e0	sslClientAuthenticationOptions
+01bf072c	008e9570	FUN_008e9570	sslClientAuthenticationOptions
+01bf0c88	00a2cfa0	FUN_00a2cfa0	subAuthorities.Length
+01bf0f4c	0079a4e0	FUN_0079a4e0	takeQuest
+01bf0f4c	007d7600	FUN_007d7600	takeQuest
+01bf0f4c	0079a4e0	FUN_0079a4e0	takeQuest
+01bf0f4c	007d7600	FUN_007d7600	takeQuest
+01bf1a6c	0077ae40	FUN_0077ae40	toggleAutoBattle
+01bf1a6c	007882e0	FUN_007882e0	toggleAutoBattle
+01bf1a6c	0078bce0	FUN_0078bce0	toggleAutoBattle
+01bf1a6c	0078ca40	FUN_0078ca40	toggleAutoBattle
+01bf1a6c	0078f9a0	FUN_0078f9a0	toggleAutoBattle
+01bf1a6c	0078f9a0	FUN_0078f9a0	toggleAutoBattle
+01bf1a6c	0078f9a0	FUN_0078f9a0	toggleAutoBattle
+01bf1a6c	0078f9a0	FUN_0078f9a0	toggleAutoBattle
+01bf1a6c	0078f9a0	FUN_0078f9a0	toggleAutoBattle
+01bf1a6c	00793ec0	FUN_00793ec0	toggleAutoBattle
+01bf1a6c	00799e60	FUN_00799e60	toggleAutoBattle
+01bf1a6c	007a8500	FUN_007a8500	toggleAutoBattle
+01bf1a6c	007b7740	FUN_007b7740	toggleAutoBattle
+01bf1a6c	007b7740	FUN_007b7740	toggleAutoBattle
+01bf1a6c	007b7740	FUN_007b7740	toggleAutoBattle
+01bf1a6c	007bab80	FUN_007bab80	toggleAutoBattle
+01bf1a6c	007bdc60	FUN_007bdc60	toggleAutoBattle
+01bf1a6c	007d7f80	FUN_007d7f80	toggleAutoBattle
+01bf1a6c	007dc200	FUN_007dc200	toggleAutoBattle
+01bf1a6c	007dc200	FUN_007dc200	toggleAutoBattle
+01bf1a6c	007f9460	FUN_007f9460	toggleAutoBattle
+01bf1a6c	00800800	FUN_00800800	toggleAutoBattle
+01bf1a6c	00806440	FUN_00806440	toggleAutoBattle
+01bf1a6c	0080fc80	FUN_0080fc80	toggleAutoBattle
+01bf1a6c	0081a580	FUN_0081a580	toggleAutoBattle
+01bf1a9c	00725bc0	FUN_00725bc0	token
+01bf1a9c	00725bc0	FUN_00725bc0	token
+01bf1a9c	00725bc0	FUN_00725bc0	token
+01bf1e0c	00725bc0	FUN_00725bc0	tuyChonBatPet
+01bf2124	008ca4a0	FUN_008ca4a0	upgrade-insecure-requests
+01bf2124	008ca4a0	FUN_008ca4a0	upgrade-insecure-requests
+01bf2248	0077b350	FUN_0077b350	useBattleItem
+01bf2248	0077b350	FUN_0077b350	useBattleItem
+01bf22d4	00894b80	FUN_00894b80	user_authentication_error
+01bf2770	006b0ce0	FUN_006b0ce0	vkAllocateCommandBuffers
+01bf2770	006b1af0	FUN_006b1af0	vkAllocateCommandBuffers
+01bf27b0	006ae810	FUN_006ae810	vkAllocateMemory
+01bf27b0	006b0ce0	FUN_006b0ce0	vkAllocateMemory
+01bf2874	006b0ce0	FUN_006b0ce0	vkCmdPipelineBarrier
+01bf2a08	006af790	FUN_006af790	vkCreateSemaphore
+01bf2a08	006b0ce0	FUN_006b0ce0	vkCreateSemaphore
+01bf2b9c	006b0ce0	FUN_006b0ce0	vkDestroySemaphore
+01bf3298	006b0ce0	FUN_006b0ce0	vkImportSemaphoreFdKHR
+01bf32d4	006b0ce0	FUN_006b0ce0	vkImportSemaphoreWin32HandleKHR
+01bf35e4	00706c80	FUN_00706c80	windows::UI::Composition::ICompositor5.RequestCommitAsync timed out, force-triggering next tick
+01bf3760	008c6120	FUN_008c6120	www-authenticate
+01bf3760	008c6120	FUN_008c6120	www-authenticate
+01bf4c3c	008c91d0	FUN_008c91d0	{request}
+01bf4c3c	008c91d0	FUN_008c91d0	{request}
+01bf539e			m tra NPC 1742)...
+01bf542e			ang click NPC: 
+01bf56e2			c NPC ID 457...
+01bf583e			t Pet...
+01bf6a7e			p cho NPC 1560...
+01bf6e52			 load map...
+01bf7014			c auto...
+01bf70e4			u PET...
+01d582e8			RisuTools
+01d58324			RisuTools
+01d58388			RisuTools.dll
+01d583f4			RisuTools.dll
+01d58430			RisuTools
+01d58500			<?xml version="1.0" encoding="utf-8"?>  <assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">    <!-- This manifest is used on Windows only.         Don't remove it as it might cause problems with window transparency and embedded controls.         For more details visit https://learn.microsoft.com/en-us/windows/win32/sbscs/application-manifests -->    <assemblyIdentity version="1.0.0.0" name="RisuTools.Desktop"/>      <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">      <application>        <!-- A list of the Windows versions that this application has been tested on             and is designed to work with. Uncomment the appropriate elements             and Windows will automatically select the most compatible environment. -->          <!-- Windows 10 -->        <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />      </application>    </compatibility>    <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">      <security>        <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">          <requestedExecutionLevel level="asInvoker" uiAccess="false" />        </requestedPrivileges>      </security>    </trustInfo>    </assembly>  

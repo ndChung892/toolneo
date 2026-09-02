@@ -1,0 +1,42 @@
+{
+  "pid": 16720,
+  "counts": {
+    "u32": 2334,
+    "f32": 2,
+    "f64": 640,
+    "avm_tag_0": 576,
+    "avm_tag_1": 20,
+    "avm_tag_2": 65,
+    "avm_tag_3": 22,
+    "avm_tag_4": 149,
+    "avm_tag_5": 60,
+    "avm_tag_6": 550,
+    "avm_tag_7": 18
+  },
+  "matched": {
+    "u32": [],
+    "f32": [],
+    "f64": [],
+    "avm_tag_0": [],
+    "avm_tag_1": [],
+    "avm_tag_2": [],
+    "avm_tag_3": [],
+    "avm_tag_4": [],
+    "avm_tag_5": [],
+    "avm_tag_6": [],
+    "avm_tag_7": []
+  },
+  "contexts": {
+    "u32": {},
+    "f32": {},
+    "f64": {},
+    "avm_tag_0": {},
+    "avm_tag_1": {},
+    "avm_tag_2": {},
+    "avm_tag_3": {},
+    "avm_tag_4": {},
+    "avm_tag_5": {},
+    "avm_tag_6": {},
+    "avm_tag_7": {}
+  }
+}

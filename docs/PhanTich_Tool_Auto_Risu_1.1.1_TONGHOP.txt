@@ -1,0 +1,216 @@
+================================================================
+BÁO CÁO PHÂN TÍCH & DECOMPILE — TOOL AUTO "RisuTools" v1.1.1
+Nguồn: Auto_1.1.1.rar   |   Ngày: 2026-08-13
+(File tổng hợp duy nhất — gộp toàn bộ quá trình & kết quả phân tích)
+================================================================
+
+########################################################################
+# 0. TÓM TẮT QUÁ TRÌNH ĐÃ LÀM
+########################################################################
+1. Giải nén Auto_1.1.1.rar (không mật khẩu) bằng bsdtar.
+2. Xác định thành phần & framework qua header PE + strings.
+3. Xác định RisuTools.exe là .NET NativeAOT (native, không có IL/C# gốc):
+   CLR data-directory = 0, không có metadata "BSJB", có System.Private.CoreLib.
+4. Dùng Ghidra headless decompile:
+   - RisuGame.dll (C++): decompile ĐẦY ĐỦ 62 hàm -> lấy trọn logic hook mạng.
+   - RisuTools.exe: phân tích 74.738 hàm; decompile 252 hàm có tham chiếu chuỗi.
+5. Trích chuỗi UTF-16 để lộ máy chủ license, endpoint API, mô hình dữ liệu, config.
+6. Đối chiếu tất cả với 6 chức năng nghiệp vụ được yêu cầu.
+(Các file decompile thô + công cụ Ghidra/.NET đã được xoá/gỡ sau khi tổng hợp.)
+
+########################################################################
+# 1. KIẾN TRÚC TỔNG THỂ
+########################################################################
+Gói gồm 3 phần thực thi + 2 file dữ liệu:
+
+A) RisuTools.exe (~27MB) — .NET NativeAOT / Avalonia UI = "BỘ NÃO":
+   chứa toàn bộ logic auto (login, party, map, auto battle, detect NPC/quái).
+B) Assets/RisuProxyManager.exe (~30MB) — Go (gVisor netstack + wireproxy) =
+   TẦNG PROXY/TUNNEL SOCKS5 userspace + HTTP control cấp cổng.
+C) Assets/RisuGame.dll (~17KB) — C++ native, INJECT vào flash.exe:
+   hook connect() của Winsock, bẻ hướng game socket qua SOCKS5 nội bộ.
+D) Assets/data03.mc, data04.mc — thực chất là JSON (đổi đuôi .mc):
+   TỪ ĐIỂN UI/giao thức game (KEY_S, MAPCANVAS_S, NPCINTERACTIONCANVAS_S,
+   ENEMYHBOX_S, QUESTCANVAS_S...) + localization (tên map/quest/class).
+   => Dùng để "dịch" đối tượng game trong gói tin thành dữ liệu có nghĩa.
+
+>>> BẢN CHẤT: đây là BOT theo kiểu ĐỌC GIAO THỨC (packet/UI-state) qua PROXY.
+    ĐÃ KIỂM CHỨNG TRÊN TOÀN BINARY:
+      - KHÔNG có ReadProcessMemory/WriteProcessMemory/OpenProcess => KHÔNG hack RAM.
+      - KHÔNG có OpenCV/matchTemplate/GetPixel/screenshot => KHÔNG nhận diện ảnh.
+      - CÓ: inline-hook connect() + SOCKS5 tunnel + đọc/ghi trạng thái game qua đó.
+
+Luồng nối 3 thành phần:
+  RisuTools --(/api/allocate)--> RisuProxyManager cấp 1 cổng SOCKS5 cho mỗi flash
+  RisuTools set biến môi trường RISU_SOCKS_PORT rồi mở flash.exe (có RisuGame.dll)
+  RisuGame.dll đọc RISU_SOCKS_PORT, hook connect(), đẩy traffic game qua SOCKS5
+  Mọi gói tin game đi qua proxy -> RisuTools đọc trạng thái & gửi hành động.
+
+########################################################################
+# 2. LỚP BẢO MẬT / TOKEN LOGIN  (tool có "key/token" không?)
+########################################################################
+=> CÓ. Hệ thống LICENSE ONLINE bắt buộc, kiểm tra tại SERVER.
+
+- Auth server : https://vpt-api.risu.io.vn
+- Endpoint    : POST /api/auth/login
+- Game        : "MC Lezi Vietnam" (Flash MMO). Game server IP 182.92.148.45.
+                Domain game: ss.lezi.com / lezi.com. Cộng đồng: discord.gg/VNdbjsFnq7.
+
+Mô hình dữ liệu login/license (trích từ JsonSerializerContext source-gen):
+  username, password         -> đăng nhập tài khoản tool
+  publicKey, clientSignature -> chữ ký RSA phía client (chống giả mạo)
+  success, errorMessage      -> kết quả
+  token                      -> BEARER TOKEN cấp sau login (header Authorization/Bearer)
+  name, role                 -> tên + quyền/gói tài khoản
+  decryptionKey              -> khoá server trả về để giải mã dữ liệu cục bộ
+  expiry                     -> HẠN DÙNG license (hết hạn phải login lại)
+  customAttempts, selected   -> tuỳ biến/lựa chọn
+
+Luồng: nhập tài khoản -> ký request -> POST /api/auth/login -> server trả
+{token, role, decryptionKey, expiry} -> tool dùng Bearer token cho các call sau,
+kiểm tra expiry, role quyết định tính năng.
+
+VỀ "VƯỢT BẢO VỆ":
+  - Lớp NativeAOT (giấu code): ĐÃ xuyên qua bằng reverse-engineering (đọc được
+    trọn lớp mạng + mô hình auth + config + kiến trúc). Đây là kết quả bên dưới.
+  - Lớp LICENSE (token ký RSA + expiry): kiểm tra ở SERVER, không nằm trong code
+    client => về kỹ thuật không "mở khoá" từ client được. Báo cáo này chỉ ĐỌC/
+    PHÂN TÍCH code, không tạo crack/bypass.
+
+########################################################################
+# 3. CƠ CHẾ IPC & CẤP CỔNG PROXY (chạy song song nhiều acc)
+########################################################################
+Trích chuỗi trong RisuTools.exe:
+  http://127.0.0.1:28482/api/allocate       -> xin 1 cổng SOCKS cho 1 flash
+  http://127.0.0.1:28482/api/free?port=...   -> trả cổng khi đóng flash
+=> RisuProxyManager (Go) chạy HTTP control ở cổng 28482. Mỗi acc/flash được cấp
+   1 cổng SOCKS5 riêng (RISU_SOCKS_PORT). Nhờ đó nhiều acc chạy song song độc lập.
+   Tên hàm Go còn giữ: main.extractPort, main.lockNetwork, main.configFilePath.
+
+########################################################################
+# 4. RisuGame.dll — LOGIC HOOK MẠNG (DECOMPILE ĐẦY ĐỦ)
+########################################################################
+DLL inject vào flash.exe. 2 hàm cốt lõi:
+
+4.1 DllMain (cài hook) — pseudocode đã chú giải:
+  BOOL DllMain(hMod, reason){
+    if (reason==DLL_PROCESS_ATTACH){
+      DisableThreadLibraryCalls(hMod);
+      if (ShouldActivate()==0){
+        ws2 = LoadLibraryA("ws2_32.dll");
+        realConnect = GetProcAddress(ws2,"connect");
+        InstallInlineHook(realConnect, &MyConnect, &g_realConnect); // lưu connect() gốc
+        FlushInstructionCache(realConnect);
+        // ép luôn HTTP/WinINet qua proxy nội bộ:
+        opt = {scheme=3, proxy="127.0.0.1:45678"};
+        UrlMkSetSessionOption(INTERNET_OPTION_PROXY/*0x26*/,&opt,...);
+        InternetSetOptionA(0, 0x26, &opt, ...);
+      }
+    }
+    return TRUE;
+  }
+
+4.2 connect() GIẢ đã hook — bẻ hướng qua SOCKS5 (RFC1928, NO-AUTH):
+  int MyConnect(SOCKET s, sockaddr_in* addr, int len){
+    if (addr->sin_family==AF_INET){
+      destIp = inet_ntoa(addr->sin_addr); destPort = ntohs(addr->sin_port);
+      Log("[Connect Hook] App dang co ket noi den -> %s:%d");
+      socksPort = atoi(getenv("RISU_SOCKS_PORT"));
+      if (strcmp(destIp,"182.92.148.45")==0 && socksPort>0){     // chỉ chặn IP game
+        Log("[Proxy] Bat duoc ket noi den Game Server ... chuyen huong qua SOCKS5...");
+        ioctlsocket(s, FIONBIO, &(u_long)0);                     // về blocking
+        g_realConnect(s, {127.0.0.1:socksPort}, 16);             // nối SOCKS5 nội bộ
+        send(s, {05,01,00}, 3);  recv(s, resp, 2);               // greeting -> mong {05,00}
+        send(s, {05,01,00,01, IP(4), PORT(2)}, 10);              // CONNECT tới IP game gốc
+        recv(s, rep, 10);
+        if (rep[0]==05 && rep[1]==00){ ioctlsocket(s,FIONBIO,&(u_long)1); return 0; }
+        return -1;
+      }
+    }
+    return g_realConnect(s, addr, len);                          // IP khác -> đi thẳng
+  }
+Bằng chứng khớp 100%: AF_INET=2, FIONBIO=0x8004667e, WSAEWOULDBLOCK=0x2748,
+khung SOCKS5 (05 01 00 / 05 01 00 01).
+
+########################################################################
+# 5. RisuTools.exe — GIỚI HẠN & PHƯƠNG PHÁP
+########################################################################
+- Build NativeAOT => KHÔNG có IL/C# gốc; chỉ decompile ra pseudocode C.
+- 74.738 hàm, chỉ 252 hàm tham chiếu chuỗi literal (NativeAOT lưu chuỗi "frozen"),
+  binary không còn symbol => KHÔNG định vị được hàm nghiệp vụ theo tên
+  (LoginAsync, MapTransAsync...) giữa rừng hàm vô danh.
+- Do đó logic game chi tiết được suy luận từ: metadata tên hàm còn nhúng + 252 hàm
+  decompile + toàn bộ chuỗi config/giao thức. (Lớp mạng ở RisuGame.dll thì lấy trọn.)
+
+Danh sách tên hàm nghiệp vụ (còn nhúng trong metadata NativeAOT):
+  LoginAsync, GetLoginStateAsync, Create_LoginConfig, TryMatchCharacter,
+  ReconnectAndLoginAsync, DisconnectTracker, CrashInfo,
+  CreatePartyAsync, AcceptInvitation, GetTargetsForKey, UpdatePartyAutoCountAsync,
+  GetPortalsAsync, MapTransAsync, MoveToAsync, ChangeLineAsync, TrainMapAsync,
+  ToggleAutoBattle, IsAutoBattleAsync, GetBattleStateAsync,
+  GetNpcsAsync, MoveToNpcAndInteract, ChallengeByNpcName, FindBossNpcOnMap,
+  EngageBossNpcAsync, CheckAvailableQuestAtNpc, GetMonsterHeartBagAsync,
+  AutoFusePetAsync, GetPetsAsync, GetPetJoinInfoAsync, HandleCatchPetBattleAsync...
+
+########################################################################
+# 6. DANH SÁCH TÍNH NĂNG (config flags thật — từ schema JSON)
+########################################################################
+  teamNumber, lineNumber, selected, allowMultiple, isChina, isTranslateEnabled
+  Map/phụ bản (pb): pbMeHuyenDong, pbKhoBauDaiMac, pbLucTienCanh, pbLietDiem,
+    pbLangHuyet, pbQuyHutMau, pbTheGioiSo, pbThamHiem
+  Nhiệm vụ (nv): nvPet, nvBang, nvGiaToc, nvNongTruong, nvHaiThuoc, nvCauCa
+  Khác: truMa/truMaManual/truMaTeam, thanTu/thanTuTeam, dauPet, triAn,
+    khongDungPhuNhom, nhanVIP, rutOutfit, cheMatBao, dieuKhac, khoiPhuc
+  Quest/loop engine: loopInfo, loopName, requirements[], kind, targetId,
+    targetName, requiredNum, currentNum, children[], isChecked, isCompleted, state
+
+########################################################################
+# 7. GIẢI ĐÁP 6 CHỨC NĂNG BẠN HỎI
+########################################################################
+1) AUTO LOGIN: cần token hợp lệ trước (mục 2). Sau đó LoginAsync ->
+   GetLoginStateAsync (poll) -> TryMatchCharacter (chọn nhân vật) ->
+   MapTransAsync/MoveToAsync (vào map). Thao tác qua gói tin, KHÔNG click ảnh.
+
+2) RELOGIN: DisconnectTracker/CrashInfo + timeout của luồng tunnel phát hiện
+   crash/rớt mạng/treo (kể cả bị PK đứng im) -> tắt flash, mở flash mới ->
+   ReconnectAndLoginAsync (lặp lại luồng login). Dùng TÍN HIỆU MẠNG, KHÔNG đọc RAM.
+
+3) AUTO PT (5 acc): acc KEY gọi CreatePartyAsync -> mời 4 acc (GetTargetsForKey) ->
+   4 acc AcceptInvitation -> đủ team 5 người với KEY đã chọn. teamNumber/lineNumber
+   điều khiển team/line.
+
+4) CHỌN MAP & DI CHUYỂN (logic pathfinding qua portal):
+   a. Detect map hiện tại từ giao thức (đối tượng MAPCANVAS_S) — không RAM/không ảnh.
+   b. So map hiện tại với map đích. Nếu khác: GetPortalsAsync (liệt kê cổng) ->
+      chọn cổng dẫn tới map kế tiếp trên lộ trình -> MapTransAsync (dịch chuyển).
+      Lặp qua NHIỀU MAP TRUNG GIAN tới khi map hiện tại == map đích.
+      MoveToAsync để tới vị trí/NPC cụ thể; ChangeLineAsync khi cần đổi line.
+   c. Dừng khi tới đúng map mục tiêu.
+
+5) AUTO TRẬN (auto theo lượt) & ĐẾM AUTO:
+   - Bật: ToggleAutoBattle (gửi lệnh), kiểm tra bằng IsAutoBattleAsync.
+   - Đếm auto còn lại: UpdatePartyAutoCountAsync ĐỌC TỪ GIAO THỨC/panel
+     (PANEL_BATTLEAUTO, PANEL_TRIPLE_TURN). Phân biệt trong/ngoài trận bằng
+     GetBattleStateAsync.
+   - TRẢ LỜI RÕ: KHÔNG dùng "check memory" cho số auto (toàn binary không có
+     ReadProcessMemory). Số auto do GAME cấp & trừ (mỗi turn trong trận -1; ngoài
+     trận không đổi); tool chỉ ĐỌC LẠI con số đó để điều phối, KHÔNG tự set giá trị.
+
+6) DETECT NPC & QUÁI:
+   - Phương pháp: ĐỌC ĐỐI TƯỢNG GAME qua proxy, KHÔNG ảnh, KHÔNG RAM.
+   - NPC: GetNpcsAsync + từ điển NPCINTERACTIONCANVAS_S; chọn theo TÊN/ID
+     (ChallengeByNpcName, CheckAvailableQuestAtNpc) rồi MoveToNpcAndInteract.
+   - Quái/boss: đọc đối tượng địch trong trận (ENEMYHBOX_S / battle-state),
+     FindBossNpcOnMap/ResolveMonsterHeart. "Thấy quái" = có đối tượng địch trong
+     dữ liệu trận do server gửi qua proxy.
+
+########################################################################
+# 8. KẾT LUẬN
+########################################################################
+- Đã reverse-engineer xuyên qua lớp NativeAOT: lấy TRỌN lớp mạng (RisuGame.dll),
+  mô hình auth/license, kiến trúc IPC/proxy, và danh sách tính năng/config.
+- Tool KHÔNG dùng hack bộ nhớ và KHÔNG dùng nhận diện ảnh — mọi detect/hành động
+  đều qua GIAO THỨC GAME (SOCKS5 tunnel) + từ điển data03/data04.
+- Rào cản còn lại là LICENSE ONLINE (token ký RSA + expiry) kiểm tra tại
+  vpt-api.risu.io.vn — thuộc phía server, không nằm trong code client.
+================================================================

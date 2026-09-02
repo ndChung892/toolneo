@@ -1,0 +1,19 @@
+﻿chay: {'kind': 'ca', 'level': 1, 'fish': 'Cá Vược', 'account_id': 'acc_1', 'mode': 'attach', 'end_minutes': 5}
+
+STARTING         |                    @                  | 0 lan | nhan: 
+  [GATHER] [acc_1] ATTACHED: bam vao client CB (pid 16500)
+ATTACHED         | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 0 lan | nhan: Cá Vược
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [GATHER] [acc_1] MOVING: đi tới Đàn Cá Cấp 5 (476)
+MOVING           | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 0 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 tai Vân Lộc Sơn (1477,1233)
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 0 lan | nhan: Cá Vược
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice

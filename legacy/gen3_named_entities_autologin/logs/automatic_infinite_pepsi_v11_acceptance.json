@@ -1,0 +1,39 @@
+{
+  "account": "pepsi",
+  "login": {
+    "ok": true,
+    "detail": "Player=0x120880a0 Core=0x164670d0 world=(1000,1000)",
+    "pid": 10168,
+    "hwnd": 1312576,
+    "account": "pepsi"
+  },
+  "events": [
+    {
+      "t": 1786679912.2628493,
+      "state": "FIRST_SCAN",
+      "pid": 10168,
+      "address": 0,
+      "value": 150,
+      "target": 150,
+      "candidates": 0,
+      "restores": 0,
+      "automatic": true,
+      "detail": "Đang quét Exact Value 150, 4 Bytes theo đúng PID"
+    },
+    {
+      "t": 1786679912.6134038,
+      "state": "WAIT_BATTLE_EDGE",
+      "pid": 10168,
+      "address": 0,
+      "value": 150,
+      "target": 150,
+      "candidates": 1646,
+      "restores": 0,
+      "automatic": true,
+      "detail": "Đã lưu 1646 candidate; đánh 1 lượt rồi bấm Quét 149"
+    }
+  ],
+  "detected_monsters": [],
+  "ok": false,
+  "error": "RuntimeError: pepsi map has no exact monster type/resource to test"
+}

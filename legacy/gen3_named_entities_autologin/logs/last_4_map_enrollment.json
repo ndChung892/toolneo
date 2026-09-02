@@ -1,0 +1,34 @@
+{
+  "required": 4,
+  "passed": 4,
+  "results": [
+    {
+      "ok": true,
+      "target": "Băng Tuyết Nguyên",
+      "map_id": 35,
+      "detail": "enrolled after title edge; similarity=0.202; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_35_1786636484.png"
+    },
+    {
+      "ok": true,
+      "target": "Tuyết Lâm",
+      "map_id": 22,
+      "detail": "enrolled after title edge; similarity=0.883; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_22_1786636489.png"
+    },
+    {
+      "ok": true,
+      "target": "Đoạn Cốc",
+      "map_id": 43,
+      "detail": "enrolled after title edge; similarity=0.547; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_43_1786636493.png"
+    },
+    {
+      "ok": true,
+      "target": "Bàn Địa Tộc",
+      "map_id": 12,
+      "detail": "enrolled after title edge; similarity=0.964; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_12_1786636498.png"
+    }
+  ]
+}

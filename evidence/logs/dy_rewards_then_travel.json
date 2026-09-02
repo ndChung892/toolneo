@@ -1,0 +1,60 @@
+{
+  "session_id": "46274c64-6a6f-48de-8c87-b3fc75659163",
+  "login": {
+    "ok": true,
+    "detail": "Player=0x12d740a0 Core=0x135ed0d0 world=(1877,1116)",
+    "pid": 15424,
+    "hwnd": 1902056,
+    "account": "dy"
+  },
+  "pid": 15424,
+  "actions": [
+    {
+      "timestamp": 1786706347.063806,
+      "action": "open_daily",
+      "point": [
+        678,
+        52
+      ],
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_reward_open_daily.png"
+    },
+    {
+      "timestamp": 1786706348.7386785,
+      "action": "open_welfare",
+      "point": [
+        201,
+        539
+      ],
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_reward_open_welfare.png"
+    },
+    {
+      "timestamp": 1786706349.8766193,
+      "action": "claim_login",
+      "point": [
+        315,
+        251
+      ],
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_reward_claim_login.png"
+    },
+    {
+      "timestamp": 1786706350.9987361,
+      "action": "claim_holiday",
+      "point": [
+        315,
+        478
+      ],
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_reward_claim_holiday.png"
+    }
+  ],
+  "status": "PARTIAL",
+  "travel": {
+    "ok": false,
+    "target": "Liêu Vân Tộc",
+    "source_map": "Đông Huyền Thành",
+    "source_map_id": 0,
+    "detail": "world map did not open",
+    "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\world_map_open_failed_1786706361.png"
+  },
+  "failure_reason": "world map did not open",
+  "finished_at": 1786706361.2958312
+}

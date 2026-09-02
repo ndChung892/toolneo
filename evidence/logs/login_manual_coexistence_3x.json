@@ -1,0 +1,144 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_B_MANUAL_V2",
+  "status": "PASS",
+  "required_cycles": 3,
+  "passed_cycles": 3,
+  "cycles": [
+    {
+      "cycle": 1,
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "actor": "SIMULATED_MANUAL_FLASH_ACTOR",
+      "observer": {
+        "ok": true,
+        "state": "MAP_READY",
+        "pid": 19516,
+        "hwnd": 2492178,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703149.3654664,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703149.6207778,
+            "state": "WINDOW_OBSERVED",
+            "pid": 19516,
+            "hwnd": 2492178
+          },
+          {
+            "timestamp": 1786703193.9662085,
+            "state": "MAP_READY",
+            "player": 358322336,
+            "core": 138174672,
+            "world_x": 1000.0,
+            "world_y": 1000.0
+          }
+        ]
+      },
+      "actor_result": {
+        "ok": true,
+        "detail": "Player=0x155b90a0 Core=0x83c60d0 world=(1000,1000)",
+        "pid": 19516,
+        "hwnd": 2492178,
+        "account": "pepsi"
+      },
+      "observer_actions": 0,
+      "ok": true,
+      "consecutive": 1,
+      "failure_reason": "",
+      "closed_owned_pid": true
+    },
+    {
+      "cycle": 2,
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "actor": "SIMULATED_MANUAL_FLASH_ACTOR",
+      "observer": {
+        "ok": true,
+        "state": "MAP_READY",
+        "pid": 10092,
+        "hwnd": 1377656,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703195.0651546,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703195.320131,
+            "state": "WINDOW_OBSERVED",
+            "pid": 10092,
+            "hwnd": 1377656
+          },
+          {
+            "timestamp": 1786703235.1247656,
+            "state": "MAP_READY",
+            "player": 492875936,
+            "core": 183705808,
+            "world_x": 1877.0,
+            "world_y": 1116.0
+          }
+        ]
+      },
+      "actor_result": {
+        "ok": true,
+        "detail": "Player=0x1d60b0a0 Core=0xaf320d0 world=(1877,1116)",
+        "pid": 10092,
+        "hwnd": 1377656,
+        "account": "dy"
+      },
+      "observer_actions": 0,
+      "ok": true,
+      "consecutive": 2,
+      "failure_reason": "",
+      "closed_owned_pid": true
+    },
+    {
+      "cycle": 3,
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "actor": "SIMULATED_MANUAL_FLASH_ACTOR",
+      "observer": {
+        "ok": true,
+        "state": "MAP_READY",
+        "pid": 10524,
+        "hwnd": 3606226,
+        "actions": 0,
+        "transitions": [
+          {
+            "timestamp": 1786703239.563393,
+            "state": "WAIT_MANUAL_LOGIN"
+          },
+          {
+            "timestamp": 1786703239.815254,
+            "state": "WINDOW_OBSERVED",
+            "pid": 10524,
+            "hwnd": 3606226
+          },
+          {
+            "timestamp": 1786703281.9990716,
+            "state": "MAP_READY",
+            "player": 354427040,
+            "core": 380960976,
+            "world_x": 1000.0,
+            "world_y": 1000.0
+          }
+        ]
+      },
+      "actor_result": {
+        "ok": true,
+        "detail": "Player=0x152020a0 Core=0x16b500d0 world=(1000,1000)",
+        "pid": 10524,
+        "hwnd": 3606226,
+        "account": "pepsi"
+      },
+      "observer_actions": 0,
+      "ok": true,
+      "consecutive": 3,
+      "failure_reason": "",
+      "closed_owned_pid": true
+    }
+  ],
+  "note": "Observer is read-only; separate Flash actor performs the manual-path interactions"
+}

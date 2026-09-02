@@ -1,0 +1,71 @@
+{
+  "schema": "MAP_ID_SOURCE_DIAGNOSTIC",
+  "diagnostic_only": true,
+  "run_id": "a06c2578-aa4f-4b3c-9612-e66d2d8cf469",
+  "started_at": 1786761771.824991,
+  "accounts": [
+    {
+      "account": "pepsi",
+      "pid": 21328,
+      "hwnd": 788212,
+      "login_ok": true,
+      "login_detail": "Player=0xf5da0a0 Core=0xc1270d0 world=(1313,1050)",
+      "core": "0xc1270d0",
+      "player": "0xf5da0a0",
+      "read_only_map_id": 0,
+      "visual_map": {
+        "name": "Liêu Vân Tộc",
+        "score": 0.6166,
+        "margin": 0.1483
+      },
+      "visual_map_id": 13,
+      "player_from_core": "0xf5da0a0",
+      "core_id_hits": [],
+      "player_id_hits": [
+        {
+          "offset": "0x188",
+          "kind": "u32",
+          "value": 12
+        },
+        {
+          "offset": "0x1d0",
+          "kind": "double",
+          "value": 13
+        }
+      ]
+    },
+    {
+      "account": "dy",
+      "pid": 20520,
+      "hwnd": 788010,
+      "login_ok": true,
+      "login_detail": "Player=0x119450a0 Core=0x164780d0 world=(1467,1102)",
+      "core": "0x164780d0",
+      "player": "0x119450a0",
+      "read_only_map_id": 0,
+      "visual_map": {
+        "name": "Liêu Vân Tộc",
+        "score": 0.545,
+        "margin": 0.1778
+      },
+      "visual_map_id": 13,
+      "player_from_core": "0x119450a0",
+      "core_id_hits": [],
+      "player_id_hits": [
+        {
+          "offset": "0x1d0",
+          "kind": "double",
+          "value": 13
+        },
+        {
+          "offset": "0x488",
+          "kind": "double",
+          "value": 13
+        }
+      ]
+    }
+  ],
+  "shared_player_offsets": [
+    "0x1d0:double"
+  ]
+}

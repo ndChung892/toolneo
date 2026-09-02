@@ -1,0 +1,472 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_B_COLD_V2",
+  "status": "PASS",
+  "required_cycles": 3,
+  "passed_cycles": 3,
+  "accounts": [
+    "acc_2",
+    "acc_1"
+  ],
+  "cycles": [
+    {
+      "cycle": 1,
+      "run_id": "run-87f7338c-4aac-4ed5-840d-166498b4e6f3",
+      "started_at": 1786702715.43005,
+      "accounts": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "pid": 16584,
+          "hwnd": 1639870,
+          "login_ok": true,
+          "detail": "Player=0x1cf020a0 Core=0x166430d0 world=(1000,1000)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702756.5643237,
+              "ok": true,
+              "player": 485499040,
+              "core": 375664848,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702758.3422747,
+              "ok": true,
+              "player": 485499040,
+              "core": 375664848,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702760.240565,
+              "ok": true,
+              "player": 485499040,
+              "core": 375664848,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            }
+          ]
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "pid": 9376,
+          "hwnd": 592600,
+          "login_ok": true,
+          "detail": "Player=0x10f460a0 Core=0x142930d0 world=(1877,1116)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702804.229099,
+              "ok": true,
+              "player": 284450976,
+              "core": 338243792,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702806.0822947,
+              "ok": true,
+              "player": 284450976,
+              "core": 338243792,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702807.9427178,
+              "ok": true,
+              "player": 284450976,
+              "core": 338243792,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            }
+          ]
+        }
+      ],
+      "all_map_ready": true,
+      "all_bound": true,
+      "closed_owned_pids": [
+        16584,
+        9376
+      ],
+      "ok": true,
+      "failure_reason": "",
+      "visible_flash_windows": [
+        {
+          "title": "dy",
+          "pid": 9376,
+          "hwnd": 592600,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 16584,
+          "hwnd": 1639870,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 14524,
+          "hwnd": 133462,
+          "class_name": "ShockwaveFlash"
+        }
+      ],
+      "binding_snapshot": {
+        "run_id": "run-87f7338c-4aac-4ed5-840d-166498b4e6f3",
+        "created_at": 1786702715.43005,
+        "bindings": [
+          {
+            "account_id": "acc_2",
+            "account_name": "pepsi",
+            "role": "KEY",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 16584,
+            "hwnd": 1639870,
+            "title": "pepsi",
+            "session": {
+              "pid": 16584,
+              "hwnd": 1639870,
+              "process_started_ns": 13431176315432171300,
+              "token": "ad84be29894d860a25dd8db0b6db0b323606d93e6895c3c91ebd5142563fd95b"
+            },
+            "generation": 1
+          },
+          {
+            "account_id": "acc_1",
+            "account_name": "dy",
+            "role": "MEMBER",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 9376,
+            "hwnd": 592600,
+            "title": "dy",
+            "session": {
+              "pid": 9376,
+              "hwnd": 592600,
+              "process_started_ns": 13431176362121006400,
+              "token": "170895bee7f5b1c53e3e4595104f1bd6a8fc31429cac24156e3b7755fca37c74"
+            },
+            "generation": 1
+          }
+        ]
+      },
+      "consecutive": 1,
+      "completed_at": 1786702809.832187
+    },
+    {
+      "cycle": 2,
+      "run_id": "run-499bdb99-3590-42c4-902f-d83f5cc6ccff",
+      "started_at": 1786702810.8330867,
+      "accounts": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "pid": 7200,
+          "hwnd": 658136,
+          "login_ok": true,
+          "detail": "Player=0x144f40a0 Core=0xc5320d0 world=(1000,1000)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702851.5370855,
+              "ok": true,
+              "player": 340738208,
+              "core": 206774480,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702853.2825532,
+              "ok": true,
+              "player": 340738208,
+              "core": 206774480,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702855.1563177,
+              "ok": true,
+              "player": 340738208,
+              "core": 206774480,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            }
+          ]
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "pid": 9856,
+          "hwnd": 3343718,
+          "login_ok": true,
+          "detail": "Player=0x1cafa0a0 Core=0x170380d0 world=(1877,1116)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702898.0509703,
+              "ok": true,
+              "player": 481271968,
+              "core": 386105552,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702899.959519,
+              "ok": true,
+              "player": 481271968,
+              "core": 386105552,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702901.673411,
+              "ok": true,
+              "player": 481271968,
+              "core": 386105552,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            }
+          ]
+        }
+      ],
+      "all_map_ready": true,
+      "all_bound": true,
+      "closed_owned_pids": [
+        7200,
+        9856
+      ],
+      "ok": true,
+      "failure_reason": "",
+      "visible_flash_windows": [
+        {
+          "title": "dy",
+          "pid": 9856,
+          "hwnd": 3343718,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 7200,
+          "hwnd": 658136,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 14524,
+          "hwnd": 133462,
+          "class_name": "ShockwaveFlash"
+        }
+      ],
+      "binding_snapshot": {
+        "run_id": "run-499bdb99-3590-42c4-902f-d83f5cc6ccff",
+        "created_at": 1786702810.8330867,
+        "bindings": [
+          {
+            "account_id": "acc_2",
+            "account_name": "pepsi",
+            "role": "KEY",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 7200,
+            "hwnd": 658136,
+            "title": "pepsi",
+            "session": {
+              "pid": 7200,
+              "hwnd": 658136,
+              "process_started_ns": 13431176410835140800,
+              "token": "5c50f3edd4e884966a800f5978f4141b8315758e770390e4fd57c0a3ff51e429"
+            },
+            "generation": 1
+          },
+          {
+            "account_id": "acc_1",
+            "account_name": "dy",
+            "role": "MEMBER",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 9856,
+            "hwnd": 3343718,
+            "title": "dy",
+            "session": {
+              "pid": 9856,
+              "hwnd": 3343718,
+              "process_started_ns": 13431176456873565800,
+              "token": "9cfa164dfff7babaffe34645530ebdf7894b2fbe4703833f8e7a5e17c7d6c9d6"
+            },
+            "generation": 1
+          }
+        ]
+      },
+      "consecutive": 2,
+      "completed_at": 1786702903.6085432
+    },
+    {
+      "cycle": 3,
+      "run_id": "run-4e9aa90e-3d3f-425f-92b8-cd7934411f61",
+      "started_at": 1786702904.609696,
+      "accounts": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "pid": 852,
+          "hwnd": 1836478,
+          "login_ok": true,
+          "detail": "Player=0xcd030a0 Core=0x141f80d0 world=(1000,1000)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702946.3351915,
+              "ok": true,
+              "player": 214970528,
+              "core": 337608912,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702948.1104739,
+              "ok": true,
+              "player": 214970528,
+              "core": 337608912,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702949.8640244,
+              "ok": true,
+              "player": 214970528,
+              "core": 337608912,
+              "world_x": 1000.0,
+              "world_y": 1000.0,
+              "reason": ""
+            }
+          ]
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "pid": 13064,
+          "hwnd": 984384,
+          "login_ok": true,
+          "detail": "Player=0xedfe0a0 Core=0x162f60d0 world=(1877,1116)",
+          "map_readbacks": [
+            {
+              "timestamp": 1786702991.8443305,
+              "ok": true,
+              "player": 249553056,
+              "core": 372203728,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702993.6149137,
+              "ok": true,
+              "player": 249553056,
+              "core": 372203728,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            },
+            {
+              "timestamp": 1786702995.361894,
+              "ok": true,
+              "player": 249553056,
+              "core": 372203728,
+              "world_x": 1877.0,
+              "world_y": 1116.0,
+              "reason": ""
+            }
+          ]
+        }
+      ],
+      "all_map_ready": true,
+      "all_bound": true,
+      "closed_owned_pids": [
+        852,
+        13064
+      ],
+      "ok": true,
+      "failure_reason": "",
+      "visible_flash_windows": [
+        {
+          "title": "dy",
+          "pid": 13064,
+          "hwnd": 984384,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 852,
+          "hwnd": 1836478,
+          "class_name": "ShockwaveFlash"
+        },
+        {
+          "title": "pepsi",
+          "pid": 14524,
+          "hwnd": 133462,
+          "class_name": "ShockwaveFlash"
+        }
+      ],
+      "binding_snapshot": {
+        "run_id": "run-4e9aa90e-3d3f-425f-92b8-cd7934411f61",
+        "created_at": 1786702904.609696,
+        "bindings": [
+          {
+            "account_id": "acc_2",
+            "account_name": "pepsi",
+            "role": "KEY",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 852,
+            "hwnd": 1836478,
+            "title": "pepsi",
+            "session": {
+              "pid": 852,
+              "hwnd": 1836478,
+              "process_started_ns": 13431176504611371300,
+              "token": "7162780ca2df9e248ea1f89a1f6fa805e46f3390610485967fbc8ba86da154fd"
+            },
+            "generation": 1
+          },
+          {
+            "account_id": "acc_1",
+            "account_name": "dy",
+            "role": "MEMBER",
+            "state": "BOUND",
+            "reason": "EXACT_ACCOUNT_TITLE",
+            "pid": 13064,
+            "hwnd": 984384,
+            "title": "dy",
+            "session": {
+              "pid": 13064,
+              "hwnd": 984384,
+              "process_started_ns": 13431176551602999100,
+              "token": "c7556db5b3f2d4802b2586931b2a3799e95d8868de65b51f066a420ed91a8e7a"
+            },
+            "generation": 1
+          }
+        ]
+      },
+      "consecutive": 3,
+      "completed_at": 1786702997.265902
+    }
+  ],
+  "failure_reason": ""
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_D_MONSTERS_V2",
+  "status": "PASS",
+  "run_id": "target-d-monsters-077a270e-4138-43b8-a4ee-3ad1089950af",
+  "started_at": 1786785168.7925265,
+  "account_name": "pepsi",
+  "required_signatures": 1,
+  "required_clears_each": 10,
+  "signatures": [
+    {
+      "name": "Phát Tài",
+      "type": 3060100000051,
+      "resource": 2060100000051,
+      "map": "Lạp Tuyết Địa",
+      "auto_before": {
+        "state": "AUTO_OFF",
+        "cross_ratio": 0.1624,
+        "edge_ratio": 0.3212,
+        "samples": [
+          0.1624,
+          0.1624,
+          0.1624
+        ],
+        "detail": "stable across samples"
+      },
+      "auto_after": {
+        "state": "AUTO_ON",
+        "cross_ratio": 0.0,
+        "edge_ratio": 0.3084,
+        "samples": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "detail": "stable across samples"
+      },
+      "precheck_ok": true,
+      "precheck": [
+        "PASS TSk pid=19872 hwnd=1180630",
+        "PASS OpenProcess read-only",
+        "PASS entity vtable=0x11ca0e0",
+        "PASS Player=0x1ac3f0a0 Core=0xbc3d0d0 world=(2321,1066)",
+        "PASS Core.getNpc slot=131",
+        "PASS selected monster heap candidates=0"
+      ],
+      "auto_final": {
+        "state": "AUTO_UNKNOWN",
+        "cross_ratio": 0.0,
+        "edge_ratio": 0.0083,
+        "samples": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "detail": "button not readable (covered, blank or ambiguous)"
+      },
+      "attacks": 10,
+      "clears": 10,
+      "final_state": "GAME_CLOSE_TO",
+      "final_detail": "id=10433 distance=272 target_atom=0x12d1ed71",
+      "targets_found": 21,
+      "ok": true,
+      "result": "OK"
+    }
+  ],
+  "failure_reason": "",
+  "login": {
+    "ok": true,
+    "detail": "Player=0x1ac3f0a0 Core=0xbc3d0d0 world=(2321,1066)",
+    "pid": 19872,
+    "hwnd": 1180630,
+    "account": "pepsi"
+  },
+  "pid": 19872,
+  "completed_at": 1786786352.638168
+}

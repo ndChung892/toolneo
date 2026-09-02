@@ -1,0 +1,1063 @@
+{
+  "session_id": "3b984135-aa27-409e-a15d-473fb203f4dc",
+  "team": {
+    "key_account": "acc_2",
+    "members": [
+      "acc_1"
+    ],
+    "accounts": [
+      {
+        "id": "acc_2",
+        "name": "pepsi",
+        "launch_link": "https://a2.personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=112c2604f806684653919187618461584e778f06f2831140076d167ac6694bb1854fd428b5aa2c5fe864d3268e907794e18b8a2c1b52921deae62fb3b80cf452853cf6078a47ca46",
+        "profile_file": "configs/profiles/acc_2.json",
+        "enabled": true,
+        "login_position": 1
+      },
+      {
+        "id": "acc_1",
+        "name": "dy",
+        "launch_link": "https://a2.personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=051309a66ef6e541f837fa57e03a13166d2d949814ae9bf15bed5094a0bde1aa721b263d4f545db663d6ba5a91078d92b1c75d14280aa088b83d5aaac3ec356ea9188b1e53881195",
+        "profile_file": "configs/profiles/acc_1.json",
+        "enabled": true,
+        "login_position": 2
+      }
+    ]
+  },
+  "accounts": [
+    {
+      "account_id": "acc_2",
+      "role": "KEY",
+      "login": {
+        "ok": true,
+        "detail": "Player=0xd74b0a0 Core=0xf8240d0 world=(1878,1135)",
+        "pid": 16864,
+        "hwnd": 19269098,
+        "account": "pepsi"
+      },
+      "pid": 16864,
+      "core": 260194512,
+      "target_mode_before_click": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_key_target_mode_before_click.png",
+      "linh_vu_match": {
+        "score": 0.3810148239135742,
+        "x": 450,
+        "y": 285,
+        "w": 53,
+        "h": 22
+      },
+      "linh_vu_body_click": {
+        "x": 450,
+        "y": 235
+      },
+      "after_select_dy": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_key_after_select_dy.png",
+      "after_body_target": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_key_after_body_target.png",
+      "radial_tooltips": [
+        {
+          "name": "left_top",
+          "x": 423,
+          "y": 208,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_left_top.png"
+        },
+        {
+          "name": "top",
+          "x": 450,
+          "y": 206,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_top.png"
+        },
+        {
+          "name": "right_top",
+          "x": 477,
+          "y": 208,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_right_top.png"
+        },
+        {
+          "name": "left",
+          "x": 421,
+          "y": 235,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_left.png"
+        },
+        {
+          "name": "right",
+          "x": 479,
+          "y": 235,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_right.png"
+        },
+        {
+          "name": "left_bottom",
+          "x": 436,
+          "y": 259,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_left_bottom.png"
+        },
+        {
+          "name": "right_bottom",
+          "x": 464,
+          "y": 259,
+          "path": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_radial_right_bottom.png"
+        }
+      ],
+      "invite_click": {
+        "x": 421,
+        "y": 235,
+        "icon": "orange_two_person"
+      },
+      "after_invite_icon": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_key_after_invite_icon.png",
+      "group_panel": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_key_group_panel.png",
+      "core_u32_changes": [
+        {
+          "offset": 60,
+          "before": 3,
+          "after": 8
+        },
+        {
+          "offset": 64,
+          "before": 3,
+          "after": 8
+        },
+        {
+          "offset": 176,
+          "before": 51059368,
+          "after": 51059392
+        },
+        {
+          "offset": 204,
+          "before": 1,
+          "after": 585668761
+        },
+        {
+          "offset": 372,
+          "before": 1090714216,
+          "after": 1090712616
+        },
+        {
+          "offset": 384,
+          "before": 3758096384,
+          "after": 393629696
+        },
+        {
+          "offset": 388,
+          "before": 2147483647,
+          "after": 1115291657
+        },
+        {
+          "offset": 436,
+          "before": 536870918,
+          "after": 536870928
+        },
+        {
+          "offset": 868,
+          "before": 536870918,
+          "after": 536870928
+        }
+      ],
+      "party_memory": {
+        "slot_offset": 204,
+        "atom": 585668761,
+        "base": 585668760,
+        "object_words": [
+          14590176,
+          536870914,
+          51080136,
+          134817416,
+          458730849,
+          536870914,
+          14586640,
+          2,
+          503916424,
+          0,
+          3,
+          2568,
+          14586640,
+          2,
+          503915568,
+          0,
+          3,
+          2568,
+          14586640,
+          2,
+          451099800,
+          0,
+          4,
+          2056,
+          14586640,
+          2,
+          340009584,
+          0,
+          2,
+          3080,
+          14590176,
+          2
+        ],
+        "referents": [
+          {
+            "word_index": 0,
+            "raw": 14590176,
+            "base": 14590176,
+            "words": [
+              13365744,
+              11177824,
+              13363632,
+              13365456,
+              13365600,
+              13361632,
+              13361792,
+              13362240,
+              13362704,
+              13362112,
+              13362496,
+              13362560,
+              13363504,
+              13362384,
+              13362768,
+              13362016
+            ]
+          },
+          {
+            "word_index": 2,
+            "raw": 51080136,
+            "base": 51080136,
+            "words": [
+              134139952,
+              51428320,
+              0,
+              0,
+              51484032,
+              13365792,
+              257,
+              134993688,
+              134993688,
+              134993688,
+              134993688,
+              134993688,
+              134993688,
+              134993688,
+              51428296,
+              51428272
+            ]
+          },
+          {
+            "word_index": 3,
+            "raw": 134817416,
+            "base": 134817416,
+            "words": [
+              14590176,
+              1610612991,
+              51080136,
+              0,
+              135066245,
+              805306376,
+              14590176,
+              1073742079,
+              51080136,
+              134817416,
+              134908641,
+              402653185,
+              14590176,
+              2,
+              51080136,
+              134817416
+            ]
+          },
+          {
+            "word_index": 4,
+            "raw": 458730849,
+            "base": 458730848,
+            "words": [
+              0,
+              0,
+              430,
+              604070065,
+              0,
+              0,
+              25918,
+              604070625,
+              13770532,
+              0,
+              0,
+              0,
+              15,
+              458730880,
+              0,
+              450485312
+            ]
+          },
+          {
+            "word_index": 6,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 8,
+            "raw": 503916424,
+            "base": 503916424,
+            "words": [
+              3225908,
+              0,
+              14573192,
+              0,
+              14573192,
+              430921784,
+              14573192,
+              430921208,
+              14573192,
+              420825616,
+              14573192,
+              203111448,
+              14573192,
+              203478568,
+              14573192,
+              0
+            ]
+          },
+          {
+            "word_index": 12,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 14,
+            "raw": 503915568,
+            "base": 503915568,
+            "words": [
+              3225908,
+              0,
+              14573192,
+              0,
+              12337,
+              0,
+              14573192,
+              0,
+              14573192,
+              411917880,
+              14573192,
+              411916248,
+              14573192,
+              420826976,
+              14573192,
+              328230048
+            ]
+          },
+          {
+            "word_index": 18,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 20,
+            "raw": 451099800,
+            "base": 451099800,
+            "words": [
+              959526961,
+              0,
+              808597297,
+              0,
+              14573192,
+              0,
+              14573192,
+              0,
+              942945585,
+              0,
+              808596530,
+              0,
+              808596019,
+              0,
+              14573192,
+              0
+            ]
+          },
+          {
+            "word_index": 24,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 26,
+            "raw": 340009584,
+            "base": 340009584,
+            "words": [
+              12589,
+              0,
+              14573192,
+              0,
+              14573192,
+              0,
+              14573192,
+              0,
+              14573192,
+              339470624,
+              12589,
+              0,
+              14573192,
+              340014528,
+              14573192,
+              339974192
+            ]
+          },
+          {
+            "word_index": 30,
+            "raw": 14590176,
+            "base": 14590176,
+            "words": [
+              13365744,
+              11177824,
+              13363632,
+              13365456,
+              13365600,
+              13361632,
+              13361792,
+              13362240,
+              13362704,
+              13362112,
+              13362496,
+              13362560,
+              13363504,
+              13362384,
+              13362768,
+              13362016
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "account_id": "acc_1",
+      "role": "MEMBER",
+      "login": {
+        "ok": true,
+        "detail": "Player=0x10c690a0 Core=0x15f7e0d0 world=(1877,1106)",
+        "pid": 13088,
+        "hwnd": 24053210,
+        "account": "dy"
+      },
+      "pid": 13088,
+      "core": 368566480,
+      "invite_popup": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_invite_popup.png",
+      "after_accept": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_after_accept.png",
+      "after_invite": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_after_invite.png",
+      "invite_inbox": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_invite_inbox.png",
+      "core_u32_changes": [
+        {
+          "offset": 56,
+          "before": 0,
+          "after": 1
+        },
+        {
+          "offset": 60,
+          "before": 4294967295,
+          "after": 4
+        },
+        {
+          "offset": 64,
+          "before": 4294967295,
+          "after": 4
+        },
+        {
+          "offset": 96,
+          "before": 1,
+          "after": 0
+        },
+        {
+          "offset": 100,
+          "before": 0,
+          "after": 1
+        },
+        {
+          "offset": 104,
+          "before": 1,
+          "after": 0
+        },
+        {
+          "offset": 176,
+          "before": 129528400,
+          "after": 48503488
+        },
+        {
+          "offset": 204,
+          "before": 1,
+          "after": 682353281
+        },
+        {
+          "offset": 332,
+          "before": 1077739520,
+          "after": 1077608448
+        },
+        {
+          "offset": 344,
+          "before": 3758096384,
+          "after": 0
+        },
+        {
+          "offset": 348,
+          "before": 2147483647,
+          "after": 0
+        },
+        {
+          "offset": 372,
+          "before": 1090710976,
+          "after": 1090713920
+        },
+        {
+          "offset": 384,
+          "before": 3758096384,
+          "after": 393342976
+        },
+        {
+          "offset": 388,
+          "before": 2147483647,
+          "after": 1115291657
+        },
+        {
+          "offset": 436,
+          "before": 536870916,
+          "after": 536870926
+        },
+        {
+          "offset": 868,
+          "before": 536870916,
+          "after": 536870926
+        }
+      ],
+      "party_memory": {
+        "slot_offset": 204,
+        "atom": 682353281,
+        "base": 682353280,
+        "object_words": [
+          14590176,
+          536870914,
+          48524232,
+          130426504,
+          348117217,
+          536870914,
+          14586640,
+          3,
+          253929504,
+          0,
+          69,
+          38448,
+          682353400,
+          0,
+          0,
+          0,
+          0,
+          0,
+          14586640,
+          3,
+          334734240,
+          0,
+          69,
+          38448,
+          14590176,
+          2,
+          48524232,
+          130426504,
+          489141633,
+          402653184,
+          682353424,
+          0
+        ],
+        "referents": [
+          {
+            "word_index": 0,
+            "raw": 14590176,
+            "base": 14590176,
+            "words": [
+              13365744,
+              11177824,
+              13363632,
+              13365456,
+              13365600,
+              13361632,
+              13361792,
+              13362240,
+              13362704,
+              13362112,
+              13362496,
+              13362560,
+              13363504,
+              13362384,
+              13362768,
+              13362016
+            ]
+          },
+          {
+            "word_index": 2,
+            "raw": 48524232,
+            "base": 48524232,
+            "words": [
+              129749040,
+              48905184,
+              0,
+              0,
+              48960896,
+              13365792,
+              257,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              48905160,
+              48905136
+            ]
+          },
+          {
+            "word_index": 3,
+            "raw": 130426504,
+            "base": 130426504,
+            "words": [
+              14590176,
+              1610612991,
+              48524232,
+              0,
+              130671237,
+              805306376,
+              14590176,
+              1073742079,
+              48524232,
+              130426504,
+              130517713,
+              402653185,
+              14590176,
+              2,
+              48524232,
+              130426504
+            ]
+          },
+          {
+            "word_index": 4,
+            "raw": 348117217,
+            "base": 348117216,
+            "words": [
+              0,
+              0,
+              430,
+              672403633,
+              0,
+              0,
+              25918,
+              672404193,
+              13770532,
+              0,
+              0,
+              0,
+              14,
+              348117248,
+              0,
+              335322784
+            ]
+          },
+          {
+            "word_index": 6,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 8,
+            "raw": 253929504,
+            "base": 253929504,
+            "words": [
+              1886680168,
+              791624307,
+              1882075745,
+              1869836901,
+              1651269998,
+              778792053,
+              1936613734,
+              1915712303,
+              1647276901,
+              962671972,
+              1680945509,
+              862205538,
+              1630560820,
+              862139447,
+              1681208676,
+              962683443
+            ]
+          },
+          {
+            "word_index": 12,
+            "raw": 682353400,
+            "base": 682353400,
+            "words": [
+              682353424,
+              0,
+              0,
+              0,
+              0,
+              0,
+              682353544,
+              0,
+              0,
+              0,
+              0,
+              0,
+              14586640,
+              3,
+              253928928,
+              0
+            ]
+          },
+          {
+            "word_index": 18,
+            "raw": 14586640,
+            "base": 14586640,
+            "words": [
+              13265008,
+              13262432,
+              13267136,
+              13649061,
+              13649061,
+              13268160,
+              13268208,
+              13270592,
+              13268176,
+              13266656,
+              13271840,
+              13268512,
+              13269824,
+              4294967292,
+              48,
+              1818649956
+            ]
+          },
+          {
+            "word_index": 20,
+            "raw": 334734240,
+            "base": 334734240,
+            "words": [
+              1886680168,
+              791624307,
+              1882075745,
+              1869836901,
+              1651269998,
+              778792053,
+              1936613734,
+              1915712303,
+              925856613,
+              892495414,
+              1647600739,
+              842479924,
+              809055334,
+              825505382,
+              1681208630,
+              943207268
+            ]
+          },
+          {
+            "word_index": 24,
+            "raw": 14590176,
+            "base": 14590176,
+            "words": [
+              13365744,
+              11177824,
+              13363632,
+              13365456,
+              13365600,
+              13361632,
+              13361792,
+              13362240,
+              13362704,
+              13362112,
+              13362496,
+              13362560,
+              13363504,
+              13362384,
+              13362768,
+              13362016
+            ]
+          },
+          {
+            "word_index": 26,
+            "raw": 48524232,
+            "base": 48524232,
+            "words": [
+              129749040,
+              48905184,
+              0,
+              0,
+              48960896,
+              13365792,
+              257,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              130598856,
+              48905160,
+              48905136
+            ]
+          },
+          {
+            "word_index": 27,
+            "raw": 130426504,
+            "base": 130426504,
+            "words": [
+              14590176,
+              1610612991,
+              48524232,
+              0,
+              130671237,
+              805306376,
+              14590176,
+              1073742079,
+              48524232,
+              130426504,
+              130517713,
+              402653185,
+              14590176,
+              2,
+              48524232,
+              130426504
+            ]
+          },
+          {
+            "word_index": 28,
+            "raw": 489141633,
+            "base": 489141632,
+            "words": [
+              0,
+              0,
+              0,
+              0,
+              13922148,
+              460526944,
+              536870914,
+              0,
+              480060529,
+              131604280,
+              2279137440,
+              0,
+              488166786,
+              131604280,
+              2279137440,
+              0
+            ]
+          },
+          {
+            "word_index": 29,
+            "raw": 402653184,
+            "base": 402653184,
+            "words": [
+              48320544,
+              48343344,
+              402657280,
+              402653232,
+              256,
+              264,
+              404090880,
+              0,
+              0,
+              0,
+              16777216,
+              402653440,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "word_index": 30,
+            "raw": 682353424,
+            "base": 682353424,
+            "words": [
+              682353544,
+              0,
+              0,
+              0,
+              0,
+              0,
+              14586640,
+              3,
+              253928928,
+              0,
+              69,
+              38448,
+              14586640,
+              1073741826,
+              223817414,
+              0
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "status": "PARTIAL",
+  "group_travel_trial": {
+    "target": "Liêu Vân Tộc",
+    "target_map_id": 13,
+    "key": {
+      "ok": true,
+      "target": "Liêu Vân Tộc",
+      "map_id": 13,
+      "source_map": "Đông Huyền Thành",
+      "source_map_id": 0,
+      "detected": "Liêu Vân Tộc",
+      "detected_map_id": 0,
+      "source": "visual fallback",
+      "score": 0.9398,
+      "margin": 0.2485,
+      "detail": "verified",
+      "travel_confirmation_clicked": true,
+      "travel_confirmation_mode": "party_individual",
+      "travel_confirmation_modes": [
+        "party_individual"
+      ],
+      "readbacks": [
+        {
+          "timestamp": 1786715929.6278615,
+          "pid": 16864,
+          "target_map": "Liêu Vân Tộc",
+          "target_map_id": 13,
+          "detected_map": "Liêu Vân Tộc",
+          "detected_map_id": 0,
+          "source": "visual fingerprint",
+          "score": 0.9398,
+          "margin": 0.2485
+        },
+        {
+          "timestamp": 1786715930.1546216,
+          "pid": 16864,
+          "target_map": "Liêu Vân Tộc",
+          "target_map_id": 13,
+          "detected_map": "Liêu Vân Tộc",
+          "detected_map_id": 0,
+          "source": "visual fingerprint",
+          "score": 0.9398,
+          "margin": 0.2485
+        },
+        {
+          "timestamp": 1786715930.6925075,
+          "pid": 16864,
+          "target_map": "Liêu Vân Tộc",
+          "target_map_id": 13,
+          "detected_map": "Liêu Vân Tộc",
+          "detected_map_id": 0,
+          "source": "visual fingerprint",
+          "score": 0.9398,
+          "margin": 0.2485
+        }
+      ],
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\map_13_1786715930.png"
+    },
+    "member_readbacks": [
+      {
+        "timestamp": 1786715938.7424867,
+        "name": "Liêu Vân Tộc",
+        "map_id": 0,
+        "score": 0.9398199915885925,
+        "margin": 0.24846172332763672
+      },
+      {
+        "timestamp": 1786715939.3578007,
+        "name": "Liêu Vân Tộc",
+        "map_id": 0,
+        "score": 0.9398199915885925,
+        "margin": 0.24846172332763672
+      },
+      {
+        "timestamp": 1786715939.9746227,
+        "name": "Liêu Vân Tộc",
+        "map_id": 0,
+        "score": 0.9398199915885925,
+        "margin": 0.24846172332763672
+      }
+    ],
+    "member_evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_after_key_travel.png",
+    "member_return_panel": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\team_member_return_group_panel.png"
+  }
+}

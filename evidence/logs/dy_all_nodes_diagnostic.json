@@ -1,0 +1,126 @@
+{
+  "schema": "DY_ALL_NODES_DIAGNOSTIC",
+  "diagnostic_only": true,
+  "run_id": "35c82434-34aa-4a36-ac83-1e4fb14689ed",
+  "account": "dy",
+  "pid": 6356,
+  "login": {
+    "ok": true,
+    "detail": "Player=0x12ceb0a0 Core=0x135c30d0 world=(1467,1102)",
+    "pid": 6356,
+    "hwnd": 722470,
+    "account": "dy"
+  },
+  "attempts": [
+    {
+      "target": "Đông Huyền Thành",
+      "target_map_id": 9,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Liêu Vân Tộc",
+      "target_map_id": 13,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "skipped": "ALREADY_ON_TARGET"
+    },
+    {
+      "target": "Lạp Tuyết Địa",
+      "target_map_id": 33,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Anh Vũ Cảnh",
+      "target_map_id": 34,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Tiên Lạp Thành",
+      "target_map_id": 31,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Thiên Khung Tộc",
+      "target_map_id": 32,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Băng Tuyết Nguyên",
+      "target_map_id": 35,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Tuyết Lâm",
+      "target_map_id": 22,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": false,
+      "after_map": "Liêu Vân Tộc",
+      "after_map_id": 13
+    },
+    {
+      "target": "Đoạn Cốc",
+      "target_map_id": 43,
+      "before_map": "Liêu Vân Tộc",
+      "before_map_id": 13,
+      "world_map_opened": true,
+      "arrived": true,
+      "after_map": "Đoạn Cốc",
+      "after_map_id": 43
+    },
+    {
+      "target": "Bàn Địa Tộc",
+      "target_map_id": 12,
+      "before_map": "Đoạn Cốc",
+      "before_map_id": 43,
+      "world_map_opened": true,
+      "arrived": true,
+      "after_map": "Bàn Địa Tộc",
+      "after_map_id": 12
+    }
+  ],
+  "reached": [
+    "Đoạn Cốc",
+    "Bàn Địa Tộc"
+  ],
+  "failed": [
+    "Đông Huyền Thành",
+    "Lạp Tuyết Địa",
+    "Anh Vũ Cảnh",
+    "Tiên Lạp Thành",
+    "Thiên Khung Tộc",
+    "Băng Tuyết Nguyên",
+    "Tuyết Lâm"
+  ]
+}

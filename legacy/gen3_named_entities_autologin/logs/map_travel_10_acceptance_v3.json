@@ -1,0 +1,106 @@
+{
+  "required": 10,
+  "passed": 10,
+  "results": [
+    {
+      "ok": true,
+      "target": "Đông Huyền Thành",
+      "map_id": 9,
+      "detected": "Đông Huyền Thành",
+      "score": 0.9416,
+      "margin": 0.5316,
+      "detail": "already at verified target",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_9_already_1786636924.png"
+    },
+    {
+      "ok": true,
+      "target": "Liêu Vân Tộc",
+      "map_id": 13,
+      "detected": "Liêu Vân Tộc",
+      "score": 0.9942,
+      "margin": 0.3377,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_13_1786636936.png"
+    },
+    {
+      "ok": true,
+      "target": "Lạp Tuyết Địa",
+      "map_id": 33,
+      "detected": "Lạp Tuyết Địa",
+      "score": 0.9973,
+      "margin": 0.4924,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_33_1786636940.png"
+    },
+    {
+      "ok": true,
+      "target": "Anh Vũ Cảnh",
+      "map_id": 34,
+      "detected": "Anh Vũ Cảnh",
+      "score": 0.9928,
+      "margin": 0.3278,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_34_1786636944.png"
+    },
+    {
+      "ok": true,
+      "target": "Tiên Lạp Thành",
+      "map_id": 31,
+      "detected": "Tiên Lạp Thành",
+      "score": 0.9982,
+      "margin": 0.4513,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_31_1786636949.png"
+    },
+    {
+      "ok": true,
+      "target": "Thiên Khung Tộc",
+      "map_id": 32,
+      "detected": "Thiên Khung Tộc",
+      "score": 0.9945,
+      "margin": 0.4726,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_32_1786636953.png"
+    },
+    {
+      "ok": true,
+      "target": "Băng Tuyết Nguyên",
+      "map_id": 35,
+      "detected": "Băng Tuyết Nguyên",
+      "score": 1.0,
+      "margin": 0.6515,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_35_1786636958.png"
+    },
+    {
+      "ok": true,
+      "target": "Tuyết Lâm",
+      "map_id": 22,
+      "detected": "Tuyết Lâm",
+      "score": 0.9896,
+      "margin": 0.4563,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_22_1786636962.png"
+    },
+    {
+      "ok": true,
+      "target": "Đoạn Cốc",
+      "map_id": 43,
+      "detected": "Đoạn Cốc",
+      "score": 0.9983,
+      "margin": 0.4868,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_43_1786636966.png"
+    },
+    {
+      "ok": true,
+      "target": "Bàn Địa Tộc",
+      "map_id": 12,
+      "detected": "Bàn Địa Tộc",
+      "score": 0.9983,
+      "margin": 0.4783,
+      "detail": "verified",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_12_1786636971.png"
+    }
+  ]
+}

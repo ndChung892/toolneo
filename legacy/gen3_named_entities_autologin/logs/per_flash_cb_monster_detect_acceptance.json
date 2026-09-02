@@ -1,0 +1,406 @@
+{
+  "window": {
+    "title": "CB",
+    "left": 1111,
+    "top": 474,
+    "width": 916,
+    "height": 629,
+    "hwnd": 525720,
+    "pid": 14372,
+    "class_name": "ShockwaveFlash"
+  },
+  "elapsed": 6.01,
+  "result": {
+    "ok": true,
+    "pid": 14372,
+    "monsters": [
+      {
+        "kind": "monster",
+        "type": 3060100001088,
+        "resource": 2060100001088,
+        "heap_count": 1,
+        "heap_bases": [
+          612660672
+        ],
+        "runtime_ids": [
+          3050
+        ],
+        "name": "Bách Thảo Tinh",
+        "name_confidence": "verified"
+      },
+      {
+        "kind": "monster",
+        "type": 3060100001075,
+        "resource": 2060100001075,
+        "heap_count": 1,
+        "heap_bases": [
+          612081008
+        ],
+        "runtime_ids": [
+          592
+        ],
+        "name": "Monster 2060100001075",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "monster",
+        "type": 3060100000051,
+        "resource": 2060100000051,
+        "heap_count": 20,
+        "heap_bases": [
+          322500688,
+          322502000,
+          322912416,
+          322913072,
+          322915696,
+          612080352,
+          612455216,
+          612455872,
+          612457184,
+          612457840,
+          612659360,
+          612661328,
+          612661984,
+          612896928,
+          612898240,
+          612898896,
+          613126304,
+          613126960,
+          613127616,
+          616370336
+        ],
+        "runtime_ids": [
+          10080,
+          11040,
+          11137,
+          11190,
+          11319,
+          11340,
+          11397,
+          12091,
+          12346,
+          12508,
+          12695,
+          13404,
+          13686,
+          14867,
+          15374,
+          15908,
+          16189,
+          17313,
+          17347,
+          17436
+        ],
+        "name": "Phát Tài",
+        "name_confidence": "verified"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000057,
+        "resource": 2060090000057,
+        "heap_count": 1,
+        "heap_bases": [
+          612079696
+        ],
+        "runtime_ids": [
+          77
+        ],
+        "name": "Chuyên Viên Phát Lương",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000141,
+        "resource": 2060090000141,
+        "heap_count": 1,
+        "heap_bases": [
+          322915040
+        ],
+        "runtime_ids": [
+          1243
+        ],
+        "name": "Dược Thảo Cấp 1",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000031,
+        "resource": 2060090000031,
+        "heap_count": 1,
+        "heap_bases": [
+          612660016
+        ],
+        "runtime_ids": [
+          617
+        ],
+        "name": "NPC 2060090000031",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000037,
+        "resource": 2060090000037,
+        "heap_count": 1,
+        "heap_bases": [
+          612078384
+        ],
+        "runtime_ids": [
+          11
+        ],
+        "name": "NPC 2060090000037",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000115,
+        "resource": 2060090000115,
+        "heap_count": 1,
+        "heap_bases": [
+          322501344
+        ],
+        "runtime_ids": [
+          387
+        ],
+        "name": "NPC 2060090000115",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000025,
+        "resource": 2060090000025,
+        "heap_count": 1,
+        "heap_bases": [
+          612454560
+        ],
+        "runtime_ids": [
+          605
+        ],
+        "name": "Quản Lý Tiến Cử",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000001,
+        "resource": 2060090000001,
+        "heap_count": 1,
+        "heap_bases": [
+          612077728
+        ],
+        "runtime_ids": [
+          262
+        ],
+        "name": "Sứ Giả Long Tộc",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000044,
+        "resource": 2060090000044,
+        "heap_count": 1,
+        "heap_bases": [
+          612900208
+        ],
+        "runtime_ids": [
+          634
+        ],
+        "name": "Đầu Lâu Khổng Lồ",
+        "name_confidence": "inferred"
+      }
+    ],
+    "entities": [
+      {
+        "kind": "monster",
+        "type": 3060100001088,
+        "resource": 2060100001088,
+        "heap_count": 1,
+        "heap_bases": [
+          612660672
+        ],
+        "runtime_ids": [
+          3050
+        ],
+        "name": "Bách Thảo Tinh",
+        "name_confidence": "verified"
+      },
+      {
+        "kind": "monster",
+        "type": 3060100001075,
+        "resource": 2060100001075,
+        "heap_count": 1,
+        "heap_bases": [
+          612081008
+        ],
+        "runtime_ids": [
+          592
+        ],
+        "name": "Monster 2060100001075",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "monster",
+        "type": 3060100000051,
+        "resource": 2060100000051,
+        "heap_count": 20,
+        "heap_bases": [
+          322500688,
+          322502000,
+          322912416,
+          322913072,
+          322915696,
+          612080352,
+          612455216,
+          612455872,
+          612457184,
+          612457840,
+          612659360,
+          612661328,
+          612661984,
+          612896928,
+          612898240,
+          612898896,
+          613126304,
+          613126960,
+          613127616,
+          616370336
+        ],
+        "runtime_ids": [
+          10080,
+          11040,
+          11137,
+          11190,
+          11319,
+          11340,
+          11397,
+          12091,
+          12346,
+          12508,
+          12695,
+          13404,
+          13686,
+          14867,
+          15374,
+          15908,
+          16189,
+          17313,
+          17347,
+          17436
+        ],
+        "name": "Phát Tài",
+        "name_confidence": "verified"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000057,
+        "resource": 2060090000057,
+        "heap_count": 1,
+        "heap_bases": [
+          612079696
+        ],
+        "runtime_ids": [
+          77
+        ],
+        "name": "Chuyên Viên Phát Lương",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000141,
+        "resource": 2060090000141,
+        "heap_count": 1,
+        "heap_bases": [
+          322915040
+        ],
+        "runtime_ids": [
+          1243
+        ],
+        "name": "Dược Thảo Cấp 1",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000031,
+        "resource": 2060090000031,
+        "heap_count": 1,
+        "heap_bases": [
+          612660016
+        ],
+        "runtime_ids": [
+          617
+        ],
+        "name": "NPC 2060090000031",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000037,
+        "resource": 2060090000037,
+        "heap_count": 1,
+        "heap_bases": [
+          612078384
+        ],
+        "runtime_ids": [
+          11
+        ],
+        "name": "NPC 2060090000037",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000115,
+        "resource": 2060090000115,
+        "heap_count": 1,
+        "heap_bases": [
+          322501344
+        ],
+        "runtime_ids": [
+          387
+        ],
+        "name": "NPC 2060090000115",
+        "name_confidence": "fallback"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000025,
+        "resource": 2060090000025,
+        "heap_count": 1,
+        "heap_bases": [
+          612454560
+        ],
+        "runtime_ids": [
+          605
+        ],
+        "name": "Quản Lý Tiến Cử",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000001,
+        "resource": 2060090000001,
+        "heap_count": 1,
+        "heap_bases": [
+          612077728
+        ],
+        "runtime_ids": [
+          262
+        ],
+        "name": "Sứ Giả Long Tộc",
+        "name_confidence": "inferred"
+      },
+      {
+        "kind": "npc",
+        "type": 3060090000044,
+        "resource": 2060090000044,
+        "heap_count": 1,
+        "heap_bases": [
+          612900208
+        ],
+        "runtime_ids": [
+          634
+        ],
+        "name": "Đầu Lâu Khổng Lồ",
+        "name_confidence": "inferred"
+      }
+    ],
+    "cached": false
+  }
+}

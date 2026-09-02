@@ -1,0 +1,38 @@
+﻿6 map theo bang BMx (cap 1..5)
+
+[1/6] Cổ Đạo  (BMx: dược cấp 5)
+      ra (340,390): (468,435) toi noi
+      ra (2720,450): (2653,448) toi noi
+      ra (1390,490): (1463,485) toi noi
+      ra (2970,670): (2807,647) toi noi
+      ra (2190,990): (2292,931) toi noi
+      ra (1670,1200): (1778,1152) toi noi
+      ra (380,1220): (529,1211) toi noi
+      ra (1570,1570): (1488,1541) toi noi
+      ra (1700,1620): (1488,1541) toi noi
+      ra (1920,1810): (1822,1749) toi noi
+      ra (2670,1860): (2549,1892) toi noi
+      ra (400,1870): (1346,1494) duong thang bi chan: 2 chang lien khong di duoc
+      [400,1870] +6 bai (tong 6)
+    6 bai tren map nay
+    [1/6] Dược Thảo Cấp 1 (2100,1200)
+      (lan 1: chua nhan duoc gi)
+      (lan 2: chua nhan duoc gi)
+      (lan 3: chua nhan duoc gi)
+      (lan 4: chua nhan duoc gi)
+      (lan 5: chua nhan duoc gi)
+      (lan 6: chua nhan duoc gi)
+      (lan 7: chua nhan duoc gi)
+      (lan 8: chua nhan duoc gi)
+        -> RA: (chua doc duoc)
+    [2/6] Đàn Cá Cấp 1 (1371,834)
+      (lan 1: chua nhan duoc gi)
+      (lan 2: chua nhan duoc gi)
+      (lan 3: chua nhan duoc gi)
+      (lan 4: chua nhan duoc gi)
+      (lan 5: chua nhan duoc gi)
+      (lan 6: chua nhan duoc gi)
+      (lan 7: chua nhan duoc gi)
+      (lan 8: chua nhan duoc gi)
+        -> RA: (chua doc duoc)
+    [3/6] Đàn Cá Cấp 1 (1899,273)

@@ -1,0 +1,1504 @@
+{
+  "closeTo_slot36": {
+    "slot": 36,
+    "env": "0x12d0ffb8",
+    "entry": "0x10c5020",
+    "minfo": "0x9ba1bd8",
+    "method_id": "0x2145",
+    "abc": {
+      "0xc": {
+        "param_count": 0,
+        "flags": "0x8",
+        "need_rest": false,
+        "has_optional": true
+      },
+      "0x18": {
+        "param_count": 2,
+        "flags": "0x0",
+        "need_rest": false,
+        "has_optional": false
+      }
+    }
+  },
+  "remote_vtable": "0x8648d78",
+  "remote_distinct_methods": [
+    {
+      "slot": 0,
+      "env": "0x172bf580",
+      "entry": "0x10d9090",
+      "minfo": "0x8648d78",
+      "method_id": "0x172bf580",
+      "abc": {
+        "0x10": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 7,
+      "env": "0x2f4bbc8",
+      "entry": "0x10c5020",
+      "minfo": "0x2f5f7e8",
+      "method_id": "0x23",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 8,
+      "env": "0x2f4bbb0",
+      "entry": "0x8758735",
+      "minfo": "0x2f5f820",
+      "method_id": "0x24",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 9,
+      "env": "0x2f4bb98",
+      "entry": "0x10c5020",
+      "minfo": "0x2f5f858",
+      "method_id": "0x25",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 10,
+      "env": "0x13e870b8",
+      "entry": "0x10c5020",
+      "minfo": "0x8695040",
+      "method_id": "0x32",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 11,
+      "env": "0x13e870d0",
+      "entry": "0x10c5020",
+      "minfo": "0x8695078",
+      "method_id": "0x33",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 12,
+      "env": "0x195cf190",
+      "entry": "0x13b1c46c",
+      "minfo": "0xacad040",
+      "method_id": "0x16ee8",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x4",
+          "need_rest": true,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 13,
+      "env": "0x13e87100",
+      "entry": "0x10c5020",
+      "minfo": "0x86950e8",
+      "method_id": "0x35",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 14,
+      "env": "0x13e87118",
+      "entry": "0x10c5020",
+      "minfo": "0x8695120",
+      "method_id": "0x36",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 15,
+      "env": "0x13e87130",
+      "entry": "0x10c5020",
+      "minfo": "0x8695158",
+      "method_id": "0x37",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 16,
+      "env": "0x13e87148",
+      "entry": "0x10c5020",
+      "minfo": "0x8695190",
+      "method_id": "0x38",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 17,
+      "env": "0x13e87160",
+      "entry": "0x10c5020",
+      "minfo": "0x86951c8",
+      "method_id": "0x39",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 18,
+      "env": "0x13e87178",
+      "entry": "0x10c5020",
+      "minfo": "0x8695200",
+      "method_id": "0x3a",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5d",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 19,
+      "env": "0x13e87190",
+      "entry": "0x10c5020",
+      "minfo": "0x8695238",
+      "method_id": "0x3b",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 20,
+      "env": "0x195cf1a8",
+      "entry": "0xd04204b",
+      "minfo": "0xacacfc8",
+      "method_id": "0x16ee7",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 21,
+      "env": "0x195cf1c0",
+      "entry": "0x1eb5c382",
+      "minfo": "0xacad078",
+      "method_id": "0x16ee9",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x4",
+          "need_rest": true,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 22,
+      "env": "0x195cf1d8",
+      "entry": "0xd04a467",
+      "minfo": "0xacad0b0",
+      "method_id": "0x16eea",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x4",
+          "need_rest": true,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0xef",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 23,
+      "env": "0x195cf1f0",
+      "entry": "0x10c5020",
+      "minfo": "0xacad0e8",
+      "method_id": "0x16eeb",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 1,
+          "flags": "0x7",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 25,
+      "env": "0x195cf208",
+      "entry": "0x12965f11",
+      "minfo": "0xacad158",
+      "method_id": "0x16eed",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 1,
+          "flags": "0x7",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 26,
+      "env": "0x195cf220",
+      "entry": "0x10c5020",
+      "minfo": "0xacad120",
+      "method_id": "0x16eec",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0xef",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 27,
+      "env": "0x195cf238",
+      "entry": "0x1da2c559",
+      "minfo": "0xacad1c8",
+      "method_id": "0x16eef",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 1,
+          "flags": "0x7",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 28,
+      "env": "0x195cf250",
+      "entry": "0xd04a5bd",
+      "minfo": "0xacad190",
+      "method_id": "0x16eee",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 29,
+      "env": "0x195cf268",
+      "entry": "0x10c5020",
+      "minfo": "0xacad200",
+      "method_id": "0x16ef0",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 6,
+          "flags": "0xf3",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 30,
+      "env": "0x195cf280",
+      "entry": "0x10c5020",
+      "minfo": "0xacad238",
+      "method_id": "0x16ef1",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0xef",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 31,
+      "env": "0x195cf298",
+      "entry": "0x10c5020",
+      "minfo": "0xacad270",
+      "method_id": "0x16ef2",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0xef",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 32,
+      "env": "0x195cf2b0",
+      "entry": "0x13b1c01b",
+      "minfo": "0xacad2a8",
+      "method_id": "0x16ef3",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 7,
+          "flags": "0x28",
+          "need_rest": false,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 33,
+      "env": "0x195cf2c8",
+      "entry": "0x13b1bf10",
+      "minfo": "0xacad2e0",
+      "method_id": "0x16ef4",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 34,
+      "env": "0x195cf2e0",
+      "entry": "0x10c5020",
+      "minfo": "0xacad318",
+      "method_id": "0x16ef5",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 35,
+      "env": "0x195cf2f8",
+      "entry": "0x10c5020",
+      "minfo": "0xacad350",
+      "method_id": "0x16ef6",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 4,
+          "flags": "0x9f",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 36,
+      "env": "0x195cf310",
+      "entry": "0x10c5020",
+      "minfo": "0xacad388",
+      "method_id": "0x16ef7",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x5e",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 37,
+      "env": "0x195cf328",
+      "entry": "0x13b1bdfb",
+      "minfo": "0xacad3c0",
+      "method_id": "0x16ef8",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 38,
+      "env": "0x195cf340",
+      "entry": "0x10c5020",
+      "minfo": "0xacad3f8",
+      "method_id": "0x16ef9",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x10": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x2",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 6,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 39,
+      "env": "0x195cf358",
+      "entry": "0x10c5020",
+      "minfo": "0xacad430",
+      "method_id": "0x16efa",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x10": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0xa",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 40,
+      "env": "0x195cf370",
+      "entry": "0x10c5020",
+      "minfo": "0xacad468",
+      "method_id": "0x16efb",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 41,
+      "env": "0x195cf388",
+      "entry": "0x1da2c5c2",
+      "minfo": "0xacad4a0",
+      "method_id": "0x16efc",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 42,
+      "env": "0x195cf3a0",
+      "entry": "0x10c5020",
+      "minfo": "0xacad4d8",
+      "method_id": "0x16efd",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 1,
+          "flags": "0x7",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 47,
+      "env": "0x865e030",
+      "entry": "0x1165f60",
+      "minfo": "0x865d020",
+      "method_id": "0x2f4bdd8",
+      "abc": {
+        "0x10": {
+          "param_count": 8,
+          "flags": "0xec",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 48,
+      "env": "0x87437d8",
+      "entry": "0x10c5020",
+      "minfo": "0x863d660",
+      "method_id": "0xf4",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 49,
+      "env": "0x2ef6bc8",
+      "entry": "0x865e030",
+      "minfo": "0x2f4bbe0",
+      "method_id": "0x865d020",
+      "abc": {
+        "0x20": {
+          "param_count": 2,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 51,
+      "env": "0x2f59d00",
+      "entry": "0x8623000",
+      "minfo": "0x2f59580",
+      "method_id": "0x0",
+      "abc": {
+        "0x0": {
+          "param_count": 8,
+          "flags": "0xec",
+          "need_rest": true,
+          "has_optional": true
+        },
+        "0x10": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 52,
+      "env": "0x109f360",
+      "entry": "0x245c8b53",
+      "minfo": "0x738b5608",
+      "method_id": "0xee83ffff",
+      "abc": {
+        "0x4": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 54,
+      "env": "0x872d890",
+      "entry": "0x10d9090",
+      "minfo": "0x8648e50",
+      "method_id": "0x872d890",
+      "abc": {
+        "0x10": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 64,
+      "env": "0x87437f0",
+      "entry": "0x10c5020",
+      "minfo": "0x863d6d0",
+      "method_id": "0xf6",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 65,
+      "env": "0x8743808",
+      "entry": "0x10c5020",
+      "minfo": "0x863d698",
+      "method_id": "0xf5",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 66,
+      "env": "0x8743820",
+      "entry": "0x10c5020",
+      "minfo": "0x863d708",
+      "method_id": "0xf7",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 67,
+      "env": "0x8743838",
+      "entry": "0x10c5020",
+      "minfo": "0x863d740",
+      "method_id": "0xf8",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 68,
+      "env": "0x8743850",
+      "entry": "0x10c5020",
+      "minfo": "0x863d778",
+      "method_id": "0xf9",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 69,
+      "env": "0x8743868",
+      "entry": "0x10c5020",
+      "minfo": "0x863d7e8",
+      "method_id": "0xfb",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 70,
+      "env": "0x8743880",
+      "entry": "0x10c5020",
+      "minfo": "0x863d7b0",
+      "method_id": "0xfa",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 71,
+      "env": "0x8743898",
+      "entry": "0x10c5020",
+      "minfo": "0x863d820",
+      "method_id": "0xfc",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 72,
+      "env": "0x87438b0",
+      "entry": "0x10c5020",
+      "minfo": "0x863d858",
+      "method_id": "0xfd",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 2,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 73,
+      "env": "0x87438c8",
+      "entry": "0x10c5020",
+      "minfo": "0x863d890",
+      "method_id": "0xfe",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 3,
+          "flags": "0x24",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 74,
+      "env": "0x87438e0",
+      "entry": "0x10c5020",
+      "minfo": "0x863d8c8",
+      "method_id": "0xff",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 1,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 6,
+          "flags": "0x24",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 75,
+      "env": "0x87438f8",
+      "entry": "0x10c5020",
+      "minfo": "0x863d900",
+      "method_id": "0x100",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 76,
+      "env": "0x8743910",
+      "entry": "0x10c5020",
+      "minfo": "0x863d938",
+      "method_id": "0x101",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0xd0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 77,
+      "env": "0x8743928",
+      "entry": "0x10c5020",
+      "minfo": "0x863d970",
+      "method_id": "0x102",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x20": {
+          "param_count": 4,
+          "flags": "0x8c",
+          "need_rest": true,
+          "has_optional": true
+        }
+      }
+    },
+    {
+      "slot": 78,
+      "env": "0x8743940",
+      "entry": "0x10c5020",
+      "minfo": "0x863d9a8",
+      "method_id": "0x103",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x24",
+          "need_rest": true,
+          "has_optional": false
+        }
+      }
+    },
+    {
+      "slot": 79,
+      "env": "0x8743958",
+      "entry": "0x10c5020",
+      "minfo": "0x863d9e0",
+      "method_id": "0x104",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 0,
+          "flags": "0x20",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    }
+  ],
+  "call_candidates": [
+    {
+      "slot": 21,
+      "method_id": "0x16ee9",
+      "abc": {
+        "0xc": {
+          "param_count": 0,
+          "flags": "0x8",
+          "need_rest": false,
+          "has_optional": true
+        },
+        "0x18": {
+          "param_count": 2,
+          "flags": "0x4",
+          "need_rest": true,
+          "has_optional": false
+        },
+        "0x20": {
+          "param_count": 5,
+          "flags": "0x0",
+          "need_rest": false,
+          "has_optional": false
+        }
+      }
+    }
+  ]
+}

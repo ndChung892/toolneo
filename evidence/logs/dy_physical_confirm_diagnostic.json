@@ -1,0 +1,467 @@
+{
+  "login": {
+    "ok": true,
+    "detail": "Player=0x13dac0a0 Core=0x166c10d0 world=(1877,1116)",
+    "pid": 18628,
+    "hwnd": 4392182,
+    "account": "dy"
+  },
+  "ok": false,
+  "samples": [
+    {
+      "timestamp": 1786705879.86509,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_00.png"
+    },
+    {
+      "timestamp": 1786705880.417426,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_01.png"
+    },
+    {
+      "timestamp": 1786705880.975467,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_02.png"
+    },
+    {
+      "timestamp": 1786705881.5293815,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_03.png"
+    },
+    {
+      "timestamp": 1786705882.0826035,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_04.png"
+    },
+    {
+      "timestamp": 1786705882.637681,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_05.png"
+    },
+    {
+      "timestamp": 1786705883.1903813,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_06.png"
+    },
+    {
+      "timestamp": 1786705883.7515492,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_07.png"
+    },
+    {
+      "timestamp": 1786705884.2796338,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705884.8006961,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705885.3596647,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_10.png"
+    },
+    {
+      "timestamp": 1786705885.8924007,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705886.416443,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4546021521091461,
+      "margin": 0.05611947178840637,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705886.9367216,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705887.4567096,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705888.0168147,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_15.png"
+    },
+    {
+      "timestamp": 1786705888.5379539,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705889.0558457,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705889.5770748,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705890.0989552,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705890.6595783,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_20.png"
+    },
+    {
+      "timestamp": 1786705891.177588,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705891.702198,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705892.220738,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705892.7451596,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705893.3155415,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_25.png"
+    },
+    {
+      "timestamp": 1786705893.8449898,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705894.3680618,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705894.8967643,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705895.4197357,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705895.9704614,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_30.png"
+    },
+    {
+      "timestamp": 1786705896.4889333,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705897.009546,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705897.5293863,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705898.052671,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705898.6046393,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_35.png"
+    },
+    {
+      "timestamp": 1786705899.1314344,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705899.650629,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705900.1696832,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705900.6888342,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705901.2401624,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_physical_confirm_frames\\sample_40.png"
+    },
+    {
+      "timestamp": 1786705901.7594626,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705902.2855144,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4315861463546753,
+      "margin": 0.056708335876464844,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705902.8172703,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.43178489804267883,
+      "margin": 0.05647313594818115,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    },
+    {
+      "timestamp": 1786705903.336557,
+      "world_map_open": true,
+      "visual_map": "Lạp Tuyết Địa",
+      "score": 0.4329988956451416,
+      "margin": 0.056130677461624146,
+      "memory_map": "",
+      "memory_map_id": 0,
+      "frame": ""
+    }
+  ],
+  "physical_confirm_screen": [
+    450,
+    382
+  ],
+  "failure_reason": "PHYSICAL_YES_UNCHANGED_MAP"
+}

@@ -1,0 +1,77 @@
+plans: ['acc_1', 'acc_2', 'acc_3', 'acc_5']
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15188 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15188 Bắt đầu"}
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13288 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=15188 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13288 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15188 Bắt đầu"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13288 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1, acc_2, acc_3, acc_5"}
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14428 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15188 channel=(552, 307) choices=2"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13288 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14428 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13288 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14428 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13288 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13288 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13288 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14428 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13288 Player=0x116b10a0 Core=0x167d20d0 world=(675,211)"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14428 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14428 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14428 Player=0x1bdcd0a0 Core=0xb9040d0 world=(3100,1583)"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 5 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Trở Lại Lang Huyệt: Xong qua memory chưa có readback"}
+{"type": "log", "msg": "Daily dừng tại PHỤ BẢN: Trở Lại Lang Huyệt: Xong qua memory chưa có readback"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "[AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=15188 timeout before rooted map"}
+{"type": "log", "msg": "Daily CB: đăng nhập lần 1 chưa vào map; thử lại."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10312 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10312 Bắt đầu"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=10312 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10312 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=10312 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10312 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10312 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10312 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Kho Báu Đại Mạc: Xong qua memory chưa có readback"}
+{"type": "log", "msg": "Daily dừng tại PHỤ BẢN: Kho Báu Đại Mạc: Xong qua memory chưa có readback"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10312 Player=0x1d5610a0 Core=0x15d930d0 world=(3030,1386)"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: button score=0.940 box=(202, 280, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_10312_Liệt Diễm Thâm Uyên_1787626134.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: readback start PASS"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Liệt Diễm Thâm Uyên:claim; Liệt Diễm Thâm Uyên:start; Thám Hiểm:start"}
+{"type": "log", "msg": "Daily xong bước PHỤ BẢN: Liệt Diễm Thâm Uyên:claim; Liệt Diễm Thâm Uyên:start; Thám Hiểm:start"}
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}

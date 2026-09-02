@@ -1,0 +1,30 @@
+{
+  "schema": "INVITE_DIALOG_PROBE",
+  "pid": 20708,
+  "steps": [
+    {
+      "step": "panel_open"
+    },
+    {
+      "step": "invite_click",
+      "point": [
+        465,
+        137
+      ]
+    },
+    {
+      "step": "invite_click",
+      "point": [
+        455,
+        137
+      ]
+    },
+    {
+      "step": "invite_click",
+      "point": [
+        470,
+        140
+      ]
+    }
+  ]
+}

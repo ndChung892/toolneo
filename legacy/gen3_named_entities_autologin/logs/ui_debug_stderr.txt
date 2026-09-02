@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "run.py", line 9, in <module>
+  File "pyimod02_importers.py", line 457, in exec_module
+  File "app\ui_app.py", line 7, in <module>
+ModuleNotFoundError: No module named 'tkinter'
+[PYI-8516:ERROR] Failed to execute script 'run' due to unhandled exception!

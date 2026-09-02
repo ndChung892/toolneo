@@ -1,0 +1,131 @@
+{
+  "schema": "INVITE_BY_MOTION_PROBE",
+  "key": "TSk",
+  "member": "CB",
+  "steps": [],
+  "logins": {
+    "TSk": {
+      "ok": true,
+      "pid": 16236,
+      "detail": "Player=0x126820a0 Core=0xcefc0d0 world=(1177,1162)"
+    },
+    "CB": {
+      "ok": true,
+      "pid": 10092,
+      "detail": "Player=0x112e10a0 Core=0x174d10d0 world=(417,1244)"
+    }
+  },
+  "maps": {
+    "TSk": [
+      1177.0,
+      1162.0
+    ],
+    "CB": [
+      417.0,
+      1244.0
+    ]
+  },
+  "gap_before": 764.4,
+  "route": {
+    "from": [
+      417.0,
+      1244.0
+    ],
+    "to": [
+      1237.0,
+      1202.0
+    ],
+    "distance": 821.1,
+    "method_id": 8517,
+    "thunk_says_boxed": true,
+    "invoke": [
+      {
+        "boxed_ints": false,
+        "completed": true,
+        "moved": 620.9
+      }
+    ],
+    "ok": false,
+    "remaining": 200.2,
+    "detail": "no progress; route likely obstructed"
+  },
+  "gap_after_route": 148.0,
+  "located": {
+    "blobs": [
+      {
+        "area": 2149.0,
+        "x": 213,
+        "y": 195,
+        "y_bottom": 240,
+        "w": 60,
+        "h": 64
+      },
+      {
+        "area": 280.0,
+        "x": 431,
+        "y": 407,
+        "y_bottom": 422,
+        "w": 16,
+        "h": 21
+      }
+    ],
+    "hop_to": [
+      907.9,
+      1320.6
+    ],
+    "route": {
+      "from": [
+        1037.0,
+        1210.0
+      ],
+      "to": [
+        907.9188476400599,
+        1320.6257479316182
+      ],
+      "distance": 170.0,
+      "method_id": 8517,
+      "thunk_says_boxed": false,
+      "invoke": [
+        {
+          "boxed_ints": false,
+          "completed": true,
+          "moved": 124.1
+        }
+      ],
+      "ok": false,
+      "remaining": 45.9,
+      "detail": "no progress; route likely obstructed"
+    },
+    "moved": 124.1,
+    "x": 213,
+    "y": 170,
+    "y_bottom": 240,
+    "confidence": "motion"
+  },
+  "nameplate_y": 240,
+  "body_attempts": [
+    {
+      "dy": 0,
+      "body": [
+        213,
+        190
+      ],
+      "local_change": 5.91
+    },
+    {
+      "dy": -20,
+      "body": [
+        213,
+        170
+      ],
+      "local_change": 44.35
+    }
+  ],
+  "radial_opened": true,
+  "accept_clicks": 23,
+  "member_joined": false,
+  "party": {
+    "TSk": false,
+    "CB": false
+  }
+}

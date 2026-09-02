@@ -1,0 +1,21 @@
+{
+  "schema": "DY_SECOND_CLICK_DIAGNOSTIC",
+  "diagnostic_only": true,
+  "run_id": "f7d5c80d-10a8-4111-ae74-b9ef1998db0d",
+  "account": "dy",
+  "pid": 22076,
+  "target": "Lạp Tuyết Địa",
+  "target_map_id": 33,
+  "steps": [
+    {
+      "attempt": 1,
+      "info_panel_before": null,
+      "info_panel_after_click": false,
+      "world_map_open_after_click": false,
+      "arrived": true,
+      "map_id_after": 33
+    }
+  ],
+  "start_map_id": 12,
+  "clicks_needed": 1
+}

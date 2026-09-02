@@ -1,0 +1,46 @@
+{
+  "schema": "H6_FULL",
+  "plate": {
+    "ok": true,
+    "coverage": 0.1172,
+    "size": [
+      131,
+      34
+    ]
+  },
+  "found": {
+    "score": 0.6393,
+    "x": 488,
+    "nameplate_y": 331,
+    "y": 281
+  },
+  "menu": {
+    "ok": true,
+    "center": [
+      488,
+      281
+    ],
+    "ring": 0.6139,
+    "delta": 0.0538,
+    "walked": 0.0,
+    "attempts": [
+      {
+        "offset": -50,
+        "y": 281,
+        "walked": 0.0,
+        "ring_before": 0.5602,
+        "ring_after": 0.6139
+      }
+    ]
+  },
+  "invite_point": [
+    459,
+    281
+  ],
+  "accept_clicks": 23,
+  "joined": false,
+  "party": {
+    "key": false,
+    "member": false
+  }
+}

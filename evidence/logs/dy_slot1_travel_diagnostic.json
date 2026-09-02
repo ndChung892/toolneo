@@ -1,0 +1,22 @@
+{
+  "diagnostic_only": true,
+  "configured_slot": 2,
+  "tested_slot": 1,
+  "login": {
+    "ok": true,
+    "detail": "Player=0x127df0a0 Core=0x1602c0d0 world=(492,1027)",
+    "pid": 8948,
+    "hwnd": 8390120,
+    "account": "dy"
+  },
+  "pid": 8948,
+  "travel": {
+    "ok": false,
+    "target": "Liêu Vân Tộc",
+    "source_map": "",
+    "source_map_id": 0,
+    "detail": "world map did not open",
+    "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\world_map_open_failed_1786709529.png"
+  },
+  "ok": false
+}

@@ -1,0 +1,55 @@
+﻿1 map theo bang BMx (cap 1..5)
+
+[1/1] Lê Dương Bắc  (BMx: cá cấp 1, dược cấp 1)
+      [cho dung] +5 bai (tong 5)
+      ra (100,990): (237,1082) toi noi
+      ra (430,1750): (417,1706) toi noi
+      ra (200,1760): (451,1776) toi noi
+      ra (1410,350): (1270,551) toi noi
+      ra (2240,220): (1969,311) toi noi
+      ra (1440,1850): (1468,1768) toi noi
+      ra (1020,1480): (1061,1507) toi noi
+      ra (1570,580): (1548,620) toi noi
+      ra (2650,1660): (2617,1629) toi noi
+      ra (2280,1670): (2329,1663) toi noi
+      ra (470,790): (524,815) toi noi
+      ra (750,930): (524,815) toi noi
+      ra (2560,1590): (2510,1569) toi noi
+      ra (2820,530): (2803,583) toi noi
+      ra (1670,1880): (1843,1679) toi noi
+      ra (2150,470): (2128,546) toi noi
+      ra (3000,1240): (2949,1199) toi noi
+    5 bai tren map nay
+    [1/5] Đàn Cá Cấp 1 (579,1777)
+      (lan 1: chua nhan duoc gi)
+      (lan 2: chua nhan duoc gi)
+      (lan 3: chua nhan duoc gi)
+      (lan 4: chua nhan duoc gi)
+      (lan 5: chua nhan duoc gi)
+      (lan 6: chua nhan duoc gi)
+      (lan 7: chua nhan duoc gi)
+      (lan 8: chua nhan duoc gi)
+        -> RA: (chua doc duoc)
+    [2/5] Đàn Cá Cấp 1 (63,1707)
+        (khoi dong lai client cho bo nho sach)
+[08:23:25] [WARN] [HEALTH] dong client CB (pid 12240)
+[08:23:28] [INFO] [HEALTH] mo lai CB ...
+[08:23:28] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15244 Flash launched at original size
+[08:23:33] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15244 Bắt đầu
+[08:23:57] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15244 channel=(449, 308) choices=1
+[08:24:01] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15244 character_slot=1 slot_verified=True
+[08:24:07] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15244 Player=0x5e430a0 Core=0xc0670d0 world=(623,1765)
+[08:24:07] [INFO] [HEALTH] CB vao lai xong: pid=15244
+      (lan 1: chua nhan duoc gi)
+      (lan 2: chua nhan duoc gi)
+    client hong (process da tat) — mo lai
+[08:25:10] [INFO] [HEALTH] mo lai CB ...
+[08:25:10] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13380 Flash launched at original size
+[08:25:15] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=13380 Bắt đầu
+[08:25:39] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13380 channel=(449, 308) choices=1
+[08:25:43] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13380 character_slot=1 slot_verified=True
+[08:25:48] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13380 Player=0x1ab570a0 Core=0xc0340d0 world=(446,1783)
+[08:25:48] [INFO] [HEALTH] CB vao lai xong: pid=13380
+        -> RA: (chua doc duoc)
+    [3/5] Đàn Cá Cấp 1 (1560,1843)
+        (khoi dong lai client cho bo nho sach)

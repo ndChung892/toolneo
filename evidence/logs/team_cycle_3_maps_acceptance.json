@@ -1,0 +1,386 @@
+{
+  "schema": "TEAM_CYCLE_3_MAPS_V1",
+  "status": "PARTIAL",
+  "run_id": "team-cycle-4e8b37d9-6de3-46df-9b2f-525b5cafdd0e",
+  "started_at": 1786799268.5380068,
+  "maps": [
+    "Liêu Vân Tộc",
+    "Thiên Khung Tộc",
+    "Anh Vũ Cảnh"
+  ],
+  "clears_per_cycle": 2,
+  "key_account": "pepsi",
+  "member_account": "dy",
+  "note": "pepsi clears; dy is party-only and produces no battle edges",
+  "cycles": [
+    {
+      "cycle": 1,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "logins": {
+        "acc_2": {
+          "ok": true,
+          "pid": 22220,
+          "detail": "Player=0xca570a0 Core=0x104220d0 world=(969,830)",
+          "attempt": 1
+        },
+        "acc_1": {
+          "ok": true,
+          "pid": 14556,
+          "detail": "Player=0x183760a0 Core=0x153350d0 world=(969,830)",
+          "attempt": 1
+        }
+      },
+      "travel": {
+        "acc_2": {
+          "detail": "verified",
+          "map_id": 13
+        },
+        "acc_1": {
+          "detail": "verified",
+          "map_id": 13
+        }
+      },
+      "party_before": {
+        "acc_2": {
+          "atom": 1,
+          "in_party": false
+        },
+        "acc_1": {
+          "atom": 1,
+          "in_party": false
+        }
+      },
+      "invite": {
+        "separate": {
+          "attempts": [
+            {
+              "attempt": 0,
+              "gap": 0.0,
+              "action": "measure"
+            },
+            {
+              "attempt": 1,
+              "offset": [
+                90,
+                60
+              ],
+              "gap": 0.0,
+              "improved": false
+            },
+            {
+              "attempt": 1,
+              "offset": [
+                -90,
+                -60
+              ],
+              "gap": 199.5,
+              "improved": true
+            },
+            {
+              "attempt": 2,
+              "offset": [
+                -90,
+                -60
+              ],
+              "gap": 199.5,
+              "improved": false
+            }
+          ],
+          "gap": 112.7,
+          "in_band": true
+        },
+        "nameplate": {
+          "score": 0.8037,
+          "x": 389,
+          "y": 232
+        },
+        "nameplate_searches": [
+          {
+            "search": 1,
+            "score": 0.8037,
+            "x": 389,
+            "y": 232
+          }
+        ],
+        "body_click": [
+          389,
+          182
+        ],
+        "invite_click": [
+          360,
+          182
+        ],
+        "accept_clicks": 16,
+        "member_joined": false
+      },
+      "party_after": {
+        "acc_2": {
+          "atom": 1,
+          "in_party": false,
+          "found_names": []
+        },
+        "acc_1": {
+          "atom": 1,
+          "in_party": false,
+          "found_names": []
+        }
+      },
+      "party_ok": false,
+      "result": "PARTY_NOT_FORMED"
+    },
+    {
+      "cycle": 2,
+      "map": "Thiên Khung Tộc",
+      "map_id": 32,
+      "logins": {
+        "acc_2": {
+          "ok": true,
+          "pid": 3852,
+          "detail": "Player=0xddd70a0 Core=0x9b7f0d0 world=(869,805)",
+          "attempt": 1
+        },
+        "acc_1": {
+          "ok": true,
+          "pid": 13476,
+          "detail": "Player=0xa1150a0 Core=0x7de00d0 world=(423,1244)",
+          "attempt": 1
+        }
+      },
+      "travel": {
+        "acc_2": {
+          "detail": "verified",
+          "map_id": 32
+        },
+        "acc_1": {
+          "detail": "verified",
+          "map_id": 32
+        }
+      },
+      "party_before": {
+        "acc_2": {
+          "atom": 1,
+          "in_party": false
+        },
+        "acc_1": {
+          "atom": 1,
+          "in_party": false
+        }
+      },
+      "invite": {
+        "separate": {
+          "attempts": [
+            {
+              "attempt": 0,
+              "gap": 0.0,
+              "action": "measure"
+            },
+            {
+              "attempt": 1,
+              "offset": [
+                90,
+                60
+              ],
+              "gap": 100.6,
+              "improved": true
+            }
+          ],
+          "gap": 100.6,
+          "in_band": true
+        },
+        "nameplate": {
+          "score": 0.8065,
+          "x": 541,
+          "y": 359
+        },
+        "nameplate_searches": [
+          {
+            "search": 1,
+            "score": 0.8065,
+            "x": 541,
+            "y": 359
+          }
+        ],
+        "body_click": [
+          541,
+          309
+        ],
+        "invite_click": [
+          512,
+          309
+        ],
+        "accept_clicks": 1,
+        "member_joined": true
+      },
+      "party_after": {
+        "acc_2": {
+          "atom": 598908993,
+          "in_party": true,
+          "found_names": []
+        },
+        "acc_1": {
+          "atom": 458120449,
+          "in_party": true,
+          "found_names": []
+        }
+      },
+      "party_ok": true,
+      "auto": {
+        "state": "AUTO_ON",
+        "cross_ratio": 0.0,
+        "edge_ratio": 0.3112,
+        "samples": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "detail": "stable across samples"
+      },
+      "precheck_ok": true,
+      "attacks": 2,
+      "clears": 2,
+      "party_at_end": {
+        "acc_2": true,
+        "acc_1": true
+      },
+      "ok": true,
+      "result": "OK"
+    },
+    {
+      "cycle": 3,
+      "map": "Anh Vũ Cảnh",
+      "map_id": 34,
+      "logins": {
+        "acc_2": {
+          "ok": true,
+          "pid": 1648,
+          "detail": "Player=0x10eab0a0 Core=0xbd720d0 world=(220,942)",
+          "attempt": 1
+        },
+        "acc_1": {
+          "ok": true,
+          "pid": 19888,
+          "detail": "Player=0x12eef0a0 Core=0xb77a0d0 world=(220,942)",
+          "attempt": 1
+        }
+      },
+      "travel": {
+        "acc_2": {
+          "detail": "verified",
+          "map_id": 34
+        },
+        "acc_1": {
+          "detail": "verified",
+          "map_id": 34
+        }
+      },
+      "party_before": {
+        "acc_2": {
+          "atom": 1,
+          "in_party": false
+        },
+        "acc_1": {
+          "atom": 1,
+          "in_party": false
+        }
+      },
+      "invite": {
+        "separate": {
+          "attempts": [
+            {
+              "attempt": 0,
+              "gap": 0.0,
+              "action": "measure"
+            },
+            {
+              "attempt": 1,
+              "offset": [
+                90,
+                60
+              ],
+              "gap": 38.9,
+              "improved": true
+            },
+            {
+              "attempt": 2,
+              "offset": [
+                90,
+                60
+              ],
+              "gap": 38.9,
+              "improved": false
+            },
+            {
+              "attempt": 3,
+              "offset": [
+                90,
+                60
+              ],
+              "gap": 38.9,
+              "improved": false
+            },
+            {
+              "attempt": 3,
+              "offset": [
+                -90,
+                -60
+              ],
+              "gap": 38.9,
+              "improved": false
+            },
+            {
+              "attempt": 3,
+              "offset": [
+                90,
+                -60
+              ],
+              "gap": 87.2,
+              "improved": true
+            }
+          ],
+          "gap": 87.2,
+          "in_band": true
+        },
+        "nameplate": {
+          "score": 0.8045,
+          "x": 537,
+          "y": 357
+        },
+        "nameplate_searches": [
+          {
+            "search": 1,
+            "score": 0.8045,
+            "x": 537,
+            "y": 357
+          }
+        ],
+        "body_click": [
+          537,
+          307
+        ],
+        "invite_click": [
+          508,
+          307
+        ],
+        "accept_clicks": 2,
+        "member_joined": false
+      },
+      "party_after": {
+        "acc_2": {
+          "atom": 1,
+          "in_party": false,
+          "found_names": []
+        },
+        "acc_1": {
+          "atom": 1,
+          "in_party": false,
+          "found_names": []
+        }
+      },
+      "party_ok": false,
+      "result": "PARTY_NOT_FORMED"
+    }
+  ],
+  "completed_at": 1786800336.8760362,
+  "failure_reason": "Liêu Vân Tộc: PARTY_NOT_FORMED; Anh Vũ Cảnh: PARTY_NOT_FORMED"
+}

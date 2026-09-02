@@ -1,0 +1,3 @@
+auto
+1
+C-IF(Auto_huy.png)	250	 	

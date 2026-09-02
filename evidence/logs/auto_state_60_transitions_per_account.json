@@ -1,0 +1,3825 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_F_V2",
+  "status": "PASS",
+  "run_id": "target-f-e921631d-2ea3-4c0f-b2f1-acd94568c042",
+  "started_at": 1786784505.420057,
+  "required_transitions_each_way": 30,
+  "required_obscured_trials": 10,
+  "accounts": [
+    {
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "pid": 16544,
+      "hwnd": 394300,
+      "login_ok": true,
+      "transitions": [
+        {
+          "index": 1,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3223,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3084,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 1,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3084,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 2,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 2,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 3,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 3,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 4,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 4,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 5,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 5,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 6,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 6,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 7,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 7,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 8,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 8,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 9,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 9,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 10,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 10,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 11,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 11,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 12,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 12,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 13,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 13,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 14,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 14,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 15,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 15,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 16,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 16,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 17,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 17,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 18,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 18,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 19,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 19,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 20,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 20,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 21,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 21,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 22,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 22,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 23,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 23,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 24,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 24,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 25,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 25,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 26,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 26,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 27,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3084,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 27,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3084,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 28,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 28,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 29,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 29,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 30,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 30,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3212,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3261,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        }
+      ],
+      "obscured": [
+        {
+          "trial": 1,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 2,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 3,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 4,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 5,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 6,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 7,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 8,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 9,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 10,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        }
+      ],
+      "initial_state": {
+        "state": "AUTO_OFF",
+        "cross_ratio": 0.1624,
+        "edge_ratio": 0.32,
+        "samples": [
+          0.1624,
+          0.1624,
+          0.1624
+        ],
+        "detail": "stable across samples"
+      },
+      "false_positives": 0,
+      "off_to_on": 30,
+      "on_to_off": 30,
+      "obscured_ok": 10,
+      "ok": true
+    },
+    {
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "pid": 15676,
+      "hwnd": 590912,
+      "login_ok": true,
+      "transitions": [
+        {
+          "index": 1,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3317,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3189,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 1,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3189,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 2,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 2,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 3,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 3,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 4,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 4,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 5,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 5,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 6,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 6,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 7,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 7,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 8,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 8,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 9,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 9,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 10,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 10,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 11,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 11,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 12,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 12,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 13,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 13,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 14,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 14,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 15,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 15,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 16,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 16,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 17,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 17,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 18,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 18,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 19,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 19,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 20,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 20,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 21,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 21,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 22,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 22,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3283,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 23,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3283,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 23,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 24,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 24,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 25,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 25,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 26,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 26,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3283,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 27,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1624,
+            "edge_ratio": 0.3283,
+            "samples": [
+              0.1624,
+              0.1624,
+              0.1624
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 27,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 28,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 28,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 29,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 29,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 30,
+          "edge": "AUTO_OFF->AUTO_ON",
+          "before": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        },
+        {
+          "index": 30,
+          "edge": "AUTO_ON->AUTO_OFF",
+          "before": {
+            "state": "AUTO_ON",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.3306,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "stable across samples"
+          },
+          "after": {
+            "state": "AUTO_OFF",
+            "cross_ratio": 0.1634,
+            "edge_ratio": 0.3355,
+            "samples": [
+              0.1634,
+              0.1634,
+              0.1634
+            ],
+            "detail": "stable across samples"
+          },
+          "ok": true
+        }
+      ],
+      "obscured": [
+        {
+          "trial": 1,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 2,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 3,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 4,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 5,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 6,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 7,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 8,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 9,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        },
+        {
+          "trial": 10,
+          "reading": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "set_state_result": {
+            "state": "AUTO_UNKNOWN",
+            "cross_ratio": 0.0,
+            "edge_ratio": 0.0332,
+            "samples": [
+              0.0,
+              0.0,
+              0.0
+            ],
+            "detail": "button not readable (covered, blank or ambiguous)"
+          },
+          "ok": true
+        }
+      ],
+      "initial_state": {
+        "state": "AUTO_OFF",
+        "cross_ratio": 0.1624,
+        "edge_ratio": 0.32,
+        "samples": [
+          0.1624,
+          0.1624,
+          0.1624
+        ],
+        "detail": "stable across samples"
+      },
+      "false_positives": 0,
+      "off_to_on": 30,
+      "on_to_off": 30,
+      "obscured_ok": 10,
+      "ok": true
+    }
+  ],
+  "completed_at": 1786785105.4817717
+}

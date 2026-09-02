@@ -1,0 +1,9 @@
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_2"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (778, 108); không đóng"}
+{"type": "log", "msg": "Daily pepsi: bỏ qua MẬT BẢO (lỗi): popup guard: unknown_modal_blocked — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260825_111521_MẬT_BẢO.png"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (778, 108); không đóng"}
+{"type": "log", "msg": "Daily pepsi: bỏ qua ĐIÊU KHẮC (lỗi): popup guard: unknown_modal_blocked — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260825_111521_ĐIÊU_KHẮC.png"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (778, 108); không đóng"}
+{"type": "log", "msg": "Daily pepsi: bỏ qua HÀNH LANG (lỗi): không tới Quyến Cố Thành: popup guard trước chuyển map: unknown_modal_blocked — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260825_111522_HÀNH_LANG.png"}
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: MẬT BẢO, ĐIÊU KHẮC, HÀNH LANG"}
+DONE, alive= []

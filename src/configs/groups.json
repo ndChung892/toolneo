@@ -1,0 +1,28 @@
+{
+  "default_train": {
+    "maps": [
+      "Lạp Tuyết Địa"
+    ],
+    "end_minutes": 0,
+    "ensure_auto": true,
+    "keep_grounded": true,
+    "hide_windows": false,
+    "dismiss_popups": true,
+    "infinite_auto": false,
+    "train_npcs": {}
+  },
+  "groups": [
+    {
+      "name": "Nhóm 1",
+      "team_mode": "party",
+      "key_account": "acc_1",
+      "train": null
+    },
+    {
+      "name": "a",
+      "team_mode": "party",
+      "key_account": "",
+      "train": null
+    }
+  ]
+}

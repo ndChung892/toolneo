@@ -1,0 +1,4 @@
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_2"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (678, 58); không đóng"}
+{"type": "log", "msg": "Daily dừng tại VIP: popup guard: unknown_modal_blocked"}
+DONE, alive= []

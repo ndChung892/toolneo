@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "pid": 8624,
+  "hwnd": 333760,
+  "address": 91266752,
+  "attacks": 3,
+  "clears": 3,
+  "restores": 2,
+  "final_value": 150,
+  "events": [
+    {
+      "t": 1786641427.3766851,
+      "state": "ATTACHING",
+      "pid": 8624,
+      "address": 0,
+      "value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "-"
+    },
+    {
+      "t": 1786641434.1412892,
+      "state": "SCANNING",
+      "pid": 8624,
+      "address": 0,
+      "value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "First Scan: Exact Value 150, 4 Bytes theo PID"
+    },
+    {
+      "t": 1786641434.654109,
+      "state": "WAIT_AUTO_BATTLE",
+      "pid": 8624,
+      "address": 0,
+      "value": 0,
+      "proofs": 0,
+      "restores": 0,
+      "detail": "Theo dõi 2026 candidate; cần Auto giảm qua 2 trận"
+    },
+    {
+      "t": 1786641469.629917,
+      "state": "PROVEN",
+      "pid": 8624,
+      "address": 91266752,
+      "value": 0,
+      "proofs": 2,
+      "restores": 0,
+      "detail": "Auto ON đã được chứng minh bằng giảm tuần tự"
+    },
+    {
+      "t": 1786641485.7723625,
+      "state": "ARMED",
+      "pid": 8624,
+      "address": 91266752,
+      "value": 150,
+      "proofs": 2,
+      "restores": 1,
+      "detail": "Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo"
+    },
+    {
+      "t": 1786641521.4035153,
+      "state": "ARMED",
+      "pid": 8624,
+      "address": 91266752,
+      "value": 150,
+      "proofs": 2,
+      "restores": 2,
+      "detail": "Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo"
+    },
+    {
+      "t": 1786641521.5069704,
+      "state": "STOPPED",
+      "pid": 8624,
+      "address": 91266752,
+      "value": 150,
+      "proofs": 2,
+      "restores": 2,
+      "detail": "Đã trả 150 ngoài trận; sẵn sàng quái tiếp theo"
+    }
+  ]
+}

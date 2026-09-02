@@ -1,0 +1,224 @@
+﻿tasks: ['VIP', 'MẬT BẢO', 'ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'PHỤ BẢN', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH', 'TRỪ MA', 'TRỊ AN']
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1"}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15956 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15956 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=15956 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15956 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=15956 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15956 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15956 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15956 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15956 Player=0x1c66e0a0 Core=0x17fec0d0 world=(3075,773)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily CB: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily CB: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily CB: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily CB: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "Daily CB: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.69s panel=0x0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=8.19s"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=8.12s"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.06s panel=0x2a406ae0"}
+{"type": "log", "msg": "[DUNGEON] Trở Lại Lang Huyệt: bỏ qua lượt này — Trở Lại Lang Huyệt: không có trong list account/level hiện tại"}
+{"type": "log", "msg": "[POPUP] đã đóng npc_dialog"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.05s panel=0x2a406ae0"}
+{"type": "log", "msg": "[DUNGEON] Quỷ Hút Máu: bỏ qua lượt này — Quỷ Hút Máu: NPC không chào quest này ở lượt hiện tại (đã nhận hoặc hết lượt)"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.05s panel=0x2a406ae0"}
+{"type": "log", "msg": "[DUNGEON] Thế Giới Số: bỏ qua lượt này — Thế Giới Số: NPC không chào quest này ở lượt hiện tại (đã nhận hoặc hết lượt)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+{"type": "log", "msg": "[DUNGEON] Claim Mê Huyễn Động: button score=0.940 box=(202, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_15956_Mê Huyễn Động_1787967405.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Mê Huyễn Động: readback start PASS"}
+{"type": "log", "msg": "[DUNGEON] Claim Kho Báu Đại Mạc: button score=1.000 box=(428, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_15956_Kho Báu Đại Mạc_1787967410.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Kho Báu Đại Mạc: readback start PASS"}
+{"type": "log", "msg": "[DUNGEON] Claim Lục Tiên Cảnh: button score=1.000 box=(654, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_15956_Lục Tiên Cảnh_1787967414.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Lục Tiên Cảnh: readback start PASS"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: button score=0.940 box=(202, 280, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_15956_Liệt Diễm Thâm Uyên_1787967418.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: readback start PASS"}
+{"type": "log", "msg": "[DUNGEON] Trở Lại Lang Huyệt: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "[DUNGEON] Quỷ Hút Máu: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "[DUNGEON] Thế Giới Số: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Mê Huyễn Động:claim; Kho Báu Đại Mạc:claim; Lục Tiên Cảnh:claim; Liệt Diễm Thâm Uyên:claim; Liệt Diễm Thâm Uyên:start; Thám Hiểm:start | bỏ qua (NPC không chào): Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số, Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số"}
+{"type": "log", "msg": "Daily xong bước PHỤ BẢN: Mê Huyễn Động:claim; Kho Báu Đại Mạc:claim; Lục Tiên Cảnh:claim; Liệt Diễm Thâm Uyên:claim; Liệt Diễm Thâm Uyên:start; Thám Hiểm:start | bỏ qua (NPC không chào): Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số, Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số"}
+{"type": "log", "msg": "Daily CB: cleanup memory PHỤ BẢN: {'ok': True, 'results': {'quest': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'auto_dungeon': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}
+{"type": "log", "msg": "Daily CB: cleanup memory HÀNH LANG: {'ok': True, 'results': {'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước THẦN TU: THẦN TU: server từ chối — cần kích hoạt VIP; không chờ mốc thời gian"}
+{"type": "log", "msg": "Daily CB: THẦN TU SERVER_REJECTED — bỏ mốc chờ 25 phút."}
+{"type": "log", "msg": "[POPUP] phát hiện X lạ ổn định tại (778, 108); UNKNOWN nên không bấm"}
+{"type": "log", "msg": "Daily CB: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: unknown_modal_blocked — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_083821_TU_HÀNH.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước TRỪ MA..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16048 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16048 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16048 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16048 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16048 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16048 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16048 Player=0x142fe0a0 Core=0xc09a0d0 world=(2218,398)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mở NPC lần 1/8 chưa thành công: exact NPC Quan Quân Nhu (family 306009 rid 3) count=0"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mở NPC lần 2/8 chưa thành công: exact NPC Quan Quân Nhu (family 306009 rid 3) count=0"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: phục hồi nhiệm vụ đã giết xong: Phong Ấn Cự Thú"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: trả Phong Ấn Cự Thú: chat toast không còn trong heap, nhưng NPC đã trả về dòng vòng mới — xác nhận server OK"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 1/10 (Phong Ấn Cự Thú)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Ma (id=7670, margin=6)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x12813d70 distance=996"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=996 receiver=0x2124caf0 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=187 receiver=0x2124caf0 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2168"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 2/10 (Phong Ấn Cự Ma)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Ma (id=7670, margin=7)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x268ec330 distance=996"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=996 receiver=0x12449e50 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=225 receiver=0x12449e50 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2168"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 3/10 (Phong Ấn Cự Ma)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phi Ma Tập Kích (id=7668, margin=3)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x23f295c0 distance=644"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=644 receiver=0x212d4280 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=47 receiver=0x212d4280 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=1173"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 4/10 (Phi Ma Tập Kích)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Ma (id=7670, margin=6)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x2f7ae330 distance=1014"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=1014 receiver=0x2124c430 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=211 receiver=0x2124c430 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2168"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 5/10 (Phong Ấn Cự Ma)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Ma (id=7670, margin=8)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x20386ae0 distance=996"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=996 receiver=0x2124c790 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=171 receiver=0x2124c790 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2168"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 6/10 (Phong Ấn Cự Ma)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Thú (id=7669, margin=4)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x1d45d330 distance=429"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x2124c790 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=170 receiver=0x2124c790 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 7/10 (Phong Ấn Cự Thú)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phong Ấn Cự Thú (id=7669, margin=4)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x20386d70 distance=429"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x2124c940 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=182 receiver=0x2124c940 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 8/10 (Phong Ấn Cự Thú)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: nhận diện: Phi Ma Tập Kích (id=7668, margin=6)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114"}
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+{"type": "log", "msg": "[AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x2e448330 distance=644"}
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11654850 method_info=0xa090ac0 slot322_method_id=18293"}
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=644 receiver=0x212d4ca0 method=18293 stage=1"}
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=47 receiver=0x212d4ca0 method=18293 stage=2"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=1173"}
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: xong lượt 9/10 (Phi Ma Tập Kích)"}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA CB: hết lượt Trừ Ma hôm nay sau 9 lần (bảng NPC không còn nhiệm vụ Trừ Ma nào) — dừng."}
+{"type": "log", "msg": "Daily xong bước TRỪ MA: DONE_NO_QUEST — 9/10 lượt; hết lượt Trừ Ma hôm nay sau 9 lần (bảng NPC không còn nhiệm vụ Trừ Ma nào) — dừng."}
+{"type": "log", "msg": "Daily CB: cleanup memory TRỪ MA: {'ok': True, 'results': {'quest': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'npc_dialog': {'ok': True, 'changed': True, 'before': True, 'after': False, 'detail': 'readback confirmed'}}}"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 1/8 chưa thành công: không tới được NPC: no progress; route likely obstructed"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: đã nhận nhiệm vụ id=7667 (Phản Quân Hải Tặc)"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: vật phẩm mã 4843 ở trang 2 ô 22 (sid 2183)"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: dừng ở lượt 1: dùng vật phẩm chỉ đường: không mở được túi đồ qua memory: {'ok': False, 'state': 'UNKNOWN', 'detail': 'show/hide did not complete'}"}
+{"type": "log", "msg": "Daily CB: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 1: dùng vật phẩm chỉ đường: không mở được túi đồ qua memory: {'ok': False, 'state': 'UNKNOWN', 'detail': 'show/hide did not complete'} — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_090004_TRỊ_AN.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10056 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10056 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=10056 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10056 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10056 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10056 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10056 Player=0x106570a0 Core=0x176430d0 world=(3123,753)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 1..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12312 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12312 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12312 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12312 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12312 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12312 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12312 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12312 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12312 Player=0xe7ba0a0 Core=0x1501c0d0 world=(3123,753)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.66s panel=0x0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.44s"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.67s"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.92s panel=0x24f380a0"}
+{"type": "log", "msg": "[DUNGEON] Trở Lại Lang Huyệt: bỏ qua lượt này — Trở Lại Lang Huyệt: không có trong list account/level hiện tại"}
+{"type": "log", "msg": "[POPUP] đã đóng npc_dialog"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.84s panel=0x24f380a0"}
+{"type": "log", "msg": "[DUNGEON] Quỷ Hút Máu: bỏ qua lượt này — Quỷ Hút Máu: NPC không chào quest này ở lượt hiện tại (đã nhận hoặc hết lượt)"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.94s panel=0x24f380a0"}
+{"type": "log", "msg": "[DUNGEON] Thế Giới Số: bỏ qua lượt này — Thế Giới Số: NPC không chào quest này ở lượt hiện tại (đã nhận hoặc hết lượt)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: button score=0.940 box=(202, 280, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_12312_Liệt Diễm Thâm Uyên_1787970512.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: readback start PASS"}
+{"type": "log", "msg": "[DUNGEON] Trở Lại Lang Huyệt: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "[DUNGEON] Quỷ Hút Máu: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "[DUNGEON] Thế Giới Số: bỏ start — ledger vật phẩm 0 chưa đủ cho lượt 1"}
+{"type": "log", "msg": "[DUNGEON] Claim Thám Hiểm: button score=1.000 box=(428, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_12312_Thám Hiểm_1787970536.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Thám Hiểm: readback start PASS"}
+{"type": "log", "msg": "Daily PHỤ BẢN checkpoint độc lập 1 (25 phút): Liệt Diễm Thâm Uyên:claim; Thám Hiểm:claim; Thám Hiểm:start | bỏ qua (NPC không chào): Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số, Trở Lại Lang Huyệt, Quỷ Hút Máu, Thế Giới Số"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Auto phụ bản checkpoint 2; chờ 31 phút."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 2..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14496 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14496 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14496 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14496 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14496 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14496 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14496 Player=0x1c6b90a0 Core=0xa61c0d0 world=(3109,1636)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 4.94s panel=0x0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'} elapsed=7.94s"}
+{"type": "log", "msg": "Daily PHỤ BẢN checkpoint độc lập 2 (31 phút): không mở được NPC Sử Giả Mở Phụ Bản bằng memory"}
+{"type": "log", "msg": "Daily CB: bỏ qua PHỤ BẢN (lỗi): checkpoint độc lập: không mở được NPC Sử Giả Mở Phụ Bản bằng memory — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_100121_PHỤ_BẢN.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily CB: bỏ qua PHỤ BẢN (lỗi): hết ba checkpoint nhưng card chưa hoàn tất"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: VIP, NHẬN THỜI TRANG, MẬT BẢO, ĐIÊU KHẮC, LẬT THẺ BÀI, PHỤ BẢN, HÀNH LANG, THẦN TU, TU HÀNH, TRỪ MA, TRỊ AN"}
+DONE, alive= []

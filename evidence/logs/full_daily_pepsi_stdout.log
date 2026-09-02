@@ -1,0 +1,5 @@
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_2"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily dừng tại MẬT BẢO: đã bấm công thức cấp 6 nhưng cột nguyên liệu chưa đổi; không được bấm Chế tạo"}
+DONE, alive= []

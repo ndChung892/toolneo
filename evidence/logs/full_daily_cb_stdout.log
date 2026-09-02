@@ -1,0 +1,24 @@
+tasks: ['VIP', 'MẬT BẢO', 'ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'PHỤ BẢN', 'HÀNH LANG', 'TU HÀNH']
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1"}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14960 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14960 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14960 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14960 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14960 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14960 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14960 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14960 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14960 Player=0x14ca70a0 Core=0x80580d0 world=(1225,522)"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+{"type": "log", "msg": "[DUNGEON] Claim Liệt Diễm Thâm Uyên: panel/page gate failed"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Liệt Diễm Thâm Uyên: claim không có readback"}
+{"type": "log", "msg": "Daily dừng tại PHỤ BẢN: Liệt Diễm Thâm Uyên: claim không có readback"}
+DONE, alive= []

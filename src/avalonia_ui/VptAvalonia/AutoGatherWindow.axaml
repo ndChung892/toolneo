@@ -1,0 +1,152 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.AutoGatherWindow"
+        Title="Tự động Câu/Hái nhiều tài khoản"
+        Width="640" Height="380"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Green" Color="#4e9e3a"/>
+    <SolidColorBrush x:Key="Red" Color="#9c3232"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+    <SolidColorBrush x:Key="Sel" Color="#3a5f8a"/>
+    <SolidColorBrush x:Key="Combo" Color="#3c3f41"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="CheckBox">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="0"/>
+    </Style>
+    <Style Selector="RadioButton"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="ComboBox">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="26"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="BorderThickness" Value="1"/>
+    </Style>
+    <Style Selector="ComboBox /template/ Border#Background">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+    </Style>
+    <Style Selector="Button">
+      <Setter Property="CornerRadius" Value="3"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+      <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.tool">
+      <Setter Property="Background" Value="{StaticResource Gray}"/>
+      <Setter Property="Height" Value="26"/>
+      <Setter Property="Padding" Value="10,2"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="Button.act">
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Height" Value="29"/>
+      <Setter Property="Padding" Value="11,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+
+    <Style Selector="DataGridRow:selected /template/ Rectangle#BackgroundRectangle">
+      <Setter Property="Fill" Value="{StaticResource Sel}"/>
+      <Setter Property="Opacity" Value="1"/>
+    </Style>
+    <Style Selector="DataGridColumnHeader">
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="Background" Value="#2b2d30"/>
+      <Setter Property="Height" Value="25"/>
+      <Setter Property="Padding" Value="0"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="DataGridCell">
+      <Setter Property="FontSize" Value="12"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="FocusAdorner" Value="{x:Null}"/>
+    </Style>
+    <Style Selector="DataGridCell:current /template/ Rectangle#CurrencyVisual">
+      <Setter Property="IsVisible" Value="False"/>
+    </Style>
+    <Style Selector="DataGridCell:focus /template/ Rectangle#FocusVisual">
+      <Setter Property="IsVisible" Value="False"/>
+    </Style>
+  </Window.Styles>
+
+  <DockPanel Margin="10">
+
+    <!-- Add a row by picking an account, not by typing one: the account list is
+         the source of truth for which characters exist, so retyping a name here
+         could only ever introduce a mismatch. -->
+    <!-- No entry-mode choice here. This window IS the unattended path, so it
+         always logs in itself; driving an already-open client is what the
+         Daily HÁI/CÂU button is for. One less control that could be set to the
+         wrong thing without the user noticing. -->
+    <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Spacing="6" Margin="0,0,0,7">
+      <TextBlock Text="Tài khoản" VerticalAlignment="Center"/>
+      <ComboBox x:Name="CbAccount" Width="180"/>
+      <Button Classes="tool" Content="+ Thêm" Click="OnAdd"/>
+      <Button Classes="tool" Content="− Bỏ" Click="OnRemove"
+              ToolTip.Tip="Bỏ dòng đang chọn trong bảng"/>
+      <TextBlock Text="Tool tự đăng nhập" Foreground="{StaticResource Dim}"
+                 FontSize="11" VerticalAlignment="Center" Margin="6,0,0,0"/>
+    </StackPanel>
+
+    <!-- One time budget for the whole batch, not one per row: these accounts
+         are started together and meant to run the same session. -->
+    <Grid DockPanel.Dock="Bottom" ColumnDefinitions="Auto,Auto,Auto,*,Auto,Auto" Margin="0,8,0,0">
+      <TextBlock Grid.Column="0" Text="Thời gian chạy" VerticalAlignment="Center" Margin="0,0,7,0"/>
+      <TextBox Grid.Column="1" x:Name="TMinutes" Text="0" Width="64"
+               Background="{StaticResource Field}" Foreground="{StaticResource Text}"
+               BorderBrush="{StaticResource Border}" CornerRadius="2" Padding="6,3" MinHeight="27"/>
+      <TextBlock Grid.Column="2" Text="phút  (0 = tới khi bấm Stop)" VerticalAlignment="Center"
+                 Foreground="{StaticResource Dim}" FontSize="11" Margin="7,0,0,0"/>
+      <Button Grid.Column="4" Classes="act" Content="Start" Width="92" Margin="0,0,8,0"
+              Background="{StaticResource Green}" Click="OnStart"/>
+      <Button Grid.Column="5" Classes="act" Content="Stop" Width="92"
+              Background="{StaticResource Red}" Click="OnStop"/>
+    </Grid>
+
+    <TextBlock DockPanel.Dock="Bottom" x:Name="Hint" Text="Tiến độ xem ở Nhật ký cửa sổ chính."
+               Foreground="{StaticResource Dim}" FontSize="11" Margin="0,6,0,0" TextWrapping="Wrap"/>
+
+    <!-- One row per account, each with its OWN produce and its own time budget.
+         A single shared dropdown could not express what this is for: one
+         account on herbs while another fishes. The kind is never asked - the
+         label already says whether it is a fish or a herb, so the row infers
+         it, and the two can never contradict each other. -->
+    <Border BorderBrush="{StaticResource Border}" BorderThickness="1" CornerRadius="2">
+      <DataGrid x:Name="PlanGrid" AutoGenerateColumns="False" IsReadOnly="False"
+                HeadersVisibility="Column" GridLinesVisibility="Horizontal"
+                SelectionMode="Single" RowHeight="30"
+                Background="#2b2d30" RowBackground="#2b2d30">
+        <DataGrid.Columns>
+          <DataGridTextColumn Header="TÀI KHOẢN" Binding="{Binding Name}"
+                              Width="140" IsReadOnly="True" CanUserSort="False"/>
+          <DataGridTemplateColumn Header="NÔNG SẢN" Width="*" CanUserSort="False">
+            <DataGridTemplateColumn.CellTemplate>
+              <DataTemplate>
+                <ComboBox SelectedItem="{Binding Spot, Mode=TwoWay}" ItemsSource="{Binding Spots}"
+                          HorizontalAlignment="Stretch" VerticalAlignment="Center"
+                          Margin="3,0" MinHeight="26" Padding="6,2" FontSize="11.5"/>
+              </DataTemplate>
+            </DataGridTemplateColumn.CellTemplate>
+          </DataGridTemplateColumn>
+          <DataGridTextColumn Header="ĐÃ CHẠY" Binding="{Binding Elapsed}"
+                              Width="86" IsReadOnly="True" CanUserSort="False"/>
+        </DataGrid.Columns>
+      </DataGrid>
+    </Border>
+  </DockPanel>
+</Window>

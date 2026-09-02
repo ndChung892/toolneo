@@ -1,0 +1,127 @@
+[
+  {
+    "offset": "0x2A0",
+    "live_u32": 32,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2A4",
+    "live_u32": 261,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2A8",
+    "live_u32": 278855680,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2B4",
+    "live_u32": 0,
+    "gone_u32": 35
+  },
+  {
+    "offset": "0x2B8",
+    "live_u32": 16908288,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2D0",
+    "live_u32": 12590884,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2E0",
+    "live_u32": 17,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2E4",
+    "live_u32": 265990208,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2EC",
+    "live_u32": 299609712,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0x2F0",
+    "live_u32": 12590884,
+    "gone_u32": 0
+  },
+  {
+    "offset": "0xA8",
+    "live_double": 2.1925719203283367e-222,
+    "gone_double": 2.278430931e-314
+  },
+  {
+    "offset": "0xB0",
+    "live_double": 2.4173103056e-314,
+    "gone_double": 2.4004270944e-314
+  },
+  {
+    "offset": "0xC8",
+    "live_double": 10493.0,
+    "gone_double": 11218.0
+  },
+  {
+    "offset": "0x108",
+    "live_double": 1127.0,
+    "gone_double": 1138.0
+  },
+  {
+    "offset": "0x150",
+    "live_double": 2165.0,
+    "gone_double": 2505.0
+  },
+  {
+    "offset": "0x268",
+    "live_double": 4.38361927201375e-193,
+    "gone_double": 4.383619242921813e-193
+  },
+  {
+    "offset": "0x290",
+    "live_double": 2.3070635195864538e-294,
+    "gone_double": 6.372613054e-314
+  },
+  {
+    "offset": "0x298",
+    "live_double": 2.2248516905582972e-172,
+    "gone_double": 1.0584116162634886e-171
+  },
+  {
+    "offset": "0x2A0",
+    "live_double": 5.538409014577e-312,
+    "gone_double": 0.0
+  },
+  {
+    "offset": "0x2A8",
+    "live_double": 1.377730116e-315,
+    "gone_double": 0.0
+  },
+  {
+    "offset": "0x2B0",
+    "live_double": 0.0,
+    "gone_double": 7.4269852684e-313
+  },
+  {
+    "offset": "0x2D0",
+    "live_double": 6.220723e-317,
+    "gone_double": 0.0
+  },
+  {
+    "offset": "0x2E0",
+    "live_double": 2.6860069995776437e-232,
+    "gone_double": 0.0
+  },
+  {
+    "offset": "0x2E8",
+    "live_double": 1.196550997513391e-222,
+    "gone_double": 0.0
+  },
+  {
+    "offset": "0x2F0",
+    "live_double": 6.220723e-317,
+    "gone_double": 0.0
+  }
+]

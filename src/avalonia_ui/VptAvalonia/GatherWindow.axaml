@@ -1,0 +1,114 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.GatherWindow"
+        Title="Hái/Câu"
+        Width="430" Height="196"
+        SizeToContent="Height"
+        CanResize="False"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Green" Color="#4e9e3a"/>
+    <SolidColorBrush x:Key="Red" Color="#9c3232"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+    <SolidColorBrush x:Key="Combo" Color="#3c3f41"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="CheckBox">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="0"/>
+    </Style>
+    <Style Selector="RadioButton"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="TextBox">
+      <Setter Property="Background" Value="{StaticResource Field}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="MinHeight" Value="27"/>
+      <Setter Property="Padding" Value="6,3"/>
+    </Style>
+    <Style Selector="ComboBox">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="26"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="BorderThickness" Value="1"/>
+    </Style>
+    <Style Selector="ComboBox /template/ Border#Background">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+    </Style>
+    <Style Selector="Button">
+      <Setter Property="CornerRadius" Value="3"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+      <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.tool">
+      <Setter Property="Background" Value="{StaticResource Gray}"/>
+      <Setter Property="Height" Value="26"/>
+      <Setter Property="Padding" Value="10,2"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="Button.act">
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Height" Value="29"/>
+      <Setter Property="Padding" Value="11,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+  </Window.Styles>
+
+  <!-- One column of stacked choices, not a label/field grid. Everything here is
+       a decision the user makes top to bottom: what to gather, which one, how
+       to get in, when to stop. No status panel - progress belongs in the main
+       window's log, and repeating it here made a 4-line dialog 290px tall.
+       No "Dò lại" either: BẮT ĐẦU refreshes the catalogue itself. -->
+  <StackPanel Margin="12" Spacing="7">
+
+    <!-- Two selection models, because the game treats the two resources
+         differently (measured, AUTO_TRAIN_DECISIONS 57/67):
+           Dược thảo - a spot yields a RANDOM herb, so a LEVEL is the choice
+           Đàn cá    - a spot is FIXED to one fish, so the FISH is the choice -->
+    <StackPanel Orientation="Horizontal" Spacing="14">
+      <RadioButton x:Name="RbHerb" GroupName="GatherKind" Content="Dược thảo" IsChecked="True"
+                   VerticalAlignment="Center" IsCheckedChanged="OnKindChanged"
+                   ToolTip.Tip="Bãi ra ngẫu nhiên — chỉ cần chọn cấp"/>
+      <RadioButton x:Name="RbFish" GroupName="GatherKind" Content="Đàn cá"
+                   VerticalAlignment="Center" IsCheckedChanged="OnKindChanged"
+                   ToolTip.Tip="Mỗi bãi ra đúng một loại cá — chọn thẳng loại cá"/>
+    </StackPanel>
+
+    <ComboBox x:Name="CbPick" HorizontalAlignment="Stretch"/>
+
+    <StackPanel Orientation="Horizontal" Spacing="14">
+      <RadioButton x:Name="RbAttach" GroupName="GatherMode" Content="Client đang mở"
+                   IsChecked="True" VerticalAlignment="Center"/>
+      <RadioButton x:Name="RbFull" GroupName="GatherMode" Content="Tự đăng nhập"
+                   VerticalAlignment="Center" ToolTip.Tip="Cho acc clone chưa mở client"/>
+    </StackPanel>
+
+    <StackPanel Orientation="Horizontal" Spacing="8">
+      <TextBlock Text="Dừng sau" VerticalAlignment="Center"/>
+      <TextBox x:Name="TMinutes" Text="0" Width="54"/>
+      <TextBlock Text="phút  (0 = tới khi bấm dừng)" Foreground="{StaticResource Dim}"
+                 FontSize="11" VerticalAlignment="Center"/>
+    </StackPanel>
+
+    <Grid ColumnDefinitions="*,8,*" Margin="0,3,0,0">
+      <Button Grid.Column="0" Classes="act" Content="BẮT ĐẦU" HorizontalAlignment="Stretch"
+              Background="{StaticResource Green}" Click="OnStart"/>
+      <Button Grid.Column="2" Classes="act" Content="DỪNG" HorizontalAlignment="Stretch"
+              Background="{StaticResource Red}" Click="OnStop"/>
+    </Grid>
+  </StackPanel>
+</Window>

@@ -1,0 +1,89 @@
+﻿1 map theo bang BMx (cap 1..5)
+
+[1/1] Lê Dương Bắc  (BMx: cá cấp 1, dược cấp 1)
+      [cho dung] +5 bai (tong 5)
+      ra (100,990): (154,1016) toi noi
+      ra (430,1750): (469,1821) toi noi
+      ra (200,1760): (108,1716) toi noi
+      ra (1410,350): (1379,384) toi noi
+      ra (2240,220): (2184,230) toi noi
+      ra (1440,1850): ? khong doc duoc vi tri
+    client hong (process da tat) — mo lai
+[07:58:18] [INFO] [HEALTH] mo lai CB ...
+[07:58:18] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15208 Flash launched at original size
+[07:58:23] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15208 Bắt đầu
+[07:58:47] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15208 channel=(449, 308) choices=1
+[07:58:51] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15208 character_slot=1 slot_verified=True
+[07:58:56] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15208 Player=0x146330a0 Core=0xa7f40d0 world=(1575,1555)
+[07:58:56] [INFO] [HEALTH] CB vao lai xong: pid=15208
+      ra (1020,1480): (1086,1489) toi noi
+      ra (1570,580): (1540,633) toi noi
+      ra (2650,1660): (2605,1619) toi noi
+      ra (2280,1670): (2325,1663) toi noi
+      ra (470,790): (511,810) toi noi
+      ra (750,930): (511,810) toi noi
+      ra (2560,1590): (2517,1572) toi noi
+      ra (2820,530): (2802,582) toi noi
+      ra (1670,1880): (1817,1708) toi noi
+      ra (2150,470): (2137,516) toi noi
+      ra (3000,1240): (2964,1211) toi noi
+    5 bai tren map nay
+    [1/5] Đàn Cá Cấp 1 (579,1777)
+        -> RA: Cá Chạch
+    [2/5] Đàn Cá Cấp 1 (63,1707)
+        (khoi dong lai client cho bo nho sach)
+[08:05:59] [WARN] [HEALTH] dong client CB (pid 15208)
+[08:06:02] [INFO] [HEALTH] mo lai CB ...
+[08:06:02] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=5420 Flash launched at original size
+[08:06:07] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5420 Bắt đầu
+[08:06:37] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=5420 channel=(449, 308) choices=1
+[08:06:41] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=5420 character_slot=1 slot_verified=True
+[08:06:46] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=5420 Player=0x155e70a0 Core=0xc0500d0 world=(623,1766)
+[08:06:46] [INFO] [HEALTH] CB vao lai xong: pid=5420
+        -> RA: (chua doc duoc)
+    [3/5] Đàn Cá Cấp 1 (1560,1843)
+        (khoi dong lai client cho bo nho sach)
+[08:06:56] [WARN] [HEALTH] dong client CB (pid 5420)
+[08:06:59] [INFO] [HEALTH] mo lai CB ...
+[08:06:59] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14644 Flash launched at original size
+[08:07:04] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14644 Bắt đầu
+[08:07:28] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14644 channel=(449, 308) choices=1
+[08:07:32] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14644 character_slot=1 slot_verified=True
+[08:07:37] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14644 Player=0x106790a0 Core=0xcb480d0 world=(623,1766)
+[08:07:37] [INFO] [HEALTH] CB vao lai xong: pid=14644
+        -> RA: (chua doc duoc)
+    [4/5] Đàn Cá Cấp 1 (1995,1869)
+        (khoi dong lai client cho bo nho sach)
+[08:07:47] [WARN] [HEALTH] dong client CB (pid 14644)
+[08:07:50] [INFO] [HEALTH] mo lai CB ...
+[08:07:50] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=5688 Flash launched at original size
+[08:07:54] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5688 Bắt đầu
+[08:08:23] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=5688 channel=(449, 308) choices=1
+[08:08:27] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=5688 character_slot=1 slot_verified=True
+[08:08:32] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=5688 Player=0x1cb3c0a0 Core=0xa8a70d0 world=(623,1766)
+[08:08:32] [INFO] [HEALTH] CB vao lai xong: pid=5688
+        -> RA: (chua doc duoc)
+    [5/5] Đàn Cá Cấp 1 (214,1042)
+        (khoi dong lai client cho bo nho sach)
+[08:08:42] [WARN] [HEALTH] dong client CB (pid 5688)
+[08:08:45] [INFO] [HEALTH] mo lai CB ...
+[08:08:45] [INFO] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12240 Flash launched at original size
+[08:08:49] [INFO] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12240 Bắt đầu
+[08:09:17] [INFO] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12240 channel=(449, 308) choices=1
+[08:09:21] [INFO] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12240 character_slot=1 slot_verified=True
+[08:09:26] [INFO] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12240 Player=0x145c40a0 Core=0xceed0d0 world=(623,1766)
+[08:09:26] [INFO] [HEALTH] CB vao lai xong: pid=12240
+        -> RA: Cá Bống
+
+===== KET QUA =====
+  Dược Thảo Cấp 1      Đông Xuất Vân        (2100,1200)  ->  Mạn Thủy Đằng
+  Dược Thảo Cấp 3      Anh Vũ Cảnh          (2100,1200)  ->  ?
+  Dược Thảo Cấp 2      Lê Dương Đảo         (2100,1200)  ->  ?
+  Dược Thảo Cấp 4      Tháp Khắc Nguyên     (2100,1200)  ->  ?
+  Đàn Cá Cấp 1         Lê Dương Bắc         (579,1777)  ->  Cá Chạch
+  Đàn Cá Cấp 1         Lê Dương Bắc         (63,1707)  ->  ?
+  Đàn Cá Cấp 1         Lê Dương Bắc         (1560,1843)  ->  ?
+  Đàn Cá Cấp 1         Lê Dương Bắc         (1995,1869)  ->  ?
+  Đàn Cá Cấp 1         Lê Dương Bắc         (214,1042)  ->  Cá Bống
+
+-> C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\configs\spot_products.json

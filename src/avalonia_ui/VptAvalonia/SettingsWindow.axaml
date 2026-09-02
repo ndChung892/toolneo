@@ -1,0 +1,82 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.SettingsWindow"
+        Title="Cài đặt chung"
+        Width="620" Height="230"
+        CanResize="False"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Title" Color="#c8ccd0"/>
+    <SolidColorBrush x:Key="Green" Color="#4e9e3a"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="HeaderedContentControl.group">
+      <Setter Property="Margin" Value="0,0,0,8"/>
+      <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+      <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+      <Setter Property="Template">
+        <ControlTemplate>
+          <Grid>
+            <Border Margin="0,9,0,0" BorderBrush="{StaticResource Border}"
+                    BorderThickness="1" CornerRadius="4"/>
+            <ContentPresenter Margin="10,20,10,10"
+                              Content="{TemplateBinding Content}"
+                              HorizontalContentAlignment="Stretch"
+                              VerticalContentAlignment="Stretch"/>
+            <Border HorizontalAlignment="Left" VerticalAlignment="Top"
+                    Margin="10,0,0,0" Padding="5,0" Background="{StaticResource Bg}">
+              <TextBlock Text="{TemplateBinding Header}" FontSize="12.5"
+                         Foreground="{StaticResource Title}" FontWeight="SemiBold"/>
+            </Border>
+          </Grid>
+        </ControlTemplate>
+      </Setter>
+    </Style>
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="TextBox">
+      <Setter Property="Background" Value="{StaticResource Field}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="MinHeight" Value="28"/>
+      <Setter Property="Padding" Value="6,3"/>
+    </Style>
+    <Style Selector="Button">
+      <Setter Property="CornerRadius" Value="3"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="Height" Value="30"/>
+      <Setter Property="Padding" Value="14,4"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+      <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+  </Window.Styles>
+
+  <DockPanel Margin="10">
+    <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Spacing="8"
+                HorizontalAlignment="Right" Margin="0,10,0,0">
+      <Button Content="Hủy" Background="{StaticResource Gray}" Width="90" Click="OnCancel"/>
+      <Button Content="LƯU" Background="{StaticResource Green}" FontWeight="Bold" Width="110" Click="OnSave"/>
+    </StackPanel>
+
+    <HeaderedContentControl Classes="group" Header="Đường dẫn Flash" VerticalAlignment="Top">
+      <StackPanel Spacing="6">
+        <TextBlock Text="flash.exe (trình phát Flash dùng để mở game)"/>
+        <Grid ColumnDefinitions="*,8,110">
+          <TextBox Grid.Column="0" x:Name="TFlash" Watermark="C:\...\flashplayer.exe"/>
+          <Button Grid.Column="2" Content="Chọn file..." Background="{StaticResource Gray}" Click="OnBrowse"/>
+        </Grid>
+        <TextBlock x:Name="LblHint" Text="" Foreground="{StaticResource Dim}" FontSize="11"/>
+      </StackPanel>
+    </HeaderedContentControl>
+  </DockPanel>
+</Window>

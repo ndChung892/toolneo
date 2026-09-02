@@ -1,0 +1,38 @@
+{"at": "2026-08-29T18:30:13", "feature": "trian", "account": "luvy", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T18:30:23", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 1010.1, "point": [570, 223]}
+{"at": "2026-08-29T18:30:27", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 1, "distance": 876.9, "point": [570, 223]}
+{"at": "2026-08-29T18:30:31", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 2, "distance": 763.3, "point": [570, 223]}
+{"at": "2026-08-29T18:30:34", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 3, "distance": 633.2, "point": [570, 224]}
+{"at": "2026-08-29T18:30:38", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 4, "distance": 511.2, "point": [570, 223]}
+{"at": "2026-08-29T18:30:42", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 5, "distance": 399.1, "point": [570, 224]}
+{"at": "2026-08-29T18:30:46", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 6, "distance": 265.0, "point": [570, 224]}
+{"at": "2026-08-29T18:30:50", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 7, "distance": 146.1, "point": [570, 225]}
+{"at": "2026-08-29T18:31:01", "feature": "trian", "account": "luvy", "event": "func_row_click", "round": 1, "attempt": 1, "opened": true}
+{"at": "2026-08-29T18:31:07", "feature": "trian", "account": "luvy", "event": "catalog", "round": 1, "step": 0, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 534222305, "model_atom": 658781569, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T18:31:07", "feature": "trian", "account": "luvy", "event": "open_vong_row", "round": 1, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 534222305, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T18:31:13", "feature": "trian", "account": "luvy", "event": "catalog", "round": 1, "step": 1, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 534222305, "model_atom": 658781569, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T18:31:14", "feature": "trian", "account": "luvy", "event": "open_vong_row", "round": 1, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 534222305, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T18:31:19", "feature": "trian", "account": "luvy", "event": "catalog", "round": 1, "step": 2, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 534222305, "model_atom": 658781569, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T18:31:20", "feature": "trian", "account": "luvy", "event": "open_vong_row", "round": 1, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 534222305, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T18:31:25", "feature": "trian", "account": "luvy", "event": "round_result", "round": 1, "ok": false, "detail": "đã mở dòng Trị An[Vòng] nhưng chưa đọc được dòng biến thể; không bấm mù dòng vòng lần nữa"}
+{"at": "2026-08-29T18:52:05", "feature": "trian", "account": "luvy", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T18:52:08", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 1028.7, "point": [570, 224]}
+{"at": "2026-08-29T18:52:12", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 1, "distance": 909.8, "point": [570, 224]}
+{"at": "2026-08-29T18:52:16", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 2, "distance": 781.5, "point": [570, 224]}
+{"at": "2026-08-29T18:52:20", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 3, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:52:24", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 1, "reason": "không tới được NPC: không nhích được ở bước 3 (bị chắn)"}
+{"at": "2026-08-29T18:52:28", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:52:32", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 2, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:52:36", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:52:40", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 3, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:52:44", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:52:48", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 4, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:52:51", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:52:56", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 5, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:52:59", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:53:03", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 6, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:53:07", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:53:11", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 7, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:53:15", "feature": "trian", "account": "luvy", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 649.3, "point": [570, 224]}
+{"at": "2026-08-29T18:53:19", "feature": "trian", "account": "luvy", "event": "npc_open_attempt", "round": 1, "attempt": 8, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T18:53:21", "feature": "trian", "account": "luvy", "event": "round_result", "round": 1, "ok": false, "detail": "không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền"}

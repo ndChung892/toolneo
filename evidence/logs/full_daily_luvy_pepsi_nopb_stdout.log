@@ -1,0 +1,6 @@
+plans: [('acc_5', ['ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH']), ('acc_2', ['ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH'])]
+{"type": "log", "msg": "Daily dừng tại ĐIÊU KHẮC: không tìm thấy icon/panel Không Gian Điêu Khắc qua các trang"}
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_5, acc_2"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "Daily dừng tại ĐIÊU KHẮC: popup guard: unknown_modal_blocked"}
+DONE, alive= []

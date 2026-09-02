@@ -1,0 +1,56 @@
+{
+  "ok": false,
+  "pid": 8624,
+  "hwnd": 333760,
+  "first_candidates": 2090,
+  "final_candidates": 1,
+  "address": 91266752,
+  "restores": 0,
+  "final_value": 150,
+  "events": [
+    {
+      "t": 1786646906.7532156,
+      "state": "FIRST_SCAN",
+      "pid": 8624,
+      "address": 0,
+      "value": 150,
+      "target": 150,
+      "candidates": 0,
+      "restores": 0,
+      "detail": "Đang quét Exact Value 150, 4 Bytes theo đúng PID"
+    },
+    {
+      "t": 1786646907.3971121,
+      "state": "WAIT_NEXT_SCAN",
+      "pid": 8624,
+      "address": 0,
+      "value": 150,
+      "target": 150,
+      "candidates": 2090,
+      "restores": 0,
+      "detail": "Đã lưu 2090 candidate; đánh 1 lượt rồi bấm Quét 149"
+    },
+    {
+      "t": 1786646942.8777494,
+      "state": "NEXT_SCAN",
+      "pid": 8624,
+      "address": 0,
+      "value": 149,
+      "target": 150,
+      "candidates": 2090,
+      "restores": 0,
+      "detail": "Đang lọc Exact Value 149 trong First Scan"
+    },
+    {
+      "t": 1786646943.2837093,
+      "state": "INFINITE_ON",
+      "pid": 8624,
+      "address": 91266752,
+      "value": 149,
+      "target": 150,
+      "candidates": 1,
+      "restores": 0,
+      "detail": "Đã chứng minh 0x5709ec0: 150→149; Auto vô hạn đã bật"
+    }
+  ]
+}

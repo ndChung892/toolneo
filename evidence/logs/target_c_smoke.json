@@ -1,0 +1,39 @@
+{
+  "login": {
+    "ok": true,
+    "detail": "Player=0x12ec20a0 Core=0x81cd0d0 world=(1877,1116)",
+    "pid": 1076,
+    "hwnd": 10159578,
+    "account": "dy"
+  },
+  "travel": {
+    "ok": false,
+    "target": "Liêu Vân Tộc",
+    "target_map_id": 13,
+    "source_map": "Đông Huyền Thành",
+    "source_map_id": 0,
+    "detected_map": "Đông Huyền Thành",
+    "detected_map_id": 0,
+    "detail": "TRAVEL_REJECTED_UNCHANGED_MAP",
+    "travel_confirmation_clicked": true,
+    "projected_target": [
+      534,
+      304
+    ],
+    "world_map_evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\world_map_open_pid1076_1786707672.png",
+    "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\map_13_timeout_1786707692.png"
+  },
+  "before": {
+    "shape": [
+      590,
+      900,
+      3
+    ],
+    "mean": 112.21019397363465,
+    "std": 63.947872661967814,
+    "detected": "Đông Huyền Thành",
+    "score": 0.8759940266609192,
+    "margin": 0.41198909282684326
+  },
+  "ok": false
+}

@@ -1,0 +1,20 @@
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_2"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã chọn công thức cấp 5 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(313, 28, 21, 23)"}
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "[DUNGEON] Claim Thám Hiểm: button score=1.000 box=(428, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_13288_Thám Hiểm_1787626815.png"}
+{"type": "log", "msg": "[DUNGEON] Claim Thám Hiểm: readback start PASS"}
+{"type": "log", "msg": "[POPUP] chặn popup/panel chưa nhận diện có X tại (798, 78); không đóng"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start; Liệt Diễm Thâm Uyên:start; Thế Giới Số:start; Thám Hiểm:claim; Thám Hiểm:start"}
+{"type": "log", "msg": "Daily xong bước PHỤ BẢN: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start; Liệt Diễm Thâm Uyên:start; Thế Giới Số:start; Thám Hiểm:claim; Thám Hiểm:start"}
+{"type": "log", "msg": "Daily dừng tại HÀNH LANG: không tới Quyến Cố Thành: world map did not open"}
+DONE, alive= []

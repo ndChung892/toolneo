@@ -1,0 +1,89 @@
+{
+  "acc_1": {
+    "tasks": [
+      "VIP",
+      "MẬT BẢO",
+      "ĐIÊU KHẮC",
+      "LẬT THẺ BÀI",
+      "PHỤ BẢN",
+      "HÀNH LANG",
+      "THẦN TU",
+      "TU HÀNH",
+      "TRỪ MA",
+      "TRỊ AN"
+    ],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 10,
+    "mat_bao_tier": 6
+  },
+  "acc_2": {
+    "tasks": [
+      "VIP",
+      "MẬT BẢO",
+      "ĐIÊU KHẮC",
+      "LẬT THẺ BÀI",
+      "PHỤ BẢN",
+      "HÀNH LANG",
+      "THẦN TU",
+      "TU HÀNH",
+      "TRỪ MA",
+      "TRỊ AN"
+    ],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 10,
+    "mat_bao_tier": 6
+  },
+  "acc_3": {
+    "tasks": [
+      "VIP",
+      "MẬT BẢO",
+      "ĐIÊU KHẮC",
+      "LẬT THẺ BÀI",
+      "PHỤ BẢN",
+      "HÀNH LANG",
+      "THẦN TU",
+      "TU HÀNH",
+      "TRỪ MA",
+      "TRỊ AN"
+    ],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 10,
+    "mat_bao_tier": 6
+  },
+  "acc_5": {
+    "tasks": [
+      "VIP",
+      "MẬT BẢO",
+      "ĐIÊU KHẮC",
+      "LẬT THẺ BÀI",
+      "PHỤ BẢN",
+      "HÀNH LANG",
+      "THẦN TU",
+      "TU HÀNH",
+      "TRỪ MA",
+      "TRỊ AN"
+    ],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 10,
+    "mat_bao_tier": 6
+  },
+  "acc_4": {
+    "tasks": [],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 1,
+    "mat_bao_tier": 6
+  },
+  "acc_6": {
+    "tasks": [
+      "VIP",
+      "LẬT THẺ BÀI",
+      "PHỤ BẢN",
+      "HÀNH LANG",
+      "THẦN TU",
+      "TU HÀNH"
+    ],
+    "mat_bao_count": 20,
+    "lat_the_bai_count": 10,
+    "mat_bao_tier": 6
+  }
+}

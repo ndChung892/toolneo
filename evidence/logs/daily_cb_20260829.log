@@ -1,0 +1,81 @@
+﻿tasks: ['VIP', 'MẬT BẢO', 'ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'PHỤ BẢN', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH', 'TRỪ MA', 'TRỊ AN']
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1"}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước VIP..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9892 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9892 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=9892 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9892 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9892 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9892 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9892 Player=0x14ac60a0 Core=0x17ca00d0 world=(2875,837)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+{"type": "log", "msg": "Daily CB: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng"}
+{"type": "log", "msg": "Daily CB: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+{"type": "log", "msg": "Daily CB: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+{"type": "log", "msg": "Daily CB: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt"}
+{"type": "log", "msg": "Daily CB: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.62s panel=0x0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.53s"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.72s"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.03s panel=0x13e43ae0"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.94s panel=0x13e43ae0"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.41s panel=0x13e43ae0"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.14s panel=0x13e43ae0"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.19s panel=0x13e43ae0"}
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Liệt Diễm Thâm Uyên: Xong qua memory chưa có readback"}
+{"type": "log", "msg": "Daily CB: bỏ qua PHỤ BẢN (lỗi): Liệt Diễm Thâm Uyên: Xong qua memory chưa có readback — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_022616_PHỤ_BẢN.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước HÀNH LANG..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16140 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16140 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16140 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16140 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16140 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16140 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16140 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16140 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16140 Player=0x144120a0 Core=0xc7030d0 world=(3090,1603)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}
+{"type": "log", "msg": "Daily CB: cleanup memory HÀNH LANG: {'ok': True, 'results': {'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+{"type": "log", "msg": "[POPUP] đã đóng npc_dialog"}
+{"type": "log", "msg": "Daily xong bước THẦN TU: đã bấm đúng Bắt đầu → Có cho THẦN TU"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Thần Tu; chờ 25 phút."}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước mở lại sau Thần Tu..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4568 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4568 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=4568 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4568 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=4568 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4568 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4568 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4568 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4568 Player=0x135f90a0 Core=0xc3550d0 world=(2099,413)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.45s panel=0x0"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.22s"}
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.36s"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.78s panel=0x21c775c0"}
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.83s panel=0x21c775c0"}
+{"type": "log", "msg": "Daily PHỤ BẢN checkpoint 25 phút (mốc 1): Trở Lại Lang Huyệt: quest id=3985 exact title not in 6 list items"}
+{"type": "log", "msg": "Daily CB: bỏ qua PHỤ BẢN (lỗi): checkpoint 25 phút (mốc 1): Trở Lại Lang Huyệt: quest id=3985 exact title not in 6 list items — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_025504_PHỤ_BẢN.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12652 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12652 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12652 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12652 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12652 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12652 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12652 Player=0x1ed6d0a0 Core=0x17fba0d0 world=(3083,1619)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "Daily xong bước TU HÀNH: đã bấm đúng Bắt đầu → Có cho TU HÀNH"}
+{"type": "log", "msg": "Daily: đã đóng Flash sau Tu Hành; chờ 31 phút."}

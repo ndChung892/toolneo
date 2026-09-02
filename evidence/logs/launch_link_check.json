@@ -1,0 +1,64 @@
+{
+  "schema": "LAUNCH_LINK_CHECK",
+  "diagnostic_only": true,
+  "run_id": "57b01739-4c27-4018-ade7-674d956050ea",
+  "account": "CB",
+  "link_host": "personalbulk.fans",
+  "samples": [
+    {
+      "verdict": "NO_IMAGE",
+      "capture_backends": {
+        "printwindow_3": {
+          "result": "blank",
+          "shape": [
+            700,
+            1424,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0
+        },
+        "printwindow_1": {
+          "result": "blank",
+          "shape": [
+            700,
+            1424,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0
+        },
+        "bitblt": {
+          "result": "blank",
+          "shape": [
+            700,
+            1424,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0
+        },
+        "desktop": {
+          "result": "error",
+          "error": "OSError('screen grab failed')"
+        }
+      },
+      "sample": 1,
+      "seconds": 6.0,
+      "title": "Adobe Flash Player 10",
+      "size": [
+        1440,
+        759
+      ],
+      "hwnd": 2818088,
+      "class_name": "ShockwaveFlash",
+      "position": [
+        156,
+        156
+      ]
+    }
+  ],
+  "pid": 17296,
+  "ever_rendered": false,
+  "final_verdict": "NO_IMAGE"
+}

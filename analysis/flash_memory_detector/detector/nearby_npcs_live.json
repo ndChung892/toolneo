@@ -1,0 +1,157 @@
+{
+  "created_at": "2026-08-12T00:36:00.151123",
+  "pid": 16972,
+  "player": {
+    "base": "0x217430A0",
+    "x": 2332.0,
+    "y": 1098.0
+  },
+  "radius": 1200.0,
+  "count": 16,
+  "npcs": [
+    {
+      "base": "0xFDAAD70",
+      "x": 2165.0,
+      "y": 1127.0,
+      "distance": 169.499,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 10493,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0xFDAA0A0",
+      "x": 2700.0,
+      "y": 1050.0,
+      "distance": 371.117,
+      "type_code": 3060100001088,
+      "runtime_id_candidate": 3049,
+      "resource_code": 2060100001088
+    },
+    {
+      "base": "0x2190DD70",
+      "x": 1940.0,
+      "y": 1190.0,
+      "distance": 402.651,
+      "type_code": 3060090200057,
+      "runtime_id_candidate": 1616,
+      "resource_code": 2060090200057
+    },
+    {
+      "base": "0x21E8B5C0",
+      "x": 1919.0,
+      "y": 929.0,
+      "distance": 446.24,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 16669,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x2190DAE0",
+      "x": 1919.0,
+      "y": 1339.0,
+      "distance": 478.174,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 17213,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x1B8BB5C0",
+      "x": 1940.0,
+      "y": 1429.0,
+      "distance": 513.055,
+      "type_code": 3060100000019,
+      "runtime_id_candidate": 483,
+      "resource_code": 2060090100018
+    },
+    {
+      "base": "0x1B8BB850",
+      "x": 2657.0,
+      "y": 1630.0,
+      "distance": 623.417,
+      "type_code": 3060100000021,
+      "runtime_id_candidate": 484,
+      "resource_code": 2060090100021
+    },
+    {
+      "base": "0xFDAA850",
+      "x": 1963.0,
+      "y": 1618.0,
+      "distance": 637.621,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 11706,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x21963330",
+      "x": 1628.0,
+      "y": 1030.0,
+      "distance": 707.276,
+      "type_code": 3060090000037,
+      "runtime_id_candidate": 581,
+      "resource_code": 2060090000037
+    },
+    {
+      "base": "0x21D5C850",
+      "x": 2457.0,
+      "y": 267.0,
+      "distance": 840.349,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 13091,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x21D5C330",
+      "x": 2447.0,
+      "y": 264.0,
+      "distance": 841.891,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 16167,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x1B8BBD70",
+      "x": 2461.0,
+      "y": 257.0,
+      "distance": 850.836,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 15064,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x219635C0",
+      "x": 1780.0,
+      "y": 1800.0,
+      "distance": 893.033,
+      "type_code": 3060090000037,
+      "runtime_id_candidate": 580,
+      "resource_code": 2060090000037
+    },
+    {
+      "base": "0x21963D70",
+      "x": 2490.0,
+      "y": 212.0,
+      "distance": 899.978,
+      "type_code": 3060090000005,
+      "runtime_id_candidate": 448,
+      "resource_code": 2060090000005
+    },
+    {
+      "base": "0x24F07850",
+      "x": 2789.0,
+      "y": 318.0,
+      "distance": 904.018,
+      "type_code": 3060100000051,
+      "runtime_id_candidate": 15324,
+      "resource_code": 2060100000051
+    },
+    {
+      "base": "0x21D5C0A0",
+      "x": 1495.0,
+      "y": 300.0,
+      "distance": 1156.448,
+      "type_code": 3060100000019,
+      "runtime_id_candidate": 486,
+      "resource_code": 2060090100019
+    }
+  ]
+}

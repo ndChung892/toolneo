@@ -1,0 +1,21 @@
+{
+  "pid": 16720,
+  "addresses": [
+    "0x1b7b5c48",
+    "0x1b7b5c50"
+  ],
+  "before": [
+    141,
+    141
+  ],
+  "target": 139,
+  "verify": [
+    139,
+    139
+  ],
+  "after": [
+    135,
+    137
+  ],
+  "captured": true
+}

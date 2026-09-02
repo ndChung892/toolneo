@@ -1,0 +1,24 @@
+{
+  "session_id": "16daddf1-3403-47ff-bdd2-5c0b9ab3ebcc",
+  "account_id": "acc_1",
+  "account_key": "dy",
+  "login": {
+    "ok": true,
+    "detail": "Player=0x113150a0 Core=0x161ff0d0 world=(1877,1116)",
+    "pid": 9020,
+    "hwnd": 6161898,
+    "account": "dy"
+  },
+  "pid": 9020,
+  "status": "PARTIAL",
+  "samples": [],
+  "catalog": {
+    "ok": true,
+    "pid": 9020,
+    "monsters": [],
+    "entities": [],
+    "cached": false
+  },
+  "failure_reason": "NO_EXACT_MONSTER_ON_SOURCE_MAP",
+  "finished_at": 1786706112.0743277
+}

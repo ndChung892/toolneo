@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "id": "acc_1",
+      "name": "CB",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=1a132282defdd50c117a6fd4ba5e3544ec4c3bd5917cc636eada285745362341424c7286339f47f20c605a76587dc5654223fbf31e2211a97217a14c1079d68fd3e96d5d0563765b",
+      "profile_file": "configs/profiles/acc_1.json",
+      "enabled": true
+    },
+    {
+      "id": "acc_2",
+      "name": "pepsi",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=112c2604f806684653919187618461584e778f06f2831140076d167ac6694bb1854fd428b5aa2c5fe864d3268e907794e18b8a2c1b52921deae62fb3b80cf452853cf6078a47ca46",
+      "profile_file": "configs/profiles/acc_2.json",
+      "enabled": true
+    },
+    {
+      "id": "acc_3",
+      "name": "TSk",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=f2611fae672d9f66879efd9f7d8849e25dbf2c042a957555c3db5938af949276e8cc7f05d9762363e7dbcbe31f7d267f1964378679ae11009c8ca7de887e984238a7debb3d611748",
+      "profile_file": "configs/profiles/acc_3.json",
+      "enabled": true
+    }
+  ]
+}

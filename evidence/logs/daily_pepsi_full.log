@@ -1,0 +1,374 @@
+﻿tasks: ['VIP', 'MẬT BẢO', 'ĐIÊU KHẮC', 'LẬT THẺ BÀI', 'PHỤ BẢN', 'HÀNH LANG', 'THẦN TU', 'TU HÀNH', 'TRỪ MA', 'TRỊ AN']
+dungeons: {"Mê Huyễn Động": 3, "Kho Báu Đại Mạc": 3, "Lục Tiên Cảnh": 3, "Liệt Diễm Thâm Uyên": 3, "Trở Lại Lang Huyệt": 3, "Quỷ Hút Máu": 3, "Thế Giới Số": 1, "Thám Hiểm": 3}
+[15:34:24] [+    0.0s] Đã bắt đầu Daily theo cấu hình riêng: acc_2
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_2"}
+[15:34:24] [+    0.3s] Daily pepsi: client chưa mở, đang đăng nhập trước bước VIP...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước VIP..."}
+[15:34:24] [+    0.3s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=7648 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=7648 Flash launched at original size"}
+[15:34:28] [+    4.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu"}
+[15:34:33] [+    9.2s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=7648 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=7648 chua thay chon kenh, bam lai Bat dau"}
+[15:34:35] [+   11.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu"}
+[15:34:41] [+   17.3s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=7648 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=7648 chua thay chon kenh, bam lai Bat dau"}
+[15:34:52] [+   28.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=7648 Bắt đầu"}
+[15:34:55] [+   31.1s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=7648 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=7648 channel=(449, 308) choices=1"}
+[15:34:59] [+   35.2s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=7648 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=7648 character_slot=1 slot_verified=True"}
+[15:35:04] [+   40.3s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=7648 Player=0x131330a0 Core=0x15dfa0d0 world=(2223,1292)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=7648 Player=0x131330a0 Core=0x15dfa0d0 world=(2223,1292)"}
+[15:35:04] [+   40.3s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:35:13] [+   49.7s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:35:20] [+   56.7s] Daily xong bước VIP: đã thử claim 5/5 dòng VIP
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+[15:35:23] [+   59.7s] Daily pepsi: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily pepsi: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:35:32] [+   68.9s] Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng"}
+[15:35:35] [+   71.8s] Daily pepsi: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily pepsi: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:36:21] [+  117.2s] Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+[15:36:24] [+  120.2s] Daily pepsi: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily pepsi: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:36:35] [+  131.2s] Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+[15:36:38] [+  134.1s] Daily pepsi: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily pepsi: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:37:32] [+  188.5s] Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt"}
+[15:37:35] [+  191.6s] Daily pepsi: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily pepsi: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:37:54] [+  210.4s] [DUNGEON] NPC live-panel probe: 2.64s panel=0x0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.64s panel=0x0"}
+[15:38:02] [+  218.3s] [DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.86s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.86s"}
+[15:38:12] [+  227.9s] [DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=8.09s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=8.09s"}
+[15:38:27] [+  243.2s] [DUNGEON] NPC live-panel probe: 3.17s panel=0x39bd8ae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.17s panel=0x39bd8ae0"}
+[15:39:01] [+  277.9s] [DUNGEON] NPC live-panel probe: 3.06s panel=0x39bd8ae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.06s panel=0x39bd8ae0"}
+[15:39:35] [+  311.7s] [DUNGEON] NPC live-panel probe: 3.38s panel=0x39bd8ae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.38s panel=0x39bd8ae0"}
+[15:40:07] [+  343.6s] [DUNGEON] NPC live-panel probe: 3.22s panel=0x39bd8ae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.22s panel=0x39bd8ae0"}
+[15:40:39] [+  375.7s] [DUNGEON] NPC live-panel probe: 3.14s panel=0x39bd8ae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.14s panel=0x39bd8ae0"}
+[15:41:02] [+  398.5s] Daily PHỤ BẢN lượt đầu: Kho Báu Đại Mạc: Xong qua memory chưa có readback
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Kho Báu Đại Mạc: Xong qua memory chưa có readback"}
+[15:41:02] [+  398.6s] Daily pepsi: bỏ qua PHỤ BẢN (lỗi): Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_154102_PHỤ_BẢN.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua PHỤ BẢN (lỗi): Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_154102_PHỤ_BẢN.png"}
+[15:41:02] [+  398.7s] Daily pepsi: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[15:41:02] [+  398.7s] Daily pepsi: client chưa mở, đang đăng nhập trước bước HÀNH LANG...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước HÀNH LANG..."}
+[15:41:02] [+  398.7s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=6768 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=6768 Flash launched at original size"}
+[15:41:08] [+  404.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=6768 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=6768 Bắt đầu"}
+[15:41:13] [+  409.2s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=6768 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=6768 chua thay chon kenh, bam lai Bat dau"}
+[15:41:29] [+  425.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=6768 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=6768 Bắt đầu"}
+[15:41:31] [+  427.9s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=6768 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=6768 channel=(449, 308) choices=1"}
+[15:41:36] [+  432.0s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=6768 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=6768 character_slot=1 slot_verified=True"}
+[15:41:41] [+  437.3s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=6768 Player=0x8fae0a0 Core=0xb5330d0 world=(3111,1561)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=6768 Player=0x8fae0a0 Core=0xb5330d0 world=(3111,1561)"}
+[15:41:41] [+  437.3s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:41:49] [+  445.9s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:41:59] [+  455.1s] [POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại
+{"type": "log", "msg": "[POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại"}
+[15:41:59] [+  455.2s] Daily pepsi: bỏ qua HÀNH LANG (lỗi): không tới Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_154159_HÀNH_LANG.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua HÀNH LANG (lỗi): không tới Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_154159_HÀNH_LANG.png"}
+[15:41:59] [+  455.3s] Daily pepsi: đã reset Flash sau lỗi HÀNH LANG; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi HÀNH LANG; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[15:41:59] [+  455.3s] Daily pepsi: client chưa mở, đang đăng nhập trước bước THẦN TU...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước THẦN TU..."}
+[15:41:59] [+  455.3s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15608 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15608 Flash launched at original size"}
+[15:42:03] [+  459.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15608 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15608 Bắt đầu"}
+[15:42:08] [+  464.8s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=15608 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=15608 chua thay chon kenh, bam lai Bat dau"}
+[15:42:27] [+  482.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15608 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15608 Bắt đầu"}
+[15:42:29] [+  485.6s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15608 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15608 channel=(449, 308) choices=1"}
+[15:42:33] [+  489.6s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15608 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15608 character_slot=1 slot_verified=True"}
+[15:42:38] [+  494.8s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15608 Player=0x1bcc40a0 Core=0x13fbd0d0 world=(3111,1561)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15608 Player=0x1bcc40a0 Core=0x13fbd0d0 world=(3111,1561)"}
+[15:42:38] [+  494.8s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:42:47] [+  503.6s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:42:56] [+  512.7s] [POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại
+{"type": "log", "msg": "[POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại"}
+[15:42:56] [+  512.8s] Daily pepsi: bỏ qua THẦN TU (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_154256_THẦN_TU.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua THẦN TU (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_154256_THẦN_TU.png"}
+[15:42:56] [+  512.9s] Daily pepsi: đã reset Flash sau lỗi THẦN TU; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi THẦN TU; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[15:42:56] [+  512.9s] Daily pepsi: client chưa mở, đang đăng nhập trước bước TU HÀNH...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước TU HÀNH..."}
+[15:42:57] [+  512.9s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10648 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=10648 Flash launched at original size"}
+[15:43:00] [+  516.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu"}
+[15:43:05] [+  521.4s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=10648 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=10648 chua thay chon kenh, bam lai Bat dau"}
+[15:43:08] [+  524.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu"}
+[15:43:13] [+  529.4s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=10648 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=10648 chua thay chon kenh, bam lai Bat dau"}
+[15:43:24] [+  540.3s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=10648 Bắt đầu"}
+[15:43:27] [+  543.2s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10648 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=10648 channel=(449, 308) choices=1"}
+[15:43:31] [+  547.2s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10648 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=10648 character_slot=1 slot_verified=True"}
+[15:43:36] [+  552.5s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10648 Player=0x1c0fb0a0 Core=0xf2950d0 world=(3111,1561)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=10648 Player=0x1c0fb0a0 Core=0xf2950d0 world=(3111,1561)"}
+[15:43:36] [+  552.5s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:43:45] [+  561.4s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:43:55] [+  571.0s] [POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại
+{"type": "log", "msg": "[POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại"}
+[15:43:55] [+  571.1s] Daily pepsi: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_154355_TU_HÀNH.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: known_popup_persistent — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_154355_TU_HÀNH.png"}
+[15:43:55] [+  571.2s] Daily pepsi: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[15:43:55] [+  571.2s] Daily pepsi: client chưa mở, đang đăng nhập trước bước TRỪ MA...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước TRỪ MA..."}
+[15:43:55] [+  571.2s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11072 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11072 Flash launched at original size"}
+[15:43:59] [+  574.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu"}
+[15:44:03] [+  579.8s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=11072 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=11072 chua thay chon kenh, bam lai Bat dau"}
+[15:44:06] [+  582.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu"}
+[15:44:11] [+  587.8s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=11072 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=11072 chua thay chon kenh, bam lai Bat dau"}
+[15:44:22] [+  598.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11072 Bắt đầu"}
+[15:44:25] [+  601.4s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11072 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11072 channel=(449, 308) choices=1"}
+[15:44:29] [+  605.6s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11072 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11072 character_slot=1 slot_verified=True"}
+[15:44:34] [+  610.8s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=11072 Player=0x1395a0a0 Core=0x159fa0d0 world=(3111,1561)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=11072 Player=0x1395a0a0 Core=0x159fa0d0 world=(3111,1561)"}
+[15:44:34] [+  610.8s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:44:45] [+  621.1s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:44:54] [+  630.8s] [POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại
+{"type": "log", "msg": "[POPUP] popup vẫn còn sau một lần đóng: cache_notice; không bấm lại"}
+[15:44:58] [+  634.8s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:45:49] [+  685.3s] [TRU_MA] TRỪ MA pepsi: nhận diện: Phi Ma Tập Kích (id=7668, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: nhận diện: Phi Ma Tập Kích (id=7668, margin=6)"}
+[15:46:09] [+  705.9s] [TRU_MA] TRỪ MA pepsi: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114"}
+[15:46:14] [+  710.8s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[15:46:17] [+  713.4s] [AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x2505ed70 distance=644
+{"type": "log", "msg": "[AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x2505ed70 distance=644"}
+[15:46:17] [+  713.4s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293"}
+[15:46:17] [+  713.5s] [AUTO_BOSS] id=1173 distance=644 receiver=0x941ae50 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=644 receiver=0x941ae50 method=18293 stage=1"}
+[15:46:21] [+  717.4s] [AUTO_BOSS] id=1173 distance=95 receiver=0x941ae50 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=95 receiver=0x941ae50 method=18293 stage=2"}
+[15:46:25] [+  721.1s] [AUTO_BOSS] battle edge false->true id=1173
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=1173"}
+[15:46:28] [+  724.7s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[15:47:21] [+  777.5s] [TRU_MA] TRỪ MA pepsi: xong lượt 1/10 (Phi Ma Tập Kích)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: xong lượt 1/10 (Phi Ma Tập Kích)"}
+[15:47:44] [+  799.9s] [TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)"}
+[15:48:19] [+  835.8s] [TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[15:48:22] [+  838.2s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[15:48:24] [+  840.9s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x1dd7e5c0 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x1dd7e5c0 distance=429"}
+[15:48:24] [+  840.9s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293"}
+[15:48:25] [+  841.0s] [AUTO_BOSS] id=2169 distance=429 receiver=0xe2445e0 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0xe2445e0 method=18293 stage=1"}
+[15:48:27] [+  843.0s] [AUTO_BOSS] id=2169 distance=212 receiver=0xe2445e0 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=212 receiver=0xe2445e0 method=18293 stage=2"}
+[15:48:30] [+  846.6s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[15:48:32] [+  848.4s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[15:49:26] [+  902.0s] [TRU_MA] TRỪ MA pepsi: xong lượt 2/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: xong lượt 2/10 (Phong Ấn Cự Thú)"}
+[15:49:47] [+  923.7s] [TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)"}
+[15:50:24] [+  960.2s] [TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[15:50:26] [+  962.6s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[15:50:29] [+  965.5s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x136ac0a0 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x136ac0a0 distance=429"}
+[15:50:29] [+  965.5s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293"}
+[15:50:29] [+  965.7s] [AUTO_BOSS] id=2169 distance=429 receiver=0xe244430 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0xe244430 method=18293 stage=1"}
+[15:50:31] [+  967.7s] [AUTO_BOSS] id=2169 distance=226 receiver=0xe244430 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=226 receiver=0xe244430 method=18293 stage=2"}
+[15:50:35] [+  971.3s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[15:50:37] [+  973.2s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[15:51:31] [+ 1027.1s] [TRU_MA] TRỪ MA pepsi: xong lượt 3/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: xong lượt 3/10 (Phong Ấn Cự Thú)"}
+[15:51:52] [+ 1048.9s] [TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=3)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=3)"}
+[15:52:29] [+ 1085.5s] [TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[15:52:32] [+ 1087.9s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[15:52:34] [+ 1090.5s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x136ac330 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x136ac330 distance=429"}
+[15:52:34] [+ 1090.5s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293"}
+[15:52:34] [+ 1090.6s] [AUTO_BOSS] id=2169 distance=429 receiver=0x2466e280 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x2466e280 method=18293 stage=1"}
+[15:52:38] [+ 1094.4s] [AUTO_BOSS] id=2169 distance=131 receiver=0x2466e280 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=131 receiver=0x2466e280 method=18293 stage=2"}
+[15:52:42] [+ 1098.1s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[15:52:44] [+ 1099.9s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[15:53:36] [+ 1152.3s] [TRU_MA] TRỪ MA pepsi: xong lượt 4/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: xong lượt 4/10 (Phong Ấn Cự Thú)"}
+[15:53:58] [+ 1174.3s] [TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)"}
+[15:54:35] [+ 1211.0s] [TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[15:54:37] [+ 1213.5s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[15:54:40] [+ 1216.1s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x22fd3850 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x22fd3850 distance=429"}
+[15:54:40] [+ 1216.1s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x11bed0a0 method_info=0x9ab4a50 slot322_method_id=18293"}
+[15:54:40] [+ 1216.2s] [AUTO_BOSS] id=2169 distance=429 receiver=0x221c4280 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x221c4280 method=18293 stage=1"}
+[15:54:44] [+ 1220.0s] [AUTO_BOSS] id=2169 distance=122 receiver=0x221c4280 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=122 receiver=0x221c4280 method=18293 stage=2"}
+[15:54:47] [+ 1223.8s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[15:54:49] [+ 1225.8s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[15:55:43] [+ 1279.0s] [TRU_MA] TRỪ MA pepsi: xong lượt 5/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: xong lượt 5/10 (Phong Ấn Cự Thú)"}
+[15:55:54] [+ 1290.2s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 1/8 chưa thành công: {'completed': False, 'result': 0, 'thread_id': 15980, 'stub': '0x750000', 'wedged': True}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 1/8 chưa thành công: {'completed': False, 'result': 0, 'thread_id': 15980, 'stub': '0x750000', 'wedged': True}"}
+[15:56:09] [+ 1305.8s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 2/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 2/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:16] [+ 1312.2s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 3/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 3/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:22] [+ 1318.5s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 4/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 4/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:28] [+ 1324.8s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 5/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 5/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:35] [+ 1331.2s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 6/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 6/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:41] [+ 1337.5s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 7/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 7/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:47] [+ 1343.9s] [TRU_MA] TRỪ MA pepsi: mở NPC lần 8/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: mở NPC lần 8/8 chưa thành công: {'completed': False, 'wedged': True, 'detail': 'client wedged by an earlier injection; relaunch it'}"}
+[15:56:49] [+ 1345.5s] [TRU_MA] TRỪ MA pepsi: dừng ở lượt 6: không mở được hộp thoại NPC Quan Quân Nhu
+{"type": "log", "msg": "[TRU_MA] TRỪ MA pepsi: dừng ở lượt 6: không mở được hộp thoại NPC Quan Quân Nhu"}
+[15:56:50] [+ 1346.3s] Daily pepsi: bỏ qua TRỪ MA (lỗi): FAILED — 5/10 lượt; dừng ở lượt 6: không mở được hộp thoại NPC Quan Quân Nhu — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_155650_TRỪ_MA.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua TRỪ MA (lỗi): FAILED — 5/10 lượt; dừng ở lượt 6: không mở được hộp thoại NPC Quan Quân Nhu — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_155650_TRỪ_MA.png"}
+[15:56:50] [+ 1346.5s] Daily pepsi: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[15:56:50] [+ 1346.5s] Daily pepsi: client chưa mở, đang đăng nhập trước bước TRỊ AN...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước TRỊ AN..."}
+[15:56:50] [+ 1346.5s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9580 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9580 Flash launched at original size"}
+[15:56:54] [+ 1350.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9580 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9580 Bắt đầu"}
+[15:56:58] [+ 1354.9s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=9580 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=9580 chua thay chon kenh, bam lai Bat dau"}
+[15:57:17] [+ 1373.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9580 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9580 Bắt đầu"}
+[15:57:20] [+ 1376.1s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9580 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9580 channel=(449, 308) choices=1"}
+[15:57:24] [+ 1380.0s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9580 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9580 character_slot=1 slot_verified=True"}
+[15:57:29] [+ 1385.2s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9580 Player=0x11a230a0 Core=0x1233b0d0 world=(2248,1343)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9580 Player=0x11a230a0 Core=0x1233b0d0 world=(2248,1343)"}
+[15:57:29] [+ 1385.2s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:57:39] [+ 1395.8s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:59:20] [+ 1496.8s] [TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 1 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại.
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 1 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại."}
+[16:00:33] [+ 1569.2s] [TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 2 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại.
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 2 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại."}
+[16:01:49] [+ 1645.4s] [TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 3 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại.
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: lượt thất bại thứ 3 (Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế) — đã huỷ, nhận lại."}
+[16:02:00] [+ 1656.6s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 1/8 chưa thành công: không tới được NPC: không nhích được ở bước 1 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 1/8 chưa thành công: không tới được NPC: không nhích được ở bước 1 (bị chắn)"}
+[16:02:08] [+ 1664.0s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 2/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 2/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:15] [+ 1671.3s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 3/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 3/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:22] [+ 1678.6s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 4/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 4/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:30] [+ 1686.0s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 5/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 5/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:38] [+ 1693.9s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 6/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 6/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:45] [+ 1701.4s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 7/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 7/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:52] [+ 1708.9s] [TRI_AN] TRỊ AN pepsi: mở NPC lần 8/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: mở NPC lần 8/8 chưa thành công: không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+[16:02:54] [+ 1710.4s] [TRI_AN] TRỊ AN pepsi: dừng ở lượt 4: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền
+{"type": "log", "msg": "[TRI_AN] TRỊ AN pepsi: dừng ở lượt 4: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền"}
+[16:02:55] [+ 1711.1s] Daily pepsi: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 4: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_2\20260829_160255_TRỊ_AN.png
+{"type": "log", "msg": "Daily pepsi: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 4: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_2\\20260829_160255_TRỊ_AN.png"}
+[16:02:55] [+ 1711.2s] Daily pepsi: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily pepsi: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[16:02:55] [+ 1711.2s] Daily pepsi: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản...
+{"type": "log", "msg": "Daily pepsi: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản..."}
+[16:02:55] [+ 1711.2s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16516 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16516 Flash launched at original size"}
+[16:02:59] [+ 1714.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu"}
+[16:03:03] [+ 1719.6s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=16516 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16516 chua thay chon kenh, bam lai Bat dau"}
+[16:03:06] [+ 1722.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu"}
+[16:03:11] [+ 1727.3s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=16516 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16516 chua thay chon kenh, bam lai Bat dau"}
+[16:03:21] [+ 1737.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16516 Bắt đầu"}
+[16:03:24] [+ 1740.7s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16516 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16516 channel=(449, 308) choices=1"}
+[16:03:28] [+ 1744.9s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16516 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16516 character_slot=1 slot_verified=True"}
+[16:03:34] [+ 1750.1s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16516 Player=0xf7430a0 Core=0xbb530d0 world=(3019,739)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16516 Player=0xf7430a0 Core=0xbb530d0 world=(3019,739)"}
+[16:03:34] [+ 1750.2s] acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_2: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[16:03:39] [+ 1755.5s] Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút.
+{"type": "log", "msg": "Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút."}

@@ -1,0 +1,76 @@
+{"at": "2026-08-29T15:57:36", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T15:57:42", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 1042.7, "point": [570, 225]}
+{"at": "2026-08-29T15:57:46", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 1, "distance": 917.1, "point": [570, 226]}
+{"at": "2026-08-29T15:57:50", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 2, "distance": 803.8, "point": [570, 226]}
+{"at": "2026-08-29T15:57:54", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 3, "distance": 680.1, "point": [570, 226]}
+{"at": "2026-08-29T15:57:58", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 4, "distance": 576.1, "point": [570, 226]}
+{"at": "2026-08-29T15:58:02", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 5, "distance": 463.6, "point": [570, 226]}
+{"at": "2026-08-29T15:58:06", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 6, "distance": 355.2, "point": [570, 226]}
+{"at": "2026-08-29T15:58:09", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 7, "distance": 241.9, "point": [570, 226]}
+{"at": "2026-08-29T15:58:21", "feature": "trian", "account": "pepsi", "event": "func_row_click", "round": 1, "attempt": 1, "opened": true}
+{"at": "2026-08-29T15:58:25", "feature": "trian", "account": "pepsi", "event": "catalog", "round": 1, "step": 0, "result": {"ok": true, "list_length": 2, "quests": {"Truy Bắt Phi Tặc": {"item_atom": 233372233, "model_atom": 489494145, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An[Vòng]", "Nhiệm Vụ Trị An", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T15:58:26", "feature": "trian", "account": "pepsi", "event": "select_and_accept", "round": 1, "title": "Truy Bắt Phi Tặc", "row_id": 4671, "result": {"ok": true, "cache_hit": true, "item_atom": 233372233, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T15:58:26", "feature": "trian", "account": "pepsi", "event": "active_quest_detail", "round": 1, "quest_id": 4671}
+{"at": "2026-08-29T15:58:35", "feature": "trian", "account": "pepsi", "event": "take_pre_button_readback", "round": 1, "detail_id": 4671, "accepted": 0, "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": true}}}
+{"at": "2026-08-29T15:59:15", "feature": "trian", "account": "pepsi", "event": "take_visible_button", "round": 1, "quest_id": 0, "button": [318, 162], "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": true}}}
+{"at": "2026-08-29T15:59:20", "feature": "trian", "account": "pepsi", "event": "cancel_active_without_item", "round": 1, "quest": "Nhận chưa có readback server cho quest 4671; detail_id=4671", "result": {"ok": true, "detail": "đã huỷ nhiệm vụ"}}
+{"at": "2026-08-29T15:59:20", "feature": "trian", "account": "pepsi", "event": "round_result", "round": 1, "ok": false, "retry": true, "detail": "Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế"}
+{"at": "2026-08-29T15:59:22", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 2, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T15:59:31", "feature": "trian", "account": "pepsi", "event": "func_row_click", "round": 2, "attempt": 1, "opened": true}
+{"at": "2026-08-29T15:59:35", "feature": "trian", "account": "pepsi", "event": "catalog", "round": 2, "step": 0, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 639854961, "model_atom": 572487809, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T15:59:36", "feature": "trian", "account": "pepsi", "event": "open_vong_row", "round": 2, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 639854961, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T15:59:38", "feature": "trian", "account": "pepsi", "event": "vong_opened_exact_detail", "round": 2, "title": "Truy Bắt Phi Tặc", "quest_id": 4671}
+{"at": "2026-08-29T15:59:38", "feature": "trian", "account": "pepsi", "event": "select_and_accept", "round": 2, "title": "Truy Bắt Phi Tặc", "row_id": 4671, "result": {"ok": true, "detail": "exact detail opened by vòng"}}
+{"at": "2026-08-29T15:59:38", "feature": "trian", "account": "pepsi", "event": "active_quest_detail", "round": 2, "quest_id": 4671}
+{"at": "2026-08-29T15:59:47", "feature": "trian", "account": "pepsi", "event": "take_pre_button_readback", "round": 2, "detail_id": 4671, "accepted": 0, "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": false}}}
+{"at": "2026-08-29T16:00:27", "feature": "trian", "account": "pepsi", "event": "take_visible_button", "round": 2, "quest_id": 0, "button": [318, 162], "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": false}}}
+{"at": "2026-08-29T16:00:33", "feature": "trian", "account": "pepsi", "event": "cancel_active_without_item", "round": 2, "quest": "Nhận chưa có readback server cho quest 4671; detail_id=4671", "result": {"ok": true, "detail": "đã huỷ nhiệm vụ"}}
+{"at": "2026-08-29T16:00:33", "feature": "trian", "account": "pepsi", "event": "round_result", "round": 2, "ok": false, "retry": true, "detail": "Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế"}
+{"at": "2026-08-29T16:00:34", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 3, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T16:00:36", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 3, "hop": 0, "distance": 216.9, "point": [570, 321]}
+{"at": "2026-08-29T16:00:47", "feature": "trian", "account": "pepsi", "event": "func_row_click", "round": 3, "attempt": 1, "opened": true}
+{"at": "2026-08-29T16:00:51", "feature": "trian", "account": "pepsi", "event": "catalog", "round": 3, "step": 0, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 214938025, "model_atom": 572486145, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T16:00:53", "feature": "trian", "account": "pepsi", "event": "open_vong_row", "round": 3, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 214938025, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T16:00:55", "feature": "trian", "account": "pepsi", "event": "vong_opened_exact_detail", "round": 3, "title": "Truy Bắt Phi Tặc", "quest_id": 4671}
+{"at": "2026-08-29T16:00:55", "feature": "trian", "account": "pepsi", "event": "select_and_accept", "round": 3, "title": "Truy Bắt Phi Tặc", "row_id": 4671, "result": {"ok": true, "detail": "exact detail opened by vòng"}}
+{"at": "2026-08-29T16:00:55", "feature": "trian", "account": "pepsi", "event": "active_quest_detail", "round": 3, "quest_id": 4671}
+{"at": "2026-08-29T16:01:04", "feature": "trian", "account": "pepsi", "event": "take_pre_button_readback", "round": 3, "detail_id": 4671, "accepted": 0, "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": false}}}
+{"at": "2026-08-29T16:01:43", "feature": "trian", "account": "pepsi", "event": "take_visible_button", "round": 3, "quest_id": 0, "button": [318, 162], "item": null, "ui": {"ok": true, "player": 295841952, "core": 305377488, "view": 148001696, "states": {"quest": false}}}
+{"at": "2026-08-29T16:01:49", "feature": "trian", "account": "pepsi", "event": "cancel_active_without_item", "round": 3, "quest": "Nhận chưa có readback server cho quest 4671; detail_id=4671", "result": {"ok": true, "detail": "đã huỷ nhiệm vụ"}}
+{"at": "2026-08-29T16:01:49", "feature": "trian", "account": "pepsi", "event": "round_result", "round": 3, "ok": false, "retry": true, "detail": "Nhận chưa có readback server cho quest 4671; detail_id=4671; đã hủy đúng quest để thử lượt kế"}
+{"at": "2026-08-29T16:01:51", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 4, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T16:01:53", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 272.2, "point": [570, 370]}
+{"at": "2026-08-29T16:01:56", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 1, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:00", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 1, "reason": "không tới được NPC: không nhích được ở bước 1 (bị chắn)"}
+{"at": "2026-08-29T16:02:04", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:08", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 2, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:11", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:15", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 3, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:18", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:22", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 4, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:26", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:30", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 5, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:34", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:38", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 6, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:41", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:45", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 7, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:49", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 4, "hop": 0, "distance": 154.0, "point": [570, 369]}
+{"at": "2026-08-29T16:02:52", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 4, "attempt": 8, "reason": "không tới được NPC: không nhích được ở bước 0 (bị chắn)"}
+{"at": "2026-08-29T16:02:54", "feature": "trian", "account": "pepsi", "event": "round_result", "round": 4, "ok": false, "detail": "không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền"}
+{"at": "2026-08-29T17:39:34", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T17:39:42", "feature": "trian", "account": "pepsi", "event": "npc_open_attempt", "round": 1, "attempt": 1, "reason": "exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"at": "2026-08-29T17:39:42", "feature": "trian", "account": "pepsi", "event": "npc_reroute", "round": 1, "attempt": 1, "reroute": 1}
+{"at": "2026-08-29T17:39:45", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T17:39:50", "feature": "trian", "account": "pepsi", "event": "fly_state", "round": 1, "state": "FLYING", "ink": 0.0759}
+{"at": "2026-08-29T17:39:54", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 0, "distance": 1107.0, "point": [570, 195]}
+{"at": "2026-08-29T17:39:58", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 1, "distance": 950.8, "point": [570, 195]}
+{"at": "2026-08-29T17:40:01", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 2, "distance": 794.6, "point": [570, 195]}
+{"at": "2026-08-29T17:40:05", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 3, "distance": 638.4, "point": [570, 195]}
+{"at": "2026-08-29T17:40:09", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 4, "distance": 482.2, "point": [570, 195]}
+{"at": "2026-08-29T17:40:13", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 5, "distance": 326.0, "point": [570, 196]}
+{"at": "2026-08-29T17:40:17", "feature": "trian", "account": "pepsi", "event": "approach_npc_click", "round": 1, "hop": 6, "distance": 170.4, "point": [570, 195]}
+{"at": "2026-08-29T17:40:28", "feature": "trian", "account": "pepsi", "event": "func_row_click", "round": 1, "attempt": 2, "opened": true}
+{"at": "2026-08-29T17:40:33", "feature": "trian", "account": "pepsi", "event": "catalog", "round": 1, "step": 0, "result": {"ok": true, "list_length": 2, "quests": {"Nhiệm Vụ Trị An[Vòng]": {"item_atom": 304468633, "model_atom": 319089537, "snapshot_index": 0, "depth": 1, "path": [16]}}, "missing": ["Nhiệm Vụ Trị An", "Truy Bắt Phi Tặc", "Phản Quân Hải Tặc"], "ambiguous": {}}}
+{"at": "2026-08-29T17:40:34", "feature": "trian", "account": "pepsi", "event": "open_vong_row", "round": 1, "title": "Nhiệm Vụ Trị An[Vòng]", "result": {"ok": true, "cache_hit": true, "item_atom": 304468633, "model_atom": 0, "trusted_current_atom": true}}
+{"at": "2026-08-29T17:40:41", "feature": "trian", "account": "pepsi", "event": "catalog", "round": 1, "step": 1, "result": {"ok": false, "detail": "questViewList unavailable"}}
+{"at": "2026-08-29T17:40:41", "feature": "trian", "account": "pepsi", "event": "round_result", "round": 1, "ok": false, "detail": "đọc bảng nhiệm vụ lỗi: questViewList unavailable"}

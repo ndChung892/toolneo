@@ -1,0 +1,80 @@
+{
+  "pid": 15876,
+  "hwnd": 3735786,
+  "player": 319242400,
+  "events": [
+    {
+      "t": 1786599935.882818,
+      "kind": "battle",
+      "value": true,
+      "attacks": 0,
+      "clears": 0
+    },
+    {
+      "t": 1786599964.1372452,
+      "kind": "battle",
+      "value": false,
+      "attacks": 1,
+      "clears": 0
+    },
+    {
+      "t": 1786599967.803883,
+      "kind": "battle",
+      "value": true,
+      "attacks": 1,
+      "clears": 1
+    },
+    {
+      "t": 1786599987.524159,
+      "kind": "battle",
+      "value": false,
+      "attacks": 2,
+      "clears": 1
+    },
+    {
+      "t": 1786599990.3748538,
+      "kind": "battle",
+      "value": true,
+      "attacks": 2,
+      "clears": 2
+    },
+    {
+      "t": 1786600011.8020627,
+      "kind": "battle",
+      "value": false,
+      "attacks": 3,
+      "clears": 2
+    },
+    {
+      "t": 1786600016.348329,
+      "kind": "battle",
+      "value": true,
+      "attacks": 3,
+      "clears": 3
+    },
+    {
+      "t": 1786600032.652372,
+      "kind": "battle",
+      "value": false,
+      "attacks": 4,
+      "clears": 4
+    },
+    {
+      "t": 1786600035.7307858,
+      "kind": "battle",
+      "value": true,
+      "attacks": 4,
+      "clears": 4
+    },
+    {
+      "t": 1786600069.044409,
+      "kind": "battle",
+      "value": false,
+      "attacks": 5,
+      "clears": 4
+    }
+  ],
+  "candidates": {},
+  "attacks": 5,
+  "clears": 5
+}

@@ -1,0 +1,506 @@
+[
+ {
+  "page": 1,
+  "x": 343,
+  "y": 195,
+  "map_id": 1,
+  "name": "Xuất Vân Thôn",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 397,
+  "y": 223,
+  "map_id": 2,
+  "name": "Đông Xuất Vân",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 350,
+  "y": 158,
+  "map_id": 3,
+  "name": "Vân Đài",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 291,
+  "y": 149,
+  "map_id": 4,
+  "name": "Thiện Tĩnh Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 356,
+  "y": 278,
+  "map_id": 5,
+  "name": "Lê Dương Thôn",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 385,
+  "y": 281,
+  "map_id": 6,
+  "name": "Lê Dương Nam",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 394,
+  "y": 365,
+  "map_id": 7,
+  "name": "Quân Cổ Đạo",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 307,
+  "y": 245,
+  "map_id": 8,
+  "name": "Tháp Khắc Nguyên",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 441,
+  "y": 238,
+  "map_id": 9,
+  "name": "Đông Huyền Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 517,
+  "y": 127,
+  "map_id": 10,
+  "name": "Tinh Linh Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 321,
+  "y": 363,
+  "map_id": 11,
+  "name": "Linh Vũ Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 583,
+  "y": 228,
+  "map_id": 12,
+  "name": "Bàn Địa Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 536,
+  "y": 305,
+  "map_id": 13,
+  "name": "Liêu Vân Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 268,
+  "y": 286,
+  "map_id": 14,
+  "name": "Hư Không Mạc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 394,
+  "y": 245,
+  "map_id": 15,
+  "name": "Lê Dương Bắc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 359,
+  "y": 328,
+  "map_id": 16,
+  "name": "Ngọc Phong Lâm",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 348,
+  "y": 252,
+  "map_id": 17,
+  "name": "Lê Dương Đảo",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 418,
+  "y": 357,
+  "map_id": 18,
+  "name": "Kỳ Thạch Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 369,
+  "y": 391,
+  "map_id": 19,
+  "name": "Linh Lan",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 382,
+  "y": 469,
+  "map_id": 20,
+  "name": "Thánh Ước Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 302,
+  "y": 529,
+  "map_id": 21,
+  "name": "Chỉ Phong Cốc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 564,
+  "y": 433,
+  "map_id": 22,
+  "name": "Tuyết Lâm",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 360,
+  "y": 419,
+  "map_id": 23,
+  "name": "Phục Ma Cốc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 456,
+  "y": 97,
+  "map_id": 24,
+  "name": "Hộ Chi Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 456,
+  "y": 165,
+  "map_id": 25,
+  "name": "Lưu Hỏa Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 517,
+  "y": 174,
+  "map_id": 26,
+  "name": "Quang Bình Nguyên",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 543,
+  "y": 96,
+  "map_id": 27,
+  "name": "Trầm Thụy Lâm",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 505,
+  "y": 69,
+  "map_id": 28,
+  "name": "Vân Lộc Sơn",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 343,
+  "y": 439,
+  "map_id": 29,
+  "name": "Mê Quang Tự",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 435,
+  "y": 442,
+  "map_id": 30,
+  "name": "Quyến Cố Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 628,
+  "y": 357,
+  "map_id": 31,
+  "name": "Tiên Lạp Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 648,
+  "y": 299,
+  "map_id": 32,
+  "name": "Thiên Khung Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 588,
+  "y": 336,
+  "map_id": 33,
+  "name": "Lạp Tuyết Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 551,
+  "y": 370,
+  "map_id": 34,
+  "name": "Anh Vũ Cảnh",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 603,
+  "y": 414,
+  "map_id": 35,
+  "name": "Băng Tuyết Nguyên",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 346,
+  "y": 470,
+  "map_id": 36,
+  "name": "Thần Di Cảnh",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 392,
+  "y": 120,
+  "map_id": 37,
+  "name": "Cổ Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 267,
+  "y": 439,
+  "map_id": 38,
+  "name": "Bàng Bối Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 267,
+  "y": 323,
+  "map_id": 39,
+  "name": "Huyền Lâm Tộc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 285,
+  "y": 384,
+  "map_id": 40,
+  "name": "Thiên Lục Châu",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 288,
+  "y": 487,
+  "map_id": 41,
+  "name": "Kỵ Bình Nguyên",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 302,
+  "y": 508,
+  "map_id": 42,
+  "name": "Cổ Đạo",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 575,
+  "y": 455,
+  "map_id": 43,
+  "name": "Đoạn Cốc",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 272,
+  "y": 527,
+  "map_id": 44,
+  "name": "Đăng Vân Địa",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 386,
+  "y": 148,
+  "map_id": 55,
+  "name": "Điêu Linh Thôn",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 428,
+  "y": 215,
+  "map_id": 56,
+  "name": "Mị Hoặc Lâm",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 297,
+  "y": 459,
+  "map_id": 61,
+  "name": "Tử Tức Đảo",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 334,
+  "y": 425,
+  "map_id": 67,
+  "name": "Vĩnh Dạ Cảng",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 384,
+  "y": 385,
+  "map_id": 70,
+  "name": "Mã Thạch Tuyết",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 472,
+  "y": 276,
+  "map_id": 71,
+  "name": "Thiên Đường Thần Thánh",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 571,
+  "y": 210,
+  "map_id": 88,
+  "name": "Thiên Không Thành",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 2,
+  "x": 533,
+  "y": 487,
+  "map_id": 525,
+  "name": "Thành Phố Chìm",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": 1,
+  "x": 458,
+  "y": 146,
+  "map_id": 0,
+  "name": "",
+  "ok": false,
+  "detail": "no map change"
+ },
+ {
+  "page": 1,
+  "x": 344,
+  "y": 180,
+  "map_id": 0,
+  "name": "",
+  "ok": false,
+  "detail": "no map change"
+ },
+ {
+  "page": 1,
+  "x": 590,
+  "y": 203,
+  "map_id": 0,
+  "name": "",
+  "ok": false,
+  "detail": "no map change"
+ },
+ {
+  "page": 1,
+  "x": 70,
+  "y": 350,
+  "map_id": 0,
+  "name": "",
+  "ok": false,
+  "detail": "no map change"
+ }
+]

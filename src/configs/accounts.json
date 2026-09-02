@@ -1,0 +1,81 @@
+{
+  "accounts": [
+    {
+      "id": "acc_1",
+      "name": "CB",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=1a132282defdd50c117a6fd4ba5e3544ec4c3bd5917cc636eada285745362341424c7286339f47f20c605a76587dc5654223fbf31e2211a97217a14c1079d68fd3e96d5d0563765b",
+      "profile_file": "configs/profiles/acc_1.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "30",
+      "channel": ""
+    },
+    {
+      "id": "acc_2",
+      "name": "pepsi",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=112c2604f806684653919187618461584e778f06f2831140076d167ac6694bb1854fd428b5aa2c5fe864d3268e907794e18b8a2c1b52921deae62fb3b80cf452853cf6078a47ca46",
+      "profile_file": "configs/profiles/acc_2.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "30",
+      "channel": ""
+    },
+    {
+      "id": "acc_3",
+      "name": "TSk",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=f2611fae672d9f66879efd9f7d8849e25dbf2c042a957555c3db5938af949276e8cc7f05d9762363e7dbcbe31f7d267f1964378679ae11009c8ca7de887e984238a7debb3d611748",
+      "profile_file": "configs/profiles/acc_3.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "30",
+      "channel": ""
+    },
+    {
+      "id": "acc_4",
+      "name": "hshehe",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=bd2cee7ae1f50d6a950f290649489acf5176d67573433d44cd7dcc0aab3df7280c8d3f314dd088aee256a19c409568d92557c2fa48b7c29f44937af8e28f6a55f7f889277df80a1d",
+      "profile_file": "configs/profiles/acc_4.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "30",
+      "channel": ""
+    },
+    {
+      "id": "acc_5",
+      "name": "luvy",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=0bdab0d847edfbb8d1ff770b2bdbca3320f29b3f596aae8e70a26c37dcafb9aa3023167a4e94ffa114b0b7613feada1712920d57a3a47c13664e2bf706b6b2bf3afcf89745eac0a0",
+      "profile_file": "configs/profiles/acc_5.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "30",
+      "channel": ""
+    },
+    {
+      "id": "acc_6",
+      "name": "dyhihi",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=e1c70a1cfc69ce9c057f218b51051ed38b004a199f690b3116f96f9d3025b638c0ae7c67568655e1b96ccece5095691b3b93663c7db14dbaacfee24ccdadeeb63d302a3c45612ab0",
+      "profile_file": "configs/profiles/acc_6.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "35",
+      "channel": ""
+    },
+    {
+      "id": "acc_7",
+      "name": "tshihi",
+      "launch_link": "https://personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=0e6df08f0937be9fdfc8cebfebefeebc6205acd9298c67a761d877d1435262b13a932837108cda966615641190df9a122c7c6cdd4bbf76177289e11c4756c3434d9dbda1fbaef826",
+      "profile_file": "configs/profiles/acc_7.json",
+      "enabled": true,
+      "login_position": 1,
+      "group": "Không nhóm",
+      "fps": "",
+      "channel": ""
+    }
+  ]
+}

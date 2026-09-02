@@ -1,0 +1,34 @@
+{
+  "required": 4,
+  "passed": 4,
+  "results": [
+    {
+      "ok": true,
+      "target": "Đông Huyền Thành",
+      "map_id": 9,
+      "detail": "enrolled after title edge; similarity=0.058; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_9_1786636188.png"
+    },
+    {
+      "ok": true,
+      "target": "Liêu Vân Tộc",
+      "map_id": 13,
+      "detail": "enrolled after title edge; similarity=0.862; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_13_1786636193.png"
+    },
+    {
+      "ok": true,
+      "target": "Lạp Tuyết Địa",
+      "map_id": 33,
+      "detail": "enrolled after title edge; similarity=0.878; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_33_1786636197.png"
+    },
+    {
+      "ok": true,
+      "target": "Anh Vũ Cảnh",
+      "map_id": 34,
+      "detail": "enrolled after title edge; similarity=0.861; stable map",
+      "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_named_entities_autologin_v3_20260813\\logs\\map_travel_frames\\map_34_1786636201.png"
+    }
+  ]
+}

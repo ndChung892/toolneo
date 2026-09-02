@@ -1,0 +1,1 @@
+Đặt ảnh mẫu dấu ? màu đỏ vào thư mục này. Hỗ trợ: png, jpg, jpeg, bmp, webp.

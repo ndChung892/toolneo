@@ -1,0 +1,31 @@
+{
+  "running": true,
+  "stage": "LOGIN",
+  "detail": "dang nhap CB (2/5)",
+  "cycle": 2,
+  "map": "Lạp Tuyết Địa",
+  "party_ok": true,
+  "restarts": 1,
+  "accounts": [
+    {
+      "account_id": "acc_3",
+      "name": "TSk",
+      "pid": 16868,
+      "core": "0xc33d0d0",
+      "alive": true,
+      "auto_state": "UNKNOWN",
+      "battles": {},
+      "detail": "Player=0x159540a0 Core=0xc33d0d0 world=(1300,900)"
+    },
+    {
+      "account_id": "acc_1",
+      "name": "CB",
+      "pid": 0,
+      "core": "",
+      "alive": true,
+      "auto_state": "UNKNOWN",
+      "battles": {},
+      "detail": ""
+    }
+  ]
+}

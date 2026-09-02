@@ -1,0 +1,175 @@
+{
+ "maps": {
+  "Đông Xuất Vân": {
+   "map_id": 2,
+   "entry": [
+    1961,
+    1356
+   ],
+   "nodes": [
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 698.0,
+     "y": 614.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1189,
+     "base": 209186160,
+     "placeholder": false
+    },
+    {
+     "name": "Dược Thảo Cấp 1",
+     "kind": "duoc",
+     "level": 1,
+     "x": 2100.0,
+     "y": 1200.0,
+     "type": 3060090000141,
+     "resource": 2060090000141,
+     "runtime_id": 1241,
+     "base": 498559712,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1759.0,
+     "y": 594.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1190,
+     "base": 628609184,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 2135.0,
+     "y": 1041.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1191,
+     "base": 628609840,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1899.0,
+     "y": 273.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1193,
+     "base": 628611152,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1371.0,
+     "y": 834.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1192,
+     "base": 628612464,
+     "placeholder": false
+    }
+   ],
+   "templates": []
+  },
+  "Lê Dương Bắc": {
+   "map_id": 15,
+   "entry": [
+    305,
+    1023
+   ],
+   "nodes": [
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 579.0,
+     "y": 1777.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1194,
+     "base": 604984112,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 63.0,
+     "y": 1707.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1195,
+     "base": 604984768,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1560.0,
+     "y": 1843.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1196,
+     "base": 604985424,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1995.0,
+     "y": 1869.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1198,
+     "base": 604986736,
+     "placeholder": false
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 214.0,
+     "y": 1042.0,
+     "type": 3060100001080,
+     "resource": 2060090000119,
+     "runtime_id": 1197,
+     "base": 605185472,
+     "placeholder": false
+    }
+   ],
+   "templates": []
+  },
+  "Thiên Lục Châu": {
+   "map_id": 40,
+   "entry": [
+    2051,
+    1200
+   ],
+   "nodes": [],
+   "templates": []
+  },
+  "Xuất Vân Thôn": {
+   "map_id": 1,
+   "entry": [
+    1708,
+    1126
+   ],
+   "nodes": [],
+   "templates": []
+  }
+ },
+ "note": "CHI Duoc Thao Cap N va Dan Ca Cap N. Ten doc tu entity (+0xA8). placeholder=true la doi tuong mau o (2100,1200), khong phai bai that."
+}

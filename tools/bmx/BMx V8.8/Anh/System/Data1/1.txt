@@ -1,0 +1,371 @@
+Anh Vũ Cảnh	97	58	Ginny	
+Anh Vũ Cảnh	125	82	Nữ Vương Yêu Hoa	
+Anh Vũ Cảnh	132	110	Cupid - Cây Ước Nguyện	
+Anh Vũ Cảnh	251	123	Y Lộ	
+Anh Vũ Cảnh	248	81	Thợ Trồng Hoa	
+Anh Vũ Cảnh	211	146	Tiểu Ba	
+Anh Vũ Cảnh	51	100	Đồng Đồng	
+Anh Vũ Cảnh	240	56	Tiểu Sơn Tặc	
+Bàn Địa Tộc	41	49	Đạo Sư Bàn Địa	
+Bàn Địa Tộc	140	77	Tộc Trưởng Bàn Địa	
+Bàn Địa Tộc	128	131	Tinh Anh Bàn Địa	
+Bàn Địa Tộc	82	102	Tinh Linh Dịch Chuyển Bàn Địa	
+Bàn Địa Tộc	169	116	Kho Sách Bàn Địa	
+Bàng Bối Thành	121	112	Điểm Dịch Chuyển Trương Chân Nhân	
+Bàng Bối Thành	79	23	Cook	
+Bàng Bối Thành	94	40	Tiểu Nhị Tạp Hóa	
+Bàng Bối Thành	34	163	Chủ Tiệm Vũ Khí	
+Bàng Bối Thành	82	178	Thủ Kho	
+Bàng Bối Thành	113	190	Tiệm Trang Bị Ran	
+Bàng Bối Thành	50	115	Tiệm Thuốc Kelly	
+Bàng Bối Thành	170	64	Tiệm Trang Sức Saiba	
+Bàng Bối Thành	196	46	Vệ Sĩ Bàng Bối	
+Bàng Bối Thành	196	93	Long Bối Tế Tự - Danh Hiệu Dũng Sĩ	
+Bàng Bối Thành	255	122	Thủ Vệ Ảo Ma Tháp	
+Bàng Bối Thành	266	165	A Vượng	
+Bàng Bối Thành	204	152	Thương Hội Trưởng Bàng Bối	
+Bàng Bối Thành	62	62	Thành Chủ Bàng Bối	
+Băng Tuyết Nguyên	239	38	Nộ Viêm Lam Đế	
+Băng Tuyết Nguyên	72	166	Thương Nhân Bị Thương	
+Băng Tuyết Nguyên	272	169	Sứ Giả Dịch Chuyển Tiên Cảnh	
+Băng Tuyết Nguyên	170	156	Băng Đồng Yêu Vương	
+Băng Tuyết Nguyên	79	77	Thành Viên Leo Núi	
+Chi Phong Cốc	64	45	Hỏa Ma Vương	
+Chi Phong Cốc	204	25	Tỵ Cốc Nhân	
+Cổ Đạo	194	23	Người Khai Quật - Thám Hiểm	
+Cổ Đạo	74	23	Người Tìm Nước	
+Cổ Đạo	103	142	Anh Linh	
+Cổ Đạo	66	185	Xà Yêu Lãnh Chúa	
+Cổ Đạo	47	68	Quỷ Diện	
+Cổ Đạo	248	22	Thủ Cốc Nhân	
+Cổ Thành	45	140	Thành Chủ	
+Cổ Thành	84	75	Thần Di Tích	
+Cổ Thành	107	178	Lĩnh Chủ Cổ Diệm	
+Đăng Vân Địa	248	163	Thần Hộ Oss	
+Điêu Linh Thôn	168	42	Nông Dân John - Vào Nông Trường	
+Điêu Linh Thôn	149	36	Reck - Cháu Trai Thôn Trưởng	
+Điêu Linh Thôn	120	92	Đại Sư Kỹ Năng Sống	
+Điêu Linh Thôn	61	96	Tướng Quân Cô Thôn	
+Điêu Linh Thôn	35	107	Lão Ông Điêu Linh	
+Điêu Linh Thôn	37	31	Thôn Trưởng Điêu Linh	
+Điêu Linh Thôn	91	86	Đội Trưởng Cô Thôn	
+Điêu Linh Thôn	83	25	Tinh Linh Dịch Chuyển Điêu Linh	
+Đoạn Cốc	50	115	Tộc Navi Điên Loạn	
+Đoạn Cốc	280	54	Băng Cự Long	
+Đoạn Cốc	212	36	Người Đóng Băng	
+Đoạn Cốc	176	132	Nô Lệ	
+Đoạn Cốc	39	165	Thuật Sĩ Đào Mỏ	
+Đoạn Cốc	196	185	Thạch Bia Đổ Nát	
+Đông Huyền Thành	357	217	Cận Vệ Cảng	
+Đông Huyền Thành	298	261	Nhà Hàng Âu Dương	
+Đông Huyền Thành	242	248	Sứ Giả Câu Cá	
+Đông Huyền Thành	326	123	Shop Dũng Khí	
+Đông Huyền Thành	111	92	Sứ Giả Bí Cảnh	
+Đông Huyền Thành	338	158	Tiệm Vũ Khí Mark	
+Đông Huyền Thành	126	98	Sứ Giả Ảo Cảnh	
+Đông Huyền Thành	147	111	Sứ Giả Đoạt Bảo Kỳ Binh	
+Đông Huyền Thành	142	124	Khảo Quan Đánh Giá Xếp Loại Nghề	
+Đông Huyền Thành	54	119	Anh Béo	
+Đông Huyền Thành	334	130	Sứ Giả Thủ Hộ Jery	
+Đông Huyền Thành	317	115	Sứ Giả Đổi Thần Thú	
+Đông Huyền Thành	171	237	Tiệm Trang Bị Mary	
+Đông Huyền Thành	256	183	Tiến Sĩ Ultra	
+Đông Huyền Thành	225	136	Quan Quân Nhu	
+Đông Huyền Thành	213	149	Hướng Dẫn Viên Ryan	
+Đông Huyền Thành	160	149	Tộc Trưởng Bối Tư	
+Đông Huyền Thành	128	158	Y Tá Vương	
+Đông Huyền Thành	106	182	Quân Đoàn Trưởng Đông Huyền	
+Đông Huyền Thành	246	104	Chuyên Viên Phúc Lợi	
+Đông Huyền Thành	81	33	Trưởng Thương Hội Đông Huyền	
+Đông Huyền Thành	165	45	Quản Lý Bang Hội Chiến	
+Đông Huyền Thành	262	93	Bác Sĩ Lý	
+Đông Huyền Thành	200	32	Tiệm Thuốc Bác Sĩ Vương	
+Đông Huyền Thành	221	47	Nhiệm Vụ Treo Thưởng	
+Đông Huyền Thành	250	43	Đông Huyền Sứ	
+Đông Huyền Thành	207	231	Tiệm Trang Sức Khả Vi Nhi	
+Đông Huyền Thành	77	79	Thủ Thư	
+Đông Huyền Thành	223	210	Tiệm Tạp Hóa Ông Mộ	
+Đông Huyền Thành	359	134	Nhân Viên Ngân Hàng	
+Đông Huyền Thành	203	117	Dịch Chuyển Mark	
+Đông Huyền Thành	349	128	Đấu Giá	
+Đông Huyền Thành	275	159	Shop Điểm Thưởng Giác Đấu	
+Đông Huyền Thành	307	65	Trưởng Cận Vệ Đông Huyền	
+Đông Huyền Thành	180	24	Quản Lý Dịch Chuyển Bang Hội	
+Đông Huyền Thành	148	73	Tiệm Pet Tôn Lệ	
+Đông Xuất Vân	84	28	Thợ Săn Edward	
+Đông Xuất Vân	217	44	Nấm Vương (boss)	
+Đông Xuất Vân	198	128	Bang Chủ Răng Cửa (boss)	
+Đông Xuất Vân	37	100	A Vũ	
+Hộ Chi Địa	226	32	Bia Thủ Hộ	
+Hộ Chi Địa	173	93	Thủ Hộ Y	
+Hộ Chi Địa	31	185	Thủ Hộ Tang	
+Hộ Chi Địa	222	174	Thủ Hộ Tư	
+Hộ Chi Địa	134	123	Tinh Linh Đêm	
+Hộ Chi Địa	106	61	Thủ Hộ Nhĩ	
+Hư Không Mạc	179	139	Quỷ Điệp Phu Nhân	
+Hư Không Mạc	90	70	A Thổ	
+Hư Không Mạc	41	223	Thiên Nhiên Thụ	
+Hư Không Mạc	351	121	Thủ Lĩnh Khổng Lồ Sa Mạc	
+Hư Không Mạc	284	224	Cương Thi Vương	
+Hư Không Mạc	38	74	Sứ Giả Dịch Chuyển Đại Mạc	
+Hư Không Mạc	33	94	Thủ Hoang Nhân	
+Huyền Lâm Tộc	51	33	Kho Sách Huyền Lâm	
+Huyền Lâm Tộc	54	79	Tộc Trưởng Huyền Lâm	
+Huyền Lâm Tộc	31	100	Tinh Linh Dịch Chuyển Huyền Lâm	
+Huyền Lâm Tộc	139	52	Đạo Sư Huyền Lâm	
+Huyền Lâm Tộc	89	52	Tinh Anh Huyền Lâm	
+Kỵ Bình Nguyên	117	147	Lính Tuần Tra	
+Kỵ Bình Nguyên	83	121	Rota	
+Kỵ Bình Nguyên	149	38	Người Qua Đường Ron	
+Kỵ Bình Nguyên	232	148	Tiến Sĩ Harry	
+Kỵ Bình Nguyên	270	68	Nhà Thám Hiểm	
+Kỵ Bình Nguyên	106	55	Máy Giả Giọng Nói	
+Kỵ Bình Nguyên	44	166	Dũng Sĩ Sói	
+Kỳ Thạch Địa	199	115	Thạch Cự Nhân	
+Kỳ Thạch Địa	231	41	Di Dân Viễn Cổ	
+Kỳ Thạch Địa	108	82	Viễn Cổ Thủ Hộ Thú	
+Kỳ Thạch Địa	37	27	Ảo Địa Ấn Giả	
+Kỳ Thạch Địa	76	35	Đảo Điếu Nam	
+Lạp Tuyết Địa	179	122	Mê Huyễn Động - Sứ Giả Dịch Chuyển	
+Lạp Tuyết Địa	51	136	Đội Trưởng Độc Nhãn Xanh	
+Lạp Tuyết Địa	205	141	Thủ Lĩnh Độc Nhãn Xanh	
+Lạp Tuyết Địa	60	95	Mảnh Da Thú	
+Lạp Tuyết Địa	141	38	Đọc Nhãn Đào Quặng	
+Lạp Tuyết Địa	96	29	Thợ Mở	
+Lạp Tuyết Địa	255	158	Hổ Bì Dương Thích Hát	
+Lạp Tuyết Địa	236	25	Lão Thợ Săn	
+Lê Dương Bắc	38	155	Người Lái Đò Hồ Đại	
+Lê Dương Bắc	88	61	Ngư Phu	
+Lê Dương Bắc	182	142	Tiểu Hoa	
+Lê Dương Bắc	249	173	Alumo (boss)	
+Lê Dương Đảo	266	26	Người Lái Đò Lộ Cốc	
+Lê Dương Đảo	207	133	Ốc Vương Ngàn Năm (boss)	
+Lê Dương Đảo	272	48	Aluca (boss)	
+Lê Dương Đảo	62	100	Quan Tuần Tra Lê Dương	
+Lê Dương Đảo	164	156	Ngư Dân Lão Kim	
+Lê Dương Nam	58	154	Thần Chết	
+Lê Dương Nam	55	29	Tượng Đá	
+Lê Dương Nam	204	51	Cận Vệ Đông Huyền	
+Lê Dương Nam	134	89	Misalu	
+Lê Dương Nam	127	35	Võ Sĩ	
+Lê Dương Nam	30	21	Ốc Đại Đội Trưởng	
+Lê Dương Nam	187	157	Tiêu Khắc	
+Lê Dương Thôn	175	83	Hồ Tặc	
+Lê Dương Thôn	104	94	Lão Ngư Phu	
+Lê Dương Thôn	55	114	Lan Lan	
+Lê Dương Thôn	125	141	Thủ Lĩnh Hồ Tặc	
+Lê Dương Thôn	76	20	Gấu Bảo Thạch	
+Lê Dương Thôn	31	101	Vệ Sĩ	
+Liêu Vân Tộc	117	112	Tinh Anh Liêu Vân	
+Liêu Vân Tộc	125	57	Tộc Trưởng Liêu Vân	
+Liêu Vân Tộc	176	107	Tinh Linh Dịch Chuyển Liêu Vân	
+Liêu Vân Tộc	45	94	Kho Sách Liêu Vân	
+Liêu Vân Tộc	66	62	Đạo Sư Liêu Vân	
+Linh Lan	117	139	Người Thần Bí	
+Linh Lan	80	97	Y Tiên	
+Linh Lan	203	139	Linh Lan Tà Tâm	
+Linh Vũ Tộc	58	90	Tộc Trưởng Linh Vũ	
+Linh Vũ Tộc	143	132	Tinh Anh Linh Vũ	
+Linh Vũ Tộc	35	124	Tinh Linh Dịch Chuyển Linh Vũ	
+Linh Vũ Tộc	86	39	Kho Sách Linh Vũ	
+Linh Vũ Tộc	138	51	Đạo Sư Linh Vũ	
+Lưu Hỏa Tộc	171	68	Đạo Sư Lưu Hỏa	
+Lưu Hỏa Tộc	111	160	Kho Sách Lưu Hỏa	
+Lưu Hỏa Tộc	134	112	Tinh Anh Lưu Hỏa	
+Lưu Hỏa Tộc	177	113	Tinh Linh Dịch Chuyển Lưu Hỏa	
+Lưu Hỏa Tộc	60	90	Tộc Trưởng Lưu Hỏa	
+Mã Thạch Tuyết	71	139	Pháp Trận Thủ Hộ	
+Mê Quang Tự	106	30	Evan	
+Mê Quang Tự	25	62	Thổ Long	
+Mê Quang Tự	139	61	Quang Dực Vương	
+Mê Quang Tự	57	121	Hắc Long Vương	
+Mê Quang Tự	169	125	Công Chúa Hải Vực	
+Mê Quang Tự	50	139	Tế Đàn Ác Ma	
+Mị Hoặc Lâm	191	147	Đứa Bé Bị Giam	
+Mị Hoặc Lâm	127	31	Michi Lạc Đường	
+Mị Hoặc Lâm	78	149	Nhiếp Hồn Quái	
+Mị Hoặc Lâm	211	89	Vị Khách Thần Bí	
+Mị Hoặc Lâm	192	35	Tiểu Tinh Linh Mị Hoặc	
+Mị Hoặc Lâm	131	107	Solomon【Nhiệm Vụ Tông Sư】	
+Mị Hoặc Lâm	63	86	Người Chăm Sóc Rừng	
+Mị Hoặc Lâm	67	119	Phi Ma	
+Ngọc Phong Lâm	45	101	Người Bắt Ong	
+Ngọc Phong Lâm	152	144	Ong Mật Nữ Vương	
+Ngọc Phong Lâm	80	61	Phong Điệp Cuồng Vũ	
+Ngọc Phong Lâm	196	124	Khổng Lồ Kaos	
+Ngọc Phong Lâm	173	45	Trị Liệu Sư	
+Ngọc Phong Lâm	154	63	A Linh	
+Phục Ma Cốc	96	33	Tế Đàn	
+Phục Ma Cốc	84	165	Hộ Cốc Thần Thú	
+Phục Ma Cốc	183	31	Pháp Sư Ác Ma	
+Phục Ma Cốc	163	168	Ma Chiến【Nhiệm Vụ Chuyên Gia】	
+Phục Ma Cốc	254	86	Phù Chú Vương	
+Phục Ma Cốc	123	90	Phục Ma Chiến Thần	
+Phục Ma Cốc	31	98	Sứ Giả Dịch Chuyển Thâm Uyên	
+Phục Ma Cốc	227	173	Trục Yêu Sư	
+Quân Cổ Đạo	140	83	Trúc Lâm Tiên Tử	
+Quân Cổ Đạo	160	139	Trúc Lâm Hiền Triết	
+Quân Cổ Đạo	177	25	Thợ Làm Trúc	
+Quân Cổ Đạo	27	133	Du Khách	
+Quân Cổ Đạo	66	147	Trúc Lâm Mãnh Thú	
+Quân Cổ Đạo	80	67	Hồn Ma	
+Quang Bình Nguyên	213	172	Người Đưa Thư Châu Thần	
+Quang Bình Nguyên	35	72	Người Chăn Cừu	
+Quang Bình Nguyên	113	98	Jia Thật Thà (boss)	
+Quang Bình Nguyên	121	167	Sói Mẹ Hung Ác	
+Quyến Cố Thành	107	49	Hành Lang Vô Tận  - Cổng Dịch Chuyển	
+Quyến Cố Thành	75	28	Thánh Sứ Tinh Cung	
+Quyến Cố Thành	21	73	Thợ Nhuộm	
+Quyến Cố Thành	223	30	Quản Lý Lễ Đường	
+Quyến Cố Thành	238	49	Sứ Giả Thần Tu	
+Quyến Cố Thành	215	38	Thành Chủ Quyến Cố	
+Quyến Cố Thành	38	109	Trưởng Lão Quyến Cố (Q200)	
+Quyến Cố Thành	175	78	Mẹo - Cận Vệ Quyến Cố	
+Quyến Cố Thành	136	64	Dần - Cận Vệ Quyến Cố	
+Quyến Cố Thành	147	92	Vệ Sĩ Quyến Cố	
+Quyến Cố Thành	277	125	Thương Hội Quyến Cố	
+Quyến Cố Thành	86	100	Tiệm Vũ Khí Lang Mộc	
+Quyến Cố Thành	77	101	Tiệm Trang Bị Ruff	
+Quyến Cố Thành	251	175	Tiệm Tạp Hóa Leni	
+Quyến Cố Thành	243	166	Tiệm Pet Phiêu Phiêu	
+Quyến Cố Thành	179	143	Tiệm Thuốc Raul	
+Quyến Cố Thành	161	135	Nhân Viên Bảo Quản Thực Phẩm	
+Quyến Cố Thành	149	130	Tiệm Thực Phẩm	
+Quyến Cố Thành	132	166	Sát Hạch Viên Sư	
+Quyến Cố Thành	129	146	Sứ Giả Đôi Cánh]	
+Quyến Cố Thành	90	118	Tinh Linh Dịch Chuyển Quyến Cố	
+Thần Di Cảnh	115	22	Người Nuôi Dơi	
+Thần Di Cảnh	210	109	Lãnh Chúa Phệ Nhật	
+Thần Di Cảnh	67	89	Sứ Giả Thần Thánh	
+Thần Di Cảnh	248	167	Linh Hồn Thất Lạc	
+Thần Di Cảnh	72	155	Lửa Tà Ma	
+Thành Phố Chìm	48	168	Sinh Vật Hải Dương	
+Thành Phố Chìm	47	87	Gia Tộc Mê Muội	
+Thành Phố Chìm	202	93	Chu Ma Vương	
+Thành Phố Chìm	87	165	Hải Yêu	
+Thành Phố Chìm	170	150	Nguyên Soái Ác Ma	
+Thánh Ước Địa	71	111	Học Giả Tà Ma Budle	
+Thánh Ước Địa	107	82	Ảo Ảnh Đen Tối	
+Thánh Ước Địa	69	23	Hoar	
+Thánh Ước Địa	177	59	Thái Cổ Ma Thần	
+Thánh Ước Địa	122	163	Ác Ma Thần Quan	
+Thánh Ước Địa	21	72	Lính Tuần Tra Quyến Cố	
+Tháp Khắc Nguyên	35	177	Rink	
+Tháp Khắc Nguyên	104	61	Thực Thần	
+Tháp Khắc Nguyên	55	89	Nhà Mạo Hiểm	
+Tháp Khắc Nguyên	149	100	Thảo Nguyên Gấu Vương (boss)	
+Tháp Khắc Nguyên	252	146	Người Lái Đò Vương Đại	
+Tháp Khắc Nguyên	207	168	Cột Totem Sói	
+Tháp Khắc Nguyên	168	55	Thợ Săn Casey	
+Thiên Đường Thần Thánh	30	103	Tượng Người Thủ Hộ	
+Thiên Đường Thần Thánh	116	180	Võ Sĩ Tinh Anh Thánh Đường	
+Thiên Đường Thần Thánh	80	117	Thủ Lĩnh Ác Ma	
+Thiên Đường Thần Thánh	155	80	Thống Lĩnh Chiến Sĩ Thánh Đường	
+Thiên Đường Thần Thánh	125	81	Võ Sĩ Tinh Anh Thánh Đường	
+Thiên Đường Thần Thánh	213	107	Thuật Sĩ Thánh Đường	
+Thiên Đường Thần Thánh	202	69	Dịch Chuyển Thánh Đường	
+Thiên Đường Thần Thánh	263	52	Công Chúa Tuyết Liên	
+Thiên Không Thành	187	135	Thủ Lĩnh Hộ Vệ Thiên Không	
+Thiên Không Thành	228	172	Dịch Chuyển Thiên Không	
+Thiên Không Thành	113	102	Á Long Siêu Cấp	
+Thiên Không Thành	159	167	Hộ Vệ Phương Đông	
+Thiên Không Thành	201	84	Hộ Vệ Phương Nam	
+Thiên Không Thành	255	74	Thiên Không Cự Long	
+Thiên Không Thành	257	25	Kho Báu Trên Không	
+Thiên Không Thành	55	168	Chủ Thành Thiên Không	
+Thiên Không Thành	78	156	Thần Long Siêu Cấp	
+Thiên Không Thành	77	78	Dịch Chuyển Thế Giới Số	
+Thiên Không Thành	54	82	Hộ Vệ Phương Tây	
+Thiên Không Thành	144	35	Hộ Vệ Phương Bắc	
+Thiên Không Thành	86	28	Linh Hồn Cô Độc	
+Thiên Khung Tộc	66	56	Tộc Trưởng Thiên Khung	
+Thiên Khung Tộc	143	90	Kho Sách Thiên Khung	
+Thiên Khung Tộc	41	78	Tinh Anh Thiên Khung	
+Thiên Khung Tộc	85	89	Tinh Linh Dịch Chuyển Thiên Khung	
+Thiên Khung Tộc	155	30	Đạo Sư Thiên Khung	
+Thiên Lục Châu	239	52	Hướng Đạo Lục Châu	
+Thiên Lục Châu	215	61	Thùng Hàng	
+Thiên Lục Châu	130	69	Quan Sát Viên	
+Thiên Lục Châu	56	17	Thủ Lĩnh Cự Nhân	
+Thiên Lục Châu	57	130	Phụ Trách Đội Trưởng	
+Thiên Lục Châu	243	132	Thủ Lĩnh Độc Nhãn	
+Thiên Lục Châu	116	130	Thủ Lĩnh Sa Tặc	
+Thiện Tĩnh Địa	219	50	Trưởng Lão Vô Ưu Tộc	
+Thiện Tĩnh Địa	111	104	Trưởng Lão Cạnh Địa	
+Tiên Lạp Thành	389	216	Điểm Dịch Chuyển Long Long	
+Tiên Lạp Thành	418	141	Tiệm Vật Phẩm Nhiệm Vụ	
+Tiên Lạp Thành	375	113	Bác Sĩ Đắc Kỷ	
+Tiên Lạp Thành	296	179	Sứ Giả Quản Lý Phụ Bản	
+Tiên Lạp Thành	415	44	Chủ Tiệm Thuốc	
+Tiên Lạp Thành	374	32	Chủ Tiệm Vũ Khí	
+Tiên Lạp Thành	271	146	Thành Chủ Tiên Lạp	
+Tiên Lạp Thành	237	51	Khảo Quan Trung Cấp	
+Tiên Lạp Thành	342	182	Trưởng Cận Vệ Tiên Lạp	
+Tiên Lạp Thành	186	30	Thủ Kho	
+Tiên Lạp Thành	163	73	Thùng Thư Tiên Lạp	
+Tiên Lạp Thành	146	87	Quản Lý Đấu Giá	
+Tiên Lạp Thành	121	89	Chủ Tiệm Trang Sức	
+Tiên Lạp Thành	86	100	Chủ Tiệm Tạp Hóa	
+Tiên Lạp Thành	56	59	Chủ Tiệm Pet	
+Tiên Lạp Thành	78	55	Chủ Quán Rượu	
+Tiên Lạp Thành	45	117	Chủ Tiệm Vũ Khí	
+Tiên Lạp Thành	165	180	Chuyên Viên Phát Lương	
+Tiên Lạp Thành	144	229	Trưởng Thương Hội Tiên Lạp	
+Tiên Lạp Thành	142	38	Thợ Săn A Phàm	
+Tiên Lạp Thành	388	219	Điểm Dịch Chuyển Long Long	
+Tiên Lạp Thành	228	229	Nghệ Nhân Lữ Hành	
+Tiên Lạp Thành	324	152	Sứ Giả Mở Phụ Bản	
+Tiên Lạp Thành	414	71	Tinh Thể Học Giả	
+Tinh Linh Thành	246	69	Trưởng Thương Hội Tinh Linh	
+Tinh Linh Thành	202	95	Thánh Sư Kết Bái	
+Tinh Linh Thành	241	114	Thủ Kho	
+Tinh Linh Thành	132	124	Đại Hiền Triết Fetocci	
+Tinh Linh Thành	107	171	Sứ Giả Tinh Linh Thủ Hộ	
+Tinh Linh Thành	184	189	Tiệm Trang Sức Văn Văn	
+Tinh Linh Thành	217	51	Chủ Thành Tinh Linh	
+Tinh Linh Thành	206	192	Tiệm Trang Bị Lisa	
+Tinh Linh Thành	178	77	Dược Sĩ	
+Tinh Linh Thành	117	73	Nhận Nhiệm Vụ Treo Thưởng	
+Tinh Linh Thành	99	83	Vệ Sĩ Tinh Linh	
+Tinh Linh Thành	75	76	Chủ Tiệm Tạp Hóa	
+Tinh Linh Thành	46	106	Tiệm Pet Amy	
+Tinh Linh Thành	70	149	Tiên Tử Trị Liệu	
+Tinh Linh Thành	29	147	Tiệm Thuốc Cammy	
+Tinh Linh Thành	208	174	Tiệm Vũ Khí Madoff	
+Tinh Linh Thành	181	112	Tinh Linh Dịch Chuyển	
+Trầm Thụy Lâm	99	32	Rom	
+Trầm Thụy Lâm	251	140	Thợ Săn Airy	
+Trầm Thụy Lâm	31	33	Dịch Chuyển Terry	
+Trầm Thụy Lâm	208	108	Thợ Săn Luca	
+Trầm Thụy Lâm	68	187	Thợ Đốn Gỗ	
+Trầm Thụy Lâm	56	130	Đại Khâu Lăng Sơn Quái	
+Trầm Thụy Lâm	190	86	Tử Thi	
+Trầm Thụy Lâm	107	139	Cận Vệ Của Rink	
+Trầm Thụy Lâm	134	59	Bia Mộ Orca	
+Trầm Thụy Lâm	244	71	Gấu Trúc Vương	
+Tứ Tức Đảo	173	52	Sứ Giả Ma Điện	
+Tứ Tức Đảo	26	36	Người Lái Đò Harker	
+Tứ Tức Đảo	132	48	Phù Thủy Blair	
+Tuyết Lâm	194	157	Băng Nữ Vương	
+Tuyết Lâm	48	39	Tiên Phong Long Tộc	
+Tuyết Lâm	268	164	Thành Viên Nhóm Tuần Tra Cực Địa	
+Tuyết Lâm	62	100	Eva	
+Vân Đài	164	155	Kê Vương (boss)	
+Vân Đài	123	113	Sứ Giả Viên	
+Vân Đài	126	23	Chiêu Tài Mao	
+Vân Đài	55	47	Thợ Săn Vương Ngũ	
+Vân Lộc Sơn	98	19	Hắc Thủ Tà Tâm	
+Vân Lộc Sơn	162	43	Sứ Giả Dịch Chuyển Lang Huyệt	
+Vân Lộc Sơn	105	130	Lão Âu	
+Vân Lộc Sơn	202	150	Bạch Linh Thần	
+Vĩnh Dạ Cảng	49	55	Thợ Săn Muỗi - Quỷ Hút Máu	
+Xuất Vân Thôn	139	41	Tiệm Tạp Hóa Ông Triệu	
+Xuất Vân Thôn	73	52	Tiệm Trang Bị Isla	
+Xuất Vân Thôn	49	64	Tiệm Vũ Khí A Nhĩ	
+Xuất Vân Thôn	47	92	Trưởng Thôn Stoff	
+Xuất Vân Thôn	38	108	Tân Thủ Sứ	
+Xuất Vân Thôn	108	99	Y Tá Loli	
+Xuất Vân Thôn	130	56	Vệ Sĩ Xuất Vân	
+Xuất Vân Thôn	151	105	Tiệm Thuốc Ông Vương	
+Xuất Vân Thôn	111	33	Thủ Kho	
+Xuất Vân Thôn	92	39	Tiệm Pet Mỹ Mỹ	

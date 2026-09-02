@@ -1,0 +1,32 @@
+[
+  {
+    "account_id": "acc_1",
+    "name": "CB",
+    "position": 1,
+    "state": "TIMEOUT",
+    "pid": 2524,
+    "hwnd": 854878,
+    "detail": "",
+    "stage": "ENTER_GAME_CLICKED"
+  },
+  {
+    "account_id": "acc_2",
+    "name": "pepsi",
+    "position": 2,
+    "state": "TIMEOUT",
+    "pid": 12156,
+    "hwnd": 526952,
+    "detail": "",
+    "stage": "ENTER_GAME_CLICKED"
+  },
+  {
+    "account_id": "acc_3",
+    "name": "TSk",
+    "position": 3,
+    "state": "TIMEOUT",
+    "pid": 15640,
+    "hwnd": 1116798,
+    "detail": "",
+    "stage": "ENTER_GAME_CLICKED"
+  }
+]

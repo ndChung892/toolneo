@@ -1,0 +1,249 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.AutoBossWindow"
+        Title="Auto Boss Team"
+        Width="620" Height="358" CanResize="False"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Title" Color="#c8ccd0"/>
+    <SolidColorBrush x:Key="Green" Color="#4e9e3a"/>
+    <SolidColorBrush x:Key="Red" Color="#9c3232"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+    <SolidColorBrush x:Key="Combo" Color="#3c3f41"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <!-- Same group box as the main window, so this reads as part of the tool. -->
+    <Style Selector="HeaderedContentControl.group">
+      <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+      <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+      <Setter Property="Template">
+        <ControlTemplate>
+          <Grid>
+            <Border Margin="0,8,0,0" BorderBrush="{StaticResource Border}"
+                    BorderThickness="1" CornerRadius="4"/>
+            <ContentPresenter Margin="8,17,8,8" Content="{TemplateBinding Content}"
+                              HorizontalContentAlignment="Stretch"
+                              VerticalContentAlignment="Stretch"/>
+            <Border HorizontalAlignment="Left" VerticalAlignment="Top"
+                    Margin="9,0,0,0" Padding="5,0" Background="{StaticResource Bg}">
+              <TextBlock Text="{TemplateBinding Header}" FontSize="11.5"
+                         Foreground="{StaticResource Title}" FontWeight="SemiBold"/>
+            </Border>
+          </Grid>
+        </ControlTemplate>
+      </Setter>
+    </Style>
+
+    <Style Selector="TextBlock"><Setter Property="Foreground" Value="{StaticResource Text}"/></Style>
+    <Style Selector="CheckBox">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="0"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+      <Setter Property="FontSize" Value="12"/>
+    </Style>
+    <Style Selector="RadioButton">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="0"/>
+      <Setter Property="VerticalAlignment" Value="Center"/>
+      <Setter Property="FontSize" Value="11"/>
+    </Style>
+    <Style Selector="ComboBox">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="MinHeight" Value="22"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="BorderThickness" Value="1"/>
+      <Setter Property="Padding" Value="6,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="ComboBox /template/ Border#Background">
+      <Setter Property="Background" Value="{StaticResource Combo}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+    </Style>
+    <Style Selector="TextBox">
+      <Setter Property="Background" Value="{StaticResource Field}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="BorderBrush" Value="{StaticResource Border}"/>
+      <Setter Property="CornerRadius" Value="2"/>
+      <Setter Property="MinHeight" Value="22"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="Padding" Value="6,0"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+
+    <Style Selector="Button">
+      <Setter Property="CornerRadius" Value="3"/>
+      <Setter Property="BorderThickness" Value="0"/>
+      <Setter Property="Foreground" Value="White"/>
+      <Setter Property="Height" Value="22"/>
+      <Setter Property="Padding" Value="9,0"/>
+      <Setter Property="FontSize" Value="11"/>
+      <Setter Property="HorizontalContentAlignment" Value="Center"/>
+      <Setter Property="VerticalContentAlignment" Value="Center"/>
+    </Style>
+    <Style Selector="Button.tool"><Setter Property="Background" Value="{StaticResource Gray}"/></Style>
+    <Style Selector="Button.go">
+      <Setter Property="Background" Value="{StaticResource Green}"/>
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Height" Value="26"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <Style Selector="Button.stop">
+      <Setter Property="Background" Value="{StaticResource Red}"/>
+      <Setter Property="FontWeight" Value="Bold"/>
+      <Setter Property="Height" Value="26"/>
+      <Setter Property="FontSize" Value="11.5"/>
+    </Style>
+    <!-- The ✕ that drops a boss from the list: quiet until pointed at, red when
+         it is, because it is the only destructive control in the window. -->
+    <Style Selector="Button.del">
+      <Setter Property="Background" Value="Transparent"/>
+      <Setter Property="Foreground" Value="{StaticResource Dim}"/>
+      <Setter Property="Height" Value="18"/>
+      <Setter Property="Width" Value="20"/>
+      <Setter Property="Padding" Value="0"/>
+      <Setter Property="FontSize" Value="12"/>
+    </Style>
+    <Style Selector="Button.del:pointerover /template/ ContentPresenter">
+      <Setter Property="Background" Value="Transparent"/>
+      <Setter Property="TextBlock.Foreground" Value="#e06060"/>
+    </Style>
+    <!-- The drag handle: bigger than the old ▲▼ pair (owner's call - "to lên
+         một tí" - the old target was fiddly to grab), a quiet grip until
+         pointed at. -->
+    <Style Selector="Border.grip">
+      <Setter Property="Width" Value="28"/>
+      <Setter Property="Margin" Value="0,0,4,0"/>
+      <Setter Property="Cursor" Value="Hand"/>
+      <Setter Property="CornerRadius" Value="2"/>
+    </Style>
+    <Style Selector="Border.grip:pointerover TextBlock">
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+    </Style>
+  </Window.Styles>
+
+  <Grid Margin="9" ColumnDefinitions="238,*" RowDefinitions="*,Auto,Auto,Auto">
+
+    <!-- ĐỘI HÌNH: five slots, exactly one KEY. One account is a solo run and is
+         the key by definition; two or more make a party. -->
+    <HeaderedContentControl Grid.Row="0" Grid.Column="0" Classes="group" Header="ĐỘI HÌNH"
+                            Margin="0,0,8,0">
+      <!-- 52px for the KEY column cut the label to "KE" on screen: the radio
+           glyph and its padding eat ~22px before the text starts. -->
+      <Grid x:Name="TeamRows" ColumnDefinitions="*,62" RowDefinitions="Auto,Auto,Auto,Auto,Auto">
+        <ComboBox Grid.Row="0" Grid.Column="0" x:Name="CbAcc1" Margin="0,3" HorizontalAlignment="Stretch" SelectionChanged="OnSlotChanged"/>
+        <RadioButton Grid.Row="0" Grid.Column="1" x:Name="RbKey1" GroupName="bosskey" Content="KEY" Margin="6,3,0,3" Click="OnKeyChanged"/>
+        <ComboBox Grid.Row="1" Grid.Column="0" x:Name="CbAcc2" Margin="0,3" HorizontalAlignment="Stretch" SelectionChanged="OnSlotChanged"/>
+        <RadioButton Grid.Row="1" Grid.Column="1" x:Name="RbKey2" GroupName="bosskey" Content="KEY" Margin="6,3,0,3" Click="OnKeyChanged"/>
+        <ComboBox Grid.Row="2" Grid.Column="0" x:Name="CbAcc3" Margin="0,3" HorizontalAlignment="Stretch" SelectionChanged="OnSlotChanged"/>
+        <RadioButton Grid.Row="2" Grid.Column="1" x:Name="RbKey3" GroupName="bosskey" Content="KEY" Margin="6,3,0,3" Click="OnKeyChanged"/>
+        <ComboBox Grid.Row="3" Grid.Column="0" x:Name="CbAcc4" Margin="0,3" HorizontalAlignment="Stretch" SelectionChanged="OnSlotChanged"/>
+        <RadioButton Grid.Row="3" Grid.Column="1" x:Name="RbKey4" GroupName="bosskey" Content="KEY" Margin="6,3,0,3" Click="OnKeyChanged"/>
+        <ComboBox Grid.Row="4" Grid.Column="0" x:Name="CbAcc5" Margin="0,3" HorizontalAlignment="Stretch" SelectionChanged="OnSlotChanged"/>
+        <RadioButton Grid.Row="4" Grid.Column="1" x:Name="RbKey5" GroupName="bosskey" Content="KEY" Margin="6,3,0,3" Click="OnKeyChanged"/>
+      </Grid>
+    </HeaderedContentControl>
+
+    <!-- BOSS: the full scanned catalogue, always - not filtered by Map below.
+         Map only says where the team travels to before hunting; a ticked boss
+         that turns out not to be on that map simply never spawns for the
+         runner (WAIT_SPAWN), it is not an error. No save button - the list
+         syncs itself from the catalogue the detect window writes. -->
+    <HeaderedContentControl Grid.Row="0" Grid.Column="1" Classes="group" Header="BOSS">
+      <DockPanel>
+        <Grid DockPanel.Dock="Top" ColumnDefinitions="Auto,*,Auto,Auto" Margin="0,0,0,6">
+          <TextBlock Grid.Column="0" Text="Map" VerticalAlignment="Center" Margin="0,0,6,0" FontSize="11.5"
+                     ToolTip.Tip="Map để cả đội đi tới trước khi săn - không lọc danh sách boss dưới"/>
+          <ComboBox  Grid.Column="1" x:Name="CbMap" HorizontalAlignment="Stretch"/>
+          <Button Grid.Column="2" Classes="tool" Content="DÒ BOSS" Margin="6,0,0,0" Click="OnOpenScan"
+                  ToolTip.Tip="Mở cửa sổ dò: chọn client đang mở, quét, đánh thử, đặt tên rồi thêm vào đây"/>
+          <Button Grid.Column="3" Classes="tool" Content="↻" Width="26" Margin="4,0,0,0" Click="OnRefresh"
+                  ToolTip.Tip="Nạp lại danh sách đã lưu"/>
+        </Grid>
+        <!-- Order IS priority: whichever is listed first is fought first among
+             what is actually alive. Drag the ≡ handle to move a row - there is
+             no separate priority number to keep in sync with the list.
+             Dragging only ever reorders; it never touches Sel, so an untick
+             stays an untick no matter where the row ends up. -->
+        <Border BorderBrush="{StaticResource Border}" BorderThickness="1" CornerRadius="2">
+          <ScrollViewer>
+            <ItemsControl x:Name="BossList" Margin="7,5">
+              <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                  <Grid ColumnDefinitions="Auto,*,Auto" Margin="0,2"
+                        Opacity="{Binding Opacity}" Background="{Binding RowBackground}"
+                        HorizontalAlignment="Stretch">
+                    <Grid.Transitions>
+                      <Transitions>
+                        <DoubleTransition Property="Opacity" Duration="0:0:0.12"/>
+                      </Transitions>
+                    </Grid.Transitions>
+                    <Border Grid.Column="0" Classes="grip" Tag="{Binding}"
+                            PointerPressed="OnDragPressed" PointerMoved="OnDragMoved"
+                            PointerReleased="OnDragReleased" PointerCaptureLost="OnDragCaptureLost"
+                            ToolTip.Tip="Kéo để đổi thứ tự ưu tiên">
+                      <TextBlock Text="≡" Foreground="{StaticResource Dim}" FontSize="17"
+                                 HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <CheckBox Grid.Column="1" Content="{Binding Name}" IsChecked="{Binding Sel, Mode=TwoWay}"/>
+                    <Button Grid.Column="2" Classes="del" Content="✕" Click="OnRemoveBoss" Tag="{Binding}"
+                            ToolTip.Tip="Bỏ con này khỏi danh sách"/>
+                  </Grid>
+                </DataTemplate>
+              </ItemsControl.ItemTemplate>
+            </ItemsControl>
+          </ScrollViewer>
+        </Border>
+      </DockPanel>
+    </HeaderedContentControl>
+
+    <!-- The two checks the key needs before it can fight anything, in the order
+         they are done. Both default ON; they are here to be SEEN, not to be
+         hunted for - they were silently on before, which is worse. -->
+    <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Horizontal" Spacing="10" Margin="2,7,0,0">
+      <CheckBox x:Name="CbEnsureAuto" Content="Tự bật Auto" IsChecked="True" FontSize="11"
+                ToolTip.Tip="Đọc nút Auto bằng pixel và bật nếu đang tắt — kiểm lại mỗi 2 phút"/>
+      <CheckBox x:Name="CbGround" Content="Kiểm tra bay" IsChecked="True" FontSize="11"
+                ToolTip.Tip="Key đang bay thì hạ xuống đất — bay là đi lướt qua, không đánh được"/>
+    </StackPanel>
+
+    <TextBlock Grid.Row="1" Grid.Column="1" x:Name="Hint" TextWrapping="NoWrap"
+               Text="Chọn ít nhất một tài khoản." Foreground="{StaticResource Dim}"
+               FontSize="11" Margin="2,7,0,0"/>
+
+    <Grid Grid.Row="2" Grid.ColumnSpan="2" ColumnDefinitions="Auto,Auto,Auto,*,Auto,Auto" Margin="2,6,0,0">
+      <TextBlock Grid.Column="0" Text="Chạy" VerticalAlignment="Center" Margin="0,0,6,0" FontSize="11.5"/>
+      <TextBox   Grid.Column="1" x:Name="TMinutes" Text="0" Width="46"/>
+      <TextBlock Grid.Column="2" Text="phút  (0 = tới khi bấm DỪNG)" VerticalAlignment="Center"
+                 Foreground="{StaticResource Dim}" FontSize="11" Margin="6,0,0,0"/>
+      <Button Grid.Column="4" x:Name="BtnStart" Classes="go" Content="BẮT ĐẦU" Width="92"
+              Margin="0,0,6,0" Click="OnStart"/>
+      <Button Grid.Column="5" Classes="stop" Content="DỪNG" Width="74" Click="OnStop"/>
+    </Grid>
+
+    <!-- Schedule a start instead of pressing BẮT ĐẦU by hand. Only one control
+         changes to say whether a schedule is armed: BẮT ĐẦU HẸN GIỜ itself goes
+         grey while it is - that greyed-out state IS the confirmation, so there
+         is nothing else to check. BỎ HẸN GIỜ is the only way back other than
+         letting it fire or closing the tool. -->
+    <Grid Grid.Row="3" Grid.ColumnSpan="2" ColumnDefinitions="Auto,Auto,Auto,*,Auto" Margin="2,7,0,0">
+      <TextBlock Grid.Column="0" Text="Hẹn giờ" VerticalAlignment="Center" Margin="0,0,6,0" FontSize="11.5"/>
+      <TextBox   Grid.Column="1" x:Name="TSchedule" Width="60" Watermark="HH:mm"
+                 ToolTip.Tip="Giờ trong ngày, ví dụ 21:30 — qua giờ đó rồi thì hẹn cho ngày mai"/>
+      <Button    Grid.Column="2" x:Name="BtnSchedule" Classes="tool" Content="BẮT ĐẦU HẸN GIỜ"
+                 Margin="6,0,0,0" Click="OnScheduleStart"/>
+      <Button    Grid.Column="4" x:Name="BtnUnschedule" Classes="tool" Content="BỎ HẸN GIỜ"
+                 IsEnabled="False" Click="OnScheduleCancel"/>
+    </Grid>
+  </Grid>
+</Window>

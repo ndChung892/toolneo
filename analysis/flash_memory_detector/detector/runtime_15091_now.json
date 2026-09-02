@@ -1,0 +1,12 @@
+{
+  "pid": 16972,
+  "runtime_id": 15091,
+  "events": [
+    {
+      "at": "2026-08-12T01:53:30.639845",
+      "elapsed": 1.968,
+      "state": "absent",
+      "objects": []
+    }
+  ]
+}

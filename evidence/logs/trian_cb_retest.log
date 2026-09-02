@@ -1,0 +1,24 @@
+﻿{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1"}
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước TRỊ AN..."}
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14876 Flash launched at original size"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14876 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14876 chua thay chon kenh, bam lai Bat dau"}
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14876 Bắt đầu"}
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14876 channel=(449, 308) choices=1"}
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14876 character_slot=1 slot_verified=True"}
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14876 Player=0x1b9610a0 Core=0x1319b0d0 world=(3109,1636)"}
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 1/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 2/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 3/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 4/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 5/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 6/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 7/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: mở NPC lần 8/8 chưa thành công: exact NPC Trưởng Cận Vệ Đông Huyền (family 306009 rid 277) count=0"}
+{"type": "log", "msg": "[TRI_AN] TRỊ AN CB: dừng ở lượt 1: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền"}
+{"type": "log", "msg": "Daily CB: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 1: không mở được hộp thoại NPC Trưởng Cận Vệ Đông Huyền — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_1\\20260829_100549_TRỊ_AN.png"}
+{"type": "log", "msg": "Daily CB: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: TRỊ AN"}
+DONE

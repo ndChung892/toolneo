@@ -1,0 +1,45 @@
+{
+  "schema": "PARTY_INVITE_DIAGNOSTIC",
+  "diagnostic_only": true,
+  "map": "Liêu Vân Tộc",
+  "steps": [
+    {
+      "step": "separate_1",
+      "key_world": [
+        966.0,
+        1030.0
+      ],
+      "member_world": [
+        1000.0,
+        1000.0
+      ],
+      "gap": 45.3
+    }
+  ],
+  "logins": {
+    "acc_2": {
+      "ok": true,
+      "pid": 4540
+    },
+    "acc_1": {
+      "ok": true,
+      "pid": 14480
+    }
+  },
+  "gap": 45.3,
+  "body_click": [
+    484,
+    220
+  ],
+  "frames": {
+    "key_00_before": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\party_invite_frames\\key_00_before.png",
+    "key_01_target_mode": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\party_invite_frames\\key_01_target_mode.png",
+    "key_02_after_body": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\party_invite_frames\\key_02_after_body.png",
+    "key_03_after_invite": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\party_invite_frames\\key_03_after_invite.png",
+    "member_04_popup": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\party_invite_frames\\member_04_popup.png"
+  },
+  "party": {
+    "key": false,
+    "member": false
+  }
+}

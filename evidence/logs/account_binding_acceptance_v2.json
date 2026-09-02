@@ -1,0 +1,3405 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_A_V2",
+  "status": "PASS",
+  "reason": "20/20 stable live binds and 3/3 PID restart invalidations passed per account",
+  "generated_at": 1786702694.2706535,
+  "run_id": "run-c194df5b-0199-46e4-85b6-312619a96085",
+  "team": {
+    "key_account": "acc_2",
+    "members": [
+      "acc_1"
+    ]
+  },
+  "synthetic_contract_ok": true,
+  "refresh_bind_records": [
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 1,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 2,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 3,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 4,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 5,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 6,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 7,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 8,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 9,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 10,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 11,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 12,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 13,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 14,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 15,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 16,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 17,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 18,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 19,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "REFRESH_BIND",
+      "iteration": 20,
+      "ok": true,
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2101,
+          "hwnd": 5101,
+          "title": "pepsi",
+          "session": {
+            "pid": 2101,
+            "hwnd": 5101,
+            "process_started_ns": 1001,
+            "token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9"
+          },
+          "generation": 1
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "AMBIGUITY_TRIAL",
+      "name": "duplicate_title",
+      "ok": true,
+      "expected": "AMBIGUOUS_WINDOW",
+      "actual": "AMBIGUOUS_WINDOW",
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "AMBIGUOUS_WINDOW",
+          "reason": "DUPLICATE_TITLE",
+          "pid": 0,
+          "hwnd": 0,
+          "title": "",
+          "session": null,
+          "generation": 2
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "AMBIGUITY_TRIAL",
+      "name": "missing_title",
+      "ok": true,
+      "expected": "WAIT_BIND",
+      "actual": "WAIT_BIND",
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "WAIT_BIND",
+          "reason": "WINDOW_NOT_FOUND",
+          "pid": 0,
+          "hwnd": 0,
+          "title": "",
+          "session": null,
+          "generation": 2
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    },
+    {
+      "kind": "AMBIGUITY_TRIAL",
+      "name": "changed_title",
+      "ok": true,
+      "expected": "WAIT_BIND",
+      "actual": "WAIT_BIND",
+      "run_id": "run-ce809d51-71ea-45ed-a307-c64a8b302ce1",
+      "created_at": 1786702694.2696445,
+      "bindings": [
+        {
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "WAIT_BIND",
+          "reason": "WINDOW_NOT_FOUND",
+          "pid": 0,
+          "hwnd": 0,
+          "title": "",
+          "session": null,
+          "generation": 2
+        },
+        {
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2102,
+          "hwnd": 5102,
+          "title": "dy",
+          "session": {
+            "pid": 2102,
+            "hwnd": 5102,
+            "process_started_ns": 1002,
+            "token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000"
+          },
+          "generation": 1
+        }
+      ]
+    }
+  ],
+  "synthetic_restart_records": [
+    {
+      "account_id": "acc_2",
+      "old_pid": 2101,
+      "new_pid": 3101,
+      "old_token": "e38c5ed4d6b88a6142be3cef4f62464080c81afd348410487047bcb45a250dc9",
+      "new_token": "c090bea44e1584df9c29289f6fa69f035ccd82ddeb149863ce4626171d5f59b0",
+      "cache_invalidated": true
+    },
+    {
+      "account_id": "acc_1",
+      "old_pid": 2102,
+      "new_pid": 3102,
+      "old_token": "58d0571d147a633e81735ea6fafb57a0afeca847e6d1b91bd018160f6da0b000",
+      "new_token": "c3bb0f855c71bd57acbdc07166f338c89dab6d8565f5b7035a6852a9bb74124b",
+      "cache_invalidated": true
+    }
+  ],
+  "live_restart_records": [
+    {
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "role": "KEY",
+      "cycle": 1,
+      "started_at": 1786702694.4960437,
+      "pid": 8472,
+      "hwnd": 4195370,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702694.8985116,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702694.9491487,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702694.999548,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702695.0504673,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702695.1016767,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702695.1526477,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702695.2031493,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702695.254462,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702695.3050222,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702695.3553977,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702695.4066083,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702695.4574075,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702695.5084195,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702695.559216,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702695.6095762,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702695.6606925,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702695.7115264,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702695.762464,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702695.812855,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702695.863797,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 8472,
+          "hwnd": 4195370,
+          "title": "pepsi",
+          "session": {
+            "pid": 8472,
+            "hwnd": 4195370,
+            "process_started_ns": 13431176294491812600,
+            "token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b"
+          },
+          "generation": 1
+        }
+      ],
+      "old_session_token": "",
+      "new_session_token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 1
+    },
+    {
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "role": "KEY",
+      "cycle": 2,
+      "started_at": 1786702696.4315066,
+      "pid": 19056,
+      "hwnd": 1312190,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702696.8336067,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702696.8850396,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702696.9354787,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702696.9866645,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702697.037245,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702697.0884738,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702697.1392353,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702697.1903615,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702697.241406,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702697.2923977,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702697.3434386,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702697.3939657,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702697.4450865,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702697.495527,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702697.5466626,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702697.5976968,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702697.648364,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702697.69862,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702697.749011,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702697.7996733,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 19056,
+          "hwnd": 1312190,
+          "title": "pepsi",
+          "session": {
+            "pid": 19056,
+            "hwnd": 1312190,
+            "process_started_ns": 13431176296429939500,
+            "token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0"
+          },
+          "generation": 3
+        }
+      ],
+      "old_session_token": "d46cee92008a8ea370e464d277dd649547512512a3e34cd82c3b8cb551d2ee9b",
+      "new_session_token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 2
+    },
+    {
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "role": "KEY",
+      "cycle": 3,
+      "started_at": 1786702698.3650107,
+      "pid": 9028,
+      "hwnd": 1377726,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702698.7676914,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702698.8184714,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702698.8690417,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702698.9195914,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702698.9706209,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702699.0211663,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702699.07154,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702699.1218963,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702699.1722555,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702699.222851,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702699.2734902,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702699.3238618,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702699.3751194,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702699.4255621,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702699.4766836,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702699.528027,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702699.5786526,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702699.6295455,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702699.6799092,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702699.7309124,
+          "account_id": "acc_2",
+          "account_name": "pepsi",
+          "role": "KEY",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 9028,
+          "hwnd": 1377726,
+          "title": "pepsi",
+          "session": {
+            "pid": 9028,
+            "hwnd": 1377726,
+            "process_started_ns": 13431176298363360800,
+            "token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528"
+          },
+          "generation": 5
+        }
+      ],
+      "old_session_token": "fd785434d5f740b29a5b578d08f3edc88726475c359b2a96c3566b7e68ad11f0",
+      "new_session_token": "ff15ec44379ffc6b083209e93d69912e7859179114369f7c493c2d9abc9cc528",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 3
+    },
+    {
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "role": "MEMBER",
+      "cycle": 1,
+      "started_at": 1786702700.3016586,
+      "pid": 2468,
+      "hwnd": 4391978,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702700.702822,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702700.75323,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702700.8044887,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702700.8548672,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702700.90523,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702700.9561985,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702701.006867,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702701.0579245,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702701.1090002,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702701.1594217,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702701.2106097,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702701.2614663,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702701.312671,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702701.3631818,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702701.414471,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702701.464858,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702701.5154335,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702701.5658274,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702701.6171348,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702701.6680439,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 2468,
+          "hwnd": 4391978,
+          "title": "dy",
+          "session": {
+            "pid": 2468,
+            "hwnd": 4391978,
+            "process_started_ns": 13431176300297015300,
+            "token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5"
+          },
+          "generation": 1
+        }
+      ],
+      "old_session_token": "",
+      "new_session_token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 1
+    },
+    {
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "role": "MEMBER",
+      "cycle": 2,
+      "started_at": 1786702702.2372766,
+      "pid": 4516,
+      "hwnd": 1508798,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702702.6388593,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702702.6893976,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702702.7404478,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702702.791535,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702702.842909,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702702.8939812,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702702.9443777,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702702.9956834,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702703.0461419,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702703.0970795,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702703.1476705,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702703.1986449,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702703.249473,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702703.3005047,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702703.3509216,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702703.40127,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702703.4516366,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702703.5023522,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702703.5535018,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702703.6047604,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 4516,
+          "hwnd": 1508798,
+          "title": "dy",
+          "session": {
+            "pid": 4516,
+            "hwnd": 1508798,
+            "process_started_ns": 13431176302235196400,
+            "token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6"
+          },
+          "generation": 3
+        }
+      ],
+      "old_session_token": "c9420eea1946c58d6da092d5ae0f2209541297870cdba888bbdd5516b68a5eb5",
+      "new_session_token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 2
+    },
+    {
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "role": "MEMBER",
+      "cycle": 3,
+      "started_at": 1786702704.1746802,
+      "pid": 11728,
+      "hwnd": 1574334,
+      "refreshes": [
+        {
+          "iteration": 1,
+          "timestamp": 1786702704.5766323,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 2,
+          "timestamp": 1786702704.6277032,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 3,
+          "timestamp": 1786702704.6786935,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 4,
+          "timestamp": 1786702704.7291193,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 5,
+          "timestamp": 1786702704.7794437,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 6,
+          "timestamp": 1786702704.830644,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 7,
+          "timestamp": 1786702704.8810833,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 8,
+          "timestamp": 1786702704.9317224,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 9,
+          "timestamp": 1786702704.9820695,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 10,
+          "timestamp": 1786702705.0326593,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 11,
+          "timestamp": 1786702705.0833848,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 12,
+          "timestamp": 1786702705.1337817,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 13,
+          "timestamp": 1786702705.1841297,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 14,
+          "timestamp": 1786702705.2345972,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 15,
+          "timestamp": 1786702705.2849975,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 16,
+          "timestamp": 1786702705.3353612,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 17,
+          "timestamp": 1786702705.3863916,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 18,
+          "timestamp": 1786702705.4375312,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 19,
+          "timestamp": 1786702705.4882317,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        },
+        {
+          "iteration": 20,
+          "timestamp": 1786702705.539397,
+          "account_id": "acc_1",
+          "account_name": "dy",
+          "role": "MEMBER",
+          "state": "BOUND",
+          "reason": "EXACT_ACCOUNT_TITLE",
+          "pid": 11728,
+          "hwnd": 1574334,
+          "title": "dy",
+          "session": {
+            "pid": 11728,
+            "hwnd": 1574334,
+            "process_started_ns": 13431176304172576400,
+            "token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3"
+          },
+          "generation": 5
+        }
+      ],
+      "old_session_token": "13fe69764cd85e06ffb011e09e490b11a1cfc703dadb2bd358bd7ccdccfbddd6",
+      "new_session_token": "97c7c71639f4be2e299886577808c7e2086e71b60823c28ef1065b7bfdc160a3",
+      "cache_invalidated": true,
+      "closed_test_owned_pid": true,
+      "ok": true,
+      "failure_reason": "",
+      "consecutive": 3
+    }
+  ],
+  "completed_at": 1786702706.1284373
+}

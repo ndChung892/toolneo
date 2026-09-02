@@ -1,0 +1,209 @@
+{
+  "account_id": "acc_2",
+  "pid": 4552,
+  "samples": [
+    {
+      "second": 3,
+      "window": {
+        "title": "pepsi",
+        "left": 26,
+        "top": 26,
+        "width": 1920,
+        "height": 1029,
+        "hwnd": 1508330,
+        "pid": 4552,
+        "class_name": "ShockwaveFlash"
+      },
+      "captures": {
+        "printwindow": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_3s_printwindow.png"
+        },
+        "bitblt": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_3s_bitblt.png"
+        },
+        "screen": {
+          "available": false,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_3s_screen.png"
+        }
+      }
+    },
+    {
+      "second": 8,
+      "window": {
+        "title": "pepsi",
+        "left": 26,
+        "top": 26,
+        "width": 1920,
+        "height": 1029,
+        "hwnd": 1508330,
+        "pid": 4552,
+        "class_name": "ShockwaveFlash"
+      },
+      "captures": {
+        "printwindow": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_8s_printwindow.png"
+        },
+        "bitblt": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_8s_bitblt.png"
+        },
+        "screen": {
+          "available": false,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_8s_screen.png"
+        }
+      }
+    },
+    {
+      "second": 15,
+      "window": {
+        "title": "pepsi",
+        "left": 26,
+        "top": 26,
+        "width": 1920,
+        "height": 1029,
+        "hwnd": 1508330,
+        "pid": 4552,
+        "class_name": "ShockwaveFlash"
+      },
+      "captures": {
+        "printwindow": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_15s_printwindow.png"
+        },
+        "bitblt": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_15s_bitblt.png"
+        },
+        "screen": {
+          "available": false,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_15s_screen.png"
+        }
+      }
+    },
+    {
+      "second": 25,
+      "window": {
+        "title": "pepsi",
+        "left": 26,
+        "top": 26,
+        "width": 1920,
+        "height": 1029,
+        "hwnd": 1508330,
+        "pid": 4552,
+        "class_name": "ShockwaveFlash"
+      },
+      "captures": {
+        "printwindow": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_25s_printwindow.png"
+        },
+        "bitblt": {
+          "available": true,
+          "shape": [
+            970,
+            1904,
+            3
+          ],
+          "mean": 255.0,
+          "std": 0.0,
+          "min": 255,
+          "max": 255,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_25s_bitblt.png"
+        },
+        "screen": {
+          "available": false,
+          "path": "logs\\flash_capture_diagnostic\\pepsi_25s_screen.png"
+        }
+      }
+    }
+  ],
+  "children": [],
+  "capture_errors": [
+    {
+      "second": 3,
+      "method": "screen",
+      "error": "OSError: screen grab failed"
+    },
+    {
+      "second": 8,
+      "method": "screen",
+      "error": "OSError: screen grab failed"
+    },
+    {
+      "second": 15,
+      "method": "screen",
+      "error": "OSError: screen grab failed"
+    },
+    {
+      "second": 25,
+      "method": "screen",
+      "error": "OSError: screen grab failed"
+    }
+  ]
+}

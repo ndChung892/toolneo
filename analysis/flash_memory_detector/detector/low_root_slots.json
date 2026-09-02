@@ -1,0 +1,85 @@
+{
+  "pid": 16972,
+  "range": [
+    "0x58E400",
+    "0x58E700"
+  ],
+  "pointer_like": [
+    {
+      "slot": "0x58E408",
+      "value": "0x77D21DE3"
+    },
+    {
+      "slot": "0x58E4A0",
+      "value": "0x2A9E633A"
+    },
+    {
+      "slot": "0x58E4A8",
+      "value": "0x2F91000"
+    },
+    {
+      "slot": "0x58E4B0",
+      "value": "0x77D24660"
+    },
+    {
+      "slot": "0x58E4D0",
+      "value": "0x1C0FE208"
+    },
+    {
+      "slot": "0x58E4FC",
+      "value": "0x297DA1F0"
+    },
+    {
+      "slot": "0x58E500",
+      "value": "0x217430A0"
+    },
+    {
+      "slot": "0x58E538",
+      "value": "0x217431F0"
+    },
+    {
+      "slot": "0x58E540",
+      "value": "0x217431F4"
+    },
+    {
+      "slot": "0x58E580",
+      "value": "0x217430A0"
+    },
+    {
+      "slot": "0x58E5A0",
+      "value": "0x1C0FE208"
+    },
+    {
+      "slot": "0x58E5B0",
+      "value": "0x77DA341C"
+    },
+    {
+      "slot": "0x58E5E0",
+      "value": "0x77D24660"
+    },
+    {
+      "slot": "0x58E5E8",
+      "value": "0x77D21782"
+    },
+    {
+      "slot": "0x58E5F0",
+      "value": "0x120027F"
+    },
+    {
+      "slot": "0x58E5F8",
+      "value": "0x1C68A12A"
+    },
+    {
+      "slot": "0x58E694",
+      "value": "0x407B1000"
+    },
+    {
+      "slot": "0x58E6A4",
+      "value": "0x407B1000"
+    },
+    {
+      "slot": "0x58E6C4",
+      "value": "0x40500000"
+    }
+  ]
+}

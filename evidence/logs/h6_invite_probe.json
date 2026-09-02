@@ -1,0 +1,39 @@
+{
+  "schema": "H6_INVITE_PROBE",
+  "key": "TSk",
+  "member": "CB",
+  "route": {
+    "from": [
+      1187.0,
+      1200.0
+    ],
+    "to": [
+      1272.0,
+      1222.0
+    ],
+    "distance": 87.8,
+    "ok": true,
+    "detail": "already within range"
+  },
+  "gap": 39.3,
+  "plate": {
+    "ok": true,
+    "coverage": 0.0895,
+    "size": [
+      154,
+      34
+    ]
+  },
+  "found": {
+    "score": 0.6693,
+    "x": 447,
+    "nameplate_y": 317,
+    "y": 267
+  },
+  "accept_clicks": 23,
+  "party": {
+    "TSk": false,
+    "CB": false
+  },
+  "joined": false
+}

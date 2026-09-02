@@ -1,0 +1,36 @@
+PressKey(ESC)
+Delay100ms(5)
+PressKey(ESC)
+Delay100ms(5)
+!While(TriAn/goctui.png)_{PressKey(B)_Delay100ms(10)_DragDrop(TriAn/goctui.png,286,46)}
+=> mở túi -> tìm góc túi -> kéo góc túi tới tọa độ 286-46 (chưa trừ tiêu đề)
+
+PressKey(ESC)
+Delay100ms(5)
+
+ClickPoint(TriAn/Xuong.png)
+Delay100ms(20)
+=> bay xuống
+
+TeleAloneMap(Đông Huyền Thành;335;53)
+ClickPoint(256;421)
+Delay100ms(5)
+ClickPoint(275;347)
+Delay100ms(5)
+ClickPoint(369;354)
+Delay100ms(5)
+ClickPoint(237;55)
+Delay100ms(5)
+=> click vào map để reset hình ảnh -> click vào NPC
+
+ClickPoint(Xem2.png)
+Delay100ms(5)
+=> click dòng 1
+
+ClickPoint(NhanNV.png)
+Delay100ms(5)
+=> click nhận NV
+
+ClickPoint(Auto_huy.png)
+Delay100ms(5)
+=> check mở auto

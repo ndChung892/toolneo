@@ -1,0 +1,380 @@
+[12:15:01] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:15:03] [INFO] [AUTO_BOSS] reject nDict mismatch id=14246 base=0x21a70330 returned=0x0
+[12:15:04] [INFO] [AUTO_BOSS] exact Phat Tai id=10273 type=3060100000051 resource=2060100000051 base=0x5800d70 distance=111
+[12:15:05] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x1f765850 method_info=0x9aa3d98 slot322_method_id=21699
+[12:15:05] [INFO] [AUTO_BOSS] id=10273 distance=111 receiver=0x22d605e0 method=21699 stage=2
+[12:15:07] [INFO] [AUTO_BOSS] battle edge false->true id=10273
+[12:15:29] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:15:30] [INFO] [AUTO_BOSS] exact Phat Tai id=12715 type=3060100000051 resource=2060100000051 base=0x10abf330 distance=113
+[12:15:31] [INFO] [AUTO_BOSS] id=12715 distance=113 receiver=0x2466f5e0 method=21699 stage=2
+[12:15:33] [INFO] [AUTO_BOSS] battle edge false->true id=12715
+[12:15:51] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:15:52] [INFO] [AUTO_BOSS] exact Phat Tai id=14573 type=3060100000051 resource=2060100000051 base=0x13e09330 distance=392
+[12:15:53] [INFO] [AUTO_BOSS] id=14573 distance=392 receiver=0x11ccfaf0 method=21699 stage=1
+[12:15:55] [INFO] [AUTO_BOSS] battle edge false->true id=14573
+[12:16:19] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:16:20] [INFO] [AUTO_BOSS] exact Phat Tai id=11482 type=3060100000051 resource=2060100000051 base=0x22e3c330 distance=473
+[12:16:20] [INFO] [AUTO_BOSS] id=11482 distance=473 receiver=0x2466f280 method=21699 stage=1
+[12:16:22] [INFO] [AUTO_BOSS] battle edge false->true id=11482
+[12:16:48] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:16:49] [INFO] [AUTO_BOSS] exact Phat Tai id=14171 type=3060100000051 resource=2060100000051 base=0x21a70ae0 distance=78
+[12:16:50] [INFO] [AUTO_BOSS] id=14171 distance=78 receiver=0x2466f5e0 method=21699 stage=2
+[12:16:52] [INFO] [AUTO_BOSS] battle edge false->true id=14171
+[12:17:07] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:17:53] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:17:55] [INFO] [AUTO_BOSS] reject nDict mismatch id=14171 base=0x21a70ae0 returned=0x0
+[12:17:56] [INFO] [AUTO_BOSS] exact Phat Tai id=13563 type=3060100000051 resource=2060100000051 base=0x227eed70 distance=209
+[12:17:57] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x1f765850 method_info=0x9aa3d98 slot322_method_id=21699
+[12:17:57] [INFO] [AUTO_BOSS] id=13563 distance=209 receiver=0x20a82af0 method=21699 stage=2
+[12:17:59] [INFO] [AUTO_BOSS] battle edge false->true id=13563
+[12:18:24] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:18:25] [INFO] [AUTO_BOSS] exact Phat Tai id=15953 type=3060100000051 resource=2060100000051 base=0x5800330 distance=219
+[12:18:27] [INFO] [AUTO_BOSS] id=15953 distance=219 receiver=0x2466fe50 method=21699 stage=2
+[12:18:28] [INFO] [AUTO_BOSS] battle edge false->true id=15953
+[12:18:46] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:18:47] [INFO] [AUTO_BOSS] exact Phat Tai id=15223 type=3060100000051 resource=2060100000051 base=0x22ba00a0 distance=349
+[12:18:48] [INFO] [AUTO_BOSS] id=15223 distance=349 receiver=0x2466fca0 method=21699 stage=1
+[12:18:50] [INFO] [AUTO_BOSS] battle edge false->true id=15223
+[12:19:17] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:19:18] [INFO] [AUTO_BOSS] exact Phat Tai id=14552 type=3060100000051 resource=2060100000051 base=0x5800d70 distance=69
+[12:19:20] [INFO] [AUTO_BOSS] id=14552 distance=69 receiver=0x2466f5e0 method=21699 stage=2
+[12:19:21] [INFO] [AUTO_BOSS] battle edge false->true id=14552
+[12:19:36] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:19:36] [INFO] [AUTO_BOSS] exact Phat Tai id=14013 type=3060100000051 resource=2060100000051 base=0x22e3c5c0 distance=78
+[12:19:37] [INFO] [AUTO_BOSS] id=14013 distance=78 receiver=0x5801af0 method=21699 stage=2
+[12:19:39] [INFO] [AUTO_BOSS] battle edge false->true id=14013
+[12:20:07] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:20:39] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:20:41] [INFO] [AUTO_BOSS] reject nDict mismatch id=14013 base=0x22e3c5c0 returned=0x0
+[12:20:42] [INFO] [AUTO_BOSS] exact Phat Tai id=17527 type=3060100000051 resource=2060100000051 base=0x21a700a0 distance=79
+[12:20:43] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x1f765850 method_info=0x9aa3d98 slot322_method_id=21699
+[12:20:43] [INFO] [AUTO_BOSS] id=17527 distance=79 receiver=0x2466f0d0 method=21699 stage=2
+[12:20:45] [INFO] [AUTO_BOSS] battle edge false->true id=17527
+[12:21:09] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:21:10] [INFO] [AUTO_BOSS] exact Phat Tai id=17582 type=3060100000051 resource=2060100000051 base=0x22ba0850 distance=83
+[12:21:11] [INFO] [AUTO_BOSS] id=17582 distance=83 receiver=0x58010d0 method=21699 stage=2
+[12:21:13] [INFO] [AUTO_BOSS] battle edge false->true id=17582
+[12:21:40] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:21:41] [INFO] [AUTO_BOSS] exact Phat Tai id=10920 type=3060100000051 resource=2060100000051 base=0x22e3c0a0 distance=319
+[12:21:42] [INFO] [AUTO_BOSS] id=10920 distance=319 receiver=0x5801ca0 method=21699 stage=1
+[12:21:44] [INFO] [AUTO_BOSS] battle edge false->true id=10920
+[12:22:09] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:22:10] [INFO] [AUTO_BOSS] exact Phat Tai id=14636 type=3060100000051 resource=2060100000051 base=0x24c215c0 distance=102
+[12:22:11] [INFO] [AUTO_BOSS] id=14636 distance=102 receiver=0x2466faf0 method=21699 stage=2
+[12:22:13] [INFO] [AUTO_BOSS] battle edge false->true id=14636
+[12:22:36] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:22:37] [INFO] [AUTO_BOSS] exact Phat Tai id=14569 type=3060100000051 resource=2060100000051 base=0x13e090a0 distance=103
+[12:22:38] [INFO] [AUTO_BOSS] id=14569 distance=103 receiver=0x2466f430 method=21699 stage=2
+[12:22:40] [INFO] [AUTO_BOSS] battle edge false->true id=14569
+[12:23:01] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:23:02] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:23:03] [INFO] [AUTO_BOSS] reject nDict mismatch id=14569 base=0x13e090a0 returned=0x0
+[12:23:04] [INFO] [AUTO_BOSS] exact Phat Tai id=13634 type=3060100000051 resource=2060100000051 base=0x21a705c0 distance=107
+[12:23:04] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x1f765850 method_info=0x9aa3d98 slot322_method_id=21699
+[12:23:05] [INFO] [AUTO_BOSS] id=13634 distance=107 receiver=0x22d60ca0 method=21699 stage=2
+[12:23:06] [INFO] [AUTO_BOSS] battle edge false->true id=13634
+[12:23:32] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:23:33] [INFO] [AUTO_BOSS] exact Phat Tai id=10662 type=3060100000051 resource=2060100000051 base=0x13c3ed70 distance=356
+[12:23:34] [INFO] [AUTO_BOSS] id=10662 distance=356 receiver=0x22d605e0 method=21699 stage=1
+[12:23:37] [INFO] [AUTO_BOSS] id=10662 distance=165 receiver=0x22d605e0 method=21699 stage=2
+[12:23:39] [INFO] [AUTO_BOSS] battle edge false->true id=10662
+[12:23:56] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:23:57] [INFO] [AUTO_BOSS] exact Phat Tai id=17839 type=3060100000051 resource=2060100000051 base=0x11aae330 distance=259
+[12:23:58] [INFO] [AUTO_BOSS] id=17839 distance=259 receiver=0x20a82af0 method=21699 stage=1
+[12:24:00] [INFO] [AUTO_BOSS] battle edge false->true id=17839
+[12:24:19] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:24:20] [INFO] [AUTO_BOSS] exact Phat Tai id=14515 type=3060100000051 resource=2060100000051 base=0x12a1fd70 distance=84
+[12:24:21] [INFO] [AUTO_BOSS] id=14515 distance=84 receiver=0x2466f280 method=21699 stage=2
+[12:24:23] [INFO] [AUTO_BOSS] battle edge false->true id=14515
+[12:24:48] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:24:49] [INFO] [AUTO_BOSS] exact Phat Tai id=17475 type=3060100000051 resource=2060100000051 base=0x21a70d70 distance=91
+[12:24:50] [INFO] [AUTO_BOSS] id=17475 distance=91 receiver=0x22d60790 method=21699 stage=2
+[12:24:52] [INFO] [AUTO_BOSS] battle edge false->true id=17475
+[12:25:08] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:25:55] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:25:57] [INFO] [AUTO_BOSS] reject nDict mismatch id=17475 base=0x21a70d70 returned=0x0
+[12:25:58] [INFO] [AUTO_BOSS] exact Phat Tai id=17856 type=3060100000051 resource=2060100000051 base=0x229cd850 distance=92
+[12:25:59] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x1f765850 method_info=0x9aa3d98 slot322_method_id=21699
+[12:26:00] [INFO] [AUTO_BOSS] id=17856 distance=92 receiver=0x2466f0d0 method=21699 stage=2
+[12:39:25] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:39:29] [INFO] [AUTO_BOSS] exact Phat Tai id=17856 type=3060100000051 resource=2060100000051 base=0x2198a0a0 distance=92
+[12:39:29] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:39:30] [INFO] [AUTO_BOSS] id=17856 distance=92 receiver=0x14914e50 method=21699 stage=2
+[12:39:31] [INFO] [AUTO_BOSS] battle edge false->true id=17856
+[12:42:46] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:42:47] [INFO] [AUTO_BOSS] exact Phat Tai id=15697 type=3060100000051 resource=2060100000051 base=0x21694330 distance=94
+[12:42:48] [INFO] [AUTO_BOSS] id=15697 distance=94 receiver=0x21669af0 method=21699 stage=2
+[12:42:49] [INFO] [AUTO_BOSS] battle edge false->true id=15697
+[12:43:10] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:43:11] [INFO] [AUTO_BOSS] exact Phat Tai id=17694 type=3060100000051 resource=2060100000051 base=0x21660850 distance=183
+[12:43:11] [INFO] [AUTO_BOSS] id=17694 distance=183 receiver=0x21669430 method=21699 stage=2
+[12:43:13] [INFO] [AUTO_BOSS] battle edge false->true id=17694
+[12:43:35] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:43:36] [INFO] [AUTO_BOSS] exact Phat Tai id=17364 type=3060100000051 resource=2060100000051 base=0x21612850 distance=315
+[12:43:37] [INFO] [AUTO_BOSS] id=17364 distance=315 receiver=0x13a8ee50 method=21699 stage=1
+[12:43:38] [INFO] [AUTO_BOSS] battle edge false->true id=17364
+[12:43:57] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:43:58] [INFO] [AUTO_BOSS] exact Phat Tai id=15833 type=3060100000051 resource=2060100000051 base=0x216600a0 distance=62
+[12:43:59] [INFO] [AUTO_BOSS] id=15833 distance=62 receiver=0x1470a5e0 method=21699 stage=2
+[12:44:01] [INFO] [AUTO_BOSS] battle edge false->true id=15833
+[12:44:23] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:45:29] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:45:32] [INFO] [AUTO_BOSS] reject nDict mismatch id=15833 base=0x216600a0 returned=0x0
+[12:45:33] [INFO] [AUTO_BOSS] exact Phat Tai id=12030 type=3060100000051 resource=2060100000051 base=0x202420a0 distance=349
+[12:45:34] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:45:34] [INFO] [AUTO_BOSS] id=12030 distance=349 receiver=0x21e66790 method=21699 stage=1
+[12:45:36] [INFO] [AUTO_BOSS] battle edge false->true id=12030
+[12:46:05] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:46:05] [INFO] [AUTO_BOSS] exact Phat Tai id=16814 type=3060100000051 resource=2060100000051 base=0x216cd0a0 distance=296
+[12:46:06] [INFO] [AUTO_BOSS] id=16814 distance=296 receiver=0x216b9430 method=21699 stage=1
+[12:46:08] [INFO] [AUTO_BOSS] battle edge false->true id=16814
+[12:46:28] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:46:29] [INFO] [AUTO_BOSS] exact Phat Tai id=10904 type=3060100000051 resource=2060100000051 base=0x6756d70 distance=198
+[12:46:30] [INFO] [AUTO_BOSS] id=10904 distance=198 receiver=0x14914e50 method=21699 stage=2
+[12:46:31] [INFO] [AUTO_BOSS] battle edge false->true id=10904
+[12:46:53] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:46:54] [INFO] [AUTO_BOSS] exact Phat Tai id=14355 type=3060100000051 resource=2060100000051 base=0x67565c0 distance=403
+[12:46:54] [INFO] [AUTO_BOSS] id=14355 distance=403 receiver=0x1470a5e0 method=21699 stage=1
+[12:46:56] [INFO] [AUTO_BOSS] battle edge false->true id=14355
+[12:47:12] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:47:13] [INFO] [AUTO_BOSS] exact Phat Tai id=15027 type=3060100000051 resource=2060100000051 base=0x216cd330 distance=527
+[12:47:14] [INFO] [AUTO_BOSS] id=15027 distance=527 receiver=0x216b95e0 method=21699 stage=1
+[12:47:15] [INFO] [AUTO_BOSS] battle edge false->true id=15027
+[12:47:49] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:49:39] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:49:41] [INFO] [AUTO_BOSS] reject nDict mismatch id=15027 base=0x216cd330 returned=0x0
+[12:49:42] [INFO] [AUTO_BOSS] exact Phat Tai id=16337 type=3060100000051 resource=2060100000051 base=0x216120a0 distance=87
+[12:49:43] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:49:43] [INFO] [AUTO_BOSS] id=16337 distance=87 receiver=0x13a8e940 method=21699 stage=2
+[12:49:46] [INFO] [AUTO_BOSS] battle edge false->true id=16337
+[12:50:09] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:50:21] [INFO] [AUTO_BOSS] exact Phat Tai id=11179 type=3060100000051 resource=2060100000051 base=0x217060a0 distance=97
+[12:50:28] [INFO] [AUTO_BOSS] id=11179 distance=97 receiver=0x216b9e50 method=21699 stage=2
+[12:50:33] [INFO] [AUTO_BOSS] battle edge false->true id=11179
+[12:50:52] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:50:59] [INFO] [AUTO_BOSS] exact Phat Tai id=14553 type=3060100000051 resource=2060100000051 base=0x2391e330 distance=97
+[12:51:06] [INFO] [AUTO_BOSS] id=14553 distance=97 receiver=0x216b9ca0 method=21699 stage=2
+[12:51:10] [INFO] [AUTO_BOSS] battle edge false->true id=14553
+[12:51:31] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:51:31] [INFO] [AUTO_BOSS] exact Phat Tai id=14262 type=3060100000051 resource=2060100000051 base=0x21694ae0 distance=103
+[12:51:32] [INFO] [AUTO_BOSS] id=14262 distance=103 receiver=0x111de280 method=21699 stage=2
+[12:51:35] [INFO] [AUTO_BOSS] battle edge false->true id=14262
+[12:51:53] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:52:06] [INFO] [AUTO_BOSS] exact Phat Tai id=14367 type=3060100000051 resource=2060100000051 base=0x21706330 distance=363
+[12:52:13] [INFO] [AUTO_BOSS] id=14367 distance=363 receiver=0x21e66e50 method=21699 stage=1
+[12:52:17] [INFO] [AUTO_BOSS] battle edge false->true id=14367
+[12:52:40] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:52:44] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:52:48] [INFO] [AUTO_BOSS] exact Phat Tai id=15905 type=3060100000051 resource=2060100000051 base=0x216940a0 distance=383
+[12:52:48] [INFO] [AUTO_BOSS] reject nDict mismatch id=14367 base=0x21706330 returned=0x0
+[12:52:49] [INFO] [AUTO_BOSS] exact Phat Tai id=15905 type=3060100000051 resource=2060100000051 base=0x216940a0 distance=383
+[12:52:50] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:52:50] [INFO] [AUTO_BOSS] id=15905 distance=383 receiver=0x21669940 method=21699 stage=1
+[12:52:56] [INFO] [AUTO_BOSS] id=15905 distance=383 receiver=0x21669940 method=21699 stage=1
+[12:52:56] [INFO] [AUTO_BOSS] id=15905 distance=171 receiver=0x21669940 method=21699 stage=2
+[12:53:00] [INFO] [AUTO_BOSS] battle edge false->true id=15905
+[12:53:01] [INFO] [AUTO_BOSS] battle edge false->true id=15905
+[12:53:21] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[12:53:23] [INFO] [AUTO_BOSS] battle edge true->false clear=6
+[12:53:31] [INFO] [AUTO_BOSS] exact Phat Tai id=14056 type=3060100000051 resource=2060100000051 base=0x216cdae0 distance=98
+[12:53:37] [INFO] [AUTO_BOSS] id=14056 distance=98 receiver=0x216b9af0 method=21699 stage=2
+[12:53:42] [INFO] [AUTO_BOSS] battle edge false->true id=14056
+[12:54:02] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[12:54:09] [INFO] [AUTO_BOSS] exact Phat Tai id=15432 type=3060100000051 resource=2060100000051 base=0x2391ed70 distance=109
+[12:54:16] [INFO] [AUTO_BOSS] id=15432 distance=109 receiver=0x216b9430 method=21699 stage=2
+[12:54:22] [INFO] [AUTO_BOSS] battle edge false->true id=15432
+[12:54:44] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[12:54:51] [INFO] [AUTO_BOSS] exact Phat Tai id=15003 type=3060100000051 resource=2060100000051 base=0x217065c0 distance=111
+[12:55:03] [INFO] [AUTO_BOSS] id=15003 distance=111 receiver=0x21e66430 method=21699 stage=2
+[12:55:08] [INFO] [AUTO_BOSS] battle edge false->true id=15003
+[12:55:36] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[12:55:44] [INFO] [AUTO_BOSS] exact Phat Tai id=10501 type=3060100000051 resource=2060100000051 base=0x255ded70 distance=114
+[12:55:51] [INFO] [AUTO_BOSS] id=10501 distance=114 receiver=0x21e66af0 method=21699 stage=2
+[12:55:56] [INFO] [AUTO_BOSS] battle edge false->true id=10501
+[12:56:18] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[12:58:37] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:58:40] [INFO] [AUTO_BOSS] reject nDict mismatch id=10501 base=0x255ded70 returned=0x0
+[12:58:41] [INFO] [AUTO_BOSS] exact Phat Tai id=10234 type=3060100000051 resource=2060100000051 base=0x2391ed70 distance=394
+[12:58:41] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:58:42] [INFO] [AUTO_BOSS] id=10234 distance=394 receiver=0x21669430 method=21699 stage=1
+[12:58:43] [INFO] [AUTO_BOSS] battle edge false->true id=10234
+[12:59:44] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[12:59:47] [INFO] [AUTO_BOSS] reject nDict mismatch id=10234 base=0x2391ed70 returned=0x0
+[12:59:48] [INFO] [AUTO_BOSS] exact Phat Tai id=14716 type=3060100000051 resource=2060100000051 base=0x255de850 distance=98
+[12:59:49] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[12:59:49] [INFO] [AUTO_BOSS] id=14716 distance=98 receiver=0x21e66430 method=21699 stage=2
+[12:59:51] [INFO] [AUTO_BOSS] battle edge false->true id=14716
+[13:00:12] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[13:00:14] [INFO] [AUTO_BOSS] exact Phat Tai id=17064 type=3060100000051 resource=2060100000051 base=0x216cd5c0 distance=582
+[13:00:15] [INFO] [AUTO_BOSS] id=17064 distance=582 receiver=0x216b9790 method=21699 stage=1
+[13:00:18] [INFO] [AUTO_BOSS] battle edge false->true id=17064
+[13:01:10] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[13:01:13] [INFO] [AUTO_BOSS] reject nDict mismatch id=17064 base=0x216cd5c0 returned=0x0
+[13:01:14] [INFO] [AUTO_BOSS] exact Phat Tai id=17766 type=3060100000051 resource=2060100000051 base=0x1fc7dd70 distance=142
+[13:01:15] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[13:01:15] [INFO] [AUTO_BOSS] id=17766 distance=142 receiver=0x21e66940 method=21699 stage=2
+[13:01:16] [INFO] [AUTO_BOSS] battle edge false->true id=17766
+[13:03:13] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[13:03:16] [INFO] [AUTO_BOSS] reject nDict mismatch id=17766 base=0x1fc7dd70 returned=0x0
+[13:03:17] [INFO] [AUTO_BOSS] exact Phat Tai id=12275 type=3060100000051 resource=2060100000051 base=0x216600a0 distance=144
+[13:03:18] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[13:03:18] [INFO] [AUTO_BOSS] id=12275 distance=144 receiver=0x216b9af0 method=21699 stage=2
+[13:03:20] [INFO] [AUTO_BOSS] battle edge false->true id=12275
+[13:03:44] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[13:04:05] [INFO] [AUTO_BOSS] exact Phat Tai id=10674 type=3060100000051 resource=2060100000051 base=0x216cdae0 distance=146
+[13:04:28] [INFO] [AUTO_BOSS] id=10674 distance=146 receiver=0x111deaf0 method=21699 stage=2
+[13:04:37] [INFO] [AUTO_BOSS] battle edge false->true id=10674
+[13:04:56] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[13:05:18] [INFO] [AUTO_BOSS] exact Phat Tai id=16294 type=3060100000051 resource=2060100000051 base=0x217060a0 distance=343
+[13:05:38] [INFO] [AUTO_BOSS] id=16294 distance=343 receiver=0x111de280 method=21699 stage=1
+[13:05:47] [INFO] [AUTO_BOSS] battle edge false->true id=16294
+[13:06:15] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[13:07:29] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[13:07:33] [INFO] [AUTO_BOSS] reject nDict mismatch id=16294 base=0x217060a0 returned=0x0
+[13:07:33] [INFO] [AUTO_BOSS] exact Phat Tai id=13222 type=3060100000051 resource=2060100000051 base=0x21706d70 distance=108
+[13:07:34] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0x1087cb8 avm=0x6b1f0a0 method_info=0xc24f040 slot322_method_id=21699
+[13:07:34] [INFO] [AUTO_BOSS] id=13222 distance=108 receiver=0x216b90d0 method=21699 stage=2
+[13:07:36] [INFO] [AUTO_BOSS] battle edge false->true id=13222
+[19:35:34] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:35:37] [INFO] [AUTO_BOSS] selected monster id=13793 type=3060100000051 resource=2060100000051 base=0x1d771d70 distance=236
+[19:35:37] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:35:37] [INFO] [AUTO_BOSS] id=13793 distance=236 receiver=0x22cc9790 method=21699 stage=2
+[19:35:39] [INFO] [AUTO_BOSS] battle edge false->true id=13793
+[19:36:06] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:36:07] [INFO] [AUTO_BOSS] selected monster id=15770 type=3060100000051 resource=2060100000051 base=0x1d771ae0 distance=334
+[19:36:08] [INFO] [AUTO_BOSS] id=15770 distance=334 receiver=0x22c09ca0 method=21699 stage=1
+[19:36:09] [INFO] [AUTO_BOSS] battle edge false->true id=15770
+[19:36:33] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:36:33] [INFO] [AUTO_BOSS] selected monster id=14813 type=3060100000051 resource=2060100000051 base=0x2221b0a0 distance=341
+[19:36:34] [INFO] [AUTO_BOSS] id=14813 distance=341 receiver=0xe3a70d0 method=21699 stage=1
+[19:36:36] [INFO] [AUTO_BOSS] battle edge false->true id=14813
+[19:36:48] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:36:48] [INFO] [AUTO_BOSS] selected monster id=14915 type=3060100000051 resource=2060100000051 base=0x22c36d70 distance=97
+[19:36:49] [INFO] [AUTO_BOSS] id=14915 distance=97 receiver=0xe3a7430 method=21699 stage=2
+[19:36:51] [INFO] [AUTO_BOSS] battle edge false->true id=14915
+[19:37:09] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:37:10] [INFO] [AUTO_BOSS] selected monster id=14307 type=3060100000051 resource=2060100000051 base=0x274db5c0 distance=104
+[19:37:10] [INFO] [AUTO_BOSS] id=14307 distance=104 receiver=0x22c09280 method=21699 stage=2
+[19:37:12] [INFO] [AUTO_BOSS] battle edge false->true id=14307
+[19:37:32] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:38:05] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:38:07] [INFO] [AUTO_BOSS] reject nDict mismatch id=14307 base=0x274db5c0 returned=0x0
+[19:38:08] [INFO] [AUTO_BOSS] selected monster id=14703 type=3060100000051 resource=2060100000051 base=0x22cefae0 distance=111
+[19:38:09] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:38:09] [INFO] [AUTO_BOSS] id=14703 distance=111 receiver=0xe3a7430 method=21699 stage=2
+[19:38:11] [INFO] [AUTO_BOSS] battle edge false->true id=14703
+[19:38:30] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:38:31] [INFO] [AUTO_BOSS] selected monster id=16125 type=3060100000051 resource=2060100000051 base=0x22c76ae0 distance=368
+[19:38:31] [INFO] [AUTO_BOSS] id=16125 distance=368 receiver=0x22d66ca0 method=21699 stage=1
+[19:38:33] [INFO] [AUTO_BOSS] battle edge false->true id=16125
+[19:38:51] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:38:52] [INFO] [AUTO_BOSS] selected monster id=13273 type=3060100000051 resource=2060100000051 base=0x22c36330 distance=68
+[19:38:52] [INFO] [AUTO_BOSS] id=13273 distance=68 receiver=0x22d665e0 method=21699 stage=2
+[19:38:54] [INFO] [AUTO_BOSS] battle edge false->true id=13273
+[19:39:27] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:39:28] [INFO] [AUTO_BOSS] selected monster id=16377 type=3060100000051 resource=2060100000051 base=0x22c36850 distance=76
+[19:39:29] [INFO] [AUTO_BOSS] id=16377 distance=76 receiver=0xe3a7280 method=21699 stage=2
+[19:39:30] [INFO] [AUTO_BOSS] battle edge false->true id=16377
+[19:39:47] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:39:48] [INFO] [AUTO_BOSS] selected monster id=12383 type=3060100000051 resource=2060100000051 base=0x23e2dd70 distance=82
+[19:39:49] [INFO] [AUTO_BOSS] id=12383 distance=82 receiver=0xe3a7940 method=21699 stage=2
+[19:39:51] [INFO] [AUTO_BOSS] battle edge false->true id=12383
+[19:40:12] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:40:14] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:40:16] [INFO] [AUTO_BOSS] selected monster id=17704 type=3060100000051 resource=2060100000051 base=0x23e2d5c0 distance=85
+[19:40:16] [INFO] [AUTO_BOSS] reject nDict mismatch id=12383 base=0x23e2dd70 returned=0x0
+[19:40:17] [INFO] [AUTO_BOSS] id=17704 distance=85 receiver=0xe3a75e0 method=21699 stage=2
+[19:40:18] [INFO] [AUTO_BOSS] selected monster id=17704 type=3060100000051 resource=2060100000051 base=0x23e2d5c0 distance=85
+[19:40:18] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:40:18] [INFO] [AUTO_BOSS] id=17704 distance=85 receiver=0xe3a75e0 method=21699 stage=2
+[19:40:20] [INFO] [AUTO_BOSS] battle edge false->true id=17704
+[19:40:30] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:40:30] [INFO] [AUTO_BOSS] selected monster id=15350 type=3060100000051 resource=2060100000051 base=0x22c76850 distance=262
+[19:40:31] [INFO] [AUTO_BOSS] id=15350 distance=262 receiver=0x22c095e0 method=21699 stage=1
+[19:40:33] [INFO] [AUTO_BOSS] battle edge false->true id=15350
+[19:40:52] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:40:53] [INFO] [AUTO_BOSS] selected monster id=16739 type=3060100000051 resource=2060100000051 base=0x22c760a0 distance=61
+[19:40:54] [INFO] [AUTO_BOSS] id=16739 distance=61 receiver=0x22d66e50 method=21699 stage=2
+[19:40:56] [INFO] [AUTO_BOSS] battle edge false->true id=16739
+[19:41:20] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:41:21] [INFO] [AUTO_BOSS] selected monster id=13858 type=3060100000051 resource=2060100000051 base=0x22bf6d70 distance=68
+[19:41:22] [INFO] [AUTO_BOSS] id=13858 distance=68 receiver=0xe3a75e0 method=21699 stage=2
+[19:41:23] [INFO] [AUTO_BOSS] battle edge false->true id=13858
+[19:41:49] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:41:50] [INFO] [AUTO_BOSS] selected monster id=16773 type=3060100001180 resource=2060100001208 base=0xf393850 distance=70
+[19:41:51] [INFO] [AUTO_BOSS] id=16773 distance=70 receiver=0xdbe4790 method=21699 stage=2
+[19:41:52] [INFO] [AUTO_BOSS] battle edge false->true id=16773
+[19:42:00] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:42:02] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:42:04] [INFO] [AUTO_BOSS] selected monster id=14590 type=3060100000051 resource=2060100000051 base=0x1b78c5c0 distance=286
+[19:42:05] [INFO] [AUTO_BOSS] reject nDict mismatch id=16773 base=0xf393850 returned=0x0
+[19:42:06] [INFO] [AUTO_BOSS] id=14590 distance=286 receiver=0x22d660d0 method=21699 stage=1
+[19:42:06] [INFO] [AUTO_BOSS] selected monster id=17796 type=3060100000051 resource=2060100000051 base=0x22bf6d70 distance=211
+[19:42:06] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:42:06] [INFO] [AUTO_BOSS] id=17796 distance=211 receiver=0xe3a75e0 method=21699 stage=2
+[19:42:08] [INFO] [AUTO_BOSS] battle edge false->true id=17796
+[19:42:32] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:42:32] [INFO] [AUTO_BOSS] reject nDict mismatch id=14590 base=0x1b78c5c0 returned=0x0
+[19:42:33] [INFO] [AUTO_BOSS] selected monster id=14164 type=3060100000051 resource=2060100000051 base=0x22cefd70 distance=62
+[19:42:34] [INFO] [AUTO_BOSS] id=14164 distance=62 receiver=0xe3a7790 method=21699 stage=2
+[19:42:36] [INFO] [AUTO_BOSS] battle edge false->true id=14164
+[19:42:55] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:42:56] [INFO] [AUTO_BOSS] selected monster id=17751 type=3060100000051 resource=2060100000051 base=0x22c760a0 distance=46
+[19:42:57] [INFO] [AUTO_BOSS] id=17751 distance=46 receiver=0x21dafca0 method=21699 stage=2
+[19:42:59] [INFO] [AUTO_BOSS] battle edge false->true id=17751
+[19:43:28] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:43:28] [INFO] [AUTO_BOSS] selected monster id=10100 type=3060100001180 resource=2060100001208 base=0x22c36330 distance=341
+[19:43:29] [INFO] [AUTO_BOSS] id=10100 distance=341 receiver=0xe3a7ca0 method=21699 stage=1
+[19:43:31] [INFO] [AUTO_BOSS] battle edge false->true id=10100
+[19:43:39] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:43:39] [INFO] [AUTO_BOSS] selected monster id=10723 type=3060100000051 resource=2060100000051 base=0x22c36d70 distance=71
+[19:43:40] [INFO] [AUTO_BOSS] id=10723 distance=71 receiver=0xce00940 method=21699 stage=2
+[19:43:42] [INFO] [AUTO_BOSS] battle edge false->true id=10723
+[19:44:05] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:44:40] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:44:42] [INFO] [AUTO_BOSS] selected monster id=14769 type=3060100001180 resource=2060100001208 base=0x22b815c0 distance=297
+[19:44:43] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:44:43] [INFO] [AUTO_BOSS] id=14769 distance=297 receiver=0x22b5baf0 method=21699 stage=1
+[19:44:45] [INFO] [AUTO_BOSS] battle edge false->true id=14769
+[19:44:51] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:44:52] [INFO] [AUTO_BOSS] selected monster id=13387 type=3060100001180 resource=2060100001208 base=0x22cb75c0 distance=438
+[19:44:53] [INFO] [AUTO_BOSS] id=13387 distance=438 receiver=0x22cc90d0 method=21699 stage=1
+[19:44:55] [INFO] [AUTO_BOSS] battle edge false->true id=13387
+[19:45:02] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:45:03] [INFO] [AUTO_BOSS] selected monster id=13652 type=3060100001180 resource=2060100001208 base=0x22c765c0 distance=568
+[19:45:04] [INFO] [AUTO_BOSS] id=13652 distance=568 receiver=0x22c6c5e0 method=21699 stage=1
+[19:45:08] [INFO] [AUTO_BOSS] battle edge false->true id=13652
+[19:45:13] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:45:14] [INFO] [AUTO_BOSS] selected monster id=15015 type=3060100001180 resource=2060100001208 base=0x22b4c330 distance=84
+[19:45:15] [INFO] [AUTO_BOSS] id=15015 distance=84 receiver=0xaaa1e50 method=21699 stage=2
+[19:45:17] [INFO] [AUTO_BOSS] battle edge false->true id=15015
+[19:45:22] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:45:23] [INFO] [AUTO_BOSS] selected monster id=15991 type=3060100001180 resource=2060100001208 base=0x1b78c5c0 distance=443
+[19:45:24] [INFO] [AUTO_BOSS] id=15991 distance=443 receiver=0x22b5b5e0 method=21699 stage=1
+[19:45:26] [INFO] [AUTO_BOSS] battle edge false->true id=15991
+[19:45:32] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:45:34] [INFO] [AUTO_BOSS] Start strict Phat Tai NPCView.clickNpc runner
+[19:45:36] [INFO] [AUTO_BOSS] selected monster id=14228 type=3060100001180 resource=2060100001208 base=0x22b810a0 distance=553
+[19:45:37] [INFO] [AUTO_BOSS] selected monster id=15384 type=3060100001180 resource=2060100001211 base=0x22d1b850 distance=84
+[19:45:38] [INFO] [AUTO_BOSS] id=14228 distance=553 receiver=0x22c6c5e0 method=21699 stage=1
+[19:45:38] [INFO] [AUTO_BOSS] NPCView session fingerprint native=0xd47cb8 avm=0xeea30a0 method_info=0xb25fcb8 slot322_method_id=21699
+[19:45:38] [INFO] [AUTO_BOSS] id=15384 distance=84 receiver=0xce00af0 method=21699 stage=2
+[19:45:40] [INFO] [AUTO_BOSS] battle edge false->true id=15384
+[19:45:46] [INFO] [AUTO_BOSS] battle edge true->false clear=1
+[19:45:47] [INFO] [AUTO_BOSS] selected monster id=12050 type=3060100001180 resource=2060100001211 base=0xf393330 distance=189
+[19:45:48] [INFO] [AUTO_BOSS] id=12050 distance=189 receiver=0xdbe40d0 method=21699 stage=2
+[19:45:50] [INFO] [AUTO_BOSS] battle edge false->true id=12050
+[19:45:57] [INFO] [AUTO_BOSS] battle edge true->false clear=2
+[19:45:58] [INFO] [AUTO_BOSS] selected monster id=12713 type=3060100001180 resource=2060100001211 base=0x22b4c850 distance=82
+[19:45:59] [INFO] [AUTO_BOSS] id=12713 distance=82 receiver=0x22b5b280 method=21699 stage=2
+[19:46:01] [INFO] [AUTO_BOSS] battle edge false->true id=12713
+[19:46:06] [INFO] [AUTO_BOSS] battle edge true->false clear=3
+[19:46:07] [INFO] [AUTO_BOSS] selected monster id=11739 type=3060100001180 resource=2060100001211 base=0x22d71ae0 distance=86
+[19:46:08] [INFO] [AUTO_BOSS] id=11739 distance=86 receiver=0xce00af0 method=21699 stage=2
+[19:46:10] [INFO] [AUTO_BOSS] battle edge false->true id=11739
+[19:46:16] [INFO] [AUTO_BOSS] battle edge true->false clear=4
+[19:46:16] [INFO] [AUTO_BOSS] selected monster id=16344 type=3060100001180 resource=2060100001211 base=0x22c76d70 distance=307
+[19:46:17] [INFO] [AUTO_BOSS] id=16344 distance=307 receiver=0x22c6caf0 method=21699 stage=1
+[19:46:19] [INFO] [AUTO_BOSS] battle edge false->true id=16344
+[19:46:27] [INFO] [AUTO_BOSS] battle edge true->false clear=5
+[19:47:06] [INFO] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1

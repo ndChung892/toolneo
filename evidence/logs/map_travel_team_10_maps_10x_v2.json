@@ -1,0 +1,93 @@
+{
+  "schema": "AUTO_DUNGEON_TARGET_C_TEAM_TRAVEL_V2",
+  "status": "PARTIAL",
+  "run_id": "12d2ccd9-a40c-4b85-b4b2-929308025fdd",
+  "started_at": 1786718680.2020936,
+  "required_maps": 10,
+  "required_cycles": 10,
+  "required_arrivals": 200,
+  "accounts": [
+    {
+      "account_id": "acc_2",
+      "account_name": "pepsi",
+      "role": "KEY",
+      "pid": 18940,
+      "hwnd": 14746650,
+      "session_id": "4d79d51e-d5ba-49c8-aa72-b125e0a75e98",
+      "login": {
+        "ok": true,
+        "detail": "Player=0x12b670a0 Core=0x15ff10d0 world=(1313,1050)",
+        "pid": 18940,
+        "hwnd": 14746650,
+        "account": "pepsi"
+      },
+      "core": 369037520,
+      "world": [
+        1313.0,
+        1050.0
+      ]
+    },
+    {
+      "account_id": "acc_1",
+      "account_name": "dy",
+      "role": "MEMBER",
+      "pid": 19168,
+      "hwnd": 25822250,
+      "session_id": "4b38ab14-3b8e-4142-85f9-a8fb061f9989",
+      "login": {
+        "ok": true,
+        "detail": "Player=0x1cbe10a0 Core=0x14a170d0 world=(1313,1082)",
+        "pid": 19168,
+        "hwnd": 25822250,
+        "account": "dy"
+      },
+      "core": 346124496,
+      "world": [
+        1313.0,
+        1082.0
+      ]
+    }
+  ],
+  "party": {},
+  "records": [],
+  "positioning": [
+    {
+      "attempt": "separate",
+      "click": [
+        580,
+        280
+      ],
+      "actor": "MEMBER",
+      "key_world": [
+        1313.0,
+        1050.0
+      ],
+      "member_world": [
+        1313.0,
+        1082.0
+      ],
+      "distance_before": 32.0,
+      "distance_after": 32.0
+    },
+    {
+      "attempt": "separate",
+      "click": [
+        620,
+        320
+      ],
+      "actor": "MEMBER",
+      "key_world": [
+        1313.0,
+        1050.0
+      ],
+      "member_world": [
+        1467.0,
+        1102.0
+      ],
+      "distance_before": 32.0,
+      "distance_after": 162.5423021862309
+    }
+  ],
+  "failure_reason": "PLAYER_SEPARATION_FAILED distance=162.5",
+  "completed_arrivals": 0
+}

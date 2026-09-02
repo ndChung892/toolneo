@@ -1,0 +1,53 @@
+{
+  "schema": "AUTO_TOGGLE_PROBE",
+  "diagnostic_only": true,
+  "pid": 14968,
+  "box": [
+    856,
+    489,
+    898,
+    532
+  ],
+  "point": [
+    876,
+    510
+  ],
+  "samples": [
+    {
+      "label": "00_baseline",
+      "cross_ratio": 0.1624,
+      "mean_bgr": [
+        113.3,
+        94.0,
+        108.3
+      ],
+      "edge_ratio": 0.3212
+    },
+    {
+      "label": "01_after_press",
+      "cross_ratio": 0.0,
+      "mean_bgr": [
+        68.2,
+        60.4,
+        91.8
+      ],
+      "edge_ratio": 0.3084
+    },
+    {
+      "label": "02_after_press",
+      "cross_ratio": 0.1634,
+      "mean_bgr": [
+        143.6,
+        113.3,
+        128.9
+      ],
+      "edge_ratio": 0.3261
+    }
+  ],
+  "cross_ratios": [
+    0.1624,
+    0.0,
+    0.1634
+  ],
+  "separation": 0.1634
+}

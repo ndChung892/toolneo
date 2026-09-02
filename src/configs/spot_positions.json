@@ -1,0 +1,356 @@
+{
+ "maps": {
+  "Lê Dương Bắc": {
+   "map_id": 15,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1995,
+     "y": 1869
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 214,
+     "y": 1042
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 579,
+     "y": 1777
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1560,
+     "y": 1843
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 63,
+     "y": 1707
+    }
+   ]
+  },
+  "Tuyết Lâm": {
+   "map_id": 22,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 6",
+     "kind": "ca",
+     "level": 6,
+     "x": 1132,
+     "y": 1587
+    },
+    {
+     "name": "Dược Thảo Cấp 7",
+     "kind": "duoc",
+     "level": 7,
+     "x": 2100,
+     "y": 1200
+    },
+    {
+     "name": "Đàn Cá Cấp 6",
+     "kind": "ca",
+     "level": 6,
+     "x": 1816,
+     "y": 1279
+    },
+    {
+     "name": "Đàn Cá Cấp 6",
+     "kind": "ca",
+     "level": 6,
+     "x": 1201,
+     "y": 1224
+    }
+   ]
+  },
+  "Đông Xuất Vân": {
+   "map_id": 2,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 698,
+     "y": 614
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1759,
+     "y": 594
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 2135,
+     "y": 1041
+    },
+    {
+     "name": "Dược Thảo Cấp 1",
+     "kind": "duoc",
+     "level": 1,
+     "x": 2100,
+     "y": 1200
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1899,
+     "y": 273
+    },
+    {
+     "name": "Đàn Cá Cấp 1",
+     "kind": "ca",
+     "level": 1,
+     "x": 1371,
+     "y": 834
+    }
+   ]
+  },
+  "Thiên Lục Châu": {
+   "map_id": 40,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 2",
+     "kind": "ca",
+     "level": 2,
+     "x": 2357,
+     "y": 1078
+    },
+    {
+     "name": "Đàn Cá Cấp 2",
+     "kind": "ca",
+     "level": 2,
+     "x": 1888,
+     "y": 891
+    },
+    {
+     "name": "Đàn Cá Cấp 2",
+     "kind": "ca",
+     "level": 2,
+     "x": 1444,
+     "y": 456
+    },
+    {
+     "name": "Đàn Cá Cấp 2",
+     "kind": "ca",
+     "level": 2,
+     "x": 1253,
+     "y": 195
+    }
+   ]
+  },
+  "Quang Bình Nguyên": {
+   "map_id": 26,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 3",
+     "kind": "ca",
+     "level": 3,
+     "x": 855,
+     "y": 497
+    },
+    {
+     "name": "Đàn Cá Cấp 3",
+     "kind": "ca",
+     "level": 3,
+     "x": 524,
+     "y": 1125
+    },
+    {
+     "name": "Đàn Cá Cấp 3",
+     "kind": "ca",
+     "level": 3,
+     "x": 1788,
+     "y": 1055
+    }
+   ]
+  },
+  "Lê Dương Thôn": {
+   "map_id": 5,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 4",
+     "kind": "ca",
+     "level": 4,
+     "x": 1264,
+     "y": 424
+    },
+    {
+     "name": "Đàn Cá Cấp 4",
+     "kind": "ca",
+     "level": 4,
+     "x": 384,
+     "y": 369
+    },
+    {
+     "name": "Đàn Cá Cấp 4",
+     "kind": "ca",
+     "level": 4,
+     "x": 161,
+     "y": 255
+    },
+    {
+     "name": "Đàn Cá Cấp 4",
+     "kind": "ca",
+     "level": 4,
+     "x": 1781,
+     "y": 1068
+    }
+   ]
+  },
+  "Vân Lộc Sơn": {
+   "map_id": 28,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 5",
+     "kind": "ca",
+     "level": 5,
+     "x": 1570,
+     "y": 1614
+    },
+    {
+     "name": "Đàn Cá Cấp 5",
+     "kind": "ca",
+     "level": 5,
+     "x": 1294,
+     "y": 1627
+    },
+    {
+     "name": "Đàn Cá Cấp 5",
+     "kind": "ca",
+     "level": 5,
+     "x": 2121,
+     "y": 601
+    },
+    {
+     "name": "Đàn Cá Cấp 5",
+     "kind": "ca",
+     "level": 5,
+     "x": 1477,
+     "y": 1233
+    }
+   ]
+  },
+  "Linh Lan": {
+   "map_id": 19,
+   "spots": [
+    {
+     "name": "Đàn Cá Cấp 7",
+     "kind": "ca",
+     "level": 7,
+     "x": 631,
+     "y": 1458
+    },
+    {
+     "name": "Đàn Cá Cấp 7",
+     "kind": "ca",
+     "level": 7,
+     "x": 1179,
+     "y": 1666
+    },
+    {
+     "name": "Đàn Cá Cấp 7",
+     "kind": "ca",
+     "level": 7,
+     "x": 917,
+     "y": 1539
+    }
+   ]
+  },
+  "Lê Dương Đảo": {
+   "map_id": 17,
+   "spots": [
+    {
+     "name": "Dược Thảo Cấp 2",
+     "kind": "duoc",
+     "level": 2,
+     "x": 2100,
+     "y": 1200
+    }
+   ]
+  },
+  "Kỵ Bình Nguyên": {
+   "map_id": 41,
+   "spots": []
+  },
+  "Anh Vũ Cảnh": {
+   "map_id": 34,
+   "spots": [
+    {
+     "name": "Dược Thảo Cấp 3",
+     "kind": "duoc",
+     "level": 3,
+     "x": 2100,
+     "y": 1200
+    }
+   ]
+  },
+  "Trầm Thụy Lâm": {
+   "map_id": 27,
+   "spots": []
+  },
+  "Tháp Khắc Nguyên": {
+   "map_id": 8,
+   "spots": [
+    {
+     "name": "Dược Thảo Cấp 4",
+     "kind": "duoc",
+     "level": 4,
+     "x": 2100,
+     "y": 1200
+    }
+   ]
+  },
+  "Cổ Đạo": {
+   "map_id": 42,
+   "spots": []
+  },
+  "Ngọc Phong Lâm": {
+   "map_id": 16,
+   "spots": [
+    {
+     "name": "Dược Thảo Cấp 5",
+     "kind": "duoc",
+     "level": 5,
+     "x": 2100,
+     "y": 1200
+    }
+   ]
+  },
+  "Băng Tuyết Nguyên": {
+   "map_id": 35,
+   "spots": [
+    {
+     "name": "Dược Thảo Cấp 6",
+     "kind": "duoc",
+     "level": 6,
+     "x": 2100,
+     "y": 1200
+    }
+   ]
+  },
+  "Quân Cổ Đạo": {
+   "map_id": 7,
+   "spots": []
+  },
+  "Kỳ Thạch Địa": {
+   "map_id": 18,
+   "spots": []
+  }
+ },
+ "note": "Vi tri bai Duoc Thao / Dan Ca, quet 1 lan moi map. Ten doc tu entity (+0xA8). Vi tri khong doi nen chi can quet lai khi game cap nhat."
+}

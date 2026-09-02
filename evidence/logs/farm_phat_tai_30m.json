@@ -1,0 +1,93 @@
+{
+  "schema": "FARM_PHAT_TAI_30M",
+  "run_id": "farm-fe89ad89-21f6-436c-8c9f-81a08d2fea27",
+  "started_at": 1786810281.650763,
+  "duration_seconds": 1800.0,
+  "signature": {
+    "type": 3060100000051,
+    "resource": 2060100000051,
+    "name": "Phát Tài"
+  },
+  "accounts": [
+    {
+      "account": "CB",
+      "id": "acc_1",
+      "stage": "AUTO_NOT_ON",
+      "attacks": 0,
+      "clears": 0,
+      "pid": 20708,
+      "login_attempt": 1,
+      "login_detail": "Player=0x1c0b70a0 Core=0x157070d0 world=(1213,1131)",
+      "map": [
+        "Liêu Vân Tộc",
+        13
+      ],
+      "auto": {
+        "state": "AUTO_UNKNOWN",
+        "cross_ratio": 0.0,
+        "edge_ratio": 0.0105,
+        "samples": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "detail": "button not readable (covered, blank or ambiguous)"
+      }
+    },
+    {
+      "account": "TSk",
+      "id": "acc_3",
+      "stage": "FARMING",
+      "attacks": 0,
+      "clears": 0,
+      "pid": 22904,
+      "login_attempt": 1,
+      "login_detail": "Player=0x1bee90a0 Core=0x1632e0d0 world=(1177,1162)",
+      "map": [
+        "Liêu Vân Tộc",
+        13
+      ],
+      "auto": {
+        "state": "AUTO_ON",
+        "cross_ratio": 0.0,
+        "edge_ratio": 0.3123,
+        "samples": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "detail": "stable across samples"
+      },
+      "precheck_ok": true,
+      "runner_state": "WAIT_SPAWN",
+      "detail": "20 selected monster heap candidate(s)"
+    }
+  ],
+  "party_ok": false,
+  "party_stage": "NOT_FORMED",
+  "party": {
+    "approach": {
+      "route": {
+        "from": [
+          1177.0,
+          1162.0
+        ],
+        "to": [
+          1195.0,
+          1146.5
+        ],
+        "distance": 23.8,
+        "ok": true,
+        "detail": "already within range"
+      },
+      "gap_after": 47.5
+    },
+    "gap": 47.5,
+    "nameplate": {
+      "score": 0.4124,
+      "x": 458,
+      "y": 264
+    },
+    "error": "MEMBER_NAMEPLATE_NOT_FOUND"
+  }
+}

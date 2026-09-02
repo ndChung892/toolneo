@@ -1,0 +1,186 @@
+{
+  "pid": 1868,
+  "hwnd": 67882,
+  "phases": [
+    {
+      "name": "one",
+      "selected": [
+        [
+          3060100000051,
+          2060100000051
+        ]
+      ],
+      "precheck": {
+        "ok": true,
+        "build": "MULTI_MONSTER_V1_20260813",
+        "checks": [
+          "PASS TSk pid=1868 hwnd=67882",
+          "PASS OpenProcess read-only",
+          "PASS entity vtable=0xdaa0e0",
+          "PASS Player=0xbc890a0 Core=0xaaa10d0 world=(624,984)",
+          "PASS Core.getNpc slot=131",
+          "PASS selected monster heap candidates=25"
+        ]
+      },
+      "battles": [
+        {
+          "attack": 1,
+          "runtime_id": 14703,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 2,
+          "runtime_id": 16125,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 3,
+          "runtime_id": 13273,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 4,
+          "runtime_id": 16377,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 5,
+          "runtime_id": 12383,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        }
+      ],
+      "attacks": 5,
+      "clears": 5,
+      "ok": true
+    },
+    {
+      "name": "two",
+      "selected": [
+        [
+          3060100000051,
+          2060100000051
+        ],
+        [
+          3060100001180,
+          2060100001208
+        ]
+      ],
+      "precheck": {
+        "ok": true,
+        "build": "MULTI_MONSTER_V1_20260813",
+        "checks": [
+          "PASS TSk pid=1868 hwnd=67882",
+          "PASS OpenProcess read-only",
+          "PASS entity vtable=0xdaa0e0",
+          "PASS Player=0xbc890a0 Core=0xaaa10d0 world=(642,1285)",
+          "PASS Core.getNpc slot=131",
+          "PASS selected monster heap candidates=33"
+        ]
+      },
+      "battles": [
+        {
+          "attack": 1,
+          "runtime_id": 17704,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 2,
+          "runtime_id": 15350,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 3,
+          "runtime_id": 16739,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 4,
+          "runtime_id": 13858,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 5,
+          "runtime_id": 16773,
+          "type": 3060100001180,
+          "resource": 2060100001208
+        }
+      ],
+      "attacks": 5,
+      "clears": 5,
+      "ok": true
+    },
+    {
+      "name": "three",
+      "selected": [
+        [
+          3060100000051,
+          2060100000051
+        ],
+        [
+          3060100001180,
+          2060100001208
+        ],
+        [
+          3060100001180,
+          2060100001211
+        ]
+      ],
+      "precheck": {
+        "ok": true,
+        "build": "MULTI_MONSTER_V1_20260813",
+        "checks": [
+          "PASS TSk pid=1868 hwnd=67882",
+          "PASS OpenProcess read-only",
+          "PASS entity vtable=0xdaa0e0",
+          "PASS Player=0xbc890a0 Core=0xaaa10d0 world=(847,1312)",
+          "PASS Core.getNpc slot=131",
+          "PASS selected monster heap candidates=45"
+        ]
+      },
+      "battles": [
+        {
+          "attack": 1,
+          "runtime_id": 17796,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 2,
+          "runtime_id": 14164,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 3,
+          "runtime_id": 17751,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        },
+        {
+          "attack": 4,
+          "runtime_id": 10100,
+          "type": 3060100001180,
+          "resource": 2060100001208
+        },
+        {
+          "attack": 5,
+          "runtime_id": 10723,
+          "type": 3060100000051,
+          "resource": 2060100000051
+        }
+      ],
+      "attacks": 5,
+      "clears": 5,
+      "ok": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "time": "2026-08-11T21:55:51.738372",
+  "pid": 16972,
+  "include_mapped": false,
+  "ok": true,
+  "region_count": 825,
+  "readable_bytes": 444719104,
+  "lowest_base": 5799936,
+  "highest_base": 2147414016,
+  "sample_nonzero_bytes": 95
+}

@@ -1,0 +1,29 @@
+# Which fishing spot gives which fish - supplied by the owner from screenshots.
+#
+# Each screenshot showed the client's title bar (e.g. "1 - Thiên Lục Châu
+# 172,90") while that fish was being caught. The game displays position as
+# world/10, so 172,90 -> world (1720, 900). Those readings were matched to the
+# nearest spot in configs/spot_positions.json, which scan_spots.py measured.
+#
+# Format: map | x | y | fish
+#
+# cap 1 - Đông Xuất Vân        title 174,38  -> (1740,380)  nearest (1899,273)
+Đông Xuất Vân | 1899 | 273 | Cá Bống
+# cap 1 - Đông Xuất Vân        title 146,86  -> (1460,860)  nearest (1371,834)
+Đông Xuất Vân | 1371 | 834 | Cá Chạch
+# cap 2 - Thiên Lục Châu       title 172,90  -> (1720,900)  nearest (1888,891)
+Thiên Lục Châu | 1888 | 891 | Cá Trê
+# cap 2 - Thiên Lục Châu       title 159,47  -> (1590,470)  nearest (1444,456)
+Thiên Lục Châu | 1444 | 456 | Lươn
+# cap 3 - Quang Bình Nguyên    title 159,..  -> nearest (1788,1055)
+Quang Bình Nguyên | 1788 | 1055 | Cá Bơn
+# cap 3 - Quang Bình Nguyên    title 98,5..  -> nearest (855,497)
+Quang Bình Nguyên | 855 | 497 | Cá Đổng Quéo
+# cap 4 - Lê Dương Thôn        title 112,40  -> (1120,400)  nearest (1264,424)
+Lê Dương Thôn | 1264 | 424 | Cá Trích
+# cap 4 - Lê Dương Thôn        title 168,102 -> (1680,1020) nearest (1781,1068)
+Lê Dương Thôn | 1781 | 1068 | Cá Hồi
+# cap 5 - Vân Lộc Sơn          title 128,149 -> (1280,1490) nearest (1294,1627)
+Vân Lộc Sơn | 1294 | 1627 | Cá Lóc
+# cap 5 - Vân Lộc Sơn          title 141,116 -> (1410,1160) nearest (1477,1233)
+Vân Lộc Sơn | 1477 | 1233 | Cá Vược

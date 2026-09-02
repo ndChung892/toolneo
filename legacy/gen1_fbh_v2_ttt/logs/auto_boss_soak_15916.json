@@ -1,0 +1,141 @@
+{
+  "pid": 1808,
+  "hwnd": 524980,
+  "events": [
+    {
+      "at": "2026-08-13T01:25:07.059686",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T01:25:10.569116",
+      "state": "ATTACHING",
+      "target_id": 17640,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 1,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T01:25:11.072897",
+      "state": "REJECT_NO_NPC_VIEW",
+      "target_id": 17640,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 1,
+      "detail": "id=17640; rejected stale lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:25:13.093157",
+      "state": "REJECT_NO_NPC_VIEW",
+      "target_id": 10492,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17640; rejected stale lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:25:13.594755",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 10492,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=10492 distance=768 receiver=0x22128af0 stage=1"
+    },
+    {
+      "at": "2026-08-13T01:25:16.629759",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 10492,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=10492 distance=229 receiver=0x22128af0 stage=2"
+    },
+    {
+      "at": "2026-08-13T01:25:18.655504",
+      "state": "IN_BATTLE",
+      "target_id": 10492,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "entry=1; target=10492"
+    },
+    {
+      "at": "2026-08-13T01:25:44.995344",
+      "state": "BATTLE_CLEARED",
+      "target_id": 10492,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 2,
+      "detail": "clear=1; last_id=10492"
+    },
+    {
+      "at": "2026-08-13T01:25:47.024539",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11466,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "clear=1; last_id=10492"
+    },
+    {
+      "at": "2026-08-13T01:25:47.527583",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 11466,
+      "attacks": 1,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "id=11466 distance=102 receiver=0x22128af0 stage=2"
+    },
+    {
+      "at": "2026-08-13T01:25:49.563697",
+      "state": "IN_BATTLE",
+      "target_id": 11466,
+      "attacks": 2,
+      "clears": 1,
+      "candidates": 1,
+      "detail": "entry=2; target=11466"
+    },
+    {
+      "at": "2026-08-13T01:26:13.810059",
+      "state": "BATTLE_CLEARED",
+      "target_id": 11466,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 1,
+      "detail": "clear=2; last_id=11466"
+    },
+    {
+      "at": "2026-08-13T01:26:15.838412",
+      "state": "WAIT_SPAWN",
+      "target_id": 11466,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:36:14.961235",
+      "state": "REJECT_NO_NPC_VIEW",
+      "target_id": 11466,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 1,
+      "detail": "id=11466; rejected stale lifecycle"
+    },
+    {
+      "at": "2026-08-13T01:36:16.976882",
+      "state": "WAIT_SPAWN",
+      "target_id": 11466,
+      "attacks": 2,
+      "clears": 2,
+      "candidates": 1,
+      "detail": "1 active display NPCs; waiting new lifecycle"
+    }
+  ]
+}

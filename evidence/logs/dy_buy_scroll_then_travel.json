@@ -1,0 +1,37 @@
+{
+  "session_id": "2b6dcd73-b6d5-4363-b4c8-9ba26c36ecf0",
+  "account_id": "acc_1",
+  "account_key": "dy",
+  "pid": 11836,
+  "login": {
+    "ok": true,
+    "detail": "Player=0x1ce610a0 Core=0x143c30d0 world=(1877,1116)",
+    "pid": 11836,
+    "hwnd": 8324584,
+    "account": "dy"
+  },
+  "status": "PARTIAL",
+  "actions": [
+    {
+      "action": "SELECT_DURATION_SCROLL_QTY_1",
+      "timestamp": 1786709417.4710913,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_buy_scroll_quantity.png",
+      "unit_price": 120
+    },
+    {
+      "action": "CONFIRM_PURCHASE",
+      "timestamp": 1786709421.715421,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_buy_scroll_post_confirm.png"
+    }
+  ],
+  "travel": {
+    "ok": false,
+    "target": "Liêu Vân Tộc",
+    "source_map": "Đông Huyền Thành",
+    "source_map_id": 0,
+    "detail": "world map did not open",
+    "evidence": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\map_travel_frames\\world_map_open_failed_1786709431.png"
+  },
+  "failure_reason": "world map did not open",
+  "finished_at": 1786709431.8572228
+}

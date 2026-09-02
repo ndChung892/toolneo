@@ -1,0 +1,73 @@
+{
+  "account_id": "acc_8",
+  "profile_file": "configs/profiles/acc_8.json",
+  "movement_sleep_seconds": 4.0,
+  "battle_poll_seconds": 2.0,
+  "scan_poll_seconds": 0.25,
+  "template_thresholds": {
+    "in_battle": 0.72,
+    "not_in_battle": 0.72,
+    "in_battle_auto": 0.72,
+    "in_battle_autoon": 0.72,
+    "monster": 0.58
+  },
+  "ui_points": {
+    "minimap_open": {
+      "x": 771,
+      "y": 118
+    },
+    "minimap_close": {
+      "x": 669,
+      "y": 55
+    },
+    "auto_button": {
+      "x": 804,
+      "y": 354
+    },
+    "heal_player": {
+      "x": 108,
+      "y": 84
+    },
+    "heal_pet": {
+      "x": 126,
+      "y": 84
+    }
+  },
+  "click_delay_seconds": 1.5,
+  "monster_linger_scans_after_attack": 4,
+  "monster_empty_confirm_scans": 2,
+  "monster_hold_seconds_after_hit": 3.0,
+  "spots": [],
+  "current_spot_index": 0,
+  "monster_mode": "edge",
+  "bind_window_title": "",
+  "debug": {
+    "save_screenshots": false
+  },
+  "ttt": {
+    "default_click": {
+      "x": 0,
+      "y": 0
+    },
+    "after_question": {
+      "x": 0,
+      "y": 0
+    },
+    "after_exclamation": {
+      "x": 0,
+      "y": 0
+    },
+    "scan_roi": {
+      "x1": 0,
+      "y1": 0,
+      "x2": 250,
+      "y2": 180
+    },
+    "after_icon_delay": 0.3,
+    "scan_interval": 0.01,
+    "default_click_interval": 0.05,
+    "question_threshold": 0.56,
+    "exclamation_threshold": 0.56,
+    "min_red_ratio": 0.001
+  }
+}

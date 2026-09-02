@@ -1,0 +1,125 @@
+{
+  "schema": "ACCEPTANCE_MANIFEST_V1",
+  "generated_at": "2026-08-15 22:20:23",
+  "contract": "AUTO_DUNGEON_TARGETS_V2_20260814.md",
+  "accounts": {
+    "pepsi": "clears monsters",
+    "dy": "party only, does not clear"
+  },
+  "targets": {
+    "A_account_binding": {
+      "present": true,
+      "sha256": "A2D6949313A88DD054D59B5FAEFB2FDC2B6FF0CB56AA46303F9C57C85EF59A33",
+      "bytes": 106115,
+      "modified": "2026-08-14 17:18:26",
+      "status": "PASS",
+      "evidence": "logs/account_binding_acceptance_v2.json",
+      "contract_requirement": "20 binds, 3 PID restarts per account"
+    },
+    "B_login": {
+      "present": true,
+      "sha256": "B2F974743038BCF00BD29055E2A88579F61C13630D68AD920DB6D709A33A6014",
+      "bytes": 13615,
+      "modified": "2026-08-14 17:23:18",
+      "status": "PASS",
+      "failure_reason": "",
+      "evidence": "logs/login_cold_3x_acceptance.json",
+      "contract_requirement": "3 cold logins per account, manual coexistence"
+    },
+    "C_map_travel": {
+      "present": true,
+      "sha256": "DE7327C569EC864CFA73F721EE1A75A74F36FFAECB8551FC1EBD569830B82116",
+      "bytes": 744405,
+      "modified": "2026-08-15 18:45:53",
+      "status": "PASS",
+      "completed_arrivals": 200,
+      "failure_reason": "",
+      "evidence": "logs/map_travel_10_maps_10x_each.json",
+      "contract_requirement": "10 maps x 10 arrivals x 2 accounts = 200"
+    },
+    "D_entity_catalog": {
+      "present": true,
+      "sha256": "8CFE9D903F4553BFED1F6EF98EBD4B30F2D9AFCE69968D1A6357AB50556D8338",
+      "bytes": 178950,
+      "modified": "2026-08-15 11:00:04",
+      "status": "PASS",
+      "total_full_scans": 30,
+      "failure_reason": "",
+      "evidence": "logs/entity_catalog_10_maps_acceptance.json",
+      "contract_requirement": "3 full scans on each of 10 maps, >=30 scans"
+    },
+    "D_monster_clears": {
+      "present": true,
+      "sha256": "3D6559DD50492CCB6E87ACB4EF67BCFA551430CD1ADCC61C4C0F4871EA7A8689",
+      "bytes": 2038,
+      "modified": "2026-08-15 16:32:32",
+      "status": "PASS",
+      "failure_reason": "",
+      "evidence": "logs/exact_monster_phat_tai_10_acceptance.json",
+      "contract_requirement": "3 signatures x 10 clears",
+      "scoping": "scoped to Phat Tai only by user decision 2026-08-15"
+    },
+    "F_auto_state": {
+      "present": true,
+      "sha256": "9EAE4EF311494BE13BC8676D8D4C2129A69D6FD0A35CF4D9EA00385CDCC126CB",
+      "bytes": 98942,
+      "modified": "2026-08-15 16:11:45",
+      "status": "PASS",
+      "evidence": "logs/auto_state_60_transitions_per_account.json",
+      "contract_requirement": "30 OFF->ON and 30 ON->OFF per account, 10 obscured"
+    },
+    "TEAM_cycles": {
+      "present": true,
+      "sha256": "254EC9AB5EE2E60D6625D0324514114885CAE2872DA70EA938D103D0BE6433FC",
+      "bytes": 8688,
+      "modified": "2026-08-15 20:25:36",
+      "status": "PARTIAL",
+      "failure_reason": "Liêu Vân Tộc: PARTY_NOT_FORMED; Anh Vũ Cảnh: PARTY_NOT_FORMED",
+      "evidence": "logs/team_cycle_3_maps_acceptance.json",
+      "contract_requirement": "3 cycles: restart, travel, party, 2 clears",
+      "scoping": "replaces the 10-map team farm and 2h soak by user decision"
+    }
+  },
+  "deferred": {
+    "E_party_10_cycles": "superseded by the 3-cycle team test",
+    "G_infinite_auto": "not run this session; member half is blocked because dy cannot clear",
+    "H_team_farm": "replaced by the 3-cycle team test",
+    "I_crash_recovery": "deferred by user until the team farm setup is real"
+  },
+  "sources": {
+    "app/map_travel.py": "2B9F6A28ACA49785972EB94D9A0CC5F431FA9D25772D275C57ED489C2685F4EE",
+    "app/auto_state.py": "CF395731D90D9CE3E7C0109C6DBA4A1813C6B60CD17536205F4E92E02F7045B7",
+    "app/party.py": "9F04E1F14280A6B9940536FD09B06E61FDC2486765C7C9325E188A2DC2E98F47",
+    "app/single_auto_start.py": "E20696460C2A02A5827FED2E107FB502B36F970644EB679AEDB07999E1CA6CC6",
+    "app/screen_capture.py": "4BAE94784C14450109845C017CDE6DDF054CA8BFEA3B77E067D582925E05E0C6",
+    "app/boss_runner.py": "D2962D62B56CE74347C96A91DC22FAAF27327BF5A7E20B87D3AA78CBA070AFCB",
+    "app/config_manager.py": "C4326B9EFED50C5BA976ACE8989A6D3DFB5B9F396A40F47E64664028500174D1",
+    "app/ui_app.py": "9A073F1A69E670C8AEBFF418B69631D5C45E1128799FDF9B4328425BE23D1847",
+    "accept_target_c_routes.py": "68030FED7C26C41917BEF632497A427E6DD572F2DCDEA3547A8C93C112B8287B",
+    "accept_target_d_catalog.py": "9B07AC4ACFAC9443EA1BB539B4AA7B94A24EDE69FC4B7C33536674A6DC43D66E",
+    "accept_target_d_monsters.py": "271BEC5C8524C30FD39B7338E0D1F48E12719C57E6173552E14CBD8A670D54F3",
+    "accept_target_f_auto.py": "EC5FCD8BE6F7A9FE0355F28D3625886DC7043878497156C073457631ADC2E979",
+    "accept_team_cycles.py": "539FD5294F12CC0B2CC469270B3DC53A7D285FF774ED84796FEED5C88397855E"
+  },
+  "summary": {
+    "passed": [
+      "A_account_binding",
+      "B_login",
+      "C_map_travel",
+      "D_entity_catalog",
+      "D_monster_clears",
+      "F_auto_state"
+    ],
+    "not_passed": [
+      "TEAM_cycles"
+    ],
+    "deferred": [
+      "E_party_10_cycles",
+      "G_infinite_auto",
+      "H_team_farm",
+      "I_crash_recovery"
+    ],
+    "overall": "PARTIAL",
+    "note": "Release gate section 12 requires A through I. Targets were rescoped and deferred by user decision, so the overall state is PARTIAL by definition, not complete."
+  }
+}

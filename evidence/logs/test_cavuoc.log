@@ -1,0 +1,25 @@
+﻿chay: {'kind': 'ca', 'level': 1, 'fish': 'Cá Vược', 'account_id': 'acc_1', 'mode': 'attach', 'end_minutes': 4}
+
+STARTING         |                    @                  | 0 lan | nhan: 
+  [GATHER] [acc_1] ATTACHED: bam vao client CB (pid 4060)
+ATTACHED         | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 0 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 tai Vân Lộc Sơn (1477,1233)
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 0 lan | nhan: Cá Vược
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 1 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 1 lan, nhan: Cá Vược
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 2 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 2 lan, nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 3 lan, nhan: Cá Vược
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 3 lan | nhan: Cá Vược
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 4 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 4 lan, nhan: Cá Vược
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 5 lan | nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 5 lan, nhan: Cá Vược
+  [GATHER] [acc_1] WORKING: Đàn Cá Cấp 5 @ Vân Lộc Sơn — 6 lan, nhan: Cá Vược
+WORKING          | Đàn Cá Cấp 5       @ Vân Lộc Sơn      | 6 lan | nhan: Cá Vược
+  [POPUP] đã đóng cache_notice
+  [POPUP] đã đóng cache_notice

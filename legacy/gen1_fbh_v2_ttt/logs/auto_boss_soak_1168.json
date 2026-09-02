@@ -1,0 +1,222 @@
+{
+  "pid": 10132,
+  "hwnd": 394210,
+  "events": [
+    {
+      "at": "2026-08-13T10:14:18.662165",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T10:14:22.176913",
+      "state": "ATTACHING",
+      "target_id": 16133,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-13T10:14:23.180578",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 16133,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16133 distance=711 receiver=0x20260430 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:14:26.207347",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 16133,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16133 distance=711"
+    },
+    {
+      "at": "2026-08-13T10:14:29.224307",
+      "state": "REJECT_NO_OWNED_NPC_VIEW",
+      "target_id": 16133,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16133; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:14:31.253611",
+      "state": "REJECT_NO_OWNED_NPC_VIEW",
+      "target_id": 16960,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16133; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:14:32.256808",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 16960,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16960 distance=497 receiver=0x20260af0 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:14:35.285347",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 16960,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=16960 distance=497"
+    },
+    {
+      "at": "2026-08-13T10:14:48.947222",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 16960,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=16960; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:14:51.470759",
+      "state": "REJECT_ROUTE_TIMEOUT",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=16960; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:14:52.477478",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=17524 distance=1908 receiver=0x29043790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:14:54.504213",
+      "state": "WAIT_SPAWN",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "2 exact Phat Tai lifecycle(s)"
+    },
+    {
+      "at": "2026-08-13T10:15:49.904093",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 3,
+      "detail": "id=17524 distance=1908 receiver=0x29043790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:15:52.937817",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17524 distance=1908"
+    },
+    {
+      "at": "2026-08-13T10:16:04.524323",
+      "state": "WAIT_SPAWN",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 1,
+      "detail": "1 exact Phat Tai lifecycle(s)"
+    },
+    {
+      "at": "2026-08-13T10:16:54.420328",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17524 distance=1908 receiver=0x29043790 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:16:57.457416",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17524 distance=1908"
+    },
+    {
+      "at": "2026-08-13T10:17:00.983982",
+      "state": "REJECT_NO_OWNED_NPC_VIEW",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17524; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:17:02.999542",
+      "state": "WAIT_SPAWN",
+      "target_id": 17524,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "2 exact Phat Tai lifecycle(s)"
+    },
+    {
+      "at": "2026-08-13T10:17:17.109751",
+      "state": "WAIT_SPAWN",
+      "target_id": 17075,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "2 exact Phat Tai lifecycle(s)"
+    },
+    {
+      "at": "2026-08-13T10:17:18.113746",
+      "state": "GAME_CLICK_NPC",
+      "target_id": 17075,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17075 distance=1902 receiver=0x20260430 method=21699 stage=1"
+    },
+    {
+      "at": "2026-08-13T10:17:20.657535",
+      "state": "GAME_CLOSE_TO",
+      "target_id": 17075,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 2,
+      "detail": "id=17075 distance=1902"
+    },
+    {
+      "at": "2026-08-13T10:17:23.684171",
+      "state": "REJECT_NO_OWNED_NPC_VIEW",
+      "target_id": 17075,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 1,
+      "detail": "id=17075; strict game-owned path only"
+    },
+    {
+      "at": "2026-08-13T10:17:25.693522",
+      "state": "WAIT_SPAWN",
+      "target_id": 17075,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 1,
+      "detail": "1 exact Phat Tai lifecycle(s)"
+    }
+  ]
+}

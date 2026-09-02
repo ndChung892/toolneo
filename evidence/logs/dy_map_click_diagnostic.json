@@ -1,0 +1,140 @@
+{
+  "schema": "DY_MAP_CLICK_DIAGNOSTIC",
+  "diagnostic_only": true,
+  "run_id": "5e28962e-4723-4f13-acc5-943a1cabea12",
+  "account": "dy",
+  "pid": 8256,
+  "login": {
+    "ok": true,
+    "detail": "Player=0x11fff0a0 Core=0xd8500d0 world=(1467,1102)",
+    "pid": 8256,
+    "hwnd": 1902236,
+    "account": "dy"
+  },
+  "target": "Lạp Tuyết Địa",
+  "target_map_id": 33,
+  "frames": [
+    {
+      "second": 1,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t01.png"
+    },
+    {
+      "second": 2,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t02.png"
+    },
+    {
+      "second": 3,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t03.png"
+    },
+    {
+      "second": 4,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t04.png"
+    },
+    {
+      "second": 5,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t05.png"
+    },
+    {
+      "second": 6,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t06.png"
+    },
+    {
+      "second": 7,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t07.png"
+    },
+    {
+      "second": 8,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t08.png"
+    },
+    {
+      "second": 9,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t09.png"
+    },
+    {
+      "second": 10,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t10.png"
+    },
+    {
+      "second": 11,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t11.png"
+    },
+    {
+      "second": 12,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t12.png"
+    },
+    {
+      "second": 13,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t13.png"
+    },
+    {
+      "second": 14,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t14.png"
+    },
+    {
+      "second": 15,
+      "map": "Liêu Vân Tộc",
+      "map_id": 13,
+      "world_map_open": false,
+      "frame": "C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\dy_map_click_frames\\t15.png"
+    }
+  ],
+  "start_map": [
+    "Liêu Vân Tộc",
+    13
+  ],
+  "world_map_opened": true,
+  "client_size": [
+    916,
+    629
+  ],
+  "projected_click": [
+    586,
+    334
+  ],
+  "end_map": [
+    "Liêu Vân Tộc",
+    13
+  ]
+}

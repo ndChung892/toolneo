@@ -1,0 +1,1078 @@
+"""Runner cho chức năng Auto phụ bản có sẵn trong game."""
+from __future__ import annotations
+
+import json
+import struct
+import threading
+import time
+from datetime import date, datetime
+from pathlib import Path
+
+import cv2
+
+from . import popup
+from .avm_close_to import invoke_noarg_return
+from .boss_memory import FlashMemory, choose_player
+from .gather_catalog import read_entity_name
+from .map_travel import click_client, MapTarget, MapTraveler
+from .quest_memory import (PANEL_NPCFUNC, LOCAL_QUEST_LIST_GET,
+                           accept_and_finish, find_view_manager, get_panel,
+                           npc_panel_ready, runtime_delta, select_exact_quest)
+from .quest_memory import scan_quest_catalog
+from .screen_capture import ScreenCapture
+from .ui_guard import before_action
+
+# Theo UI live/quy ước chủ dự án: hai card hàng 2 của page 1 và riêng
+# Thế Giới Số page 2 chạy Khó. PB Thám Hiểm không đổi, giữ mặc định Dễ.
+HARD_DUNGEONS = {
+    "Liệt Diễm Thâm Uyên", "Trở Lại Lang Huyệt", "Quỷ Hút Máu", "Thế Giới Số"
+}
+# title Q, reward đã đo, page Auto PB, suffix template BMX
+SPECS = {
+    "Mê Huyễn Động": ("Mở Nhiệm Vụ Mê Huyễn Động", "Hoa Mê Ảo", 1, "MHD"),
+    "Kho Báu Đại Mạc": ("Mở Nhiệm Vụ Kho Báu Đại Mạc", "Nghi Thức Thạch Bản", 1, "KBDM"),
+    "Lục Tiên Cảnh": ("Mở Cửa Lục Tiên Cảnh", "Chìa Khóa Tiên Cảnh", 1, "LTC"),
+    "Liệt Diễm Thâm Uyên": ("Mở Nhiệm Vụ Liệt Diễm Thâm Uyên", "Truyền Thuyết Thâm Uyên", 1, "LD"),
+    "Trở Lại Lang Huyệt": ("Mở Nhiệm Vụ Trở Lại Lang Huyệt", "Răng Sói Bạch Kim", 1, "TVLH"),
+    "Quỷ Hút Máu": ("Mở Nhiệm Vụ Quỷ Hút Máu", "Thư Cầu Cứu Kỳ Quái", 1, "QHM"),
+    "Thế Giới Số": ("Mở Thế Giới Số", "Thời Không Đăng", 2, "TGS"),
+    "Thám Hiểm": ("Mở Nhiệm Vụ Thám Hiểm", "Bản Đồ Di Tích", 2, "TH"),
+}
+QUEST_IDS = {
+    "Kho Báu Đại Mạc": 1464, "Lục Tiên Cảnh": 3812,
+    "Trở Lại Lang Huyệt": 3985, "Liệt Diễm Thâm Uyên": 5003,
+    "Mê Huyễn Động": 5239, "Quỷ Hút Máu": 5453,
+    "Thế Giới Số": 50332, "Thám Hiểm": 50378,
+}
+KNOWN_DUNGEONS = set(SPECS)
+CARD_ROIS = {
+    # Include a small border around every card.  The live VPT panel places
+    # the second row's template at y=213, while the old BMX-derived crop
+    # started at y=214; clipping that one scanline dropped an exact Lang
+    # reward match from .962 to .585 and incorrectly produced UNKNOWN.
+    "Mê Huyễn Động": (100, 90, 345, 210),
+    "Kho Báu Đại Mạc": (337, 90, 572, 210),
+    "Lục Tiên Cảnh": (564, 90, 805, 210),
+    "Liệt Diễm Thâm Uyên": (100, 205, 345, 315),
+    "Trở Lại Lang Huyệt": (337, 205, 572, 315),
+    "Quỷ Hút Máu": (564, 205, 805, 315),
+    "Thế Giới Số": (100, 90, 345, 210),
+    "Thám Hiểm": (337, 90, 572, 210),
+}
+_HISTORY_LOCK = threading.Lock()
+
+
+class DungeonRunner:
+    def __init__(self, window_manager, logger, root: Path):
+        self.wm, self.logger, self.root = window_manager, logger, Path(root)
+        self.cap = ScreenCapture()
+        self.tpl = self.root / "assets" / "templates" / "vpt" / "dungeon"
+        self.history_path = self.root / "configs" / "dungeon_quest_history.json"
+        self._quest_item_cache: dict[tuple[int, str], int] = {}
+
+    @staticmethod
+    def normalize(plan) -> list[dict]:
+        if not isinstance(plan, dict):
+            return []
+        queue = []
+        for name, raw_count in plan.items():
+            if name not in KNOWN_DUNGEONS:
+                continue
+            try:
+                count = max(0, min(3, int(raw_count)))
+            except (TypeError, ValueError):
+                count = 0
+            if count:
+                queue.append({"dungeon": name, "turns": count,
+                              "difficulty": "Khó" if name in HARD_DUNGEONS else "Dễ"})
+        return queue
+
+    def _log(self, message):
+        try:
+            self.logger.info("DUNGEON", message)
+        except Exception:
+            pass
+
+    def _event(self, account_id, account_name, quest, state, **extra):
+        path = self.root / "logs" / f"dungeon_quest_{account_id}_{date.today().isoformat()}.jsonl"
+        row = {"at": datetime.now().isoformat(timespec="seconds"), "day": date.today().isoformat(),
+               "account_id": account_id, "account": account_name, "quest": quest,
+               "state": state, **extra}
+        with path.open("a", encoding="utf-8") as stream:
+            stream.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+    def _history(self):
+        try:
+            return json.loads(self.history_path.read_text(encoding="utf-8"))
+        except Exception:
+            return {"accounts": {}}
+
+    @staticmethod
+    def _day(data, account_id):
+        return data.setdefault("accounts", {}).setdefault(account_id, {}).setdefault(
+            "days", {}).setdefault(date.today().isoformat(),
+                                    {"confirmed_count": 0, "quests": {}, "auto_started": {},
+                                     "auto_claimed": {}, "events": []})
+
+    def _count(self, account_id, key, quest):
+        with _HISTORY_LOCK:
+            return int(self._day(self._history(), account_id).setdefault(key, {}).get(quest, 0))
+
+    def _record(self, account_id, quest, key, **event):
+        with _HISTORY_LOCK:
+            data = self._history()
+            day = self._day(data, account_id)
+            bucket = day.setdefault(key, {})
+            bucket[quest] = int(bucket.get(quest, 0)) + 1
+            if key == "quests":
+                day["confirmed_count"] = int(day.get("confirmed_count", 0)) + 1
+            day.setdefault("events", []).append({"at": datetime.now().isoformat(timespec="seconds"),
+                                                  "quest": quest, **event})
+            temp = self.history_path.with_suffix(".tmp")
+            temp.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+            temp.replace(self.history_path)
+
+    def _capture(self, win):
+        return self.cap.capture_window(self.wm.refresh_window(win) or win)
+
+    def _stable_guard(self, win, expected):
+        for index in range(2):
+            if index:
+                time.sleep(.2)
+            result = before_action(self.cap, self.wm, win, expected=expected, logger=self.logger)
+            if not result.safe or result.state != f"expected_{expected}":
+                return False
+        return True
+
+    def _text_refs(self, pid, text):
+        mem = FlashMemory(pid)
+        try:
+            regions = [(base, mem.read(base, size)) for base, size in mem.regions()]
+            needle, best = text.encode("utf-16-le"), 0
+            for base, blob in regions:
+                at = blob.find(needle)
+                while at >= 0:
+                    packed = struct.pack("<I", base + at)
+                    for base2, blob2 in regions:
+                        pos = blob2.find(packed)
+                        while pos >= 0:
+                            obj = base2 + pos - 8
+                            try:
+                                valid = mem.u32(obj + 0x10) == len(text)
+                            except Exception:
+                                valid = False
+                            if valid:
+                                ptr = struct.pack("<I", obj)
+                                best = max(best, sum(x.count(ptr) for _, x in regions))
+                            pos = blob2.find(packed, pos + 1)
+                    at = blob.find(needle, at + 2)
+            return best
+        finally:
+            mem.close()
+
+    @staticmethod
+    def _text_hits(pid, text):
+        """Count a UTF-16 prefix when the full dynamic amount is not fixed."""
+        needle = text.encode("utf-16-le")
+        hits = 0
+        mem = FlashMemory(pid)
+        try:
+            for base, size in mem.regions():
+                hits += mem.read(base, size).count(needle)
+        finally:
+            mem.close()
+        return hits
+
+    def _open_npc(self, win):
+        def live_panel() -> int:
+            started = time.monotonic()
+            probe = FlashMemory(int(win.pid))
+            try:
+                # entities() performs one full discovery per PID/epoch and
+                # reuses validated region candidates afterwards.  Forcing a
+                # process sweep here made every panel poll and every Q costly.
+                rows = probe.entities()
+                player = choose_player(rows, probe)
+                core = probe.u32(int(player["base"]) + 0x1C0) if player else 0
+                view_manager = find_view_manager(probe, core, 0) if core else 0
+                if not view_manager:
+                    return 0
+                panel = npc_panel_ready(probe, int(win.pid), int(win.hwnd),
+                                        view_manager)
+                self._log(f"NPC live-panel probe: {time.monotonic() - started:.2f}s "
+                          f"panel={panel:#x}")
+                return panel
+            finally:
+                probe.close()
+
+        # Visual templates can collide with HUD elements. Only the live AVM
+        # singleton is allowed to say this exact panel is already open.
+        if live_panel():
+            return True
+        # 2026-08-25: 3 lần x 0.6s (~2s tổng) là quá ngắn khi nhiều account
+        # Daily chạy song song — client vừa login xong, entities() chưa kịp
+        # discover NPC nên "exact NPC count=0" tái diễn dù NPC có mặt. Nới
+        # lên 8 lần x 1.5s (~12s tổng chịu đựng), đo thấy đủ cho trường hợp
+        # 3 account song song (log 2026-08-25 01:19-01:20, cả 3 fail cùng
+        # cửa sổ ~2s sau khi login xong).
+        for attempt in range(1, 9):
+            attempt_started = time.monotonic()
+            closed = popup.dismiss(
+                self.cap, self.wm, win,
+                allow=("ao_canh_notice", "cache_notice", "npc_dialog"),
+                attempts=2, logger=self.logger)
+            if closed:
+                self._log(f"NPC open attempt {attempt}: dismissed={closed}")
+                time.sleep(.6)
+            call, reason = {}, ""
+            mem = FlashMemory(int(win.pid))
+            try:
+                # 2026-08-25 round 2: entities() caches attempt 1's hit-region
+                # list and every later attempt just re-reads those SAME
+                # regions (see boss_memory.py comment: refresh "not after
+                # every battle"). Live evidence on TSk: 8 attempts all said
+                # "exact NPC count=0" while the NPC was visibly standing
+                # next to the player the whole time — a manual entities()
+                # call run moments later found it on the first try. The NPC
+                # object almost certainly finished allocating into a heap
+                # region that wasn't part of attempt 1's sweep (still
+                # loading in), so the cached region list never covered it.
+                # Refresh exactly once at attempt 3, then reuse that refreshed
+                # hit-region list. Repeating a full process sweep on attempts
+                # 3..8 made three-account Daily spend many minutes at 100% CPU
+                # with no progress log.
+                rows = mem.entities(force_full_sweep=attempt == 3)
+                player = choose_player(rows, mem)
+                if not player:
+                    reason = "không có player"
+                else:
+                    core = mem.u32(int(player["base"]) + 0x1C0)
+                    candidates = []
+                    for row in rows:
+                        try:
+                            if read_entity_name(mem, int(row["base"])) == "Sử Giả Mở Phụ Bản":
+                                candidates.append(row)
+                        except Exception:
+                            pass
+                    if len(candidates) != 1:
+                        reason = f"exact NPC count={len(candidates)}"
+                    else:
+                        view = mem.find_npc_view(candidates[0], core)
+                        method = mem.method_at_slot(view, 322) if view else None
+                        if not method or not method.get("entry"):
+                            reason = "không có view/slot322"
+                        else:
+                            call = invoke_noarg_return(int(win.pid), int(win.hwnd), view,
+                                                       method["method_env"], method["entry"])
+            finally:
+                mem.close()
+            if reason or not call.get("completed"):
+                self._log(f"NPC open attempt {attempt}: {reason or repr(call)} "
+                          f"elapsed={time.monotonic() - attempt_started:.2f}s")
+                if call.get("client_lost") or call.get("wedged"):
+                    return False
+                time.sleep(1.5)
+                continue
+            deadline = time.monotonic() + 8
+            while time.monotonic() < deadline:
+                time.sleep(.8)
+                if live_panel():
+                    return True
+            self._log(f"NPC open attempt {attempt}: invoke xong nhưng dialog chưa hiện")
+        return False
+
+    def _fresh_npc_panel(self, win) -> int:
+        """A brand new NpcFuncPanel object, or 0. See truma_runner for why."""
+        try:
+            mem = FlashMemory(int(win.pid))
+        except Exception:
+            return 0
+        try:
+            player = choose_player(mem.entities(), mem)
+            core = mem.u32(int(player["base"]) + 0x1C0) if player else 0
+            view = find_view_manager(mem, core, 0) if core else 0
+            if not view:
+                return 0
+            panel, _proof = get_panel(mem, int(win.pid), int(win.hwnd), view, 0,
+                                      PANEL_NPCFUNC, LOCAL_QUEST_LIST_GET)
+            return panel or 0
+        except Exception:
+            return 0
+        finally:
+            mem.close()
+
+    RECEIVE_MARKER = "Nhận:"
+    COMPLETE_MARKER = "Hoàn thành nhiệm vụ"
+
+    def _markers(self, pid, reward: str = ""):
+        """One sweep for every needle we need, counted (never set-differenced).
+
+        Was: two separate full sweeps here plus two more in `chat_snapshot`, and
+        the reward proof came from `chat_after - chat_before`. Item/chat strings
+        are interned for the whole session, so the second time the same reward
+        arrived the set difference was empty and a quest that had visibly
+        completed read back as "chưa có readback" (CB 2026-08-29 02:26, evidence
+        `logs/daily_errors/acc_1/20260829_022616_PHỤ_BẢN.png` — chat clearly shows
+        "Hoàn thành nhiệm vụ: [Mở Nhiệm Vụ Liệt Diễm Thâm Uyên]"). Counting the
+        exact reward line moves every time; the set does not.
+        """
+        from .chat_reader import count_occurrences
+        needles = [self.RECEIVE_MARKER, self.COMPLETE_MARKER]
+        if reward:
+            needles.append(f"{self.RECEIVE_MARKER} {reward}")
+        totals = count_occurrences(int(pid), *needles)
+        return {"receive": totals.get(self.RECEIVE_MARKER, 0),
+                "complete": totals.get(self.COMPLETE_MARKER, 0),
+                "reward": totals.get(f"{self.RECEIVE_MARKER} {reward}", 0) if reward else 0}
+
+    def _travel_to(self, win, target: MapTarget) -> dict:
+        """Use the established gather/harvest map travel retry contract.
+
+        One 35-second `travel()` call was a Daily-only shortcut.  The shared
+        runners use memory readback, up to three 75-second attempts, and clear
+        target-selection mode after a failed attempt because that state blocks
+        the M hotkey.  Keep popup guard in front of every attempt.
+        """
+        from . import client_health
+
+        traveler = MapTraveler(self.cap, self.wm, self.logger, self.root)
+        if traveler.detect_map_memory(int(win.pid))[1] == target.map_id:
+            return {"ok": True, "detail": "already at verified target"}
+        last = {"ok": False, "detail": "chưa thử chuyển map"}
+        for attempt in range(3):
+            current = self.wm.find_by_pid(int(win.pid)) or win
+            guard = before_action(self.cap, self.wm, current, logger=self.logger)
+            if not guard.safe:
+                last = {"ok": False, "detail": f"popup guard: {guard.state}"}
+                time.sleep(.6)
+                continue
+            if attempt:
+                client_health.clear_target_mode(int(current.hwnd))
+                time.sleep(.6)
+            last = traveler.travel(current, target, timeout=75)
+            if traveler.detect_map_memory(int(win.pid))[1] == target.map_id:
+                return last | {"ok": True, "detail": "memory map_id confirmed"}
+            time.sleep(2.0)
+        return last
+
+    def _receive_token(self, win, account_id, account_name, quest):
+        # Timed Daily steps run at Quyến Cố Thành; every new token comes from
+        # the measured Tiên Lạp NPC, so read back/travel instead of assuming map.
+        self.close_panel(win)
+        target = MapTarget("Tiên Lạp Thành", 31, 626, 356)
+        arrived = self._travel_to(win, target)
+        if not arrived.get("ok"):
+            return {"ok": False, "detail": f"không tới Tiên Lạp nhận Q {quest}: {arrived.get('detail')}"}
+        title, reward, _, _ = SPECS[quest]
+        if not self._open_npc(win):
+            return {"ok": False, "detail": "không mở được NPC Sử Giả Mở Phụ Bản bằng memory"}
+        # One sweep, not two: markers + reward count come from the same pass.
+        before = self._markers(int(win.pid), reward)
+        mem = FlashMemory(int(win.pid))
+        try:
+            rows = mem.entities()
+            player = choose_player(rows, mem)
+            core = mem.u32(int(player["base"]) + 0x1C0) if player else 0
+            npcs = [row for row in rows
+                    if read_entity_name(mem, int(row["base"])) == "Sử Giả Mở Phụ Bản"]
+            npc_view = mem.find_npc_view(npcs[0], core) if core and len(npcs) == 1 else 0
+            method_delta = runtime_delta(mem, npc_view) if npc_view else -1
+            view_manager = find_view_manager(mem, core, method_delta) if method_delta >= 0 else 0
+            if not view_manager:
+                return {"ok": False, "detail": f"{quest}: không resolve được Core.view/getUI"}
+            npc_panel, panel_proof = get_panel(
+                mem, int(win.pid), int(win.hwnd), view_manager, method_delta,
+                PANEL_NPCFUNC, LOCAL_QUEST_LIST_GET)
+            if not npc_panel:
+                return {"ok": False, "detail": f"{quest}: {panel_proof.get('detail')}"}
+            # One provider pass discovers every dungeon available to this
+            # account/level.  Subsequent receives validate and reuse exact item
+            # atoms; relogged PIDs naturally build a new catalogue.
+            def fresh_panel():
+                # Live luvy 2026-08-29: Kho Báu turn 2 logged
+                # memory_accept_finish ok but marker_delta was {0,0,0} — the AVM
+                # stub "completed" against a panel that turn 1's turn-in had
+                # already re-rendered, so nothing reached the server. A dead
+                # panel must be replaced, not retried (see AUTO_TRAIN 1222).
+                try:
+                    panel, _proof = get_panel(
+                        mem, int(win.pid), int(win.hwnd), view_manager, method_delta,
+                        PANEL_NPCFUNC, LOCAL_QUEST_LIST_GET)
+                    return panel or 0
+                except Exception:
+                    return 0
+
+            catalog_built = any(key[0] == int(win.pid) for key in self._quest_item_cache)
+            if not catalog_built:
+                specs = {name: (QUEST_IDS[name], SPECS[name][0]) for name in SPECS}
+                catalog = scan_quest_catalog(
+                    mem, int(win.pid), int(win.hwnd), npc_panel, specs,
+                    reacquire=fresh_panel)
+                self._event(account_id, account_name, quest, "memory_catalog",
+                            result=catalog)
+                if not catalog.get("ok"):
+                    return {"ok": False, "detail":
+                            f"{quest}: catalog lỗi: {catalog.get('detail')}"}
+                for name, entry in catalog.get("quests", {}).items():
+                    self._quest_item_cache[(int(win.pid), name)] = int(entry["item_atom"])
+                if quest not in catalog.get("quests", {}):
+                    if quest in catalog.get("ambiguous", {}):
+                        return {"ok": False, "stage": "ambiguous",
+                                "detail": f"{quest}: catalog có nhiều row exact đồng hạng; không click"}
+                    return {"ok": False, "stage": "unavailable",
+                            "detail": f"{quest}: không có trong list account/level hiện tại"}
+            elif (int(win.pid), quest) not in self._quest_item_cache:
+                # The catalog is built once per PID, but the "not offered"
+                # branch above only ran for whichever quest happened to trigger
+                # that build. Every other missing quest fell through to
+                # select_exact_quest and came back as the misleading hard error
+                # "quest id=3985 exact title not in 6 list items" — which aborted
+                # the whole PHỤ BẢN task at the 25-minute checkpoint on CB
+                # 2026-08-29 02:55 (evidence
+                # logs/dungeon_quest_acc_1_2026-08-29.jsonl: memory_catalog
+                # list_length=6 built while handling Liệt Diễm Thâm Uyên, then
+                # memory_select Trở Lại Lang Huyệt failed).
+                self._event(account_id, account_name, quest, "quest_unavailable",
+                            quest_id=QUEST_IDS[quest], catalog_pid=int(win.pid))
+                return {"ok": False, "stage": "unavailable",
+                        "detail": f"{quest}: NPC không chào quest này ở lượt hiện tại "
+                                  "(đã nhận hoặc hết lượt)"}
+            selected = select_exact_quest(
+                mem, int(win.pid), int(win.hwnd), npc_panel, method_delta,
+                QUEST_IDS[quest], title,
+                self._quest_item_cache.get((int(win.pid), quest), 0),
+                reacquire=fresh_panel)
+            self._event(account_id, account_name, quest, "memory_select",
+                        quest_id=QUEST_IDS[quest], result=selected)
+            if not selected.get("ok") and "dataProvider returned null" in str(selected.get("detail")):
+                # Live 2026-08-24: after 5 rapid-fire accept/finish cycles the
+                # 6th questViewList.dataProvider read came back null once — the
+                # panel object stayed the same but its list needed a beat to
+                # settle. One re-fetch of the same NPCFUNC panel + retry is
+                # cheap and evidence-scoped (only this exact failure string),
+                # not a blind retry-everything loop.
+                time.sleep(.8)
+                npc_panel, panel_proof = get_panel(
+                    mem, int(win.pid), int(win.hwnd), view_manager, method_delta,
+                    PANEL_NPCFUNC, LOCAL_QUEST_LIST_GET)
+                if npc_panel:
+                    selected = select_exact_quest(
+                        mem, int(win.pid), int(win.hwnd), npc_panel, method_delta,
+                        QUEST_IDS[quest], title,
+                        self._quest_item_cache.get((int(win.pid), quest), 0), reacquire=lambda: self._fresh_npc_panel(win))
+                    self._event(account_id, account_name, quest, "memory_select_retry",
+                                quest_id=QUEST_IDS[quest], result=selected)
+            if not selected.get("ok"):
+                self._quest_item_cache.pop((int(win.pid), quest), None)
+                return {"ok": False, "detail": f"{quest}: {selected.get('detail')}"}
+            self._quest_item_cache[(int(win.pid), quest)] = int(selected["item_atom"])
+            action = accept_and_finish(
+                mem, int(win.pid), int(win.hwnd), view_manager, method_delta,
+                QUEST_IDS[quest], title)
+            self._event(account_id, account_name, quest, "memory_accept_finish",
+                        quest_id=QUEST_IDS[quest], result=action)
+            if not action.get("ok"):
+                return {"ok": False, "detail": f"{quest}: {action.get('detail')}"}
+        finally:
+            mem.close()
+        # Poll instead of one sample, and keep the BEST delta seen.
+        #
+        # Live pepsi 2026-08-29: Kho Báu turn 1 read receive=+85 complete=+57
+        # reward=+2 and passed; turn 2 read receive=-8 complete=-6 reward=0 and
+        # failed. Negative counts prove the whole-heap total is not a stable
+        # baseline — Flash reallocates and the chat ring buffer drops old lines
+        # between the two sweeps, so a single after-sample can land on a dip
+        # even when the action succeeded. Polling for a real increase keeps the
+        # rule ("must go UP") while removing the sampling race.
+        delta = {key: 0 for key in before}
+        deadline = time.monotonic() + 6.0
+        while True:
+            time.sleep(1.3)
+            after = self._markers(int(win.pid), reward)
+            sample = {key: after[key] - before[key] for key in before}
+            for key, value in sample.items():
+                if value > delta[key]:
+                    delta[key] = value
+            if delta["reward"] > 0 or (delta["receive"] > 0 and delta["complete"] > 0):
+                break
+            if time.monotonic() >= deadline:
+                break
+        detail_open = (self._stable_guard(win, "dungeon_quest_detail")
+                       or self._stable_guard(win, "dungeon_quest_accepted"))
+        # Two independent proofs, both counted against this turn's own baseline:
+        # the generic accept+complete pair, or one more line of exactly this
+        # quest's reward. An old identical line no longer confirms a new action
+        # (mục 922) and no longer hides one either (mục 1203).
+        confirmed = not detail_open and (
+            (delta["receive"] > 0 and delta["complete"] > 0) or delta["reward"] > 0)
+        if not confirmed:
+            self._event(account_id, account_name, quest, "completion_unknown",
+                        marker_delta=delta, detail_open=detail_open)
+            return {"ok": False, "detail": f"{quest}: Xong qua memory chưa có readback"}
+        self._record(account_id, quest, "quests", state="completion_confirmed_memory",
+                     reward_item=reward, marker_delta=delta)
+        self._event(account_id, account_name, quest, "completion_confirmed_memory",
+                    reward_item=reward, marker_delta=delta)
+        return {"ok": True}
+
+    def _match(self, image, filename, roi=None):
+        template = cv2.imread(str(self.tpl / filename), cv2.IMREAD_COLOR)
+        if image is None or template is None:
+            return 0.0, None
+        x0 = y0 = 0
+        work = image
+        if roi:
+            x0, y0, x2, y2 = roi
+            work = image[y0:y2, x0:x2]
+        if work.shape[0] < template.shape[0] or work.shape[1] < template.shape[1]:
+            return 0.0, None
+        scores = cv2.matchTemplate(work, template, cv2.TM_CCOEFF_NORMED)
+        _, score, _, loc = cv2.minMaxLoc(scores)
+        return float(score), (x0 + loc[0], y0 + loc[1], template.shape[1], template.shape[0])
+
+    def _open_auto_panel(self, win):
+        if self._stable_guard(win, "auto_dungeon"):
+            return True
+        # The top feature toolbar is paged. Daily/Điêu Khắc can leave it on a
+        # page where Auto PB is not visible, so scan with the already-measured
+        # toolbar arrows instead of treating the first missing icon as fatal.
+        daily_assets = self.root / "assets" / "daily"
+
+        def toolbar_arrow(filename):
+            image = self._capture(win)
+            template = cv2.imread(str(daily_assets / filename), cv2.IMREAD_COLOR)
+            if template is None or image.shape[0] < template.shape[0]:
+                return 0.0, None
+            scores = cv2.matchTemplate(image, template, cv2.TM_CCOEFF_NORMED)
+            _, score, _, loc = cv2.minMaxLoc(scores)
+            return float(score), (loc[0], loc[1], template.shape[1], template.shape[0])
+
+        box = None
+        best_score, best_candidate, best_frame = 0.0, None, None
+        for arrow_name in ("NutXuong.png", "NutLen.png"):
+            for _ in range(9):
+                guard = before_action(self.cap, self.wm, win,
+                                      expected="auto_dungeon", logger=self.logger)
+                if guard.safe and guard.state == "expected_auto_dungeon":
+                    return True
+                if not guard.safe:
+                    closed = popup.dismiss(
+                        self.cap, self.wm, win,
+                        allow=("ao_canh_notice", "cache_notice", "npc_dialog"),
+                        attempts=2, logger=self.logger)
+                    self._log(f"Auto PB toolbar guard={guard.state}; dismissed={closed}")
+                    # Login notices can disappear one frame after MAP_READY.
+                    # Re-probe instead of converting that safe refusal into a
+                    # false permanent card/page failure.
+                    time.sleep(.6)
+                    continue
+                # Match the exact 21x23 VPT icon core.  The larger live crop
+                # includes animated label/ribbon pixels and fell to .673 on
+                # Pepsi while this exact core remained .98957 at (313,28).
+                # Restricting it to the top toolbar plus two-frame position
+                # confirmation prevents the old unrelated Huyết Chiến match.
+                frame = self._capture(win)
+                score, candidate = self._match(
+                    frame, "IconHoanThanhPhuBan.png", (180, 0, 720, 82))
+                if score > best_score:
+                    best_score, best_candidate, best_frame = score, candidate, frame.copy()
+                self._log(f"Auto PB toolbar scan arrow={arrow_name} score={score:.3f} box={candidate}")
+                if score >= .95 and candidate:
+                    box = candidate
+                    break
+                arrow_score, arrow = toolbar_arrow(arrow_name)
+                if arrow_score < .84 or not arrow:
+                    break
+                x, y, w, h = arrow
+                click_client(win.hwnd, x + w // 2, y + h // 2, reference=True)
+                time.sleep(.45)
+            if box:
+                break
+        if not box:
+            evidence = self.root / "logs" / f"auto_pb_toolbar_fail_{int(win.pid)}_{int(time.time())}.png"
+            if best_frame is not None:
+                cv2.imwrite(str(evidence), best_frame)
+            self._log(f"Auto PB toolbar exact icon not found; best={best_score:.3f} "
+                      f"box={best_candidate} evidence={evidence}")
+            return False
+        # Require the same icon in a second frame immediately before click.
+        time.sleep(.2)
+        score, confirmed = self._match(
+            self._capture(win), "IconHoanThanhPhuBan.png", (180, 0, 720, 82))
+        if score < .95 or not confirmed:
+            self._log(f"Auto PB toolbar second-frame rejected score={score:.3f}")
+            return False
+        if abs(box[0] - confirmed[0]) > 3 or abs(box[1] - confirmed[1]) > 3:
+            return False
+        boxes = [box, confirmed]
+        x, y, w, h = boxes[-1]
+        click_client(win.hwnd, x + w // 2, y + h // 2, reference=True)
+        deadline = time.monotonic() + 22
+        while time.monotonic() < deadline:
+            if self._stable_guard(win, "auto_dungeon"):
+                self._log("Auto PB panel visible after guarded toolbar click")
+                return True
+            time.sleep(.5)
+        self._log("Auto PB toolbar click sent but panel guard never became visible")
+        return False
+
+    def close_panel(self, win):
+        if not self._stable_guard(win, "auto_dungeon"):
+            return True
+        click_client(win.hwnd, 799, 77, reference=True)
+        time.sleep(.55)
+        return not self._stable_guard(win, "auto_dungeon")
+
+    def _page(self, win, page):
+        # 2026-08-26: overnight log (00:47-02:01, 3 accounts) showed repeated
+        # "không mở được card/page" across different dungeons (Mê Huyễn
+        # Động, Thế Giới Số, Lục Tiên Cảnh) — this used to be exactly ONE
+        # click+verify of the page-switch arrow with no retry, so any single
+        # render lag after a fresh claim/start burst turned into a hard
+        # failure and the whole PHỤ BẢN step got skipped. Retry the full
+        # switch up to 3 times before giving up.
+        for attempt in range(3):
+            if attempt:
+                time.sleep(.5)
+            if self._page_attempt(win, page):
+                return True
+        return False
+
+    def _page_attempt(self, win, page):
+        if not self._stable_guard(win, "auto_dungeon"):
+            return False
+        deadline = time.monotonic() + 3.0
+        current = self._page_state(win)
+        while current == 0 and time.monotonic() < deadline:
+            time.sleep(.20)
+            current = self._page_state(win)
+        if current == page:
+            return True
+        if current not in (1, 2):
+            return False
+        # Live VPT preserves the last page even after close/reopen. Validate
+        # the destination by immutable card titles. Page 1 -> 2 uses the exact
+        # right-arrow template; page 2 -> 1 uses the measured previous button
+        # centre (410,327), proven live before this production path.
+        if current == 2 and page == 1:
+            click_client(win.hwnd, 410, 327, reference=True)
+            time.sleep(.6)
+            return (self._stable_guard(win, "auto_dungeon")
+                    and self._page_state(win) == page)
+        score, box = self._match(self._capture(win), "MuiTenChuyenAutoPB_Phai.png")
+        if score < .82 or not box:
+            return False
+        x, y, w, h = box
+        click_client(win.hwnd, x + w // 2, y + h // 2, reference=True)
+        time.sleep(.6)
+        return self._stable_guard(win, "auto_dungeon") and self._page_state(win) == page
+
+    def _identity(self, image, quest):
+        template = cv2.imread(str(self.tpl / ("Nhan" + SPECS[quest][3] + ".png")),
+                              cv2.IMREAD_COLOR)
+        if template is None or template.shape[0] < 32:
+            return 0.0, None
+        x0, y0, x2, y2 = CARD_ROIS[quest]
+        work, header = image[y0:y2, x0:x2], template[:32]
+        if work.shape[0] < header.shape[0] or work.shape[1] < header.shape[1]:
+            return 0.0, None
+        scores = cv2.matchTemplate(work, header, cv2.TM_CCOEFF_NORMED)
+        _, score, _, loc = cv2.minMaxLoc(scores)
+        return float(score), (x0 + loc[0], y0 + loc[1],
+                              template.shape[1], template.shape[0])
+
+    def _page_state(self, win):
+        image = self._capture(win)
+        page1 = max(self._identity(image, q)[0]
+                    for q in ("Mê Huyễn Động", "Kho Báu Đại Mạc"))
+        page2 = max(self._identity(image, q)[0]
+                    for q in ("Thế Giới Số", "Thám Hiểm"))
+        if page1 >= .88 and page1 > page2:
+            return 1
+        if page2 >= .88 and page2 > page1:
+            return 2
+        return 0
+
+    def _card(self, win, quest, state):
+        suffix = SPECS[quest][3]
+        return self._match(self._capture(win), ("Nhan" if state == "claim" else "BatDau")
+                           + suffix + ".png", CARD_ROIS[quest])
+
+    def _card_state(self, win, quest):
+        claim_score, claim_card = self._card(win, quest, "claim")
+        start_score, start_card = self._card(win, quest, "start")
+        if claim_score >= .88:
+            return "claim", claim_card, claim_score
+        if start_score >= .88:
+            return "start", start_card, start_score
+        # During a run both the timer and buttons differ from the start/claim
+        # templates. Match only the immutable title/header inside this card's
+        # dedicated ROI; the first 32 template rows cover that identity and
+        # exclude the timer/buttons. Live Lang turn 2 reads 1.000 here while
+        # the whole-card score is only .677.
+        identity_score, identity_card = self._identity(self._capture(win), quest)
+        if identity_score >= .88:
+            return "running", identity_card, float(identity_score)
+        return "unknown", None, max(claim_score, start_score, float(identity_score))
+
+    def _button_near(self, image, card, filename):
+        x, y, w, h = card
+        roi = (max(0, x - 20), max(0, y - 15), min(image.shape[1], x + w + 80),
+               min(image.shape[0], y + h + 45))
+        return self._match(image, filename, roi)
+
+    def _set_hard(self, win, card):
+        x, y, w, _ = card
+        if not self._stable_guard(win, "auto_dungeon"):
+            return False
+        # The BMX card template is cropped before the difficulty control.  On
+        # live Lang evidence its right edge is x=503 while dropdown centre is
+        # x=529, hence +26; y centre is template top +9.
+        dropdown = (x + w + 26, y + 9)
+
+        def hard_score():
+            image = self._capture(win)
+            hard = cv2.imread(str(self.tpl / "DifficultyHard.png"), cv2.IMREAD_COLOR)
+            roi = image[max(0, dropdown[1]-18):dropdown[1]+18,
+                        max(0, dropdown[0]-48):dropdown[0]+42]
+            if (hard is None or roi.shape[0] < hard.shape[0]
+                    or roi.shape[1] < hard.shape[1]):
+                return 0.0
+            return float(cv2.minMaxLoc(cv2.matchTemplate(
+                roi, hard, cv2.TM_CCOEFF_NORMED))[1])
+
+        first = hard_score()
+        time.sleep(.20)
+        if min(first, hard_score()) >= .78:
+            return True
+        click_client(win.hwnd, *dropdown, reference=True)
+        time.sleep(.35)
+        if not self._stable_guard(win, "auto_dungeon"):
+            return False
+        click_client(win.hwnd, dropdown[0] - 18, dropdown[1] + 70, reference=True)
+        time.sleep(.45)
+        first = hard_score()
+        time.sleep(.20)
+        return min(first, hard_score()) >= .78
+
+    def _claim(self, win, quest):
+        if not self._open_auto_panel(win) or not self._page(win, SPECS[quest][2]):
+            self._log(f"Claim {quest}: panel/page gate failed")
+            return False
+        # Flash occasionally drops a correctly measured mouse message (live
+        # KBDM 11:52).  A second click is safe only while two fresh guarded
+        # frames still prove that this same card is in claim state.  Never
+        # retry through an unknown/running/start transition.
+        for attempt in range(2):
+            score, card = self._card(win, quest, "claim")
+            if score < .88 or not card or not self._stable_guard(win, "auto_dungeon"):
+                self._log(f"Claim {quest}: card/guard failed score={score:.3f} card={card}")
+                return False
+            frame = self._capture(win)
+            evidence = self.root / "logs" / f"auto_pb_claim_{int(win.pid)}_{quest}_{int(time.time())}.png"
+            cv2.imwrite(str(evidence), frame)
+            score, button = self._button_near(frame, card, "NutNhanPB.png")
+            self._log(f"Claim {quest}: button score={score:.3f} box={button} evidence={evidence}")
+            if score < .82 or not button:
+                return False
+            x, y, w, h = button
+            click_client(win.hwnd, x + w // 2, y + h // 2, reference=True)
+            deadline = time.monotonic() + 3
+            while time.monotonic() < deadline:
+                time.sleep(.35)
+                if not self._stable_guard(win, "auto_dungeon"):
+                    if not self._open_auto_panel(win) or not self._page(win, SPECS[quest][2]):
+                        continue
+                state, _, _ = self._card_state(win, quest)
+                if state == "start":
+                    self._log(f"Claim {quest}: readback start PASS")
+                    return True
+                if state != "claim":
+                    self._log(f"Claim {quest}: unexpected readback state={state}")
+                    return False
+            if attempt == 0:
+                first = self._card_state(win, quest)[0]
+                time.sleep(.2)
+                second = self._card_state(win, quest)[0]
+                if first != "claim" or second != "claim":
+                    self._log(f"Claim {quest}: retry rejected states={first}/{second}")
+                    return False
+        self._log(f"Claim {quest}: remained claim after two guarded clicks")
+        return False
+
+    def _refresh_expired(self, win, quest):
+        """The panel does not refresh its own zero-timer state."""
+        votes = []
+        for index in range(2):
+            if index:
+                time.sleep(.2)
+            votes.append(self._match(self._capture(win), "TimerZero.png", CARD_ROIS[quest])[0])
+        if min(votes) < .95 or not self._stable_guard(win, "auto_dungeon"):
+            return False
+        # Exact panel X, then the already-guarded icon route. This refreshes
+        # server state without touching Hoàn thành ngay.
+        click_client(win.hwnd, 799, 77, reference=True)
+        time.sleep(.7)
+        return self._open_auto_panel(win) and self._page(win, SPECS[quest][2])
+
+    def _start(self, win, account_id, account_name, quest):
+        if not self._open_auto_panel(win) or not self._page(win, SPECS[quest][2]):
+            return {"ok": False, "detail": f"{quest}: không mở được đúng page Auto PB"}
+        score, card = self._card(win, quest, "start")
+        if score < .88 or not card:
+            return {"ok": False, "detail": f"{quest}: card không ở state 00:00/Bắt đầu"}
+        if quest in HARD_DUNGEONS and not self._set_hard(win, card):
+            return {"ok": False, "detail": f"{quest}: chọn Khó không có readback"}
+        score, card = self._card(win, quest, "start")
+        if score < .78 or not card or not self._stable_guard(win, "auto_dungeon"):
+            return {"ok": False, "detail": f"{quest}: mất identity card trước Bắt đầu"}
+        score, button = self._button_near(self._capture(win), card, "NutBatDauPB.png")
+        if score < .82 or not button:
+            return {"ok": False, "detail": f"{quest}: không xác minh được nút Bắt đầu"}
+        x, y, w, h = button
+        click_client(win.hwnd, x + w // 2, y + h // 2, reference=True)
+        time.sleep(.5)
+        image = self._capture(win)
+        if (popup._ratio(image, (300, 252, 598, 350), "cyan") < .02
+                or self._text_hits(int(win.pid), "Xác nhận mất") < 1):
+            return {"ok": False, "detail": f"{quest}: không thấy popup xác nhận mất bạc"}
+        time.sleep(.2)
+        # Do not run the generic unknown-X guard over this known functional
+        # confirmation.  Its translucent body exposes Auto PB's X at (798,78)
+        # underneath; the old call closed the correct panel once per card.
+        # Exact text + two-frame Có probes below are the authorisation gate.
+        yes_votes = []
+        for _ in range(2):
+            yes_votes.append(popup._ratio(self._capture(win),
+                                           (382, 303, 447, 332), "cyan"))
+            time.sleep(.15)
+        if (min(yes_votes) < .25
+                or self._text_hits(int(win.pid), "Xác nhận mất") < 1):
+            return {"ok": False, "detail": f"{quest}: nút Có chưa ổn định"}
+        click_client(win.hwnd, 413, 316, reference=True)
+        time.sleep(1.0)
+        if self._card(win, quest, "start")[0] >= .88:
+            return {"ok": False, "detail": f"{quest}: xác nhận xong nhưng card vẫn Bắt đầu"}
+        difficulty = "Khó" if quest in HARD_DUNGEONS else "Dễ"
+        self._record(account_id, quest, "auto_started", state="auto_started", difficulty=difficulty)
+        self._event(account_id, account_name, quest, "auto_started", difficulty=difficulty)
+        return {"ok": True}
+
+    def advance(self, win, plan, account_id="", account_name=""):
+        """Advance every configured card by at most one server transition."""
+        queue = self.normalize(plan)
+        if not queue:
+            return {"ok": False, "detail": "chưa chọn phụ bản hoặc số lượt"}
+        account_id = account_id or account_name or str(getattr(win, "title", ""))
+        account_name = account_name or str(getattr(win, "title", account_id))
+
+        # Phase 1 is mandatory and completes the entire configured quest/token
+        # batch at Tiên Lạp before any toolbar icon or Auto PB panel is touched.
+        # Previously the loop opened Auto PB first to inspect each card and
+        # only then fetched that card's token; besides violating the owner's
+        # flow, the tiny icon template could click Huyết Chiến immediately
+        # after Điêu Khắc. Ledger increments only after Nhận -> Xong has the
+        # existing memory/chat readback in _receive_token.
+        skipped: list[dict] = []
+        for row in queue:
+            quest, wanted = row["dungeon"], row["turns"]
+            received = self._count(account_id, "quests", quest)
+            while received < wanted:
+                if received >= 3:
+                    return {"ok": False,
+                            "detail": f"{quest}: quota Q đủ 3/3 nhưng chưa đủ vật phẩm theo plan"}
+                token = self._receive_token(win, account_id, account_name, quest)
+                if not token.get("ok"):
+                    if token.get("stage") == "unavailable":
+                        # Not an error: the NPC is not offering this dungeon on
+                        # this turn (already accepted, or out of turns). One
+                        # dungeon must not abort the others — CB 2026-08-29
+                        # lost the whole PHỤ BẢN task this way at the 25-minute
+                        # checkpoint. Recorded as an idempotent outcome.
+                        self._log(f"{quest}: bỏ qua lượt này — {token.get('detail')}")
+                        skipped.append({"dungeon": quest, "reason": token.get("detail")})
+                        break
+                    return token
+                # Sổ chốt mục 86/118-124: find_npc_view quét toàn bộ vùng nhớ
+                # tiến trình; bắn nó liên tục cho nhiều quest liền nhau (mỗi
+                # _receive_token gọi nó tới 2 lần) đúng nhịp tiêm dày đã ghi
+                # nhận là nguyên nhân treo client (~1.8 lần nguy hiểm/phút).
+                # Nghỉ giữa các quest để giãn nhịp, không đổi logic nhận Q.
+                time.sleep(1.5)
+                received = self._count(account_id, "quests", quest)
+
+        pending, transitions = {}, []
+        # 2026-08-25: mọi return giữa vòng lặp Phase 2 (page gate fail, claim
+        # không readback, ledger thiếu vật phẩm, start fail) đều bỏ qua
+        # close_panel() ở cuối hàm — Auto PB panel còn mở treo lại, chặn
+        # ngay bước Daily kế tiếp với "unknown_modal_blocked" tại X (798,78)
+        # (sống lại live trên pepsi: claim 3 phụ bản sạch rồi "Lục Tiên Cảnh:
+        # không mở được đúng page Auto PB" -> panel bỏ mở -> lần chạy sau
+        # ĐIÊU KHẮC/mọi bước đều bị chặn ngay từ đầu). Bọc try/finally để
+        # đóng panel dù thoát bằng đường nào, giống bài học đã rút ở mục 508
+        # nhưng lần đó chỉ sửa cho đường "hết pending", chưa sửa cho các
+        # đường lỗi giữa chừng.
+        try:
+            for row in queue:
+                quest, wanted = row["dungeon"], row["turns"]
+                started = self._count(account_id, "auto_started", quest)
+                claimed = self._count(account_id, "auto_claimed", quest)
+                if claimed >= wanted:
+                    continue
+                pending[quest] = wanted
+                if not self._open_auto_panel(win) or not self._page(win, SPECS[quest][2]):
+                    return {"ok": False, "detail": f"{quest}: không mở được card/page"}
+                state, _, score = self._card_state(win, quest)
+                if state == "unknown":
+                    self._log(f"{quest}: card UNKNOWN score={score:.3f}, chờ frame sạch")
+                    continue
+                if state == "running":
+                    if started <= claimed:
+                        self._record(account_id, quest, "auto_started", state="auto_started_reconciled_running")
+                    if not self._refresh_expired(win, quest):
+                        continue
+                    state, _, _ = self._card_state(win, quest)
+                    if state != "claim":
+                        continue
+                if state == "claim":
+                    if started <= claimed:
+                        self._record(account_id, quest, "auto_started", state="auto_started_reconciled")
+                    if not self._claim(win, quest):
+                        return {"ok": False, "detail": f"{quest}: claim không có readback"}
+                    self._record(account_id, quest, "auto_claimed", state="auto_claimed")
+                    self._event(account_id, account_name, quest, "auto_claimed")
+                    transitions.append(f"{quest}:claim")
+                    # Live 2026-08-24 (mục 719/720): claiming 6 quest back-to-back
+                    # inside ~13s triggered an unrecognized popup that then
+                    # blocked the next Daily step — same dense-click risk as the
+                    # Phase 1 receive loop. Pace one claim/start per quest.
+                    time.sleep(1.2)
+                    claimed = self._count(account_id, "auto_claimed", quest)
+                    if claimed >= wanted:
+                        pending.pop(quest, None)
+                        continue
+                    state = "start"
+                elif state == "start" and started > claimed:
+                    # A previous guarded claim may have reached the server but
+                    # missed its UI readback (observed live on QHM), or the user
+                    # may have claimed while the tool was closed. Exact start is
+                    # proof the old started turn is no longer pending/running.
+                    self._record(account_id, quest, "auto_claimed",
+                                 state="auto_claimed_reconciled_start")
+                    self._event(account_id, account_name, quest,
+                                "auto_claimed_reconciled_start")
+                    transitions.append(f"{quest}:claim-reconciled")
+                    time.sleep(1.2)
+                    claimed = self._count(account_id, "auto_claimed", quest)
+                    if claimed >= wanted:
+                        pending.pop(quest, None)
+                        continue
+                started = self._count(account_id, "auto_started", quest)
+                if state != "start" or started >= wanted:
+                    continue
+                received = self._count(account_id, "quests", quest)
+                if received <= started:
+                    # The safety rule stays: never start a dungeon whose quest
+                    # item was not actually received. But it must not abort the
+                    # other dungeons — CB 2026-08-29 08:07 skipped Trở Lại Lang
+                    # Huyệt in phase 1 (NPC did not offer it) and this guard then
+                    # killed the whole PHỤ BẢN task in phase 2.
+                    self._log(f"{quest}: bỏ start — ledger vật phẩm {received} "
+                              f"chưa đủ cho lượt {started + 1}")
+                    skipped.append({"dungeon": quest,
+                                    "reason": f"chưa có vật phẩm cho lượt {started + 1}"})
+                    pending.pop(quest, None)
+                    continue
+                started_result = self._start(win, account_id, account_name, quest)
+                if not started_result.get("ok"):
+                    return started_result
+                transitions.append(f"{quest}:start")
+                time.sleep(1.2)
+        finally:
+            # Leave a clean HUD behind no matter how Phase 2 exits — the exact
+            # Auto PB X is only clicked after the panel guard proves this is
+            # that panel, so it is always safe to call.
+            self.close_panel(win)
+        done = not pending
+        detail = ("; ".join(transitions) if transitions else
+                  "đã đủ lượt" if done else "đang chờ: " + ", ".join(pending))
+        if skipped:
+            detail += (" | bỏ qua (NPC không chào): "
+                       + ", ".join(row["dungeon"] for row in skipped))
+        return {"ok": True, "done": done, "pending": list(pending),
+                "transitions": transitions, "skipped": skipped, "detail": detail}
+
+    def run(self, win, plan, account_id="", account_name="", stop_event=None):
+        deadline = time.monotonic() + 4 * 60 * 60
+        while time.monotonic() < deadline:
+            if stop_event is not None and stop_event.is_set():
+                return {"ok": False, "stopped": True,
+                        "detail": "đã dừng Auto phụ bản theo yêu cầu"}
+            if not self.wm.find_by_pid(int(win.pid)):
+                return {"ok": False, "relogin": True,
+                        "detail": "client không còn mở khi chờ Auto phụ bản"}
+            result = self.advance(win, plan, account_id, account_name)
+            if not result.get("ok") or result.get("done"):
+                if result.get("done"):
+                    result["detail"] = "đã nhận Q, chạy và nhận thưởng đủ lượt"
+                return result
+            self._log("đang chờ nhận thưởng Auto PB: " + ", ".join(result.get("pending") or []))
+            if stop_event is not None:
+                if stop_event.wait(30):
+                    return {"ok": False, "stopped": True,
+                            "detail": "đã dừng Auto phụ bản khi đang chờ"}
+            else:
+                time.sleep(30)
+        return {"ok": False, "detail": "hết timeout chờ Auto PB"}
+
+    def isolated_once(self, win, quest: str, account_id="acc_2", account_name="pepsi"):
+        """Test exactly Nhận Q -> Xong -> claim-if-needed -> start, outside Daily."""
+        if quest not in SPECS:
+            return {"ok": False, "stage": "input", "detail": "unknown dungeon"}
+        received = self._count(account_id, "quests", quest)
+        started = self._count(account_id, "auto_started", quest)
+        claimed = self._count(account_id, "auto_claimed", quest)
+        if received >= 3 and started >= received and claimed >= started:
+            return {"ok": True, "done": True, "stage": "complete",
+                    "detail": f"ledger {quest} đã nhận/start/claim đủ 3/3"}
+        if received > started:
+            self._event(account_id, account_name, quest, "reuse_pending_token",
+                        received=received, auto_started=started)
+            self._log(f"{quest}: dùng token chờ ledger received={received} started={started}")
+        elif received < 3:
+            token = self._receive_token(win, account_id, account_name, quest)
+            if not token.get("ok"):
+                return {"stage": "receive_token", **token}
+        else:
+            self._log(f"{quest}: đủ Q/start {received}/{started}, chỉ chờ claim cuối")
+        if not self._open_auto_panel(win) or not self._page(win, SPECS[quest][2]):
+            return {"ok": False, "stage": "auto_panel",
+                    "detail": "không mở được đúng panel/page"}
+        state, _, score = self._card_state(win, quest)
+        if state == "running":
+            if self._refresh_expired(win, quest):
+                state, _, score = self._card_state(win, quest)
+            if state == "running":
+                return {"ok": False, "stage": "wait_running", "score": score,
+                        "detail": f"{quest}: lượt trước đang chạy; chờ Nhận thưởng"}
+        if state == "claim":
+            if not self._claim(win, quest):
+                return {"ok": False, "stage": "claim", "score": score}
+            self._record(account_id, quest, "auto_claimed", state="isolated_live_claim")
+            claimed = self._count(account_id, "auto_claimed", quest)
+            received = self._count(account_id, "quests", quest)
+            started = self._count(account_id, "auto_started", quest)
+            if claimed >= min(3, received) and started >= received:
+                return {"ok": True, "done": True, "stage": "complete",
+                        "detail": f"{quest}: đã claim đủ {claimed}/3"}
+            state = "start"
+        if state != "start":
+            return {"ok": False, "stage": "start_gate", "score": score,
+                    "detail": f"card state={state}"}
+        received = self._count(account_id, "quests", quest)
+        started_count = self._count(account_id, "auto_started", quest)
+        if received <= started_count:
+            return {"ok": False, "stage": "token_gate",
+                    "detail": f"{quest}: không còn token để start lượt {started_count + 1}"}
+        started_result = self._start(win, account_id, account_name, quest)
+        return {"stage": "start_auto", **started_result}

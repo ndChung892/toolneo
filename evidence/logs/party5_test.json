@@ -1,0 +1,65 @@
+{
+  "key_cid": 877,
+  "members": [
+    {
+      "pid": 18112,
+      "member_cid": 3220,
+      "invite": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "accept": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "joined": true
+    },
+    {
+      "pid": 4352,
+      "member_cid": 3239,
+      "invite": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "accept": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "joined": false
+    },
+    {
+      "pid": 14448,
+      "member_cid": 53,
+      "invite": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "accept": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "joined": false
+    },
+    {
+      "pid": 8840,
+      "member_cid": 4159,
+      "invite": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "accept": {
+        "ok": true,
+        "return": "0xd"
+      },
+      "joined": true
+    }
+  ],
+  "party_ok": false,
+  "party_check": {
+    "TSk": true,
+    "CB": true,
+    "dy": false,
+    "pepsi": false,
+    "hshehe": true
+  }
+}

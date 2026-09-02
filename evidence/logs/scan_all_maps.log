@@ -1,0 +1,129 @@
+﻿client 'CB' pid=4060
+18 map se quet
+
+[1/18] Đông Xuất Vân: Dược Thảo Cấp 1 x1, Đàn Cá Cấp 1 x5
+      Đàn Cá Cấp 1       (698,614)
+      Đàn Cá Cấp 1       (1759,594)
+      Đàn Cá Cấp 1       (2135,1041)
+      Dược Thảo Cấp 1    (2100,1200)
+      Đàn Cá Cấp 1       (1899,273)
+      Đàn Cá Cấp 1       (1371,834)
+[2/18] Lê Dương Bắc: Đàn Cá Cấp 1 x5
+      Đàn Cá Cấp 1       (1995,1869)
+      Đàn Cá Cấp 1       (214,1042)
+      Đàn Cá Cấp 1       (579,1777)
+      Đàn Cá Cấp 1       (1560,1843)
+      Đàn Cá Cấp 1       (63,1707)
+[3/18] Thiên Lục Châu: Đàn Cá Cấp 2 x4
+      Đàn Cá Cấp 2       (2357,1078)
+      Đàn Cá Cấp 2       (1888,891)
+      Đàn Cá Cấp 2       (1444,456)
+      Đàn Cá Cấp 2       (1253,195)
+[4/18] Quang Bình Nguyên: Đàn Cá Cấp 3 x3
+      Đàn Cá Cấp 3       (855,497)
+      Đàn Cá Cấp 3       (524,1125)
+      Đàn Cá Cấp 3       (1788,1055)
+[5/18] Lê Dương Thôn: Đàn Cá Cấp 4 x4
+      Đàn Cá Cấp 4       (1264,424)
+      Đàn Cá Cấp 4       (384,369)
+      Đàn Cá Cấp 4       (161,255)
+      Đàn Cá Cấp 4       (1781,1068)
+[6/18] Vân Lộc Sơn: Đàn Cá Cấp 5 x4
+      Đàn Cá Cấp 5       (1570,1614)
+      Đàn Cá Cấp 5       (1294,1627)
+      Đàn Cá Cấp 5       (2121,601)
+      Đàn Cá Cấp 5       (1477,1233)
+[7/18] Tuyết Lâm: Dược Thảo Cấp 7 x1, Đàn Cá Cấp 6 x3
+      Đàn Cá Cấp 6       (1132,1587)
+      Dược Thảo Cấp 7    (2100,1200)
+      Đàn Cá Cấp 6       (1816,1279)
+      Đàn Cá Cấp 6       (1201,1224)
+[8/18] Linh Lan: Đàn Cá Cấp 7 x3
+      Đàn Cá Cấp 7       (631,1458)
+      Đàn Cá Cấp 7       (1179,1666)
+      Đàn Cá Cấp 7       (917,1539)
+[9/18] Lê Dương Đảo: Dược Thảo Cấp 2 x1
+      Dược Thảo Cấp 2    (2100,1200)
+[10/18] Kỵ Bình Nguyên: khong co bai
+[11/18] Anh Vũ Cảnh: Dược Thảo Cấp 3 x1
+      Dược Thảo Cấp 3    (2100,1200)
+[12/18] Trầm Thụy Lâm: khong co bai
+[13/18] Tháp Khắc Nguyên: Dược Thảo Cấp 4 x1
+      Dược Thảo Cấp 4    (2100,1200)
+[14/18] Cổ Đạo: khong co bai
+[15/18] Ngọc Phong Lâm: Dược Thảo Cấp 5 x1
+      Dược Thảo Cấp 5    (2100,1200)
+[16/18] Băng Tuyết Nguyên: Dược Thảo Cấp 6 x1
+      Dược Thảo Cấp 6    (2100,1200)
+[17/18] Quân Cổ Đạo: khong co bai
+[18/18] Kỳ Thạch Địa: khong co bai
+
+-> C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\configs\spot_positions.json
+
+===== TAT CA VI TRI BAI =====
+
+  Dược Thảo Cấp 1  (1 bãi)
+      Đông Xuất Vân        (2100, 1200)
+
+  Dược Thảo Cấp 2  (1 bãi)
+      Lê Dương Đảo         (2100, 1200)
+
+  Dược Thảo Cấp 3  (1 bãi)
+      Anh Vũ Cảnh          (2100, 1200)
+
+  Dược Thảo Cấp 4  (1 bãi)
+      Tháp Khắc Nguyên     (2100, 1200)
+
+  Dược Thảo Cấp 5  (1 bãi)
+      Ngọc Phong Lâm       (2100, 1200)
+
+  Dược Thảo Cấp 6  (1 bãi)
+      Băng Tuyết Nguyên    (2100, 1200)
+
+  Dược Thảo Cấp 7  (1 bãi)
+      Tuyết Lâm            (2100, 1200)
+
+  Đàn Cá Cấp 1  (10 bãi)
+      Lê Dương Bắc         (63, 1707)
+      Lê Dương Bắc         (214, 1042)
+      Lê Dương Bắc         (579, 1777)
+      Lê Dương Bắc         (1560, 1843)
+      Lê Dương Bắc         (1995, 1869)
+      Đông Xuất Vân        (698, 614)
+      Đông Xuất Vân        (1371, 834)
+      Đông Xuất Vân        (1759, 594)
+      Đông Xuất Vân        (1899, 273)
+      Đông Xuất Vân        (2135, 1041)
+
+  Đàn Cá Cấp 2  (4 bãi)
+      Thiên Lục Châu       (1253, 195)
+      Thiên Lục Châu       (1444, 456)
+      Thiên Lục Châu       (1888, 891)
+      Thiên Lục Châu       (2357, 1078)
+
+  Đàn Cá Cấp 3  (3 bãi)
+      Quang Bình Nguyên    (524, 1125)
+      Quang Bình Nguyên    (855, 497)
+      Quang Bình Nguyên    (1788, 1055)
+
+  Đàn Cá Cấp 4  (4 bãi)
+      Lê Dương Thôn        (161, 255)
+      Lê Dương Thôn        (384, 369)
+      Lê Dương Thôn        (1264, 424)
+      Lê Dương Thôn        (1781, 1068)
+
+  Đàn Cá Cấp 5  (4 bãi)
+      Vân Lộc Sơn          (1294, 1627)
+      Vân Lộc Sơn          (1477, 1233)
+      Vân Lộc Sơn          (1570, 1614)
+      Vân Lộc Sơn          (2121, 601)
+
+  Đàn Cá Cấp 6  (3 bãi)
+      Tuyết Lâm            (1132, 1587)
+      Tuyết Lâm            (1201, 1224)
+      Tuyết Lâm            (1816, 1279)
+
+  Đàn Cá Cấp 7  (3 bãi)
+      Linh Lan             (631, 1458)
+      Linh Lan             (917, 1539)
+      Linh Lan             (1179, 1666)

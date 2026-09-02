@@ -1,0 +1,94 @@
+﻿dungeons: {"Mê Huyễn Động": 2, "Kho Báu Đại Mạc": 2, "Lục Tiên Cảnh": 2}
+[14:59:05] [+    0.0s] Đã bắt đầu Daily theo cấu hình riêng: acc_1
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_1"}
+[14:59:05] [+    0.3s] Daily CB: client chưa mở, đang đăng nhập trước bước PHỤ BẢN...
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước PHỤ BẢN..."}
+[14:59:05] [+    0.3s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12232 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12232 Flash launched at original size"}
+[14:59:11] [+    6.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12232 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12232 Bắt đầu"}
+[14:59:16] [+   11.4s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=12232 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12232 chua thay chon kenh, bam lai Bat dau"}
+[14:59:32] [+   27.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12232 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12232 Bắt đầu"}
+[14:59:35] [+   30.6s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12232 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12232 channel=(449, 308) choices=1"}
+[14:59:40] [+   34.9s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12232 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12232 character_slot=1 slot_verified=True"}
+[14:59:45] [+   40.4s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12232 Player=0x1cfe80a0 Core=0xb27b0d0 world=(3000,1800)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12232 Player=0x1cfe80a0 Core=0xb27b0d0 world=(3000,1800)"}
+[14:59:45] [+   40.4s] acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[14:59:54] [+   49.4s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:00:01] [+   56.7s] [DUNGEON] NPC live-panel probe: 2.91s panel=0x0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.91s panel=0x0"}
+[15:00:09] [+   64.1s] [DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.33s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.33s"}
+[15:00:18] [+   73.1s] [DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.55s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.55s"}
+[15:00:32] [+   86.9s] [DUNGEON] NPC live-panel probe: 3.06s panel=0x2280cae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.06s panel=0x2280cae0"}
+[15:00:51] [+  106.5s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:01:03] [+  118.1s] [DUNGEON] NPC live-panel probe: 3.01s panel=0x2280cae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 3.01s panel=0x2280cae0"}
+[15:01:27] [+  142.0s] [DUNGEON] NPC live-panel probe: 2.76s panel=0x2280cae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.76s panel=0x2280cae0"}
+[15:01:47] [+  162.7s] [DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+[15:01:49] [+  163.9s] [DUNGEON] Auto PB panel visible after guarded toolbar click
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+[15:02:17] [+  191.8s] Daily PHỤ BẢN lượt đầu: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start"}
+[15:02:17] [+  191.8s] Daily xong bước PHỤ BẢN: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start
+{"type": "log", "msg": "Daily xong bước PHỤ BẢN: Mê Huyễn Động:start; Kho Báu Đại Mạc:start; Lục Tiên Cảnh:start"}
+[15:02:21] [+  196.0s] Daily CB: cleanup memory PHỤ BẢN: {'ok': True, 'results': {'quest': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'auto_dungeon': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily CB: cleanup memory PHỤ BẢN: {'ok': True, 'results': {'quest': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}, 'auto_dungeon': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[15:02:21] [+  196.2s] Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút.
+{"type": "log", "msg": "Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút."}
+[15:27:21] [+ 1696.2s] Daily CB: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 1...
+{"type": "log", "msg": "Daily CB: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 1..."}
+[15:27:21] [+ 1696.2s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4940 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4940 Flash launched at original size"}
+[15:27:25] [+ 1700.0s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu"}
+[15:27:30] [+ 1704.8s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=4940 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=4940 chua thay chon kenh, bam lai Bat dau"}
+[15:27:32] [+ 1707.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu"}
+[15:27:38] [+ 1713.0s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=4940 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=4940 chua thay chon kenh, bam lai Bat dau"}
+[15:27:48] [+ 1723.7s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4940 Bắt đầu"}
+[15:27:51] [+ 1726.5s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4940 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4940 channel=(449, 308) choices=1"}
+[15:27:55] [+ 1730.7s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4940 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4940 character_slot=1 slot_verified=True"}
+[15:28:01] [+ 1736.0s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4940 Player=0x12fbb0a0 Core=0x6b740d0 world=(3101,1653)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4940 Player=0x12fbb0a0 Core=0x6b740d0 world=(3101,1653)"}
+[15:28:01] [+ 1736.0s] acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_1: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[15:28:10] [+ 1744.9s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[15:28:14] [+ 1748.8s] [DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)
+{"type": "log", "msg": "[DUNGEON] Auto PB toolbar scan arrow=NutXuong.png score=0.990 box=(363, 28, 21, 23)"}
+[15:28:15] [+ 1750.8s] [DUNGEON] Auto PB panel visible after guarded toolbar click
+{"type": "log", "msg": "[DUNGEON] Auto PB panel visible after guarded toolbar click"}
+[15:28:17] [+ 1752.5s] [DUNGEON] Claim Mê Huyễn Động: button score=0.940 box=(202, 177, 60, 19) evidence=C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\auto_pb_claim_4940_Mê Huyễn Động_1787992097.png
+{"type": "log", "msg": "[DUNGEON] Claim Mê Huyễn Động: button score=0.940 box=(202, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_4940_Mê Huyễn Động_1787992097.png"}
+[15:28:18] [+ 1753.5s] [DUNGEON] Claim Mê Huyễn Động: readback start PASS
+{"type": "log", "msg": "[DUNGEON] Claim Mê Huyễn Động: readback start PASS"}
+[15:28:22] [+ 1757.0s] [DUNGEON] Claim Kho Báu Đại Mạc: button score=1.000 box=(428, 177, 60, 19) evidence=C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\auto_pb_claim_4940_Kho Báu Đại Mạc_1787992102.png
+{"type": "log", "msg": "[DUNGEON] Claim Kho Báu Đại Mạc: button score=1.000 box=(428, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_4940_Kho Báu Đại Mạc_1787992102.png"}
+[15:28:23] [+ 1757.9s] [DUNGEON] Claim Kho Báu Đại Mạc: readback start PASS
+{"type": "log", "msg": "[DUNGEON] Claim Kho Báu Đại Mạc: readback start PASS"}
+[15:28:26] [+ 1761.3s] [DUNGEON] Claim Lục Tiên Cảnh: button score=1.000 box=(654, 177, 60, 19) evidence=C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\auto_pb_claim_4940_Lục Tiên Cảnh_1787992106.png
+{"type": "log", "msg": "[DUNGEON] Claim Lục Tiên Cảnh: button score=1.000 box=(654, 177, 60, 19) evidence=C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\auto_pb_claim_4940_Lục Tiên Cảnh_1787992106.png"}
+[15:28:27] [+ 1762.3s] [DUNGEON] Claim Lục Tiên Cảnh: readback start PASS
+{"type": "log", "msg": "[DUNGEON] Claim Lục Tiên Cảnh: readback start PASS"}
+[15:28:31] [+ 1765.9s] Daily PHỤ BẢN checkpoint độc lập 1 (25 phút): Mê Huyễn Động:claim; Kho Báu Đại Mạc:claim; Lục Tiên Cảnh:claim
+{"type": "log", "msg": "Daily PHỤ BẢN checkpoint độc lập 1 (25 phút): Mê Huyễn Động:claim; Kho Báu Đại Mạc:claim; Lục Tiên Cảnh:claim"}
+[15:28:31] [+ 1765.9s] Daily hoàn tất đúng plan snapshot: PHỤ BẢN
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: PHỤ BẢN"}
+DONE sau 1767s

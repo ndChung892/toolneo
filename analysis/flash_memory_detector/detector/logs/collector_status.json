@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-08-11T22:12:32.232",
+  "state": "READY",
+  "message": "Đã ghi MONSTER_DEAD. Sẵn sàng nhận event tiếp theo.",
+  "pid": 16972,
+  "session_dir": "C:\\Users\\Administrator\\Desktop\\New folder\\flash_memory_detector_v1\\flash_memory_detector\\logs\\2026-08-11_215751__process_ flash_exe _headless collector_",
+  "events_completed": 6,
+  "last_event": "MONSTER_DEAD",
+  "regions": 863,
+  "snapshot_seconds": 1.0,
+  "changed_u32": 11386966,
+  "diff_preview_saved": 10000
+}

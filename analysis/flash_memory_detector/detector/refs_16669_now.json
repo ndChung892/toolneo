@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-08-12T01:31:31.229792",
+  "pid": 16972,
+  "target": "0x19EBE0A0",
+  "count": 4,
+  "matches": [
+    {
+      "address": "0x193E570C",
+      "allocation_base": "0x19240000",
+      "protect": 4,
+      "type": 131072
+    },
+    {
+      "address": "0x19EBE02C",
+      "allocation_base": "0x19DC0000",
+      "protect": 4,
+      "type": 131072
+    },
+    {
+      "address": "0x1C0056F0",
+      "allocation_base": "0x1BF70000",
+      "protect": 4,
+      "type": 131072
+    },
+    {
+      "address": "0x1E26E0BC",
+      "allocation_base": "0x1DFB0000",
+      "protect": 4,
+      "type": 131072
+    }
+  ]
+}

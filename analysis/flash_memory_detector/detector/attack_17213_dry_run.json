@@ -1,0 +1,21 @@
+{
+  "player": {
+    "x": 2332.0,
+    "y": 1098.0
+  },
+  "target": {
+    "base": "0x19F29D70",
+    "x": 1919.0,
+    "y": 1339.0,
+    "distance": 478.17360864020924,
+    "type_code": 3060100000051,
+    "runtime_id": 17213,
+    "resource_code": 2060100000051
+  },
+  "client_point": [
+    50,
+    490
+  ],
+  "executed": false,
+  "cursor_moved": false
+}

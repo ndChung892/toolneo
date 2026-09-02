@@ -1,0 +1,604 @@
+﻿
+======================================================================
+BAT DAU acc_5 — 10 task, 8 phu ban
+======================================================================
+[18:20:38] [acc_5] [+    0.2s] Đã bắt đầu Daily theo cấu hình riêng: acc_5
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_5"}
+[18:20:38] [acc_5] [+    0.5s] Daily luvy: client chưa mở, đang đăng nhập trước bước VIP...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước VIP..."}
+[18:20:38] [acc_5] [+    0.5s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14812 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14812 Flash launched at original size"}
+[18:20:43] [acc_5] [+    5.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14812 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14812 Bắt đầu"}
+[18:20:48] [acc_5] [+   10.4s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=14812 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14812 chua thay chon kenh, bam lai Bat dau"}
+[18:21:04] [acc_5] [+   26.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14812 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14812 Bắt đầu"}
+[18:21:07] [acc_5] [+   29.2s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14812 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14812 channel=(449, 308) choices=1"}
+[18:21:11] [acc_5] [+   33.3s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14812 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14812 character_slot=1 slot_verified=True"}
+[18:21:16] [acc_5] [+   38.3s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14812 Player=0x1c3a00a0 Core=0x1640f0d0 world=(2216,422)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14812 Player=0x1c3a00a0 Core=0x1640f0d0 world=(2216,422)"}
+[18:21:16] [acc_5] [+   38.3s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:21:25] [acc_5] [+   47.1s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[18:21:32] [acc_5] [+   54.9s] Daily xong bước VIP: đã thử claim 5/5 dòng VIP
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+[18:21:35] [acc_5] [+   57.8s] Daily luvy: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:21:48] [acc_5] [+   70.1s] Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã bấm Rút thưởng nhưng không thấy popup Chúc mừng — có thể lượt miễn phí hôm nay đã dùng, không tính là đã nhận"}
+[18:21:50] [acc_5] [+   73.0s] Daily luvy: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:22:36] [acc_5] [+  118.7s] Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+[18:22:39] [acc_5] [+  121.7s] Daily luvy: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:22:51] [acc_5] [+  133.5s] Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+[18:22:54] [acc_5] [+  136.4s] Daily luvy: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:23:04] [acc_5] [+  146.6s] Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: panel Thẻ bài đã mở nhưng không thấy nút Bắt đầu phát bài (có thể đã hết lượt phát bài hôm nay)"}
+[18:23:07] [acc_5] [+  149.6s] Daily luvy: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:23:28] [acc_5] [+  170.9s] [DUNGEON] NPC live-panel probe: 2.56s panel=0x0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.56s panel=0x0"}
+[18:23:35] [acc_5] [+  177.5s] [DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=6.48s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=6.48s"}
+[18:23:43] [acc_5] [+  185.5s] [DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=6.56s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=6.56s"}
+[18:23:56] [acc_5] [+  198.8s] [DUNGEON] NPC live-panel probe: 2.88s panel=0x3057cae0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.88s panel=0x3057cae0"}
+[18:24:17] [acc_5] [+  219.4s] Daily PHỤ BẢN lượt đầu: Kho Báu Đại Mạc: Xong qua memory chưa có readback
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: Kho Báu Đại Mạc: Xong qua memory chưa có readback"}
+[18:24:17] [acc_5] [+  219.4s] Daily luvy: bỏ qua PHỤ BẢN (lỗi): Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_5\20260829_182417_PHỤ_BẢN.png
+{"type": "log", "msg": "Daily luvy: bỏ qua PHỤ BẢN (lỗi): Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_5\\20260829_182417_PHỤ_BẢN.png"}
+[18:24:17] [acc_5] [+  219.6s] Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:24:17] [acc_5] [+  219.6s] Daily luvy: client chưa mở, đang đăng nhập trước bước HÀNH LANG...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước HÀNH LANG..."}
+[18:24:17] [acc_5] [+  219.6s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=1548 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=1548 Flash launched at original size"}
+[18:24:22] [acc_5] [+  224.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=1548 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=1548 Bắt đầu"}
+[18:24:27] [acc_5] [+  230.0s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=1548 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=1548 chua thay chon kenh, bam lai Bat dau"}
+[18:24:43] [acc_5] [+  245.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=1548 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=1548 Bắt đầu"}
+[18:24:46] [acc_5] [+  248.6s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=1548 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=1548 channel=(449, 308) choices=1"}
+[18:24:50] [acc_5] [+  252.6s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=1548 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=1548 character_slot=1 slot_verified=True"}
+[18:24:55] [acc_5] [+  257.8s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=1548 Player=0x11c410a0 Core=0x144e40d0 world=(3085,1601)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=1548 Player=0x11c410a0 Core=0x144e40d0 world=(3085,1601)"}
+[18:24:55] [acc_5] [+  257.8s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:25:04] [acc_5] [+  266.7s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[18:25:28] [acc_5] [+  290.6s] Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang
+{"type": "log", "msg": "Daily xong bước HÀNH LANG: đã bấm Nhận Quà Hàng Ngày tại Hành Lang"}
+[18:25:31] [acc_5] [+  293.5s] Daily luvy: cleanup memory HÀNH LANG: {'ok': True, 'results': {'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily luvy: cleanup memory HÀNH LANG: {'ok': True, 'results': {'npc_dialog': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[18:25:49] [acc_5] [+  311.3s] Daily xong bước THẦN TU: THẦN TU: đã bấm Bắt đầu → Có nhưng chưa đọc được đồng hồ chạy (diff=0.00)
+{"type": "log", "msg": "Daily xong bước THẦN TU: THẦN TU: đã bấm Bắt đầu → Có nhưng chưa đọc được đồng hồ chạy (diff=0.00)"}
+[18:25:49] [acc_5] [+  311.3s] Daily CB: THẦN TU ATTEMPTED — bỏ mốc chờ 25 phút.
+{"type": "log", "msg": "Daily CB: THẦN TU ATTEMPTED — bỏ mốc chờ 25 phút."}
+[18:25:50] [acc_5] [+  312.2s] [POPUP] phát hiện X lạ ổn định tại (778, 108); UNKNOWN nên không bấm
+{"type": "log", "msg": "[POPUP] phát hiện X lạ ổn định tại (778, 108); UNKNOWN nên không bấm"}
+[18:25:50] [acc_5] [+  312.2s] Daily luvy: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: unknown_modal_blocked — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_5\20260829_182550_TU_HÀNH.png
+{"type": "log", "msg": "Daily luvy: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: popup guard trước chuyển map: unknown_modal_blocked — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_5\\20260829_182550_TU_HÀNH.png"}
+[18:25:50] [acc_5] [+  312.3s] Daily luvy: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:25:50] [acc_5] [+  312.3s] Daily luvy: client chưa mở, đang đăng nhập trước bước TRỪ MA...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước TRỪ MA..."}
+[18:25:50] [acc_5] [+  312.3s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11296 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=11296 Flash launched at original size"}
+[18:25:53] [acc_5] [+  315.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu"}
+[18:25:58] [acc_5] [+  321.0s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=11296 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=11296 chua thay chon kenh, bam lai Bat dau"}
+[18:26:01] [acc_5] [+  323.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu"}
+[18:26:07] [acc_5] [+  329.3s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=11296 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=11296 chua thay chon kenh, bam lai Bat dau"}
+[18:26:17] [acc_5] [+  339.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=11296 Bắt đầu"}
+[18:26:20] [acc_5] [+  342.5s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11296 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=11296 channel=(449, 308) choices=1"}
+[18:26:24] [acc_5] [+  346.5s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11296 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=11296 character_slot=1 slot_verified=True"}
+[18:26:29] [acc_5] [+  351.3s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=11296 Player=0x141a10a0 Core=0x99100d0 world=(2215,407)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=11296 Player=0x141a10a0 Core=0x99100d0 world=(2215,407)"}
+[18:26:29] [acc_5] [+  351.4s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:26:39] [acc_5] [+  361.4s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[18:27:32] [acc_5] [+  414.9s] [TRU_MA] TRỪ MA luvy: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA luvy: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)"}
+[18:27:52] [acc_5] [+  434.2s] [TRU_MA] TRỪ MA luvy: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA luvy: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[18:27:56] [acc_5] [+  439.1s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[18:27:59] [acc_5] [+  441.6s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x389c25c0 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x389c25c0 distance=429"}
+[18:27:59] [acc_5] [+  441.6s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x146760a0 method_info=0xb7c2900 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x146760a0 method_info=0xb7c2900 slot322_method_id=18293"}
+[18:27:59] [acc_5] [+  441.7s] [AUTO_BOSS] id=2169 distance=429 receiver=0x16639e50 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x16639e50 method=18293 stage=1"}
+[18:28:01] [acc_5] [+  443.7s] [AUTO_BOSS] id=2169 distance=202 receiver=0x16639e50 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=202 receiver=0x16639e50 method=18293 stage=2"}
+[18:28:05] [acc_5] [+  447.3s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[18:28:09] [acc_5] [+  451.1s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[18:29:02] [acc_5] [+  504.3s] [TRU_MA] TRỪ MA luvy: xong lượt 1/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA luvy: xong lượt 1/10 (Phong Ấn Cự Thú)"}
+[18:29:25] [acc_5] [+  528.0s] [TRU_MA] TRỪ MA luvy: dừng ở lượt 2: chọn dòng Nhiệm Vụ Trừ Ma[Vòng] lỗi: ListBase.dataProvider unresolved after list refresh
+{"type": "log", "msg": "[TRU_MA] TRỪ MA luvy: dừng ở lượt 2: chọn dòng Nhiệm Vụ Trừ Ma[Vòng] lỗi: ListBase.dataProvider unresolved after list refresh"}
+[18:29:26] [acc_5] [+  528.6s] Daily luvy: bỏ qua TRỪ MA (lỗi): FAILED — 1/10 lượt; dừng ở lượt 2: chọn dòng Nhiệm Vụ Trừ Ma[Vòng] lỗi: ListBase.dataProvider unresolved after list refresh — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_5\20260829_182926_TRỪ_MA.png
+{"type": "log", "msg": "Daily luvy: bỏ qua TRỪ MA (lỗi): FAILED — 1/10 lượt; dừng ở lượt 2: chọn dòng Nhiệm Vụ Trừ Ma[Vòng] lỗi: ListBase.dataProvider unresolved after list refresh — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_5\\20260829_182926_TRỪ_MA.png"}
+[18:29:26] [acc_5] [+  528.8s] Daily luvy: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:29:26] [acc_5] [+  528.8s] Daily luvy: client chưa mở, đang đăng nhập trước bước TRỊ AN...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước TRỊ AN..."}
+[18:29:26] [acc_5] [+  528.8s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13588 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=13588 Flash launched at original size"}
+[18:29:31] [acc_5] [+  533.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=13588 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13588 Bắt đầu"}
+[18:29:36] [acc_5] [+  538.9s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=13588 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=13588 chua thay chon kenh, bam lai Bat dau"}
+[18:29:52] [acc_5] [+  554.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=13588 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=13588 Bắt đầu"}
+[18:29:55] [acc_5] [+  557.3s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13588 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=13588 channel=(449, 308) choices=1"}
+[18:29:59] [acc_5] [+  561.4s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13588 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=13588 character_slot=1 slot_verified=True"}
+[18:30:07] [acc_5] [+  569.2s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13588 Player=0xe47a0a0 Core=0x16e640d0 world=(2284,1340)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=13588 Player=0xe47a0a0 Core=0x16e640d0 world=(2284,1340)"}
+[18:30:07] [acc_5] [+  569.2s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:30:20] [acc_5] [+  582.5s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[18:31:25] [acc_5] [+  647.2s] [TRI_AN] TRỊ AN luvy: dừng ở lượt 1: đã mở dòng Trị An[Vòng] nhưng chưa đọc được dòng biến thể; không bấm mù dòng vòng lần nữa
+{"type": "log", "msg": "[TRI_AN] TRỊ AN luvy: dừng ở lượt 1: đã mở dòng Trị An[Vòng] nhưng chưa đọc được dòng biến thể; không bấm mù dòng vòng lần nữa"}
+[18:31:25] [acc_5] [+  647.4s] Daily luvy: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 1: đã mở dòng Trị An[Vòng] nhưng chưa đọc được dòng biến thể; không bấm mù dòng vòng lần nữa — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_5\20260829_183125_TRỊ_AN.png
+{"type": "log", "msg": "Daily luvy: bỏ qua TRỊ AN (lỗi): FAILED — 0/10 lượt; dừng ở lượt 1: đã mở dòng Trị An[Vòng] nhưng chưa đọc được dòng biến thể; không bấm mù dòng vòng lần nữa — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_5\\20260829_183125_TRỊ_AN.png"}
+[18:31:25] [acc_5] [+  647.5s] Daily luvy: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:31:25] [acc_5] [+  647.5s] Daily luvy: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản..."}
+[18:31:25] [acc_5] [+  647.5s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12148 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12148 Flash launched at original size"}
+[18:31:29] [acc_5] [+  651.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12148 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12148 Bắt đầu"}
+[18:31:34] [acc_5] [+  657.0s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=12148 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12148 chua thay chon kenh, bam lai Bat dau"}
+[18:31:53] [acc_5] [+  675.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12148 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12148 Bắt đầu"}
+[18:31:55] [acc_5] [+  678.0s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12148 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12148 channel=(449, 308) choices=1"}
+[18:32:00] [acc_5] [+  682.2s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12148 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12148 character_slot=1 slot_verified=True"}
+[18:32:05] [acc_5] [+  687.4s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12148 Player=0xd6dc0a0 Core=0x8f9c0d0 world=(3144,824)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12148 Player=0xd6dc0a0 Core=0x8f9c0d0 world=(3144,824)"}
+[18:32:05] [acc_5] [+  687.4s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:32:10] [acc_5] [+  692.7s] Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút.
+{"type": "log", "msg": "Daily: đã đóng Flash sau Auto phụ bản checkpoint 1; chờ 25 phút."}
+[18:57:10] [acc_5] [+ 2192.7s] Daily luvy: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 1...
+{"type": "log", "msg": "Daily luvy: client chưa mở, đang đăng nhập trước bước mở lại sau Auto phụ bản checkpoint 1..."}
+[18:57:10] [acc_5] [+ 2192.7s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=3284 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=3284 Flash launched at original size"}
+[18:57:14] [acc_5] [+ 2196.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu"}
+[18:57:19] [acc_5] [+ 2201.3s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=3284 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=3284 chua thay chon kenh, bam lai Bat dau"}
+[18:57:21] [acc_5] [+ 2203.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu"}
+[18:57:27] [acc_5] [+ 2209.1s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=3284 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=3284 chua thay chon kenh, bam lai Bat dau"}
+[18:57:37] [acc_5] [+ 2219.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=3284 Bắt đầu"}
+[18:57:40] [acc_5] [+ 2222.2s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=3284 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=3284 channel=(449, 308) choices=1"}
+[18:57:44] [acc_5] [+ 2226.3s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=3284 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=3284 character_slot=1 slot_verified=True"}
+[18:57:49] [acc_5] [+ 2231.5s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=3284 Player=0x1be5e0a0 Core=0xb6ae0d0 world=(2592,1152)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=3284 Player=0x1be5e0a0 Core=0xb6ae0d0 world=(2592,1152)"}
+[18:57:49] [acc_5] [+ 2231.5s] acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_5: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[18:57:58] [acc_5] [+ 2240.4s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[18:58:19] [acc_5] [+ 2261.8s] [DUNGEON] NPC live-panel probe: 2.51s panel=0x0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.51s panel=0x0"}
+[18:58:27] [acc_5] [+ 2269.5s] [DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.66s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 1: exact NPC count=0 elapsed=7.66s"}
+[18:58:36] [acc_5] [+ 2278.7s] [DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.62s
+{"type": "log", "msg": "[DUNGEON] NPC open attempt 2: exact NPC count=0 elapsed=7.62s"}
+[18:58:51] [acc_5] [+ 2293.1s] [DUNGEON] NPC live-panel probe: 2.86s panel=0x1e65e0a0
+{"type": "log", "msg": "[DUNGEON] NPC live-panel probe: 2.86s panel=0x1e65e0a0"}
+[18:59:12] [acc_5] [+ 2314.9s] Daily PHỤ BẢN checkpoint độc lập 1 (25 phút): Kho Báu Đại Mạc: Xong qua memory chưa có readback
+{"type": "log", "msg": "Daily PHỤ BẢN checkpoint độc lập 1 (25 phút): Kho Báu Đại Mạc: Xong qua memory chưa có readback"}
+[18:59:12] [acc_5] [+ 2315.0s] Daily luvy: bỏ qua PHỤ BẢN (lỗi): checkpoint độc lập: Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_5\20260829_185912_PHỤ_BẢN.png
+{"type": "log", "msg": "Daily luvy: bỏ qua PHỤ BẢN (lỗi): checkpoint độc lập: Kho Báu Đại Mạc: Xong qua memory chưa có readback — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_5\\20260829_185912_PHỤ_BẢN.png"}
+[18:59:13] [acc_5] [+ 2315.1s] Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:59:13] [acc_5] [+ 2315.1s] Daily luvy: bỏ qua PHỤ BẢN (lỗi): hết ba checkpoint nhưng card chưa hoàn tất
+{"type": "log", "msg": "Daily luvy: bỏ qua PHỤ BẢN (lỗi): hết ba checkpoint nhưng card chưa hoàn tất"}
+[18:59:13] [acc_5] [+ 2315.1s] Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily luvy: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[18:59:13] [acc_5] [+ 2315.1s] Daily hoàn tất đúng plan snapshot: VIP, NHẬN THỜI TRANG, MẬT BẢO, ĐIÊU KHẮC, LẬT THẺ BÀI, PHỤ BẢN, HÀNH LANG, THẦN TU, TU HÀNH, TRỪ MA, TRỊ AN
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: VIP, NHẬN THỜI TRANG, MẬT BẢO, ĐIÊU KHẮC, LẬT THẺ BÀI, PHỤ BẢN, HÀNH LANG, THẦN TU, TU HÀNH, TRỪ MA, TRỊ AN"}
+XONG acc_5 sau 38.6 phut
+
+======================================================================
+BAT DAU acc_3 — 10 task, 8 phu ban
+======================================================================
+[18:59:23] [acc_3] [+    0.1s] Đã bắt đầu Daily theo cấu hình riêng: acc_3
+{"type": "log", "msg": "Đã bắt đầu Daily theo cấu hình riêng: acc_3"}
+[18:59:23] [acc_3] [+    0.1s] Daily TSk: client chưa mở, đang đăng nhập trước bước VIP...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước VIP..."}
+[18:59:23] [acc_3] [+    0.1s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=17960 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=17960 Flash launched at original size"}
+[18:59:28] [acc_3] [+    4.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=17960 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=17960 Bắt đầu"}
+[18:59:34] [acc_3] [+   10.3s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=17960 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=17960 chua thay chon kenh, bam lai Bat dau"}
+[18:59:49] [acc_3] [+   26.2s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=17960 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=17960 Bắt đầu"}
+[18:59:53] [acc_3] [+   29.2s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=17960 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=17960 channel=(449, 308) choices=1"}
+[18:59:57] [acc_3] [+   33.3s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=17960 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=17960 character_slot=1 slot_verified=True"}
+[19:00:02] [acc_3] [+   38.4s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=17960 Player=0x1017b0a0 Core=0x15f220d0 world=(1109,362)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=17960 Player=0x1017b0a0 Core=0x15f220d0 world=(1109,362)"}
+[19:00:02] [acc_3] [+   38.4s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:00:10] [acc_3] [+   46.3s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[19:00:17] [acc_3] [+   53.3s] Daily xong bước VIP: đã thử claim 5/5 dòng VIP
+{"type": "log", "msg": "Daily xong bước VIP: đã thử claim 5/5 dòng VIP"}
+[19:00:20] [acc_3] [+   56.5s] Daily TSk: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily TSk: cleanup memory VIP: {'ok': True, 'results': {'vip': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[19:00:29] [acc_3] [+   66.0s] Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng
+{"type": "log", "msg": "Daily xong bước NHẬN THỜI TRANG: đã Rút Bộ thường, bấm Xác nhận và đọc lại popup đã đóng"}
+[19:00:32] [acc_3] [+   68.9s] Daily TSk: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily TSk: cleanup memory NHẬN THỜI TRANG: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[19:01:18] [acc_3] [+  114.6s] Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần
+{"type": "log", "msg": "Daily xong bước MẬT BẢO: đã dò cấp 6→6, chọn công thức cấp 6 và bấm Chế tạo Mật Bảo 20 lần"}
+[19:01:21] [acc_3] [+  117.5s] Daily TSk: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily TSk: cleanup memory MẬT BẢO: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[19:01:32] [acc_3] [+  128.7s] Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK
+{"type": "log", "msg": "Daily xong bước ĐIÊU KHẮC: đã bấm Đổi miễn phí và xác nhận Có trong KGĐK"}
+[19:01:35] [acc_3] [+  131.7s] Daily TSk: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily TSk: cleanup memory ĐIÊU KHẮC: {'ok': True, 'results': {'character': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[19:02:29] [acc_3] [+  186.1s] Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt
+{"type": "log", "msg": "Daily xong bước LẬT THẺ BÀI: đã phát bài, nhận thưởng và xác nhận Có 10/10 lượt"}
+[19:02:32] [acc_3] [+  189.0s] Daily TSk: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}
+{"type": "log", "msg": "Daily TSk: cleanup memory LẬT THẺ BÀI: {'ok': True, 'results': {'card_game': {'ok': True, 'changed': False, 'before': False, 'after': False}}}"}
+[19:06:48] [acc_3] [+  444.3s] Daily PHỤ BẢN lượt đầu: không tới Tiên Lạp nhận Q Mê Huyễn Động: map render timeout
+{"type": "log", "msg": "Daily PHỤ BẢN lượt đầu: không tới Tiên Lạp nhận Q Mê Huyễn Động: map render timeout"}
+[19:06:48] [acc_3] [+  444.4s] Daily TSk: bỏ qua PHỤ BẢN (lỗi): không tới Tiên Lạp nhận Q Mê Huyễn Động: map render timeout — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_3\20260829_190648_PHỤ_BẢN.png
+{"type": "log", "msg": "Daily TSk: bỏ qua PHỤ BẢN (lỗi): không tới Tiên Lạp nhận Q Mê Huyễn Động: map render timeout — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_3\\20260829_190648_PHỤ_BẢN.png"}
+[19:06:48] [acc_3] [+  444.6s] Daily TSk: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:06:48] [acc_3] [+  444.6s] Daily TSk: client chưa mở, đang đăng nhập trước bước HÀNH LANG...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước HÀNH LANG..."}
+[19:06:48] [acc_3] [+  444.6s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12332 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=12332 Flash launched at original size"}
+[19:06:53] [acc_3] [+  449.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12332 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12332 Bắt đầu"}
+[19:06:58] [acc_3] [+  454.9s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=12332 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=12332 chua thay chon kenh, bam lai Bat dau"}
+[19:07:14] [acc_3] [+  471.0s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=12332 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=12332 Bắt đầu"}
+[19:07:17] [acc_3] [+  473.8s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12332 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=12332 channel=(449, 308) choices=1"}
+[19:07:21] [acc_3] [+  478.0s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12332 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=12332 character_slot=1 slot_verified=True"}
+[19:07:26] [acc_3] [+  483.0s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12332 Player=0x1122a0a0 Core=0xc77d0d0 world=(1109,362)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=12332 Player=0x1122a0a0 Core=0xc77d0d0 world=(1109,362)"}
+[19:07:26] [acc_3] [+  483.0s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:07:34] [acc_3] [+  491.0s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[19:08:16] [acc_3] [+  532.6s] Daily TSk: bỏ qua HÀNH LANG (lỗi): không tới Quyến Cố Thành: map render timeout — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_3\20260829_190816_HÀNH_LANG.png
+{"type": "log", "msg": "Daily TSk: bỏ qua HÀNH LANG (lỗi): không tới Quyến Cố Thành: map render timeout — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_3\\20260829_190816_HÀNH_LANG.png"}
+[19:08:16] [acc_3] [+  532.7s] Daily TSk: đã reset Flash sau lỗi HÀNH LANG; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi HÀNH LANG; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:08:16] [acc_3] [+  532.7s] Daily TSk: client chưa mở, đang đăng nhập trước bước THẦN TU...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước THẦN TU..."}
+[19:08:16] [acc_3] [+  532.7s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16888 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=16888 Flash launched at original size"}
+[19:08:21] [acc_3] [+  537.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16888 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16888 Bắt đầu"}
+[19:08:26] [acc_3] [+  542.9s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=16888 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=16888 chua thay chon kenh, bam lai Bat dau"}
+[19:08:42] [acc_3] [+  559.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=16888 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=16888 Bắt đầu"}
+[19:08:45] [acc_3] [+  561.8s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16888 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=16888 channel=(449, 308) choices=1"}
+[19:08:49] [acc_3] [+  565.9s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16888 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=16888 character_slot=1 slot_verified=True"}
+[19:08:54] [acc_3] [+  571.0s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16888 Player=0x130470a0 Core=0xcc270d0 world=(1109,362)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=16888 Player=0x130470a0 Core=0xcc270d0 world=(1109,362)"}
+[19:08:54] [acc_3] [+  571.0s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:09:02] [acc_3] [+  579.0s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[19:09:44] [acc_3] [+  620.6s] Daily TSk: bỏ qua THẦN TU (lỗi): không tới được Quyến Cố Thành: map render timeout — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_3\20260829_190944_THẦN_TU.png
+{"type": "log", "msg": "Daily TSk: bỏ qua THẦN TU (lỗi): không tới được Quyến Cố Thành: map render timeout — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_3\\20260829_190944_THẦN_TU.png"}
+[19:09:44] [acc_3] [+  620.7s] Daily TSk: đã reset Flash sau lỗi THẦN TU; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi THẦN TU; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:09:44] [acc_3] [+  620.7s] Daily TSk: client chưa mở, đang đăng nhập trước bước TU HÀNH...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước TU HÀNH..."}
+[19:09:44] [acc_3] [+  620.7s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4608 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=4608 Flash launched at original size"}
+[19:09:49] [acc_3] [+  625.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4608 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4608 Bắt đầu"}
+[19:09:54] [acc_3] [+  631.2s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=4608 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=4608 chua thay chon kenh, bam lai Bat dau"}
+[19:10:11] [acc_3] [+  647.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=4608 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=4608 Bắt đầu"}
+[19:10:14] [acc_3] [+  650.3s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4608 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=4608 channel=(449, 308) choices=1"}
+[19:10:18] [acc_3] [+  654.4s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4608 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=4608 character_slot=1 slot_verified=True"}
+[19:10:23] [acc_3] [+  659.4s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4608 Player=0x119dc0a0 Core=0x174ee0d0 world=(1109,362)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=4608 Player=0x119dc0a0 Core=0x174ee0d0 world=(1109,362)"}
+[19:10:23] [acc_3] [+  659.4s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:10:31] [acc_3] [+  667.3s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[19:11:12] [acc_3] [+  708.5s] Daily TSk: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: map render timeout — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_3\20260829_191112_TU_HÀNH.png
+{"type": "log", "msg": "Daily TSk: bỏ qua TU HÀNH (lỗi): không tới được Quyến Cố Thành: map render timeout — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_3\\20260829_191112_TU_HÀNH.png"}
+[19:11:12] [acc_3] [+  708.7s] Daily TSk: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi TU HÀNH; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:11:12] [acc_3] [+  708.7s] Daily TSk: client chưa mở, đang đăng nhập trước bước TRỪ MA...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước TRỪ MA..."}
+[19:11:12] [acc_3] [+  708.7s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15264 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=15264 Flash launched at original size"}
+[19:11:17] [acc_3] [+  713.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15264 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15264 Bắt đầu"}
+[19:11:22] [acc_3] [+  718.9s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=15264 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=15264 chua thay chon kenh, bam lai Bat dau"}
+[19:11:39] [acc_3] [+  735.7s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=15264 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=15264 Bắt đầu"}
+[19:11:42] [acc_3] [+  738.6s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15264 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=15264 channel=(449, 308) choices=1"}
+[19:11:46] [acc_3] [+  742.8s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15264 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=15264 character_slot=1 slot_verified=True"}
+[19:11:52] [acc_3] [+  748.2s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15264 Player=0x1540a0a0 Core=0xca510d0 world=(3000,1800)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=15264 Player=0x1540a0a0 Core=0xca510d0 world=(3000,1800)"}
+[19:11:52] [acc_3] [+  748.2s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:12:02] [acc_3] [+  759.2s] [POPUP] đã đóng cache_notice
+{"type": "log", "msg": "[POPUP] đã đóng cache_notice"}
+[19:12:51] [acc_3] [+  808.0s] [TRU_MA] TRỪ MA TSk: phục hồi nhiệm vụ đã giết xong: Phi Ma Tập Kích
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: phục hồi nhiệm vụ đã giết xong: Phi Ma Tập Kích"}
+[19:13:40] [acc_3] [+  856.6s] [TRU_MA] TRỪ MA TSk: nhiệm vụ cũ Phi Ma Tập Kích chưa trả được; tiếp tục giết đúng mục tiêu rồi xác nhận lại
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: nhiệm vụ cũ Phi Ma Tập Kích chưa trả được; tiếp tục giết đúng mục tiêu rồi xác nhận lại"}
+[19:13:42] [acc_3] [+  858.7s] [POPUP] đã đóng npc_dialog
+{"type": "log", "msg": "[POPUP] đã đóng npc_dialog"}
+[19:14:01] [acc_3] [+  877.8s] [TRU_MA] TRỪ MA TSk: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114"}
+[19:14:06] [acc_3] [+  882.7s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[19:14:09] [acc_3] [+  885.3s] [AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x29f83850 distance=703
+{"type": "log", "msg": "[AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x29f83850 distance=703"}
+[19:14:09] [acc_3] [+  885.3s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293"}
+[19:14:09] [acc_3] [+  885.5s] [AUTO_BOSS] id=1173 distance=703 receiver=0x118fbaf0 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=703 receiver=0x118fbaf0 method=18293 stage=1"}
+[19:14:13] [acc_3] [+  889.3s] [AUTO_BOSS] id=1173 distance=48 receiver=0x118fbaf0 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=48 receiver=0x118fbaf0 method=18293 stage=2"}
+[19:14:16] [acc_3] [+  893.0s] [AUTO_BOSS] battle edge false->true id=1173
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=1173"}
+[19:14:20] [acc_3] [+  896.5s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[19:15:12] [acc_3] [+  948.5s] [TRU_MA] TRỪ MA TSk: xong lượt 1/10 (Phi Ma Tập Kích)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: xong lượt 1/10 (Phi Ma Tập Kích)"}
+[19:15:34] [acc_3] [+  970.9s] [TRU_MA] TRỪ MA TSk: nhận diện: Phong Ấn Cự Ma (id=7670, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: nhận diện: Phong Ấn Cự Ma (id=7670, margin=6)"}
+[19:16:09] [acc_3] [+ 1005.9s] [TRU_MA] TRỪ MA TSk: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mục tiêu: Viễn Cổ Cự Ma id=1167 type=3060100001167 resource=2060100001167"}
+[19:16:12] [acc_3] [+ 1008.4s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[19:16:14] [acc_3] [+ 1010.9s] [AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x21a33d70 distance=1027
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001167 id=2168 type=3060100001167 resource=2060100001167 base=0x21a33d70 distance=1027"}
+[19:16:14] [acc_3] [+ 1010.9s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293"}
+[19:16:14] [acc_3] [+ 1011.1s] [AUTO_BOSS] id=2168 distance=1027 receiver=0x25fb5280 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=1027 receiver=0x25fb5280 method=18293 stage=1"}
+[19:16:18] [acc_3] [+ 1014.9s] [AUTO_BOSS] id=2168 distance=233 receiver=0x25fb5280 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2168 distance=233 receiver=0x25fb5280 method=18293 stage=2"}
+[19:16:22] [acc_3] [+ 1018.5s] [AUTO_BOSS] battle edge false->true id=2168
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2168"}
+[19:16:26] [acc_3] [+ 1022.2s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[19:17:19] [acc_3] [+ 1075.4s] [TRU_MA] TRỪ MA TSk: xong lượt 2/10 (Phong Ấn Cự Ma)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: xong lượt 2/10 (Phong Ấn Cự Ma)"}
+[19:17:41] [acc_3] [+ 1097.5s] [TRU_MA] TRỪ MA TSk: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: nhận diện: Phong Ấn Cự Thú (id=7669, margin=6)"}
+[19:18:17] [acc_3] [+ 1134.1s] [TRU_MA] TRỪ MA TSk: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mục tiêu: Viễn Cổ Cự Thú id=1161 type=3060100001161 resource=2060100001161"}
+[19:18:20] [acc_3] [+ 1136.5s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[19:18:23] [acc_3] [+ 1139.3s] [AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x25d040a0 distance=429
+{"type": "log", "msg": "[AUTO_BOSS] selected Monster 2060100001161 id=2169 type=3060100001161 resource=2060100001161 base=0x25d040a0 distance=429"}
+[19:18:23] [acc_3] [+ 1139.3s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293"}
+[19:18:23] [acc_3] [+ 1139.4s] [AUTO_BOSS] id=2169 distance=429 receiver=0x25fb5430 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=429 receiver=0x25fb5430 method=18293 stage=1"}
+[19:18:25] [acc_3] [+ 1141.4s] [AUTO_BOSS] id=2169 distance=180 receiver=0x25fb5430 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=2169 distance=180 receiver=0x25fb5430 method=18293 stage=2"}
+[19:18:28] [acc_3] [+ 1145.0s] [AUTO_BOSS] battle edge false->true id=2169
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=2169"}
+[19:18:32] [acc_3] [+ 1148.5s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+[19:19:26] [acc_3] [+ 1202.9s] [TRU_MA] TRỪ MA TSk: xong lượt 3/10 (Phong Ấn Cự Thú)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: xong lượt 3/10 (Phong Ấn Cự Thú)"}
+[19:19:50] [acc_3] [+ 1226.7s] [TRU_MA] TRỪ MA TSk: nhận diện: Phi Ma Tập Kích (id=7668, margin=6)
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: nhận diện: Phi Ma Tập Kích (id=7668, margin=6)"}
+[19:20:26] [acc_3] [+ 1262.8s] [TRU_MA] TRỪ MA TSk: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mục tiêu: Thủ Lĩnh Phi Ma id=1114 type=3060100001114 resource=2060090100114"}
+[19:20:29] [acc_3] [+ 1265.2s] [AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1
+{"type": "log", "msg": "[AUTO_BOSS] Start selected-monster NPCView.clickNpc runner generation=1"}
+[19:20:31] [acc_3] [+ 1268.2s] [AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x272070a0 distance=691
+{"type": "log", "msg": "[AUTO_BOSS] selected Thủ Lĩnh Phi Ma id=1173 type=3060100001114 resource=2060090100114 base=0x272070a0 distance=691"}
+[19:20:31] [acc_3] [+ 1268.2s] [AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293
+{"type": "log", "msg": "[AUTO_BOSS] NPCView session fingerprint native=0x1317cb8 avm=0x1068a850 method_info=0xae288c8 slot322_method_id=18293"}
+[19:20:32] [acc_3] [+ 1268.2s] [AUTO_BOSS] id=1173 distance=691 receiver=0x1adfa430 method=18293 stage=1
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=691 receiver=0x1adfa430 method=18293 stage=1"}
+[19:20:36] [acc_3] [+ 1272.4s] [AUTO_BOSS] id=1173 distance=73 receiver=0x1adfa430 method=18293 stage=2
+{"type": "log", "msg": "[AUTO_BOSS] id=1173 distance=73 receiver=0x1adfa430 method=18293 stage=2"}
+[19:20:39] [acc_3] [+ 1276.1s] [AUTO_BOSS] battle edge false->true id=1173
+{"type": "log", "msg": "[AUTO_BOSS] battle edge false->true id=1173"}
+[19:20:43] [acc_3] [+ 1279.8s] [AUTO_BOSS] battle edge true->false clear=1
+{"type": "log", "msg": "[AUTO_BOSS] battle edge true->false clear=1"}
+python : [ WARN:922@3620.600] global loadsave.cpp:278 cv::findDecoder 
+imread_('C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T18
+1609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814
+\assets\map_fingerprints\map_30.png'): can't open/read file: check file 
+path/integrity
+At line:1 char:489
++ ... OENCODING='utf-8'; python run_daily_chain.py acc_5 acc_3 *>&1 | Tee-O ...
++                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([ WARN:922@3620... path/integrity 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[19:20:59] [acc_3] [+ 1296.2s] [TRU_MA] TRỪ MA TSk: dừng ở lượt 4: không về Đông Huyền Thành trả nhiệm vụ: mất client
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: dừng ở lượt 4: không về Đông Huyền Thành trả nhiệm vụ: mất client"}
+[19:21:00] [acc_3] [+ 1297.1s] Daily TSk: TRỪ MA mất client sau 3/10; relogin phục hồi 1/3.
+{"type": "log", "msg": "Daily TSk: TRỪ MA mất client sau 3/10; relogin phục hồi 1/3."}
+[19:21:00] [acc_3] [+ 1297.1s] Daily TSk: client chưa mở, đang đăng nhập trước bước phục hồi TRỪ MA lượt 4...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước phục hồi TRỪ MA lượt 4..."}
+[19:21:00] [acc_3] [+ 1297.1s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=8924 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=8924 Flash launched at original size"}
+[19:21:05] [acc_3] [+ 1301.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=8924 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=8924 Bắt đầu"}
+[19:21:11] [acc_3] [+ 1307.5s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=8924 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=8924 chua thay chon kenh, bam lai Bat dau"}
+[19:21:12] [acc_3] [+ 1308.5s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=8924 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=8924 Bắt đầu"}
+[19:21:12] [acc_3] [+ 1308.8s] [AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=8924 Flash window closed before map
+{"type": "log", "msg": "[AUTO_START] FAILED_CLOSED attempt=1 pass=0 pid=8924 Flash window closed before map"}
+[19:21:14] [acc_3] [+ 1310.9s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=5568 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=5568 Flash launched at original size"}
+[19:21:18] [acc_3] [+ 1314.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu"}
+[19:21:21] [acc_3] [+ 1317.8s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau"}
+[19:21:22] [acc_3] [+ 1319.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu"}
+[19:21:27] [acc_3] [+ 1323.2s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau"}
+[19:21:28] [acc_3] [+ 1324.6s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu"}
+[19:21:32] [acc_3] [+ 1328.6s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=5568 chua thay chon kenh, bam lai Bat dau"}
+[19:21:44] [acc_3] [+ 1340.7s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=5568 Bắt đầu"}
+[19:21:45] [acc_3] [+ 1342.0s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=5568 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=5568 channel=(449, 308) choices=1"}
+[19:21:48] [acc_3] [+ 1345.2s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=5568 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=5568 character_slot=1 slot_verified=True"}
+[19:21:49] [acc_3] [+ 1345.6s] [AUTO_START] WAIT_MAP attempt=1 pass=0 pid=5568 Player not rooted; character/login screen
+{"type": "log", "msg": "[AUTO_START] WAIT_MAP attempt=1 pass=0 pid=5568 Player not rooted; character/login screen"}
+[19:21:53] [acc_3] [+ 1349.6s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=5568 Visual map stable 3/3; map_hud=True rendered=0.994
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=5568 Visual map stable 3/3; map_hud=True rendered=0.994"}
+[19:21:53] [acc_3] [+ 1349.7s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:22:28] [acc_3] [+ 1384.6s] [TRU_MA] TRỪ MA TSk: mở NPC lần 1/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 1/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:31] [acc_3] [+ 1388.2s] [TRU_MA] TRỪ MA TSk: mở NPC lần 2/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 2/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:36] [acc_3] [+ 1392.4s] [TRU_MA] TRỪ MA TSk: mở NPC lần 3/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 3/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:40] [acc_3] [+ 1396.5s] [TRU_MA] TRỪ MA TSk: mở NPC lần 4/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 4/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:44] [acc_3] [+ 1400.6s] [TRU_MA] TRỪ MA TSk: mở NPC lần 5/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 5/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:48] [acc_3] [+ 1404.7s] [TRU_MA] TRỪ MA TSk: mở NPC lần 6/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 6/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:52] [acc_3] [+ 1408.7s] [TRU_MA] TRỪ MA TSk: mở NPC lần 7/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 7/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:56] [acc_3] [+ 1412.8s] [TRU_MA] TRỪ MA TSk: mở NPC lần 8/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: mở NPC lần 8/8 chưa thành công: không có view/slot322 trên 1 candidate(s); Core.getNpc base=0x0"}
+[19:22:58] [acc_3] [+ 1414.4s] [TRU_MA] TRỪ MA TSk: dừng ở lượt 1: không mở được hộp thoại NPC Quan Quân Nhu
+{"type": "log", "msg": "[TRU_MA] TRỪ MA TSk: dừng ở lượt 1: không mở được hộp thoại NPC Quan Quân Nhu"}
+[19:22:58] [acc_3] [+ 1414.8s] Daily TSk: bỏ qua TRỪ MA (lỗi): FAILED — 3/10 lượt; dừng ở lượt 1: không mở được hộp thoại NPC Quan Quân Nhu — evidence: C:\Users\Administrator\Desktop\New folder\fbh_v2_ttt_fixed-20260709T181609Z-2-001\fbh_multi_account_infinite_auto\dev_supervisor_target_a_v2_20260814\logs\daily_errors\acc_3\20260829_192258_TRỪ_MA.png
+{"type": "log", "msg": "Daily TSk: bỏ qua TRỪ MA (lỗi): FAILED — 3/10 lượt; dừng ở lượt 1: không mở được hộp thoại NPC Quan Quân Nhu — evidence: C:\\Users\\Administrator\\Desktop\\New folder\\fbh_v2_ttt_fixed-20260709T181609Z-2-001\\fbh_multi_account_infinite_auto\\dev_supervisor_target_a_v2_20260814\\logs\\daily_errors\\acc_3\\20260829_192258_TRỪ_MA.png"}
+[19:22:58] [acc_3] [+ 1414.9s] Daily TSk: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi TRỪ MA; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:22:58] [acc_3] [+ 1415.0s] Daily TSk: client chưa mở, đang đăng nhập trước bước TRỊ AN...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước TRỊ AN..."}
+[19:22:58] [acc_3] [+ 1415.0s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14616 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=14616 Flash launched at original size"}
+[19:23:03] [acc_3] [+ 1419.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu"}
+[19:23:09] [acc_3] [+ 1425.2s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=14616 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=14616 chua thay chon kenh, bam lai Bat dau"}
+[19:23:27] [acc_3] [+ 1444.1s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu"}
+[19:23:34] [acc_3] [+ 1450.4s] [AUTO_START] RETRY_AFTER_ALERT attempt=1 pass=0 pid=14616 lan 1/5: nut=0.464 hthoai=0.08
+{"type": "log", "msg": "[AUTO_START] RETRY_AFTER_ALERT attempt=1 pass=0 pid=14616 lan 1/5: nut=0.464 hthoai=0.08"}
+[19:23:37] [acc_3] [+ 1453.4s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu"}
+[19:23:40] [acc_3] [+ 1456.9s] [AUTO_START] RETRY_AFTER_ALERT attempt=1 pass=0 pid=14616 lan 2/5: nut=0.464 hthoai=0.079
+{"type": "log", "msg": "[AUTO_START] RETRY_AFTER_ALERT attempt=1 pass=0 pid=14616 lan 2/5: nut=0.464 hthoai=0.079"}
+[19:23:43] [acc_3] [+ 1459.8s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=14616 Bắt đầu"}
+[19:23:46] [acc_3] [+ 1462.8s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14616 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=14616 channel=(449, 308) choices=1"}
+[19:23:50] [acc_3] [+ 1467.2s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14616 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=14616 character_slot=1 slot_verified=True"}
+[19:23:56] [acc_3] [+ 1472.8s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14616 Player=0x11f800a0 Core=0xc7a70d0 world=(2008,1351)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=14616 Player=0x11f800a0 Core=0xc7a70d0 world=(2008,1351)"}
+[19:23:56] [acc_3] [+ 1472.8s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:24:01] [acc_3] [+ 1477.9s] acc_3: đóng 1 client do owner sở hữu (operation ERROR)
+{"type": "log", "msg": "acc_3: đóng 1 client do owner sở hữu (operation ERROR)"}
+[19:24:01] [acc_3] [+ 1477.9s] Daily TSk: bỏ qua TRỊ AN (lỗi): đăng nhập thất bại: RuntimeError: MAP_READY nhưng client đóng ngay sau đó
+{"type": "log", "msg": "Daily TSk: bỏ qua TRỊ AN (lỗi): đăng nhập thất bại: RuntimeError: MAP_READY nhưng client đóng ngay sau đó"}
+[19:24:01] [acc_3] [+ 1478.0s] Daily TSk: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi TRỊ AN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:24:01] [acc_3] [+ 1478.0s] Daily TSk: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản...
+{"type": "log", "msg": "Daily TSk: client chưa mở, đang đăng nhập trước bước checkpoint Auto phụ bản..."}
+[19:24:01] [acc_3] [+ 1478.0s] [AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9056 Flash launched at original size
+{"type": "log", "msg": "[AUTO_START] WAIT_WINDOW attempt=1 pass=0 pid=9056 Flash launched at original size"}
+[19:24:06] [acc_3] [+ 1482.9s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9056 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9056 Bắt đầu"}
+[19:24:12] [acc_3] [+ 1488.4s] [AUTO_START] RETRY_START attempt=1 pass=0 pid=9056 chua thay chon kenh, bam lai Bat dau
+{"type": "log", "msg": "[AUTO_START] RETRY_START attempt=1 pass=0 pid=9056 chua thay chon kenh, bam lai Bat dau"}
+[19:24:28] [acc_3] [+ 1504.7s] [AUTO_START] START_CLICKED attempt=1 pass=0 pid=9056 Bắt đầu
+{"type": "log", "msg": "[AUTO_START] START_CLICKED attempt=1 pass=0 pid=9056 Bắt đầu"}
+[19:24:31] [acc_3] [+ 1507.6s] [AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9056 channel=(449, 308) choices=1
+{"type": "log", "msg": "[AUTO_START] CHANNEL_SELECTED attempt=1 pass=0 pid=9056 channel=(449, 308) choices=1"}
+[19:24:35] [acc_3] [+ 1511.7s] [AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9056 character_slot=1 slot_verified=True
+{"type": "log", "msg": "[AUTO_START] ENTER_GAME_CLICKED attempt=1 pass=0 pid=9056 character_slot=1 slot_verified=True"}
+[19:24:41] [acc_3] [+ 1517.4s] [AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9056 Player=0x141810a0 Core=0x178930d0 world=(2008,1351)
+{"type": "log", "msg": "[AUTO_START] MAP_READY_OPEN attempt=1 pass=0 pid=9056 Player=0x141810a0 Core=0x178930d0 world=(2008,1351)"}
+[19:24:41] [acc_3] [+ 1517.4s] acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None
+{"type": "log", "msg": "acc_3: FPS FPS_NO_UI_CONTROL: target=30 current=None"}
+[19:24:46] [acc_3] [+ 1522.5s] acc_3: đóng 1 client do owner sở hữu (operation ERROR)
+{"type": "log", "msg": "acc_3: đóng 1 client do owner sở hữu (operation ERROR)"}
+[19:24:46] [acc_3] [+ 1522.5s] Daily dừng tại checkpoint Auto phụ bản: đăng nhập thất bại: RuntimeError: MAP_READY nhưng client đóng ngay sau đó
+{"type": "log", "msg": "Daily dừng tại checkpoint Auto phụ bản: đăng nhập thất bại: RuntimeError: MAP_READY nhưng client đóng ngay sau đó"}
+[19:24:46] [acc_3] [+ 1522.5s] Daily TSk: bỏ qua PHỤ BẢN (lỗi): hết ba checkpoint nhưng card chưa hoàn tất
+{"type": "log", "msg": "Daily TSk: bỏ qua PHỤ BẢN (lỗi): hết ba checkpoint nhưng card chưa hoàn tất"}
+[19:24:46] [acc_3] [+ 1522.5s] Daily TSk: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch.
+{"type": "log", "msg": "Daily TSk: đã reset Flash sau lỗi PHỤ BẢN; tác vụ kế tiếp sẽ đăng nhập từ trạng thái sạch."}
+[19:24:46] [acc_3] [+ 1522.5s] Daily hoàn tất đúng plan snapshot: VIP, NHẬN THỜI TRANG, MẬT BẢO, ĐIÊU KHẮC, LẬT THẺ BÀI, PHỤ BẢN, HÀNH LANG, THẦN TU, TU HÀNH, TRỪ MA, TRỊ AN
+{"type": "log", "msg": "Daily hoàn tất đúng plan snapshot: VIP, NHẬN THỜI TRANG, MẬT BẢO, ĐIÊU KHẮC, LẬT THẺ BÀI, PHỤ BẢN, HÀNH LANG, THẦN TU, TU HÀNH, TRỪ MA, TRỊ AN"}
+XONG acc_3 sau 25.4 phut
+  (đã đóng 1 flash.exe còn sót: [4888])
+
+======================================================================
+TONG KET CHUOI (tong 64 phut)
+  acc_5    FINISHED  2316s 
+  acc_3    FINISHED  1526s 

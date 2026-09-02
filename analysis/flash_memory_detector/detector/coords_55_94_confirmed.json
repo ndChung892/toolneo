@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-08-12T00:06:56.055818",
+  "pid": 16972,
+  "ranges": {
+    "x_world": [
+      550.0,
+      560.0
+    ],
+    "y_world": [
+      940.0,
+      950.0
+    ],
+    "x_display": [
+      55.0,
+      56.0
+    ],
+    "y_display": [
+      94.0,
+      95.0
+    ]
+  },
+  "matches": {
+    "x_world": [
+      {
+        "address": "0x1250FF80",
+        "value": 551.25
+      },
+      {
+        "address": "0x217431F0",
+        "value": 551.0
+      }
+    ],
+    "y_world": [
+      {
+        "address": "0x217431A8",
+        "value": 941.0
+      }
+    ],
+    "x_display": [],
+    "y_display": []
+  },
+  "counts": {
+    "x_world": 2,
+    "y_world": 1,
+    "x_display": 0,
+    "y_display": 0
+  }
+}

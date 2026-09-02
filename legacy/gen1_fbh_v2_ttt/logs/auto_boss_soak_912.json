@@ -1,0 +1,52 @@
+{
+  "pid": 1808,
+  "hwnd": 524980,
+  "finished_at": "2026-08-12T23:20:45.753880",
+  "events": [
+    {
+      "at": "2026-08-12T23:00:45.388410",
+      "state": "ATTACHING",
+      "target_id": 0,
+      "attacks": 0,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "-"
+    },
+    {
+      "at": "2026-08-12T23:00:48.914594",
+      "state": "IN_BATTLE",
+      "target_id": 0,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "entry=1; target=0"
+    },
+    {
+      "at": "2026-08-12T23:00:52.945360",
+      "state": "WAIT_MAP",
+      "target_id": 0,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "Waiting for TSk player/map"
+    },
+    {
+      "at": "2026-08-12T23:12:45.630364",
+      "state": "IN_BATTLE",
+      "target_id": 0,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "entry=1; target=0"
+    },
+    {
+      "at": "2026-08-12T23:12:49.670606",
+      "state": "WAIT_MAP",
+      "target_id": 0,
+      "attacks": 1,
+      "clears": 0,
+      "candidates": 0,
+      "detail": "Waiting for TSk player/map"
+    }
+  ]
+}

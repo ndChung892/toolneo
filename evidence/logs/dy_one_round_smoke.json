@@ -1,0 +1,71 @@
+{
+  "schema": "DY_ONE_ROUND_SMOKE",
+  "diagnostic_only": true,
+  "run_id": "38fe714d-969e-4530-9bf8-9b06ed6d6c7c",
+  "pid": 5300,
+  "login": {
+    "ok": true,
+    "detail": "Player=0xc7dd0a0 Core=0x14ca60d0 world=(1300,900)",
+    "pid": 5300,
+    "hwnd": 2098844,
+    "account": "dy"
+  },
+  "results": [
+    {
+      "target": "Anh Vũ Cảnh",
+      "map_id": 34,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Tiên Lạp Thành",
+      "map_id": 31,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Thiên Khung Tộc",
+      "map_id": 32,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Băng Tuyết Nguyên",
+      "map_id": 35,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Tuyết Lâm",
+      "map_id": 22,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Đoạn Cốc",
+      "map_id": 43,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    },
+    {
+      "target": "Bàn Địa Tộc",
+      "map_id": 12,
+      "ok": true,
+      "detail": "verified",
+      "click_attempts": 1,
+      "confirm": []
+    }
+  ]
+}

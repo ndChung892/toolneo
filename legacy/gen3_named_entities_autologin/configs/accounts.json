@@ -1,0 +1,20 @@
+{
+  "accounts": [
+    {
+      "id": "acc_2",
+      "name": "pepsi",
+      "launch_link": "https://a2.personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=112c2604f806684653919187618461584e778f06f2831140076d167ac6694bb1854fd428b5aa2c5fe864d3268e907794e18b8a2c1b52921deae62fb3b80cf452853cf6078a47ca46",
+      "profile_file": "configs/profiles/acc_2.json",
+      "enabled": true,
+      "login_position": 1
+    },
+    {
+      "id": "acc_1",
+      "name": "dy",
+      "launch_link": "https://a2.personalbulk.fans/s/s100/9847c861ed383f4fb3a7dae982871b77?user=051309a66ef6e541f837fa57e03a13166d2d949814ae9bf15bed5094a0bde1aa721b263d4f545db663d6ba5a91078d92b1c75d14280aa088b83d5aaac3ec356ea9188b1e53881195",
+      "profile_file": "configs/profiles/acc_1.json",
+      "enabled": true,
+      "login_position": 2
+    }
+  ]
+}

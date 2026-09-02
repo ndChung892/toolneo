@@ -1,0 +1,24 @@
+{
+  "schema": "GROUP_ACTION_PROBE",
+  "diagnostic_only": true,
+  "pid": 15132,
+  "core": "0xb2090d0",
+  "steps": [
+    {
+      "step": "00_start",
+      "party_atom": 1
+    },
+    {
+      "step": "01_after_T",
+      "party_atom": 1
+    },
+    {
+      "step": "02_panel_open",
+      "party_atom": 1
+    },
+    {
+      "step": "03_after_invite_button",
+      "party_atom": 1
+    }
+  ]
+}

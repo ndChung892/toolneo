@@ -1,0 +1,28 @@
+{
+ "bosses": [
+  {
+   "name": "Binh Sĩ Tiểu Đội Tập Kích",
+   "type": 3060100001180,
+   "resource": 2060100001211,
+   "count": 9
+  },
+  {
+   "name": "Thiên Diện Ma Vương",
+   "type": 3060100000051,
+   "resource": 2060100000051,
+   "count": 4
+  },
+  {
+   "name": "Binh Sĩ Tiểu Đội Tập Kích",
+   "type": 3060100001180,
+   "resource": 2060100001208,
+   "count": 12
+  },
+  {
+   "name": "Thái Cổ Ma Thần",
+   "type": 3060100001088,
+   "resource": 2060100001088,
+   "count": 1
+  }
+ ]
+}

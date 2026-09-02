@@ -1,0 +1,55 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VptAvalonia.AutoBossV2Window"
+        Title="Auto Boss (MỚI) — THỬ NGHIỆM"
+        Width="620" Height="358" CanResize="False"
+        WindowStartupLocation="CenterOwner"
+        FontFamily="Segoe UI, Tahoma, Arial" FontSize="12.5" Background="#2b2d30">
+
+  <Window.Resources>
+    <SolidColorBrush x:Key="Bg" Color="#2b2d30"/>
+    <SolidColorBrush x:Key="Field" Color="#1a1b1d"/>
+    <SolidColorBrush x:Key="Border" Color="#4a4d52"/>
+    <SolidColorBrush x:Key="Text" Color="#e0e0e0"/>
+    <SolidColorBrush x:Key="Dim" Color="#9aa0a6"/>
+    <SolidColorBrush x:Key="Warn" Color="#d08a25"/>
+    <SolidColorBrush x:Key="Gray" Color="#55575b"/>
+  </Window.Resources>
+
+  <Window.Styles>
+    <Style Selector="Button.tool">
+      <Setter Property="Background" Value="{StaticResource Gray}"/>
+      <Setter Property="Foreground" Value="{StaticResource Text}"/>
+      <Setter Property="Padding" Value="10,4"/>
+    </Style>
+  </Window.Styles>
+
+  <Grid Margin="12" RowDefinitions="Auto,Auto,*,Auto">
+    <!-- The label is the point of this window: until it passes its own live
+         acceptance, nobody should mistake it for the working Auto Boss. -->
+    <Border Grid.Row="0" BorderBrush="{StaticResource Warn}" BorderThickness="1"
+            CornerRadius="4" Padding="8">
+      <TextBlock Foreground="{StaticResource Warn}" TextWrapping="Wrap"
+                 Text="THỬ NGHIỆM / CHƯA NGHIỆM THU — bản Auto Boss mới. Chưa test live, không thay bản CŨ. Bản CŨ vẫn ở nút bên cạnh và không bị đụng tới."/>
+    </Border>
+
+    <TextBlock Grid.Row="1" Margin="0,10,0,6" Foreground="{StaticResource Dim}"
+               TextWrapping="Wrap"
+               Text="Runtime tách riêng: typed read-only snapshot, epoch/generation, read budget có trần, exact type+resource+runtime identity, battle false→true, ensure/readback AUTO_ON, owner + cancellation, evidence riêng."/>
+
+    <Border Grid.Row="2" Background="{StaticResource Field}"
+            BorderBrush="{StaticResource Border}" BorderThickness="1" CornerRadius="4">
+      <ScrollViewer>
+        <TextBlock x:Name="LogBox" Margin="8" Foreground="{StaticResource Text}"
+                   TextWrapping="Wrap" Text="Chưa có phiên nào."/>
+      </ScrollViewer>
+    </Border>
+
+    <StackPanel Grid.Row="3" Orientation="Horizontal" Spacing="8" Margin="0,10,0,0">
+      <Button Classes="tool" Content="TRẠNG THÁI" Click="OnStatus"/>
+      <Button Classes="tool" Content="CHẠY THỬ" Click="OnStart"
+              ToolTip.Tip="Chỉ phát lệnh bossteam_v2_start; backend sẽ từ chối chạy live khi chưa có adapter quan sát"/>
+      <Button Classes="tool" Content="DỪNG" Click="OnStop"/>
+    </StackPanel>
+  </Grid>
+</Window>

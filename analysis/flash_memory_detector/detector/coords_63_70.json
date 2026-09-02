@@ -1,0 +1,8394 @@
+{
+  "created_at": "2026-08-12T00:04:27.908770",
+  "pid": 16972,
+  "ranges": {
+    "x_world": [
+      630.0,
+      640.0
+    ],
+    "y_world": [
+      700.0,
+      710.0
+    ],
+    "x_display": [
+      63.0,
+      64.0
+    ],
+    "y_display": [
+      70.0,
+      71.0
+    ]
+  },
+  "matches": {
+    "x_world": [
+      {
+        "address": "0x9D2F0D8",
+        "value": 636.7254121660034
+      },
+      {
+        "address": "0x9DD33BC",
+        "value": 632.46875
+      },
+      {
+        "address": "0xA0C0E10",
+        "value": 630.0
+      },
+      {
+        "address": "0xA2A78D4",
+        "value": 632.0512322634266
+      },
+      {
+        "address": "0xA2A7974",
+        "value": 639.0512322634266
+      },
+      {
+        "address": "0xA7C2CE8",
+        "value": 633.0
+      },
+      {
+        "address": "0xCAED608",
+        "value": 636.954390874587
+      },
+      {
+        "address": "0xCCEE9A0",
+        "value": 634.6518771071991
+      },
+      {
+        "address": "0xCDCBCD8",
+        "value": 630.248487181903
+      },
+      {
+        "address": "0xCDD4570",
+        "value": 636.6185776972919
+      },
+      {
+        "address": "0xCDDF618",
+        "value": 636.4857158586345
+      },
+      {
+        "address": "0xD123EC8",
+        "value": 635.0049349104507
+      },
+      {
+        "address": "0xCC09AA4",
+        "value": 637.86189495636
+      },
+      {
+        "address": "0xCCEA45C",
+        "value": 637.2377096078634
+      },
+      {
+        "address": "0xCD5CC1C",
+        "value": 632.0210501715395
+      },
+      {
+        "address": "0xCD71524",
+        "value": 637.5639743898947
+      },
+      {
+        "address": "0xCE6344C",
+        "value": 635.3354157075321
+      },
+      {
+        "address": "0xD1886BC",
+        "value": 634.2492058113203
+      },
+      {
+        "address": "0xD395A74",
+        "value": 630.5436883550293
+      },
+      {
+        "address": "0xEECC890",
+        "value": 634.9954065806148
+      },
+      {
+        "address": "0xF039680",
+        "value": 630.0
+      },
+      {
+        "address": "0xF3892A0",
+        "value": 638.0
+      },
+      {
+        "address": "0xF499288",
+        "value": 636.8830175439914
+      },
+      {
+        "address": "0xF70D288",
+        "value": 636.8830175439914
+      },
+      {
+        "address": "0xF844B3C",
+        "value": 632.46875
+      },
+      {
+        "address": "0xF9EC968",
+        "value": 635.0
+      },
+      {
+        "address": "0xFA385E0",
+        "value": 630.0
+      },
+      {
+        "address": "0xFA385F0",
+        "value": 630.0
+      },
+      {
+        "address": "0xFA38768",
+        "value": 630.0
+      },
+      {
+        "address": "0xFAE49B8",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE49C0",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE49C8",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE4A38",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE4A98",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE4B40",
+        "value": 634.0
+      },
+      {
+        "address": "0xFAE4B68",
+        "value": 634.0
+      },
+      {
+        "address": "0xFE02288",
+        "value": 636.8830175439914
+      },
+      {
+        "address": "0xFE17288",
+        "value": 636.8830175439914
+      },
+      {
+        "address": "0xFE41288",
+        "value": 636.8830175439914
+      },
+      {
+        "address": "0xFF05210",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05218",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05268",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05288",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF052E8",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05390",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF053B8",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF055E8",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05660",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF056C0",
+        "value": 636.0
+      },
+      {
+        "address": "0xFF05790",
+        "value": 636.0
+      },
+      {
+        "address": "0xFFAE4E0",
+        "value": 631.0
+      },
+      {
+        "address": "0xFFB0960",
+        "value": 634.0
+      },
+      {
+        "address": "0xFFB42D0",
+        "value": 630.0
+      },
+      {
+        "address": "0x10202DDC",
+        "value": 632.5247431788555
+      },
+      {
+        "address": "0x108B4358",
+        "value": 634.1176470588235
+      },
+      {
+        "address": "0x108B4DF8",
+        "value": 634.1176470588235
+      },
+      {
+        "address": "0x10E67F18",
+        "value": 638.0
+      },
+      {
+        "address": "0x10EAEF80",
+        "value": 638.35
+      },
+      {
+        "address": "0x10FD25C0",
+        "value": 632.0
+      },
+      {
+        "address": "0x1103F5A8",
+        "value": 637.7739512492699
+      },
+      {
+        "address": "0x110FADF0",
+        "value": 633.3333333333333
+      },
+      {
+        "address": "0x111002B0",
+        "value": 633.3333333333333
+      },
+      {
+        "address": "0x111E29FC",
+        "value": 632.46875
+      },
+      {
+        "address": "0x11F245E0",
+        "value": 631.0
+      },
+      {
+        "address": "0x11F245F0",
+        "value": 631.0
+      },
+      {
+        "address": "0x11F24768",
+        "value": 631.0
+      },
+      {
+        "address": "0x1250FF80",
+        "value": 638.15
+      },
+      {
+        "address": "0x127CD2A0",
+        "value": 638.0
+      },
+      {
+        "address": "0x127CD768",
+        "value": 638.0
+      },
+      {
+        "address": "0x128932A0",
+        "value": 634.0
+      },
+      {
+        "address": "0x129150A0",
+        "value": 634.7575203200538
+      },
+      {
+        "address": "0x1296DAE8",
+        "value": 632.9374999999709
+      },
+      {
+        "address": "0x136B7718",
+        "value": 636.7254121660034
+      },
+      {
+        "address": "0x13A15208",
+        "value": 632.0
+      },
+      {
+        "address": "0x13A15218",
+        "value": 632.0
+      },
+      {
+        "address": "0x18E5AF28",
+        "value": 637.2377096078634
+      },
+      {
+        "address": "0x18DA2D7C",
+        "value": 632.3684823836273
+      },
+      {
+        "address": "0x18F7CD5C",
+        "value": 637.5639743898947
+      },
+      {
+        "address": "0x1920E2A0",
+        "value": 637.05
+      },
+      {
+        "address": "0x198CC46C",
+        "value": 632.9374999999709
+      },
+      {
+        "address": "0x1AA88678",
+        "value": 630.0
+      },
+      {
+        "address": "0x1ADD4CE8",
+        "value": 633.0
+      },
+      {
+        "address": "0x1B48BCE8",
+        "value": 633.0
+      },
+      {
+        "address": "0x1B52CF58",
+        "value": 635.00043539537
+      },
+      {
+        "address": "0x1B53A5E8",
+        "value": 635.0
+      },
+      {
+        "address": "0x1B53A660",
+        "value": 635.0
+      },
+      {
+        "address": "0x1B53A6C0",
+        "value": 635.0
+      },
+      {
+        "address": "0x1B53A790",
+        "value": 635.0
+      },
+      {
+        "address": "0x1B561A60",
+        "value": 631.0955069700242
+      },
+      {
+        "address": "0x1B57E5E0",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E5E8",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E5F0",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E660",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E6C0",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E768",
+        "value": 630.0
+      },
+      {
+        "address": "0x1B57E790",
+        "value": 630.0
+      },
+      {
+        "address": "0x1C81B7A0",
+        "value": 631.4619545833232
+      },
+      {
+        "address": "0x1D135730",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D135738",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D135788",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D1357A8",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D135808",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D1358B0",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D1358D8",
+        "value": 635.0
+      },
+      {
+        "address": "0x1D14DDF0",
+        "value": 631.9947333772219
+      },
+      {
+        "address": "0x1D2D15E8",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D2D1660",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D2D16C0",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D2D1790",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D6915E8",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D691660",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D6916C0",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D691768",
+        "value": 630.0
+      },
+      {
+        "address": "0x1D691790",
+        "value": 630.0
+      },
+      {
+        "address": "0x1E5B95F0",
+        "value": 638.0
+      },
+      {
+        "address": "0x1E5B9850",
+        "value": 638.35
+      },
+      {
+        "address": "0x1E5B9910",
+        "value": 638.15
+      },
+      {
+        "address": "0x1E85D130",
+        "value": 636.0195312891157
+      },
+      {
+        "address": "0x1E808A84",
+        "value": 637.4255908524436
+      },
+      {
+        "address": "0x1E8A5DA4",
+        "value": 636.0774955799732
+      },
+      {
+        "address": "0x1E8C4D14",
+        "value": 636.0160067801921
+      },
+      {
+        "address": "0x1E9A3EAC",
+        "value": 639.2657325706984
+      },
+      {
+        "address": "0x1E9F1ED4",
+        "value": 636.1017247333041
+      },
+      {
+        "address": "0x1E9F67CC",
+        "value": 636.0724283350105
+      },
+      {
+        "address": "0x1EE4A490",
+        "value": 634.7352400055128
+      },
+      {
+        "address": "0x1EFAEB88",
+        "value": 630.0468895435806
+      },
+      {
+        "address": "0x1EE79DA4",
+        "value": 638.165596377932
+      },
+      {
+        "address": "0x1EF01844",
+        "value": 631.5097635651776
+      },
+      {
+        "address": "0x1FA5E4F0",
+        "value": 637.621528847105
+      },
+      {
+        "address": "0x1FC28D50",
+        "value": 634.6656499544936
+      },
+      {
+        "address": "0x1FF9BBF0",
+        "value": 636.004154445649
+      },
+      {
+        "address": "0x1FFA37BC",
+        "value": 639.8182424741965
+      },
+      {
+        "address": "0x217431F0",
+        "value": 638.0
+      },
+      {
+        "address": "0x225BEF54",
+        "value": 639.2912309824133
+      },
+      {
+        "address": "0x22DBFB54",
+        "value": 631.501993363056
+      },
+      {
+        "address": "0x23FAFBC8",
+        "value": 637.9636422367045
+      },
+      {
+        "address": "0x241178D0",
+        "value": 633.7604929324119
+      },
+      {
+        "address": "0x24294F54",
+        "value": 639.2912309824133
+      },
+      {
+        "address": "0x248AA3E8",
+        "value": 639.93749422421
+      },
+      {
+        "address": "0x25EA1EB8",
+        "value": 637.9445971754125
+      },
+      {
+        "address": "0x25E94F2C",
+        "value": 636.0782631080833
+      },
+      {
+        "address": "0x2648DAEC",
+        "value": 639.0793604741824
+      },
+      {
+        "address": "0x26D80214",
+        "value": 632.7715153409714
+      }
+    ],
+    "y_world": [
+      {
+        "address": "0x523AE28",
+        "value": 704.0
+      },
+      {
+        "address": "0x9DA4210",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA4218",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA4268",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA4288",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA42E8",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA4390",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DA43B8",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DF19C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DF1A38",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DF1A98",
+        "value": 700.0
+      },
+      {
+        "address": "0x9DF1B68",
+        "value": 700.0
+      },
+      {
+        "address": "0x9E352A0",
+        "value": 708.0
+      },
+      {
+        "address": "0x9D961DC",
+        "value": 703.0185887611163
+      },
+      {
+        "address": "0xA208478",
+        "value": 706.8
+      },
+      {
+        "address": "0xA2A7C94",
+        "value": 702.0512322634266
+      },
+      {
+        "address": "0xA2A7D34",
+        "value": 709.0512322634266
+      },
+      {
+        "address": "0xA7697C8",
+        "value": 703.0
+      },
+      {
+        "address": "0xC9046A0",
+        "value": 708.515748730937
+      },
+      {
+        "address": "0xC9BC010",
+        "value": 708.515748730937
+      },
+      {
+        "address": "0xCB67300",
+        "value": 707.5589756207797
+      },
+      {
+        "address": "0xCBAD818",
+        "value": 704.501983798837
+      },
+      {
+        "address": "0xCBFF8D8",
+        "value": 705.5332213855046
+      },
+      {
+        "address": "0xCC8C8B8",
+        "value": 707.657222226169
+      },
+      {
+        "address": "0xCC8DA78",
+        "value": 705.5118407527003
+      },
+      {
+        "address": "0xCCBE6B8",
+        "value": 705.5118407527003
+      },
+      {
+        "address": "0xD235ED8",
+        "value": 706.7291303362131
+      },
+      {
+        "address": "0xC9ADCDC",
+        "value": 704.8803903482508
+      },
+      {
+        "address": "0xCA9BA7C",
+        "value": 705.1028672806223
+      },
+      {
+        "address": "0xCB41A84",
+        "value": 700.0469263849333
+      },
+      {
+        "address": "0xCBFF604",
+        "value": 704.4072644776243
+      },
+      {
+        "address": "0xCC32664",
+        "value": 706.5196244847762
+      },
+      {
+        "address": "0xCD351CC",
+        "value": 706.589593883231
+      },
+      {
+        "address": "0xCD3EC6C",
+        "value": 706.617363154771
+      },
+      {
+        "address": "0xCE1E8D4",
+        "value": 706.4471509478491
+      },
+      {
+        "address": "0xCF1B0CC",
+        "value": 707.4026533739614
+      },
+      {
+        "address": "0xD13C9DC",
+        "value": 705.1470387108499
+      },
+      {
+        "address": "0xD2EC58C",
+        "value": 703.4101581528729
+      },
+      {
+        "address": "0xF07EECC",
+        "value": 703.4855791221885
+      },
+      {
+        "address": "0xF7D2EE0",
+        "value": 706.8
+      },
+      {
+        "address": "0xF9AB398",
+        "value": 706.8
+      },
+      {
+        "address": "0xFD442B8",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0xFD44E98",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0xFD44F38",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0xFD46498",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0xFD46678",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x10030434",
+        "value": 707.3078663880794
+      },
+      {
+        "address": "0x107D2850",
+        "value": 706.2978222483814
+      },
+      {
+        "address": "0x10AE8B40",
+        "value": 708.0
+      },
+      {
+        "address": "0x10B3B9C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3B9C8",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3BA18",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3BA38",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3BA98",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3BB40",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B3BB68",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B5C5E8",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B5C660",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B5C6C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B5C768",
+        "value": 700.0
+      },
+      {
+        "address": "0x10B5C790",
+        "value": 700.0
+      },
+      {
+        "address": "0x10EAEFB8",
+        "value": 702.15
+      },
+      {
+        "address": "0x115A12A0",
+        "value": 706.8
+      },
+      {
+        "address": "0x115A1A50",
+        "value": 706.8
+      },
+      {
+        "address": "0x11B3AEE0",
+        "value": 706.8
+      },
+      {
+        "address": "0x11B3AF90",
+        "value": 706.8
+      },
+      {
+        "address": "0x122092A0",
+        "value": 700.0
+      },
+      {
+        "address": "0x12FACD98",
+        "value": 700.0
+      },
+      {
+        "address": "0x12FACE10",
+        "value": 700.0
+      },
+      {
+        "address": "0x12FACE70",
+        "value": 700.0
+      },
+      {
+        "address": "0x12FACF40",
+        "value": 700.0
+      },
+      {
+        "address": "0x1338F0FC",
+        "value": 700.00043539537
+      },
+      {
+        "address": "0x1340F358",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x1340FCB8",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x13635538",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x13635E98",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x13BA3210",
+        "value": 700.0
+      },
+      {
+        "address": "0x13BA3288",
+        "value": 700.0
+      },
+      {
+        "address": "0x13BA32E8",
+        "value": 700.0
+      },
+      {
+        "address": "0x13BA33B8",
+        "value": 700.0
+      },
+      {
+        "address": "0x13EB72A8",
+        "value": 705.0
+      },
+      {
+        "address": "0x13F26C50",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26C58",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26CA8",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26CC8",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26D28",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26DD0",
+        "value": 700.0
+      },
+      {
+        "address": "0x13F26DF8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1403A1D0",
+        "value": 704.000005668614
+      },
+      {
+        "address": "0x1403AEF0",
+        "value": 704.000005668614
+      },
+      {
+        "address": "0x140FA8F8",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x140FAC18",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x144B6D58",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x144B6F38",
+        "value": 702.1791767554479
+      },
+      {
+        "address": "0x14514D98",
+        "value": 700.0
+      },
+      {
+        "address": "0x14514E10",
+        "value": 700.0
+      },
+      {
+        "address": "0x14514E70",
+        "value": 700.0
+      },
+      {
+        "address": "0x14514F40",
+        "value": 700.0
+      },
+      {
+        "address": "0x145FC84C",
+        "value": 700.00043539537
+      },
+      {
+        "address": "0x152D02A0",
+        "value": 704.0
+      },
+      {
+        "address": "0x17817034",
+        "value": 700.00043539537
+      },
+      {
+        "address": "0x1891016C",
+        "value": 704.1266670383067
+      },
+      {
+        "address": "0x18E0F290",
+        "value": 705.5118407527003
+      },
+      {
+        "address": "0x18EC53E8",
+        "value": 706.5639992284727
+      },
+      {
+        "address": "0x18F80898",
+        "value": 707.527441883235
+      },
+      {
+        "address": "0x18FFF838",
+        "value": 706.1710211630892
+      },
+      {
+        "address": "0x18DF940C",
+        "value": 704.5145131197726
+      },
+      {
+        "address": "0x18E55B74",
+        "value": 705.2635903878205
+      },
+      {
+        "address": "0x18F04EFC",
+        "value": 708.4890954452477
+      },
+      {
+        "address": "0x18F17CF4",
+        "value": 702.3291650313733
+      },
+      {
+        "address": "0x18F864EC",
+        "value": 705.6214330466836
+      },
+      {
+        "address": "0x194007C8",
+        "value": 703.0
+      },
+      {
+        "address": "0x1999E3F8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1A56BF38",
+        "value": 700.0
+      },
+      {
+        "address": "0x1A5722B8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1A74A5AC",
+        "value": 705.7704069778629
+      },
+      {
+        "address": "0x1ABAE5AC",
+        "value": 705.7704069778629
+      },
+      {
+        "address": "0x1AD27C50",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27C58",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27CA8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27CC8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27D28",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27DD0",
+        "value": 700.0
+      },
+      {
+        "address": "0x1AD27DF8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B2B8E94",
+        "value": 700.00043539537
+      },
+      {
+        "address": "0x1B3C89C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3C8A38",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3C8A98",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3C8B68",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB730",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB738",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB788",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB7A8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB808",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB8B0",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CB8D8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CC9C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CCA38",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CCA98",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B3CCB68",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B456268",
+        "value": 703.3421688387442
+      },
+      {
+        "address": "0x1B4D67B8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1B8F50D0",
+        "value": 708.0
+      },
+      {
+        "address": "0x1BCC309C",
+        "value": 702.3325531613648
+      },
+      {
+        "address": "0x1C0E7CCC",
+        "value": 707.1583856283344
+      },
+      {
+        "address": "0x1C78009C",
+        "value": 702.3325531613648
+      },
+      {
+        "address": "0x1CB2D7C8",
+        "value": 703.0
+      },
+      {
+        "address": "0x1CD049C0",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CD04A38",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CD04A98",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CD04B68",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CDD5C50",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CDD5CA8",
+        "value": 700.0
+      },
+      {
+        "address": "0x1CFEF848",
+        "value": 700.0004201365809
+      },
+      {
+        "address": "0x1E4A2A30",
+        "value": 708.0
+      },
+      {
+        "address": "0x1E5B95F8",
+        "value": 702.0
+      },
+      {
+        "address": "0x1E5B9858",
+        "value": 702.15
+      },
+      {
+        "address": "0x1EBC8F60",
+        "value": 706.3130092514734
+      },
+      {
+        "address": "0x1EB83AF4",
+        "value": 709.4627616440096
+      },
+      {
+        "address": "0x1EF53E98",
+        "value": 709.5686096371671
+      },
+      {
+        "address": "0x1EFF2A40",
+        "value": 709.4277652241888
+      },
+      {
+        "address": "0x1EEF400C",
+        "value": 705.2040882559234
+      },
+      {
+        "address": "0x1EEFCC34",
+        "value": 707.365380531397
+      },
+      {
+        "address": "0x1F00448C",
+        "value": 707.5015344510596
+      },
+      {
+        "address": "0x1F607CCC",
+        "value": 707.1583856283344
+      },
+      {
+        "address": "0x1FC68158",
+        "value": 706.5217110163594
+      },
+      {
+        "address": "0x1FC86364",
+        "value": 707.5246290247813
+      },
+      {
+        "address": "0x1FC937F4",
+        "value": 708.5549360260125
+      },
+      {
+        "address": "0x1FCF8924",
+        "value": 708.7960695751923
+      },
+      {
+        "address": "0x217431A8",
+        "value": 702.0
+      },
+      {
+        "address": "0x21748CCC",
+        "value": 707.1583856283344
+      },
+      {
+        "address": "0x2190BCCC",
+        "value": 707.1583856283344
+      },
+      {
+        "address": "0x22C76DB0",
+        "value": 700.9715624664431
+      },
+      {
+        "address": "0x22D91938",
+        "value": 704.6967288670229
+      },
+      {
+        "address": "0x2341EDB0",
+        "value": 700.9715624664431
+      },
+      {
+        "address": "0x237A7CCC",
+        "value": 707.1583856283344
+      },
+      {
+        "address": "0x246299B4",
+        "value": 706.5197656764276
+      },
+      {
+        "address": "0x26550BE4",
+        "value": 709.0390973698413
+      },
+      {
+        "address": "0x2655FD3C",
+        "value": 701.1769360797705
+      },
+      {
+        "address": "0x2657763C",
+        "value": 706.045821623062
+      }
+    ],
+    "x_display": [
+      {
+        "address": "0x127EF30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x127EF38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1436850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1436858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x86962B0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x86962B8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x86B0B70",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x86B0B78",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x86B42B0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x86B42B8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x98C8C04",
+        "value": 63.871613858566576
+      },
+      {
+        "address": "0x9DF8DF0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x9DF8DF8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x9E19CB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x9E19CB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x9E1D3C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9E96BE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EA82B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EAA5C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EAE8D0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EB2BE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EB5EF0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EBD2B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x9EC05C0",
+        "value": 63.0
+      },
+      {
+        "address": "0xA091AA0",
+        "value": 63.87161254882863
+      },
+      {
+        "address": "0xA1B1B08",
+        "value": 63.0
+      },
+      {
+        "address": "0xA1B1B70",
+        "value": 63.0
+      },
+      {
+        "address": "0xA2062A0",
+        "value": 63.5
+      },
+      {
+        "address": "0xA207FF0",
+        "value": 63.699997
+      },
+      {
+        "address": "0xA208628",
+        "value": 63.3
+      },
+      {
+        "address": "0xA2A2114",
+        "value": 63.128202016464165
+      },
+      {
+        "address": "0xA2A21B4",
+        "value": 63.565702016464165
+      },
+      {
+        "address": "0xC8D9260",
+        "value": 63.897732071717634
+      },
+      {
+        "address": "0xCA5F478",
+        "value": 63.358872425812685
+      },
+      {
+        "address": "0xCB09A48",
+        "value": 63.224551282828145
+      },
+      {
+        "address": "0xCB248D0",
+        "value": 63.18406767938668
+      },
+      {
+        "address": "0xCC010E8",
+        "value": 63.21670802003856
+      },
+      {
+        "address": "0xCD89E38",
+        "value": 63.65549041900875
+      },
+      {
+        "address": "0xCEC1528",
+        "value": 63.08407634377322
+      },
+      {
+        "address": "0xCEE1C10",
+        "value": 63.70553194038639
+      },
+      {
+        "address": "0xCEF8040",
+        "value": 63.01684108371033
+      },
+      {
+        "address": "0xCF98810",
+        "value": 63.546086513977166
+      },
+      {
+        "address": "0xD14C750",
+        "value": 63.894440189598264
+      },
+      {
+        "address": "0xC9F5464",
+        "value": 63.352741987806986
+      },
+      {
+        "address": "0xCAE9074",
+        "value": 63.54070537205053
+      },
+      {
+        "address": "0xCC5090C",
+        "value": 63.060220566648276
+      },
+      {
+        "address": "0xCC61584",
+        "value": 63.30943817437886
+      },
+      {
+        "address": "0xCD5C7CC",
+        "value": 63.29204940671339
+      },
+      {
+        "address": "0xCE47B8C",
+        "value": 63.65625024634668
+      },
+      {
+        "address": "0xCF24074",
+        "value": 63.31224902200395
+      },
+      {
+        "address": "0xCFA9104",
+        "value": 63.28502320938324
+      },
+      {
+        "address": "0xCFE331C",
+        "value": 63.40448718424478
+      },
+      {
+        "address": "0xD2F6B8C",
+        "value": 63.362764674332176
+      },
+      {
+        "address": "0xD376244",
+        "value": 63.60259904160256
+      },
+      {
+        "address": "0xEF9A80C",
+        "value": 63.35572946888817
+      },
+      {
+        "address": "0xF08737C",
+        "value": 63.05257575094705
+      },
+      {
+        "address": "0xF258220",
+        "value": 63.0
+      },
+      {
+        "address": "0xF258298",
+        "value": 63.0
+      },
+      {
+        "address": "0xF2582F8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF258E60",
+        "value": 63.0
+      },
+      {
+        "address": "0xF258ED8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF258F38",
+        "value": 63.0
+      },
+      {
+        "address": "0xF26BB50",
+        "value": 63.0
+      },
+      {
+        "address": "0xF26BBC8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF26BC28",
+        "value": 63.0
+      },
+      {
+        "address": "0xF275840",
+        "value": 63.0
+      },
+      {
+        "address": "0xF2758B8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF275918",
+        "value": 63.0
+      },
+      {
+        "address": "0xF280530",
+        "value": 63.0
+      },
+      {
+        "address": "0xF2805A8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF280608",
+        "value": 63.0
+      },
+      {
+        "address": "0xF291220",
+        "value": 63.0
+      },
+      {
+        "address": "0xF291298",
+        "value": 63.0
+      },
+      {
+        "address": "0xF2912F8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF291E60",
+        "value": 63.0
+      },
+      {
+        "address": "0xF291ED8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF291F38",
+        "value": 63.0
+      },
+      {
+        "address": "0xF30F348",
+        "value": 63.0
+      },
+      {
+        "address": "0xF33A530",
+        "value": 63.0
+      },
+      {
+        "address": "0xF33A5A8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF33A608",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34A220",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34A298",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34A2F8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34AE60",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34AED8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF34AF38",
+        "value": 63.0
+      },
+      {
+        "address": "0xF35DB50",
+        "value": 63.0
+      },
+      {
+        "address": "0xF35DBC8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF35DC28",
+        "value": 63.0
+      },
+      {
+        "address": "0xF369840",
+        "value": 63.0
+      },
+      {
+        "address": "0xF3698B8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF369918",
+        "value": 63.0
+      },
+      {
+        "address": "0xF373530",
+        "value": 63.0
+      },
+      {
+        "address": "0xF3735A8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF373608",
+        "value": 63.0
+      },
+      {
+        "address": "0xF3B5BD0",
+        "value": 63.70000000000001
+      },
+      {
+        "address": "0xF3B5CD0",
+        "value": 63.699999999999996
+      },
+      {
+        "address": "0xF41EE30",
+        "value": 63.0
+      },
+      {
+        "address": "0xF584B50",
+        "value": 63.0
+      },
+      {
+        "address": "0xF584BC8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF584C28",
+        "value": 63.0
+      },
+      {
+        "address": "0xF585840",
+        "value": 63.0
+      },
+      {
+        "address": "0xF5858B8",
+        "value": 63.0
+      },
+      {
+        "address": "0xF585918",
+        "value": 63.0
+      },
+      {
+        "address": "0xFB33A58",
+        "value": 63.0
+      },
+      {
+        "address": "0xFBCC5D0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0xFBCC5D8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0xFD26C10",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0xFD26C18",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0xFD8A460",
+        "value": 63.0
+      },
+      {
+        "address": "0xFD8A4F0",
+        "value": 63.0
+      },
+      {
+        "address": "0xFEF4E58",
+        "value": 63.0
+      },
+      {
+        "address": "0xFEF4E60",
+        "value": 63.0
+      },
+      {
+        "address": "0xFEF4E68",
+        "value": 63.0
+      },
+      {
+        "address": "0xFEF4ED8",
+        "value": 63.0
+      },
+      {
+        "address": "0xFEF4F38",
+        "value": 63.0
+      },
+      {
+        "address": "0xFF03218",
+        "value": 63.0
+      },
+      {
+        "address": "0xFF03220",
+        "value": 63.0
+      },
+      {
+        "address": "0xFF03228",
+        "value": 63.0
+      },
+      {
+        "address": "0xFF03298",
+        "value": 63.0
+      },
+      {
+        "address": "0xFF032F8",
+        "value": 63.0
+      },
+      {
+        "address": "0xFE8DC5C",
+        "value": 63.01427927640115
+      },
+      {
+        "address": "0x100E8990",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x100E8998",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x104C25C8",
+        "value": 63.0
+      },
+      {
+        "address": "0x105B12EC",
+        "value": 63.278923790153485
+      },
+      {
+        "address": "0x1064EF88",
+        "value": 63.0
+      },
+      {
+        "address": "0x1089D540",
+        "value": 63.0
+      },
+      {
+        "address": "0x108BC2A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10A3EC10",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x10A3EC18",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x10B92D90",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92D98",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92DA0",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92DE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92DE8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92E10",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92E70",
+        "value": 63.0
+      },
+      {
+        "address": "0x10B92F58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BBD2A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BBD680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BBDA58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BBDE30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BC92A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BC9680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BC9A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10BC9E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C092A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C09680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C09A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C09E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C112A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C11680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C11A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C11E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C392A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C39680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C39A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C39E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C482A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C48680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C48A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10C48E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB5680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB5A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB5E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB6680",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB6A58",
+        "value": 63.0
+      },
+      {
+        "address": "0x10DB6E30",
+        "value": 63.0
+      },
+      {
+        "address": "0x10F0E2A8",
+        "value": 63.0
+      },
+      {
+        "address": "0x10E82894",
+        "value": 63.85592579440474
+      },
+      {
+        "address": "0x10F352B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x10F355C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1100B6F8",
+        "value": 63.61652950565781
+      },
+      {
+        "address": "0x11156FBC",
+        "value": 63.215120938130326
+      },
+      {
+        "address": "0x11273488",
+        "value": 63.54043866948492
+      },
+      {
+        "address": "0x112BC3B8",
+        "value": 63.3
+      },
+      {
+        "address": "0x112452E4",
+        "value": 63.80164913890207
+      },
+      {
+        "address": "0x1150CD98",
+        "value": 63.3
+      },
+      {
+        "address": "0x1150CDA0",
+        "value": 63.3
+      },
+      {
+        "address": "0x1150CDF0",
+        "value": 63.3
+      },
+      {
+        "address": "0x1150CE10",
+        "value": 63.3
+      },
+      {
+        "address": "0x1150CE70",
+        "value": 63.3
+      },
+      {
+        "address": "0x1150CF58",
+        "value": 63.3
+      },
+      {
+        "address": "0x1155EE28",
+        "value": 63.0
+      },
+      {
+        "address": "0x11B49680",
+        "value": 63.0
+      },
+      {
+        "address": "0x11D6EDF0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x11D6EDF8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x11D880D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x11D880D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x11E7BF28",
+        "value": 63.9
+      },
+      {
+        "address": "0x11E7BF78",
+        "value": 63.75
+      },
+      {
+        "address": "0x11F1D590",
+        "value": 63.0
+      },
+      {
+        "address": "0x11F1D598",
+        "value": 63.0
+      },
+      {
+        "address": "0x11F1D5B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x11F1D5B8",
+        "value": 63.0
+      },
+      {
+        "address": "0x11F1D5D8",
+        "value": 63.0
+      },
+      {
+        "address": "0x11F6DFF8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1205D3F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1205D3F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1205E350",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1205E358",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x123C38F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x123C38F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12564A00",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A20",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A28",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A40",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A68",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A78",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564A80",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564B60",
+        "value": 63.0
+      },
+      {
+        "address": "0x12564B70",
+        "value": 63.0
+      },
+      {
+        "address": "0x1281FF38",
+        "value": 63.0
+      },
+      {
+        "address": "0x1295923C",
+        "value": 63.171705340000734
+      },
+      {
+        "address": "0x1297DBE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x12A60090",
+        "value": 63.2999930697395
+      },
+      {
+        "address": "0x12A60278",
+        "value": 63.2999930697395
+      },
+      {
+        "address": "0x12A6036C",
+        "value": 63.0499930697395
+      },
+      {
+        "address": "0x12D7B850",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x12D7B858",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x12D7BFD0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12D7BFD8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12E4FDF0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12E4FDF8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12F05350",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x12F05358",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x12F058F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x12F058F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x13021E28",
+        "value": 63.0
+      },
+      {
+        "address": "0x13293464",
+        "value": 63.38843771894191
+      },
+      {
+        "address": "0x132CF464",
+        "value": 63.38843771894191
+      },
+      {
+        "address": "0x1330B464",
+        "value": 63.38843771894191
+      },
+      {
+        "address": "0x1368D678",
+        "value": 63.0
+      },
+      {
+        "address": "0x139F6DD8",
+        "value": 63.0
+      },
+      {
+        "address": "0x139F6E18",
+        "value": 63.0
+      },
+      {
+        "address": "0x13A47330",
+        "value": 63.55
+      },
+      {
+        "address": "0x13A47340",
+        "value": 63.95
+      },
+      {
+        "address": "0x13A47628",
+        "value": 63.65
+      },
+      {
+        "address": "0x13B80F98",
+        "value": 63.0
+      },
+      {
+        "address": "0x13F689A8",
+        "value": 63.3
+      },
+      {
+        "address": "0x14044D90",
+        "value": 63.0
+      },
+      {
+        "address": "0x14044DE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x14044DE8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1423D0D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1423D0D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x144C8B48",
+        "value": 63.0
+      },
+      {
+        "address": "0x14625800",
+        "value": 63.3
+      },
+      {
+        "address": "0x14768134",
+        "value": 63.656034528216566
+      },
+      {
+        "address": "0x14768D04",
+        "value": 63.05943435596333
+      },
+      {
+        "address": "0x14981134",
+        "value": 63.656034528216566
+      },
+      {
+        "address": "0x14981D04",
+        "value": 63.05943435596333
+      },
+      {
+        "address": "0x14A68A88",
+        "value": 63.4
+      },
+      {
+        "address": "0x14A68A98",
+        "value": 63.3
+      },
+      {
+        "address": "0x14A68AA8",
+        "value": 63.45
+      },
+      {
+        "address": "0x14A68D38",
+        "value": 63.1
+      },
+      {
+        "address": "0x14A7AC90",
+        "value": 63.6
+      },
+      {
+        "address": "0x14E85838",
+        "value": 63.0
+      },
+      {
+        "address": "0x14E85888",
+        "value": 63.0
+      },
+      {
+        "address": "0x14E85890",
+        "value": 63.0
+      },
+      {
+        "address": "0x17A7AE58",
+        "value": 63.0
+      },
+      {
+        "address": "0x17A7AEA8",
+        "value": 63.0
+      },
+      {
+        "address": "0x17A7AEB0",
+        "value": 63.0
+      },
+      {
+        "address": "0x18922B98",
+        "value": 63.81015405248778
+      },
+      {
+        "address": "0x18945098",
+        "value": 63.66949863375357
+      },
+      {
+        "address": "0x188D49B4",
+        "value": 63.59837131189631
+      },
+      {
+        "address": "0x1891C82C",
+        "value": 63.600669461603864
+      },
+      {
+        "address": "0x18D904A0",
+        "value": 63.308694386597494
+      },
+      {
+        "address": "0x18DCB080",
+        "value": 63.48679248812692
+      },
+      {
+        "address": "0x18F80CF0",
+        "value": 63.37232394875828
+      },
+      {
+        "address": "0x18FC99E0",
+        "value": 63.12404443402493
+      },
+      {
+        "address": "0x18E3AA2C",
+        "value": 63.32087241143869
+      },
+      {
+        "address": "0x18EBB8E4",
+        "value": 63.707573331678105
+      },
+      {
+        "address": "0x18EE8814",
+        "value": 63.894440189598264
+      },
+      {
+        "address": "0x18EF0F14",
+        "value": 63.059067781854964
+      },
+      {
+        "address": "0x18F5F09C",
+        "value": 63.002450901854324
+      },
+      {
+        "address": "0x191258F0",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x191258F8",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x193E4274",
+        "value": 63.133305231591876
+      },
+      {
+        "address": "0x194D0428",
+        "value": 63.5
+      },
+      {
+        "address": "0x194D0600",
+        "value": 63.5
+      },
+      {
+        "address": "0x194DB2A0",
+        "value": 63.5
+      },
+      {
+        "address": "0x194E0220",
+        "value": 63.5
+      },
+      {
+        "address": "0x194E0228",
+        "value": 63.5
+      },
+      {
+        "address": "0x194E0278",
+        "value": 63.5
+      },
+      {
+        "address": "0x194E0298",
+        "value": 63.5
+      },
+      {
+        "address": "0x194E02F8",
+        "value": 63.5
+      },
+      {
+        "address": "0x19521FC8",
+        "value": 63.5
+      },
+      {
+        "address": "0x19521FD0",
+        "value": 63.5
+      },
+      {
+        "address": "0x198BA9B8",
+        "value": 63.0
+      },
+      {
+        "address": "0x198BAA08",
+        "value": 63.0
+      },
+      {
+        "address": "0x198BAA10",
+        "value": 63.0
+      },
+      {
+        "address": "0x198D89B8",
+        "value": 63.0
+      },
+      {
+        "address": "0x198D8A08",
+        "value": 63.0
+      },
+      {
+        "address": "0x198D8A10",
+        "value": 63.0
+      },
+      {
+        "address": "0x19A71678",
+        "value": 63.0
+      },
+      {
+        "address": "0x19C6AEF0",
+        "value": 63.0
+      },
+      {
+        "address": "0x19E65710",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x19E65718",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x19FDF670",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x19FDF678",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x19FE2990",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x19FE2998",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x1A0CC350",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1A0CC358",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1A0CCCB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1A0CCCB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1A62BD90",
+        "value": 63.0
+      },
+      {
+        "address": "0x1A62BDE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1A62BDE8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1AB56968",
+        "value": 63.0
+      },
+      {
+        "address": "0x1AC54D90",
+        "value": 63.0
+      },
+      {
+        "address": "0x1AC54DE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1AC54DE8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1ADCA208",
+        "value": 63.0
+      },
+      {
+        "address": "0x1ADCA258",
+        "value": 63.0
+      },
+      {
+        "address": "0x1ADCA260",
+        "value": 63.0
+      },
+      {
+        "address": "0x1B2FE7E8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1B4A6D40",
+        "value": 63.70000000000001
+      },
+      {
+        "address": "0x1B4A6E20",
+        "value": 63.699999999999996
+      },
+      {
+        "address": "0x1B680658",
+        "value": 63.0
+      },
+      {
+        "address": "0x1B7A5670",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1B7A5678",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1B8218F0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1B8218F8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1BB07A30",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1BB07A38",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1BB1F380",
+        "value": 63.25
+      },
+      {
+        "address": "0x1BDC27E8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1BFCA0D8",
+        "value": 63.3
+      },
+      {
+        "address": "0x1BFCA1C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1BFCA968",
+        "value": 63.25
+      },
+      {
+        "address": "0x1BFFE710",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1BFFE718",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1C034B40",
+        "value": 63.0
+      },
+      {
+        "address": "0x1C0E8490",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C0E8498",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C32F850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C32F858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C348F98",
+        "value": 63.0
+      },
+      {
+        "address": "0x1C528F30",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1C528F38",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1C5A9E90",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C5A9E98",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C6DAB70",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1C6DAB78",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1C6F9530",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C6F9538",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C6FA3F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C6FA3F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1C817530",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1C817538",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1C8E61F0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1C8E6228",
+        "value": 63.0
+      },
+      {
+        "address": "0x1C8E6960",
+        "value": 63.05
+      },
+      {
+        "address": "0x1C8E6F48",
+        "value": 63.3
+      },
+      {
+        "address": "0x1CDC48D0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CDC55C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CDEE2B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEA9EF0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEC9BE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEE98D0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEEB5C0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEEF2B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CEEFEF0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1CF197E8",
+        "value": 63.0
+      },
+      {
+        "address": "0x1D00FBE0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1D0F4148",
+        "value": 63.805246346693856
+      },
+      {
+        "address": "0x1D117480",
+        "value": 63.70000000000001
+      },
+      {
+        "address": "0x1D117560",
+        "value": 63.699999999999996
+      },
+      {
+        "address": "0x1D33E3F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1D33E3F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1D4C4340",
+        "value": 63.0
+      },
+      {
+        "address": "0x1D4C4F50",
+        "value": 63.75
+      },
+      {
+        "address": "0x1D5E1350",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1D5E1358",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1D6877E0",
+        "value": 63.0
+      },
+      {
+        "address": "0x1D9B8530",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1D9B8538",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1D9C67B0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1D9C67B8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1DBDEB70",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1DBDEB78",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1DE12AEC",
+        "value": 63.64540332711653
+      },
+      {
+        "address": "0x1DF4F210",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1DF4F218",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1DF60C10",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1DF60C18",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1E3EA8C8",
+        "value": 63.5
+      },
+      {
+        "address": "0x1E5E78BC",
+        "value": 63.73331520678011
+      },
+      {
+        "address": "0x1E833FC0",
+        "value": 63.66659725585418
+      },
+      {
+        "address": "0x1E9894C0",
+        "value": 63.3
+      },
+      {
+        "address": "0x1E9894E8",
+        "value": 63.05
+      },
+      {
+        "address": "0x1E989E40",
+        "value": 63.75
+      },
+      {
+        "address": "0x1E9A81F8",
+        "value": 63.5952882936737
+      },
+      {
+        "address": "0x1E8CF6EC",
+        "value": 63.54893796829285
+      },
+      {
+        "address": "0x1E8D0BFC",
+        "value": 63.65877875693205
+      },
+      {
+        "address": "0x1EB4EF40",
+        "value": 63.563843267040426
+      },
+      {
+        "address": "0x1EB58120",
+        "value": 63.01470273612664
+      },
+      {
+        "address": "0x1EB80B58",
+        "value": 63.6121271577266
+      },
+      {
+        "address": "0x1EB873E4",
+        "value": 63.27884247533212
+      },
+      {
+        "address": "0x1EE0B3C0",
+        "value": 63.481130793081974
+      },
+      {
+        "address": "0x1EE604A0",
+        "value": 63.23638173073898
+      },
+      {
+        "address": "0x1EE798B8",
+        "value": 63.24791330306009
+      },
+      {
+        "address": "0x1EEEFF90",
+        "value": 63.06017276328068
+      },
+      {
+        "address": "0x1EF041A0",
+        "value": 63.56341775042869
+      },
+      {
+        "address": "0x1EF07E48",
+        "value": 63.04927290894947
+      },
+      {
+        "address": "0x1EFDBA28",
+        "value": 63.17386740141269
+      },
+      {
+        "address": "0x1EFECAD8",
+        "value": 63.17386740141269
+      },
+      {
+        "address": "0x1EDFCE44",
+        "value": 63.46567993851673
+      },
+      {
+        "address": "0x1EEE69FC",
+        "value": 63.46495218064754
+      },
+      {
+        "address": "0x1EF01ADC",
+        "value": 63.351833082500576
+      },
+      {
+        "address": "0x1F18EC08",
+        "value": 63.25
+      },
+      {
+        "address": "0x1F47E170",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x1F47E178",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x1F4FB350",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x1F4FB358",
+        "value": 63.89495835689449
+      },
+      {
+        "address": "0x1F809AD0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1F809AD8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1F8652B0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1F8652B8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1F8C5E90",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1F8C5E98",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x1F8D1710",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1F8D1718",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1FA0F3F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1FA0F3F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x1FA6E570",
+        "value": 63.37295309871791
+      },
+      {
+        "address": "0x1FA7CC70",
+        "value": 63.12665533078476
+      },
+      {
+        "address": "0x1FA91E10",
+        "value": 63.35929112001458
+      },
+      {
+        "address": "0x1FBE6258",
+        "value": 63.400753891371
+      },
+      {
+        "address": "0x1FBF0250",
+        "value": 63.35309460921492
+      },
+      {
+        "address": "0x1FC6E708",
+        "value": 63.78844135370104
+      },
+      {
+        "address": "0x1FCCEC98",
+        "value": 63.14491772765703
+      },
+      {
+        "address": "0x1FD902B0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1FD902B8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x1FC1F0BC",
+        "value": 63.1729318207386
+      },
+      {
+        "address": "0x1FCBA684",
+        "value": 63.02488401990156
+      },
+      {
+        "address": "0x1FE376A4",
+        "value": 63.94504475245301
+      },
+      {
+        "address": "0x1FF97D30",
+        "value": 63.14491774643271
+      },
+      {
+        "address": "0x20003DF0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x20003DF8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x200C1DF0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x200C1DF8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x202A0C10",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x202A0C18",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x20449850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x20449858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x20499350",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x20499358",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x2055FCB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2055FCB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x206228F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x206228F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x20F9965C",
+        "value": 63.64999917325476
+      },
+      {
+        "address": "0x210D4530",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210D4538",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210D6350",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210D6358",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210F57B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210F57B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210F5850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x210F5858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x212B6170",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x212B6178",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x212EB3F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x212EB3F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x214BA0D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x214BA0D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x214D52B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x214D52B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2171CAD0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x2171CAD8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x21A54D50",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21A54D58",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21BD88F0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x21BD88F8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x21C58CB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21C58CB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21E378F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21E378F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21FFD5D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21FFD5D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x21FFD7B0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x21FFD7B8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x22000D50",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x22000D58",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x221C375C",
+        "value": 63.68473391359113
+      },
+      {
+        "address": "0x22522E90",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x22522E98",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x223E56E4",
+        "value": 63.634410243221396
+      },
+      {
+        "address": "0x225CEC48",
+        "value": 63.151861787570745
+      },
+      {
+        "address": "0x225FEF30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x225FEF38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x22843F48",
+        "value": 63.65
+      },
+      {
+        "address": "0x2286DFD0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x2286DFD8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x22A2B850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x22A2B858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x22D85EA0",
+        "value": 63.411475842913596
+      },
+      {
+        "address": "0x22D9B408",
+        "value": 63.00350420192054
+      },
+      {
+        "address": "0x23018850",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x23018858",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x23088710",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x23088718",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x23186AD0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x23186AD8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x234F37B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x234F37B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2350ADF0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2350ADF8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x235982B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x235982B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x235B6850",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x235B6858",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x235D50D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x235D50D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x237AF710",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x237AF718",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2386D2B0",
+        "value": 63.0
+      },
+      {
+        "address": "0x238875D0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x238875D8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x23947F30",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x23947F38",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x23A668A8",
+        "value": 63.000005276770025
+      },
+      {
+        "address": "0x23A6699C",
+        "value": 63.000005276770025
+      },
+      {
+        "address": "0x23A66F54",
+        "value": 63.000005276770025
+      },
+      {
+        "address": "0x23ADD990",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x23ADD998",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x23BB6274",
+        "value": 63.133305231591876
+      },
+      {
+        "address": "0x24017718",
+        "value": 63.27466145705104
+      },
+      {
+        "address": "0x240EC848",
+        "value": 63.6333658352074
+      },
+      {
+        "address": "0x24147490",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x24147498",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x241FE5D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x241FE5D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x242A4C48",
+        "value": 63.151861787570745
+      },
+      {
+        "address": "0x2430CC10",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x2430CC18",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x243CBDB8",
+        "value": 63.05894821266164
+      },
+      {
+        "address": "0x243DA5E8",
+        "value": 63.05894821266164
+      },
+      {
+        "address": "0x244B05E0",
+        "value": 63.402436018788876
+      },
+      {
+        "address": "0x24517E50",
+        "value": 63.215428260542076
+      },
+      {
+        "address": "0x24520428",
+        "value": 63.006569497020564
+      },
+      {
+        "address": "0x2451B68C",
+        "value": 63.215933461826644
+      },
+      {
+        "address": "0x2458CAFC",
+        "value": 63.466158750854746
+      },
+      {
+        "address": "0x246717D8",
+        "value": 63.65
+      },
+      {
+        "address": "0x24869800",
+        "value": 63.42354033126107
+      },
+      {
+        "address": "0x247D4244",
+        "value": 63.55001516534633
+      },
+      {
+        "address": "0x2486BFB4",
+        "value": 63.878940644346635
+      },
+      {
+        "address": "0x24D78CB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x24D78CB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x24DF12B0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x24DF12B8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x24EA9530",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x24EA9538",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x24EF1530",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x24EF1538",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x250790D0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x250790D8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2508C0D0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x2508C0D8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25218170",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25218178",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x252E58F0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x252E58F8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x2530DCB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2530DCB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2539F8F0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2539F8F8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x253BFF30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x253BFF38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x254BBA30",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x254BBA38",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x255CCB70",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x255CCB78",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25605A30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25605A38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x256B2F30",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x256B2F38",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x256C2E90",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x256C2E98",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x256C4A30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x256C4A38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2585B274",
+        "value": 63.133305231591876
+      },
+      {
+        "address": "0x25A74AD0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25A74AD8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25ACC2B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25ACC2B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25B41D50",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25B41D58",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25C5B8F0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25C5B8F8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25C74350",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x25C74358",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x25C997B0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25C997B8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25D11530",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25D11538",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x25D41170",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25D41178",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x25D4B170",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x25D4B178",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x25E2FBE4",
+        "value": 63.079692891951716
+      },
+      {
+        "address": "0x26411FD0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26411FD8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2655F3D0",
+        "value": 63.488047646294746
+      },
+      {
+        "address": "0x265C34A0",
+        "value": 63.021497051152735
+      },
+      {
+        "address": "0x267A1DF0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x267A1DF8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x265C4CD4",
+        "value": 63.77202195758022
+      },
+      {
+        "address": "0x267C0E90",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x267C0E98",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x26871A30",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x26871A38",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x26A79A30",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26A79A38",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26CC3210",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x26CC3218",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x26CDECB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26CDECB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26D3AE90",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26D3AE98",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x26E0DE70",
+        "value": 63.4721749428881
+      },
+      {
+        "address": "0x26EEA530",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26EEA538",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26F26B70",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26F26B78",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26F670D0",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26F670D8",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x26E3A864",
+        "value": 63.12476067598896
+      },
+      {
+        "address": "0x26E520FC",
+        "value": 63.16301883994968
+      },
+      {
+        "address": "0x26FED850",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x26FED858",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x26FEDDF0",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x26FEDDF8",
+        "value": 63.99846456459336
+      },
+      {
+        "address": "0x295567B0",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x295567B8",
+        "value": 63.964008915527415
+      },
+      {
+        "address": "0x29556CB0",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x29556CB8",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2956F850",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x2956F858",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x29978D50",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x29978D58",
+        "value": 63.9984130859375
+      },
+      {
+        "address": "0x2997A170",
+        "value": 63.98136830004661
+      },
+      {
+        "address": "0x2997A178",
+        "value": 63.98136830004661
+      }
+    ],
+    "y_display": [
+      {
+        "address": "0x316A5D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x52342B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x861B218",
+        "value": 70.0
+      },
+      {
+        "address": "0x91C6220",
+        "value": 70.0
+      },
+      {
+        "address": "0x91C6298",
+        "value": 70.0
+      },
+      {
+        "address": "0x91C62F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x92BA230",
+        "value": 70.0
+      },
+      {
+        "address": "0x92BA768",
+        "value": 70.0
+      },
+      {
+        "address": "0x92BACA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x970E530",
+        "value": 70.0
+      },
+      {
+        "address": "0x970E5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x970E608",
+        "value": 70.0
+      },
+      {
+        "address": "0x970EE60",
+        "value": 70.0
+      },
+      {
+        "address": "0x970EED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x970EF38",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A510B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A51170",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A51230",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A512F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A513B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A51470",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A51530",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A515F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A516B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A51770",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A97840",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A978B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x9A97918",
+        "value": 70.0
+      },
+      {
+        "address": "0x9DA42A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x9DA4450",
+        "value": 70.0
+      },
+      {
+        "address": "0xA207570",
+        "value": 70.5
+      },
+      {
+        "address": "0xA207920",
+        "value": 70.6
+      },
+      {
+        "address": "0xA208BC8",
+        "value": 70.8
+      },
+      {
+        "address": "0xA2A2414",
+        "value": 70.25640403292833
+      },
+      {
+        "address": "0xA2C9E60",
+        "value": 70.0
+      },
+      {
+        "address": "0xA2C9ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA2C9F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xA303530",
+        "value": 70.0
+      },
+      {
+        "address": "0xA3035A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA303608",
+        "value": 70.0
+      },
+      {
+        "address": "0xA38C530",
+        "value": 70.0
+      },
+      {
+        "address": "0xA38C5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA38C608",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41F530",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41F5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41F608",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41FE60",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41FED8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA41FF38",
+        "value": 70.0
+      },
+      {
+        "address": "0xA518220",
+        "value": 70.0
+      },
+      {
+        "address": "0xA518298",
+        "value": 70.0
+      },
+      {
+        "address": "0xA5182F8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA518B50",
+        "value": 70.0
+      },
+      {
+        "address": "0xA518BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA518C28",
+        "value": 70.0
+      },
+      {
+        "address": "0xA5AC0B8",
+        "value": 70.2
+      },
+      {
+        "address": "0xA7995C0",
+        "value": 70.0
+      },
+      {
+        "address": "0xA7DB840",
+        "value": 70.0
+      },
+      {
+        "address": "0xA7DB8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0xA7DB918",
+        "value": 70.0
+      },
+      {
+        "address": "0xC908590",
+        "value": 70.74517032333799
+      },
+      {
+        "address": "0xC9DDDB0",
+        "value": 70.31315593883704
+      },
+      {
+        "address": "0xCF4E108",
+        "value": 70.26424406591677
+      },
+      {
+        "address": "0xD139640",
+        "value": 70.92721414881177
+      },
+      {
+        "address": "0xE8466D8",
+        "value": 70.19145590473273
+      },
+      {
+        "address": "0xE846800",
+        "value": 70.44145590473273
+      },
+      {
+        "address": "0xE846928",
+        "value": 70.69145590473273
+      },
+      {
+        "address": "0xE846A50",
+        "value": 70.94145590473273
+      },
+      {
+        "address": "0xC9DDDBC",
+        "value": 70.94631451749098
+      },
+      {
+        "address": "0xCA2CD94",
+        "value": 70.25016791213224
+      },
+      {
+        "address": "0xCF10504",
+        "value": 70.99362166111719
+      },
+      {
+        "address": "0xD0230A4",
+        "value": 70.89560695351832
+      },
+      {
+        "address": "0xE846644",
+        "value": 70.06645590473273
+      },
+      {
+        "address": "0xE84676C",
+        "value": 70.31645590473273
+      },
+      {
+        "address": "0xE846894",
+        "value": 70.56645590473273
+      },
+      {
+        "address": "0xE8469BC",
+        "value": 70.81645590473273
+      },
+      {
+        "address": "0xEDF05E8",
+        "value": 70.0
+      },
+      {
+        "address": "0xEDF05F0",
+        "value": 70.0
+      },
+      {
+        "address": "0xEDF0640",
+        "value": 70.0
+      },
+      {
+        "address": "0xEDF0660",
+        "value": 70.0
+      },
+      {
+        "address": "0xEDF06C0",
+        "value": 70.0
+      },
+      {
+        "address": "0xEDF07A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xEE2EC28",
+        "value": 70.0
+      },
+      {
+        "address": "0xEE3C8E8",
+        "value": 70.0
+      },
+      {
+        "address": "0xEE3CA88",
+        "value": 70.0
+      },
+      {
+        "address": "0xF050490",
+        "value": 70.0
+      },
+      {
+        "address": "0xF09FED4",
+        "value": 70.33646302434452
+      },
+      {
+        "address": "0xF106220",
+        "value": 70.0
+      },
+      {
+        "address": "0xF106BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF106D90",
+        "value": 70.0
+      },
+      {
+        "address": "0xF139D88",
+        "value": 70.0
+      },
+      {
+        "address": "0xF2C6178",
+        "value": 70.94428155804898
+      },
+      {
+        "address": "0xF3972A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF3B5AD8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF3B5BD8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF3B5CD8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF4BD2F8",
+        "value": 70.8
+      },
+      {
+        "address": "0xF641B50",
+        "value": 70.0
+      },
+      {
+        "address": "0xF641B58",
+        "value": 70.0
+      },
+      {
+        "address": "0xF641BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF641BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF641C28",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740D98",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740DA0",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740DF0",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740E10",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740E70",
+        "value": 70.0
+      },
+      {
+        "address": "0xF740F58",
+        "value": 70.0
+      },
+      {
+        "address": "0xF748210",
+        "value": 70.0
+      },
+      {
+        "address": "0xF748218",
+        "value": 70.0
+      },
+      {
+        "address": "0xF748268",
+        "value": 70.0
+      },
+      {
+        "address": "0xF748288",
+        "value": 70.0
+      },
+      {
+        "address": "0xF7482E8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF7483D0",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AADF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AAE00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AAE18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AAE20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AAE40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8AAF38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9DF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9E00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9E18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9E20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9E40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8B9F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EADF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EAE00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EAE18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EAE20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EAE40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF8EAF38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BDF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BE00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BE18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BE20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BE40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF91BF38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945DF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945E00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945E18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945E20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945E40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF945F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968DF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968E00",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968E18",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968E20",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968E40",
+        "value": 70.0
+      },
+      {
+        "address": "0xF968F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xF9DB2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xF9DFCF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA67E60",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA67ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA67F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA8F840",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA8F8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA8F918",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA98840",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA988B8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFA98918",
+        "value": 70.0
+      },
+      {
+        "address": "0xFAB3220",
+        "value": 70.0
+      },
+      {
+        "address": "0xFAB3298",
+        "value": 70.0
+      },
+      {
+        "address": "0xFAB32F8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACD220",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACD298",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACD2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACDB50",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACDBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFACDC28",
+        "value": 70.0
+      },
+      {
+        "address": "0xFAEFF88",
+        "value": 70.00005633176988
+      },
+      {
+        "address": "0xFB0DDF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB0DE00",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB0DE18",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB0DE20",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB0DE40",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB0DF38",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11DF8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11E00",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11E18",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11E20",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11E40",
+        "value": 70.0
+      },
+      {
+        "address": "0xFB11F38",
+        "value": 70.0
+      },
+      {
+        "address": "0xFE2087C",
+        "value": 70.57619221989567
+      },
+      {
+        "address": "0xFF052A8",
+        "value": 70.0
+      },
+      {
+        "address": "0xFFA8218",
+        "value": 70.21196358454532
+      },
+      {
+        "address": "0xFFBDAE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1004E2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x100D0B78",
+        "value": 70.21196358454532
+      },
+      {
+        "address": "0x10245680",
+        "value": 70.0
+      },
+      {
+        "address": "0x1034B278",
+        "value": 70.0
+      },
+      {
+        "address": "0x10354EA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x104855E0",
+        "value": 70.0
+      },
+      {
+        "address": "0x104855F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A85E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A85F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8640",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8660",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A86C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A87A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A89C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A89C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8A18",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8A38",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8A98",
+        "value": 70.0
+      },
+      {
+        "address": "0x104A8B80",
+        "value": 70.0
+      },
+      {
+        "address": "0x105AC2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x105E55C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x106315C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1065F968",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0220",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0228",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0278",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0298",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C02F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0530",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0538",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0588",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C05A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0608",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0840",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0848",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0898",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C08B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106C0918",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EE530",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EE538",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EE588",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EE5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EE608",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EEB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EEB58",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EEBA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EEBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106EEC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6220",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6228",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6278",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6298",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F62F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x106F6F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x10D18EF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x112C0A58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1128C59C",
+        "value": 70.3102889153295
+      },
+      {
+        "address": "0x1158CEF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x115FF220",
+        "value": 70.0
+      },
+      {
+        "address": "0x115FF228",
+        "value": 70.0
+      },
+      {
+        "address": "0x115FF278",
+        "value": 70.0
+      },
+      {
+        "address": "0x115FF298",
+        "value": 70.0
+      },
+      {
+        "address": "0x115FF2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1163ED90",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163ED98",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EDA0",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EDE0",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EDE8",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EE10",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EE70",
+        "value": 70.5
+      },
+      {
+        "address": "0x1163EF58",
+        "value": 70.5
+      },
+      {
+        "address": "0x119A16CC",
+        "value": 70.50394385931122
+      },
+      {
+        "address": "0x11B13210",
+        "value": 70.0
+      },
+      {
+        "address": "0x11B13218",
+        "value": 70.0
+      },
+      {
+        "address": "0x11B13268",
+        "value": 70.0
+      },
+      {
+        "address": "0x11B13288",
+        "value": 70.0
+      },
+      {
+        "address": "0x11B132E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x11B133D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x11CCDF58",
+        "value": 70.0
+      },
+      {
+        "address": "0x11D8E3B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x11E7BD60",
+        "value": 70.05
+      },
+      {
+        "address": "0x11E7BDD8",
+        "value": 70.5
+      },
+      {
+        "address": "0x11E7BE18",
+        "value": 70.85
+      },
+      {
+        "address": "0x11E7BE58",
+        "value": 70.65
+      },
+      {
+        "address": "0x11E7BE80",
+        "value": 70.7
+      },
+      {
+        "address": "0x11FC3E30",
+        "value": 70.0
+      },
+      {
+        "address": "0x1215B668",
+        "value": 70.0
+      },
+      {
+        "address": "0x1221A3F8",
+        "value": 70.21196358454532
+      },
+      {
+        "address": "0x122E3A50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1237C528",
+        "value": 70.0
+      },
+      {
+        "address": "0x1237C578",
+        "value": 70.0
+      },
+      {
+        "address": "0x1237C580",
+        "value": 70.0
+      },
+      {
+        "address": "0x1243B590",
+        "value": 70.0
+      },
+      {
+        "address": "0x1243B598",
+        "value": 70.0
+      },
+      {
+        "address": "0x1243B5D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x125B72B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270C788",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270C798",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA00",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA20",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA40",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA68",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA78",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CA80",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CB60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1270CB70",
+        "value": 70.0
+      },
+      {
+        "address": "0x12742220",
+        "value": 70.0
+      },
+      {
+        "address": "0x12742408",
+        "value": 70.0
+      },
+      {
+        "address": "0x12742F78",
+        "value": 70.0
+      },
+      {
+        "address": "0x12853098",
+        "value": 70.0
+      },
+      {
+        "address": "0x12853FF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1297DEF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x129A0DD8",
+        "value": 70.0
+      },
+      {
+        "address": "0x129A0F48",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB250",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB270",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB278",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB290",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB2B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB2C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB2D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB3B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x12ADB3C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x12AEA210",
+        "value": 70.8
+      },
+      {
+        "address": "0x12AEA218",
+        "value": 70.8
+      },
+      {
+        "address": "0x12AEA268",
+        "value": 70.8
+      },
+      {
+        "address": "0x12AEA288",
+        "value": 70.8
+      },
+      {
+        "address": "0x12AEA2E8",
+        "value": 70.8
+      },
+      {
+        "address": "0x12B7F8D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x12FFBA58",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4530",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4538",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4588",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C45A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4608",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4840",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4848",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4898",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C48B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4918",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x130C4F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311C840",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311C848",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311C898",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311C8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311C918",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311CB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311CB58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311CBA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311CBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1311CC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143848",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143898",
+        "value": 70.0
+      },
+      {
+        "address": "0x131438B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13143F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x131740B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13174170",
+        "value": 70.0
+      },
+      {
+        "address": "0x131899C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x131899C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13189A18",
+        "value": 70.0
+      },
+      {
+        "address": "0x13189A38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13189A98",
+        "value": 70.0
+      },
+      {
+        "address": "0x13189B80",
+        "value": 70.0
+      },
+      {
+        "address": "0x13189E28",
+        "value": 70.0
+      },
+      {
+        "address": "0x131CCEF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13236210",
+        "value": 70.0
+      },
+      {
+        "address": "0x13236218",
+        "value": 70.0
+      },
+      {
+        "address": "0x13236268",
+        "value": 70.0
+      },
+      {
+        "address": "0x13236288",
+        "value": 70.0
+      },
+      {
+        "address": "0x132362E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13236390",
+        "value": 70.0
+      },
+      {
+        "address": "0x132363B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13351C78",
+        "value": 70.0
+      },
+      {
+        "address": "0x133FB2B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1341A340",
+        "value": 70.0
+      },
+      {
+        "address": "0x1341A3A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1341AA88",
+        "value": 70.0
+      },
+      {
+        "address": "0x136EA530",
+        "value": 70.0
+      },
+      {
+        "address": "0x136EA5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x136EA608",
+        "value": 70.0
+      },
+      {
+        "address": "0x136FC530",
+        "value": 70.0
+      },
+      {
+        "address": "0x136FC5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x136FC608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13796CE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13796E90",
+        "value": 70.0
+      },
+      {
+        "address": "0x137EE220",
+        "value": 70.0
+      },
+      {
+        "address": "0x137EE298",
+        "value": 70.0
+      },
+      {
+        "address": "0x137EE2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817218",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817268",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817270",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817528",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817578",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817580",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817838",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817888",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817890",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817B48",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817B98",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817BA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817E58",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817EA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13817EB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13890560",
+        "value": 70.0
+      },
+      {
+        "address": "0x13890640",
+        "value": 70.0
+      },
+      {
+        "address": "0x13890720",
+        "value": 70.0
+      },
+      {
+        "address": "0x13890800",
+        "value": 70.0
+      },
+      {
+        "address": "0x138908E0",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x138DA2C0",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x138DAAA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x138DAB80",
+        "value": 70.0
+      },
+      {
+        "address": "0x138DAC60",
+        "value": 70.0
+      },
+      {
+        "address": "0x138DAD40",
+        "value": 70.0
+      },
+      {
+        "address": "0x138DAE20",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x138DAF00",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x1395DD84",
+        "value": 70.38877057268954
+      },
+      {
+        "address": "0x1397261C",
+        "value": 70.62174345866256
+      },
+      {
+        "address": "0x139A7840",
+        "value": 70.0
+      },
+      {
+        "address": "0x139A78B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x139A7918",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C5840",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C58B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C5918",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C8840",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C88B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x139C8918",
+        "value": 70.0
+      },
+      {
+        "address": "0x139E9840",
+        "value": 70.0
+      },
+      {
+        "address": "0x139E98B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x139E9918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A09840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A098B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A09918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A21E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A21ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A21F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A54840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A548B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A54918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A64840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A648B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A64918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A74220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A74298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13A742F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13B7C2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13B81A58",
+        "value": 70.0
+      },
+      {
+        "address": "0x13B99A58",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D63E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D63ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D63F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D7D840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D7D8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D7D918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D94840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D948B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13D94918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DA0220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DA0298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DA02F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC1220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC1298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC12F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC1B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC1BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DC1C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DDCB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DDCBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DDCC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DF0530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DF05A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13DF0608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E06530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E065A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E06608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E06E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E06ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E06F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E18E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E18ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E18F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E2F840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E2F8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E2F918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E48840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E488B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E48918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E54840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E548B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E54918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E67220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E67298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E672F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E67B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E67BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E67C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E6DB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E6DBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E6DC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E8F530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E8F5A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13E8F608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA4530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA45A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA4608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA4E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA4ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EA4F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECD840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECD8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECD918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECF840",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECF8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13ECF918",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EFC220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EFC298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13EFC2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0F220",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0F298",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0F2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0FB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0FBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F0FC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F26CE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F26E90",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F28B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F28BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F28C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F41530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F415A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F41608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F52530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F525A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F52608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F52E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F52ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F52F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F94530",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F945A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F94608",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F94E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F94ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x13F94F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x140D52A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x140D5450",
+        "value": 70.0
+      },
+      {
+        "address": "0x14134420",
+        "value": 70.0
+      },
+      {
+        "address": "0x1414D5C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1414D8D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1414DBE8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1442E220",
+        "value": 70.0
+      },
+      {
+        "address": "0x1442E298",
+        "value": 70.0
+      },
+      {
+        "address": "0x1442E2F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14448220",
+        "value": 70.0
+      },
+      {
+        "address": "0x14448298",
+        "value": 70.0
+      },
+      {
+        "address": "0x144482F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14448B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14448BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14448C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14458B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14458BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14458C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14471530",
+        "value": 70.0
+      },
+      {
+        "address": "0x144715A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14471608",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486220",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486228",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486278",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486298",
+        "value": 70.0
+      },
+      {
+        "address": "0x144862F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486530",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486538",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486588",
+        "value": 70.0
+      },
+      {
+        "address": "0x144865A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486608",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486840",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486848",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486898",
+        "value": 70.0
+      },
+      {
+        "address": "0x144868B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486918",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14486F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1455A678",
+        "value": 70.0
+      },
+      {
+        "address": "0x1457BE60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1457BED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1457BF38",
+        "value": 70.0
+      },
+      {
+        "address": "0x145AEE30",
+        "value": 70.0
+      },
+      {
+        "address": "0x145AEEF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x145AEFB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1463D2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464E9C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464E9C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464EA18",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464EA38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464EA98",
+        "value": 70.0
+      },
+      {
+        "address": "0x1464EB68",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6DF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6E00",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6E18",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6E20",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6E40",
+        "value": 70.0
+      },
+      {
+        "address": "0x146B6F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x146E70B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C0B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C170",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C230",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C2F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C3B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C470",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C530",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C5F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C6B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C770",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C830",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C8F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470C9B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CA70",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CB30",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CBF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CCB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CD70",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CE30",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CEF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1470CFB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B0B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B170",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B230",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B2F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B3B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B470",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B530",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B5F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B6B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B770",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B830",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B8F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481B9B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BA70",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BB30",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BBF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BCB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BD70",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BE30",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BEF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1481BFB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x148A35C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x148BB5C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x148FCF58",
+        "value": 70.0
+      },
+      {
+        "address": "0x149DABE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A385E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A385F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A38640",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A38660",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A386C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A38790",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A38A50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F210",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F218",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F268",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F288",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F2E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F3B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3F678",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A3FF40",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4A2A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4A9C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4A9C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4AA18",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4AA38",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4AA98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4AB68",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A4AE28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A575E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A575F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A57640",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A57660",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A576C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A57790",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A57A50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D210",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D218",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D268",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D288",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D2E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D3B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5D678",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A5DF40",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A692A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A699C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A699C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A69A18",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A69A38",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A69A98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A69B68",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A69E28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A735E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A735F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A73640",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A73660",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A736C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A73790",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A73A50",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7A858",
+        "value": 70.15
+      },
+      {
+        "address": "0x14A7A898",
+        "value": 70.25
+      },
+      {
+        "address": "0x14A7A928",
+        "value": 70.35
+      },
+      {
+        "address": "0x14A7AE18",
+        "value": 70.1
+      },
+      {
+        "address": "0x14A7F210",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F218",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F268",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F288",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F2E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F3B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7F678",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A7FF40",
+        "value": 70.0
+      },
+      {
+        "address": "0x14A822A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B082A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B089C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B089C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B08A18",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B08A38",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B08A98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B08B68",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B08E28",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A210",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A218",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A268",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A288",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A2E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A3B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0A678",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0AD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0ADA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0ADF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0AE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0AE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x14B0AF40",
+        "value": 70.0
+      },
+      {
+        "address": "0x14D68EF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x14ED2BA8",
+        "value": 70.8
+      },
+      {
+        "address": "0x150099C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x150099C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009A18",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009A38",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009A98",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009B80",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009D98",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009DA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009DF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009E10",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009E70",
+        "value": 70.0
+      },
+      {
+        "address": "0x15009F58",
+        "value": 70.0
+      },
+      {
+        "address": "0x150761D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x150762D0",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x150763D0",
+        "value": 70.95652173913044
+      },
+      {
+        "address": "0x150764D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x150764D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x150765D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x150765D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x150766D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x150766D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x150767D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x150767D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x151183C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x152275E0",
+        "value": 70.0
+      },
+      {
+        "address": "0x15227630",
+        "value": 70.0
+      },
+      {
+        "address": "0x15227638",
+        "value": 70.0
+      },
+      {
+        "address": "0x1535E2D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x16247C54",
+        "value": 70.00003535093492
+      },
+      {
+        "address": "0x16362DC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x18914B90",
+        "value": 70.81774724654387
+      },
+      {
+        "address": "0x18923AC4",
+        "value": 70.63066477125942
+      },
+      {
+        "address": "0x189428DC",
+        "value": 70.46509487171
+      },
+      {
+        "address": "0x18FCC180",
+        "value": 70.59270810517555
+      },
+      {
+        "address": "0x190C22B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x19117340",
+        "value": 70.25761413574219
+      },
+      {
+        "address": "0x1911A218",
+        "value": 70.21196358454532
+      },
+      {
+        "address": "0x191B8D98",
+        "value": 70.0
+      },
+      {
+        "address": "0x191B8DA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x191B8DF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x191B8E10",
+        "value": 70.0
+      },
+      {
+        "address": "0x191B8E70",
+        "value": 70.0
+      },
+      {
+        "address": "0x191B8F58",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB210",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB218",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB268",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB288",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB2E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x191CB3D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1934A5F8",
+        "value": 70.18337191249718
+      },
+      {
+        "address": "0x195265E0",
+        "value": 70.0
+      },
+      {
+        "address": "0x19526630",
+        "value": 70.0
+      },
+      {
+        "address": "0x19526638",
+        "value": 70.0
+      },
+      {
+        "address": "0x196022D0",
+        "value": 70.5
+      },
+      {
+        "address": "0x196022E8",
+        "value": 70.5
+      },
+      {
+        "address": "0x197E45F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E46B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4770",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4830",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E48F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E49B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4A70",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4B30",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4BF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4CB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4D70",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4E30",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4EF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x197E4FB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A52B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A58D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A5BE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A8E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A8E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A8EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A8ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198A8F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x198BD2B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198BD5C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198BDBE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x198E55C0",
+        "value": 70.5
+      },
+      {
+        "address": "0x198F7220",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7228",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7278",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7298",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F72F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7840",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7848",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7898",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F78B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F7918",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F92B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9530",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9538",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9588",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F95A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F95C8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9608",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x198F9C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x19903BE0",
+        "value": 70.5
+      },
+      {
+        "address": "0x19917328",
+        "value": 70.5
+      },
+      {
+        "address": "0x199177D8",
+        "value": 70.5
+      },
+      {
+        "address": "0x1996EB50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1996EBC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1996EC28",
+        "value": 70.0
+      },
+      {
+        "address": "0x19A5F670",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x19A702B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x19A708D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x19A70EF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x19AD2270",
+        "value": 70.0
+      },
+      {
+        "address": "0x19AD2278",
+        "value": 70.0
+      },
+      {
+        "address": "0x19AD22B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x19AD2E28",
+        "value": 70.0
+      },
+      {
+        "address": "0x19C13840",
+        "value": 70.0
+      },
+      {
+        "address": "0x19C138B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x19C13918",
+        "value": 70.0
+      },
+      {
+        "address": "0x19CAE484",
+        "value": 70.61786096199077
+      },
+      {
+        "address": "0x19DB7348",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A140FE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A4AF7C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A4E0CE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A514E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A514ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A514F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A5362A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A590B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A590BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A590C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A5EB8D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A6F2A50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A6F2C00",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A6F4090",
+        "value": 70.75543322792771
+      },
+      {
+        "address": "0x1A72F138",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A761B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A761BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A761C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A7E3530",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A7E35A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A7E3608",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A987220",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A987298",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A9872F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A987B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A987BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1A987C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA585E0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA585F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA58630",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA58638",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA81EF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AA81FB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AB76220",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AB76298",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AB762F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1ABE17B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC52530",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC525A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC52608",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC52E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC52ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC52F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC57840",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC578B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1AC57918",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2715C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B28E840",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B28E848",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B28E898",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B28E8B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B28E918",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2CB9D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2CB9D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2CB9F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2F32A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B2FEA58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B3CB7C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B3CB970",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B495BB0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B495BB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B495BF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50BDF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50BE00",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50BE40",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DD98",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DDA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DDF0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DE10",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DE70",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B50DF58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B578210",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B578218",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B578268",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B578288",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B5782E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B5783D0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B57EDF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B57EE00",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B57EE40",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B57FBE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B700210",
+        "value": 70.8
+      },
+      {
+        "address": "0x1B700218",
+        "value": 70.8
+      },
+      {
+        "address": "0x1B700268",
+        "value": 70.8
+      },
+      {
+        "address": "0x1B700288",
+        "value": 70.8
+      },
+      {
+        "address": "0x1B7002E8",
+        "value": 70.8
+      },
+      {
+        "address": "0x1B848F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1B848F48",
+        "value": 70.0
+      },
+      {
+        "address": "0x1BFCA5E8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1BFCAD90",
+        "value": 70.0
+      },
+      {
+        "address": "0x1BFCAF88",
+        "value": 70.0
+      },
+      {
+        "address": "0x1BFCAFF8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1C116338",
+        "value": 70.8
+      },
+      {
+        "address": "0x1C4B25D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1C4B29D8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1C4B2AD8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1C7192A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00270",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00278",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00290",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00298",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA002B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00648",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00650",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00668",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00670",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00690",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00A20",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00A28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00A40",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00A48",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CA00A68",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CB5DC10",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CB5DDF0",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CB5DFD0",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CB5F210",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CB5F3F0",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CB5F5D0",
+        "value": 70.07007007007007
+      },
+      {
+        "address": "0x1CC3B2A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CF41170",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CF41230",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CF412F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CF413B0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1CF82C60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D1352A0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D135450",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D1357C0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D135970",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D2C6DD8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D2C6E18",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D2D1628",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D2D1668",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445BA8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445E60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445E68",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445EB8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445ED8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D445F38",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D450F48",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D687B60",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D691628",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D691668",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D6917F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D691DD8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D691E18",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772218",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772220",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772228",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772268",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772270",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D772298",
+        "value": 70.0
+      },
+      {
+        "address": "0x1D7722F8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1DE1F3F8",
+        "value": 70.85211482732967
+      },
+      {
+        "address": "0x1E3EABA8",
+        "value": 70.65
+      },
+      {
+        "address": "0x1E3EABB8",
+        "value": 70.75
+      },
+      {
+        "address": "0x1E416528",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416530",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416538",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416578",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416580",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E4165A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416608",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416B48",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416B50",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416B58",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416B98",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416BA0",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416BC8",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E416C28",
+        "value": 70.0
+      },
+      {
+        "address": "0x1E989F18",
+        "value": 70.3
+      },
+      {
+        "address": "0x1EED4118",
+        "value": 70.0086203489656
+      },
+      {
+        "address": "0x1EEDA960",
+        "value": 70.56693032600886
+      },
+      {
+        "address": "0x1EF27C28",
+        "value": 70.58302332221359
+      },
+      {
+        "address": "0x1EE82994",
+        "value": 70.80490174806073
+      },
+      {
+        "address": "0x1FD2B460",
+        "value": 70.85535686681375
+      },
+      {
+        "address": "0x215E50B0",
+        "value": 70.8
+      },
+      {
+        "address": "0x215E5770",
+        "value": 70.8
+      },
+      {
+        "address": "0x218DBE90",
+        "value": 70.0
+      },
+      {
+        "address": "0x2191E2F4",
+        "value": 70.18749999912878
+      },
+      {
+        "address": "0x21E66270",
+        "value": 70.0
+      },
+      {
+        "address": "0x21E66278",
+        "value": 70.0
+      },
+      {
+        "address": "0x21E662B8",
+        "value": 70.0
+      },
+      {
+        "address": "0x21FEDFD0",
+        "value": 70.0
+      },
+      {
+        "address": "0x221A0F08",
+        "value": 70.0
+      },
+      {
+        "address": "0x22D5E220",
+        "value": 70.0
+      },
+      {
+        "address": "0x22D5E408",
+        "value": 70.0
+      },
+      {
+        "address": "0x22D5E5F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x22D5ED90",
+        "value": 70.0
+      },
+      {
+        "address": "0x22D9D860",
+        "value": 70.24319674372309
+      },
+      {
+        "address": "0x22DB1B20",
+        "value": 70.12116438714384
+      },
+      {
+        "address": "0x23A59220",
+        "value": 70.0
+      },
+      {
+        "address": "0x23A59408",
+        "value": 70.0
+      },
+      {
+        "address": "0x23A595F0",
+        "value": 70.0
+      },
+      {
+        "address": "0x23A59F78",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21528",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21530",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21538",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21578",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21580",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F215A8",
+        "value": 70.0
+      },
+      {
+        "address": "0x23F21608",
+        "value": 70.0
+      },
+      {
+        "address": "0x24671A10",
+        "value": 70.65
+      },
+      {
+        "address": "0x24E94DE0",
+        "value": 70.0
+      },
+      {
+        "address": "0x25D8E208",
+        "value": 70.2354191753563
+      },
+      {
+        "address": "0x268DC070",
+        "value": 70.00001055354005
+      },
+      {
+        "address": "0x26E1D5C0",
+        "value": 70.46439216427058
+      },
+      {
+        "address": "0x26E3BE24",
+        "value": 70.0507018826016
+      }
+    ]
+  },
+  "counts": {
+    "x_world": 143,
+    "y_world": 180,
+    "x_display": 647,
+    "y_display": 1119
+  }
+}
