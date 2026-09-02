@@ -17,9 +17,9 @@ warn-*.txt
 xref-*.html
 
 # ---- .NET / Avalonia ----
-# Giu lai bin/Release (chua VptAvalonia.exe thanh pham), bo phan con lai
+# Thanh pham da duoc dua ra /VptAvalonia o goc repo, nen bo toan bo output build
 obj/
-bin/Debug/
+bin/
 *.user
 *.suo
 
